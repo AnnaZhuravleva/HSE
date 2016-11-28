@@ -1,3 +1,5 @@
+#6 вариант
+
 word = input('Vvedite slovo')
 offset = 1
 int(offset)
