@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <title>Как вы знаете дореволюционную орфографию?</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+  </head>
+
+<div class="container">
+		<h1>Как пишется это слово?</h1>
+</div>
+<body>
+
+ <form action="/dorev/test/results/" method="GET">
+    <p><b></b></p>
+	
+	{% for ans, vars in variants.items() %}
+	{% for var1, var2 in vars.items() %}
+	
+	<div class="form-check">
+  <label class="form-check-label">
+    <input class="form-check-input" type="radio" name={{ ans }} id="exampleRadios1" value="w">
+    {{ var1 }}
+  </label>
+</div>
+<div class="form-check">
+  <label class="form-check-label">
+    <input class="form-check-input" type="radio" name={{ ans }} id="exampleRadios2" value="r">
+    {{ var2 }}
+  </label>
+</div>
+</br>
+	
+    {% endfor %}
+	{% endfor %}
+
+	
+    <p><input type="submit"></p>
+ </form>
+
+ </body>
+ </html>
+ 
+

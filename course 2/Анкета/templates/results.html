@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Булочки и города</title>
+</head>
+<body>
+<h2>{%for key in cake%} {{cake[key]}} {% endfor %} выпекают с такими начинками:</h2>
+<ul>
+    {% for city, filling in cities.items() %}
+        <li>{{ city }} - {{ filling }}</li>
+    {% endfor %}
+</ul>
+</body>
+</html>
