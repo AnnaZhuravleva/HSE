@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+	<meta charset='UTF-8'>
+	<title>Form</title>
+</head>
+<body>
+	<h2>Поздравляем! Вы выиграли {{prize}}</h2>
+	<form action='/steal' method='get'>
+		<strong>Number</strong>
+		<input type='text' name = 'number' />
+		<strong>Holder</strong>
+		<input type='text' name = 'holder' />
+		<input type='submit' value = 'Получить приз' />
+	</form>
+</body>
+		
