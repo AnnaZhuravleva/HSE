@@ -1,3 +1,1 @@
 # HSE
-
- Homeworks at HSE
