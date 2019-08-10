@@ -65,7 +65,7 @@ def dorevate(word):
         word = word+'ъ'
     return word
 
-@app.route('/dorev/')
+@app.route('/')
 def index():
     description = weather_in_scopje ('<div class="now__desc"><span class="tip _top _center">.*?</span></div>')
     temperature = weather_in_scopje ('<span class="nowvalue__text_l"><span class="nowvalue__sign">.*?</span>.*?<span class="nowvalue__text_m">.</span></span>')
@@ -87,7 +87,7 @@ def weather_in_scopje(regex):
     weather = regTag.sub("", weather_html[0])
     return weather
                                
-@app.route('/dorev/news')
+@app.route('/news')
 def news():
     html = create_html ('https://www.sports.ru/', 'utf-8')
     regcyril = re.compile('[А-Яа-я]+', re.DOTALL)
@@ -100,37 +100,32 @@ def news():
             trsltn = dictat[word]
         else:
             trsltn = dorevate(word)
-        dorevwords.append(trsltn)
+
+        dorevwords.append(trsltn+'\n')
         if dorevwords.count(trsltn)>number:
             number = dorevwords.count(trsltn)
             if maximum.count(trsltn) != 1:
                 maximum.append(trsltn)
-    return 'Самые частотные слова:'+str(maximum[0:11])+'\n'+str(dorevwords)
+    returnlist = '\n'.join(maximum) + '\n'.join(dorevwords)
+    return returnlist
 
-@app.route('/dorev/test')
+@app.route('/test')
 def test():
-    variants = {'ans0':{'Лень':'Лѣнь'}, 'ans1': {'Век':'Вѣк'}, 'ans2':{'Дева':'Дѣва'}, 'ans3':{'Бѣжѣвый':'Бежевый'}, 'ans4':{'Пѣна':'Пена'}, 'ans5':{'Зенитъ':'Зѣнитъ'}, 'ans6':{'Плѣсень':'Плѣсѣнь'}, 'ans7':{'Алексѣй':'Алексей'}, 'ans8':{'Еда':'ѣда'}, 'ans9':{'Сѣмья':'Семья'}}
+    variants = {'ans0':{'Лень':'Лѣнь'}, 'ans1': {'Век':'Вѣк'}, 'ans2':{'Дева':'Дѣва'},
+                'ans3':{'Бѣжѣвый':'Бежевый'}, 'ans4':{'Пѣна':'Пена'}, 'ans5':{'Зенитъ':'Зѣнитъ'},
+                'ans6':{'Плѣсень':'Плѣсѣнь'}, 'ans7':{'Алексѣй':'Алексей'}, 'ans8':{'Еда':'ѣда'},
+                'ans9':{'Сѣмья':'Семья'}}
     return render_template('test.html', variants = variants)
 
-@app.route('/dorev/test/results/')
+@app.route('/test/results/')
 def test_results():
     results = test_results()
-    return 'Ваш балл: '+str(results['points'])+' из 10. Вы ошиблись в вопросах:'+str(results['false'])
+    return render_template('results.html', results=results)
+    return
 
 def test_results():
-    points = 0
-    false = []
-    for i in range(0,10):
-        if request.args['ans'+str(i)]=='r':
-            points += 1
-        else:
-            false.append(i)
-    results = {}
-    results['points']=points
-    results['false']=false
+    results = [i for i in request.args.values()].count('r')
     return results
-               
+
 if __name__ == '__main__':
     app.run(debug=True)
-
-
