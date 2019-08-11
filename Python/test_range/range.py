@@ -80,5 +80,3 @@ class Range(Sequence, Iterable):
 if __name__ == "__main__":
     import doctest
     doctest.testmod()
-    b = Range(10, 13)
-    print(list(Range(10)), 3 in b)
