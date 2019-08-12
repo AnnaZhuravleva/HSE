@@ -4,3 +4,4 @@
 * [OOP course on Python](https://github.com/AnnaZhuravleva/HSE/tree/master/Python)
 * [Algorithms on Golang](https://github.com/AnnaZhuravleva/HSE/tree/master/Algorithms)
 * [NLP course on Python](https://github.com/AnnaZhuravleva/HSE/tree/master/NLP)
+* Data for corpora [taiga-2](https://universaldependencies.org/ru/overview/introduction.html)
