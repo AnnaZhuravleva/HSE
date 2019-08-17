@@ -8,4 +8,6 @@
 * смотрит в профиль пользователя, который написал пост или сделал комментарий, и узнает о нём социолингвистическую информацию: возраст и город (если они указаны).
 * для каждого возраста вычисляет среднюю длину поста и комментария, рисует график, отражающий эту информацию.
 
+![Image](https://github.com/AnnaZhuravleva/HSE/blob/master/course%202/VK%20Matplotlib/ages%26comments.png)
+
 [Ссылка](https://github.com/ancatmara/learnpython2017/blob/master/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F/matplotlib+vk+homework.md) на оригинальный текст задания
