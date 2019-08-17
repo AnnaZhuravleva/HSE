@@ -1,4 +1,4 @@
-#Headers
+# Headers
 
 
 * Скачивает все заголовки с сайта газеты [Урал](https://magazines.gorky.media/ural) и сохраняет их в отдельный файл
