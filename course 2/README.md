@@ -10,5 +10,4 @@
 * [Pymorphy](https://github.com/AnnaZhuravleva/HSE/tree/master/course%202/pymorphy) - веб-сервис, который генирирует предложение в ответ на реплику пользователя, сохраняя его грамматическую структуру (Python + Flask + pymorphy2)
 * [Networkx](https://github.com/AnnaZhuravleva/HSE/tree/master/course%202/networkx) - программа, которая строит граф произвольного семантического поля (Python + networkx + gensim)
 * [Databases](https://github.com/AnnaZhuravleva/HSE/tree/master/course%202/databases) - проект по базам данных для VK
-* [Random sentences Markov model](https://github.com/AnnaZhuravleva/HSE/tree/master/course%202/Random%20sentences%20markov%20model)
-- веб-сервис, который генирирует предложение на реплику пользователя на основе Марковсокй модели
+* [Random sentences Markov model](https://github.com/AnnaZhuravleva/HSE/tree/master/course%202/Random%20sentences%20markov%20model) - веб-сервис, который генирирует предложение на реплику пользователя на основе Марковсокй модели
