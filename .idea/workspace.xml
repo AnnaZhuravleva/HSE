@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40d2bb77-58ca-48c5-9d35-ae4bf7b6290e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/course 3/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course 2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/course 2/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="40d2bb77-58ca-48c5-9d35-ae4bf7b6290e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,16 +101,6 @@
               <item name="HSE" type="b2602c69:ProjectViewProjectNode" />
               <item name="HSE" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="HSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HSE" type="462c0819:PsiDirectoryNode" />
-              <item name="course 2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HSE" type="462c0819:PsiDirectoryNode" />
-              <item name="course 3" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -164,16 +150,15 @@
       <workItem from="1565961603691" duration="767000" />
       <workItem from="1565991911763" duration="2996000" />
       <workItem from="1566034306299" duration="1637000" />
-      <workItem from="1566038050858" duration="607000" />
+      <workItem from="1566038050858" duration="792000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6007000" />
+    <option name="totallyTimeSpent" value="6192000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="697" height="735" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37519622" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
