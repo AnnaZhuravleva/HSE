@@ -1,11 +1,11 @@
 ## HSE
 Projects in HRU HSE
 
-###Course 1
+### Course 1
 
 * [Personal page](https://github.com/AnnaZhuravleva/HSE0/blob/master/course%201/%D1%81%D0%B0%D0%B9%D1%82.html) on html (2016)
 
-###Course 2
+### Course 2
 
 * [Headers]() - программа, которая скачивает заголовки с сайта газеты Урал
 * [Ural magazine project]() - программа, которая создает корпус текстов газеты Урал
@@ -18,7 +18,7 @@ Projects in HRU HSE
 * [Networkx]() - программа, которая строит граф произвольного семантического поля (Python + networkx + gensim)
 * [Databases]() - проект по базам данных для VK
 
-###Course 3
+### Course 3
 
 * [Python]()  - задачи курса ООП на языке Python
 * [Algorithms]() - задачи курса алгоритмов на языке Golang
