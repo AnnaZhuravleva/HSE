@@ -2,23 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40d2bb77-58ca-48c5-9d35-ae4bf7b6290e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/course 3/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course 2/dorevolutionary_orthography/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course 2/dorevolutionary_orthography/dorev_flask.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course 2/dorevolutionary_orthography/templates/form.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course 2/dorevolutionary_orthography/templates/news.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course 2/dorevolutionary_orthography/templates/results.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course 2/dorevolutionary_orthography/templates/test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course 2/random_sentences_markov_model/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course 2/random_sentences_markov_model/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course 2/random_sentences_markov_model/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course 2/random_sentences_markov_model/buildcorpus.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course 2/random_sentences_markov_model/corpus/news.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course 2/random_sentences_markov_model/corpus/tolstoy.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course 2/random_sentences_markov_model/markovmodel.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course 2/random_sentences_markov_model/project.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course 2/random_sentences_markov_model/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course 2/random_sentences_markov_model/templates/result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course 2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/course 2/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,13 +28,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="255">
-                <caret line="15" column="96" selection-start-line="15" selection-start-column="96" selection-end-line="15" selection-end-column="96" />
+              <first_editor relative-caret-position="335">
+                <caret line="21" lean-forward="true" selection-start-line="7" selection-end-line="21" />
               </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/course 2/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret column="2" selection-start-column="2" selection-end-column="2" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/course 3/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
               <second_editor />
             </state>
           </provider>
@@ -74,17 +82,8 @@
         <option value="$PROJECT_DIR$/course 1/HW11/HW11.py" />
         <option value="$PROJECT_DIR$/course 2/headers/README.md" />
         <option value="$PROJECT_DIR$/README.md" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/HSE0.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/dataSources.xml" />
+        <option value="$PROJECT_DIR$/course 2/README.md" />
+        <option value="$PROJECT_DIR$/course 3/README.md" />
       </list>
     </option>
   </component>
@@ -106,6 +105,16 @@
               <item name="HSE" type="b2602c69:ProjectViewProjectNode" />
               <item name="HSE" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="HSE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HSE" type="462c0819:PsiDirectoryNode" />
+              <item name="course 2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HSE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HSE" type="462c0819:PsiDirectoryNode" />
+              <item name="course 3" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -116,16 +125,17 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/course 3" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\qwe\Desktop\github\HSE0\course 2\URAL magazine project" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\qwe\Desktop\github\HSE\course 3" />
       <recent name="C:\Users\qwe\Desktop\github\HSE0\course 2\URAL magazine project" />
     </key>
   </component>
@@ -154,18 +164,18 @@
       <workItem from="1565961603691" duration="767000" />
       <workItem from="1565991911763" duration="2996000" />
       <workItem from="1566034306299" duration="1637000" />
-      <workItem from="1566038050858" duration="99000" />
+      <workItem from="1566038050858" duration="607000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5499000" />
+    <option name="totallyTimeSpent" value="6007000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="697" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.04709576" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37519622" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -363,9 +373,27 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="255">
-            <caret line="15" column="96" selection-start-line="15" selection-start-column="96" selection-end-line="15" selection-end-column="96" />
+          <first_editor relative-caret-position="335">
+            <caret line="21" lean-forward="true" selection-start-line="7" selection-end-line="21" />
           </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course 2/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="2" selection-start-column="2" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course 3/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
           <second_editor />
         </state>
       </provider>
