@@ -22,4 +22,3 @@
 ![Image](https://github.com/AnnaZhuravleva/HSE/blob/master/course%202/%D0%90%D0%BD%D0%BA%D0%B5%D1%82%D0%B0/images/4.png)
 ![Image](https://github.com/AnnaZhuravleva/HSE/blob/master/course%202/%D0%90%D0%BD%D0%BA%D0%B5%D1%82%D0%B0/images/5.png)
 ![Image](https://github.com/AnnaZhuravleva/HSE/blob/master/course%202/%D0%90%D0%BD%D0%BA%D0%B5%D1%82%D0%B0/images/6.png)
-![Image](https://github.com/AnnaZhuravleva/HSE/blob/master/course%202/%D0%90%D0%BD%D0%BA%D0%B5%D1%82%D0%B0/images/7.png)
