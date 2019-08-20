@@ -1,5 +1,5 @@
 ## HSE
-Projects in HRU HSE
+@ NRU HSE
 
 ### Course 1
 
