@@ -17,3 +17,4 @@ Run: python project.py
 
 ![Image](https://github.com/AnnaZhuravleva/HSE/blob/master/course%202/Random%20sentences%20markov%20model/images/1.png)
 ![Image](https://github.com/AnnaZhuravleva/HSE/blob/master/course%202/Random%20sentences%20markov%20model/images/2.png)
+![Image](https://github.com/AnnaZhuravleva/HSE/blob/master/course%202/Random%20sentences%20markov%20model/images/3.png)
