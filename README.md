@@ -3,7 +3,7 @@ Projects in HRU HSE
 
 ### Course 1
 
-* [Personal page](https://github.com/AnnaZhuravleva/HSE0/blob/master/course%201/%D1%81%D0%B0%D0%B9%D1%82.html) on html (2016)
+* [Personal page](https://github.com/AnnaZhuravleva/HSE/tree/master/course%201/HW0) on html (2016)
 
 ### Course 2
 
