@@ -1,0 +1,1 @@
+Given an algebra with group $G$-action, we construct brace structures for its $G$-twisted Hochschild cochains. An an application, we construct $G$-Frobenius algebras for orbifold Landau-Ginzburg B-models and present explicit orbifold cup product formula for all invertible polynomials.

@@ -1,0 +1,1 @@
+We describe a simple procedure for constructing a Lax pair for suitable 2-dimensional $\sigma$-models appearing in Poisson-Lie T-duality

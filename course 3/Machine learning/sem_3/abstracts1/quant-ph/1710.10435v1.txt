@@ -1,0 +1,1 @@
+In order to build a quantum analog of traditional Carnot engine, a common choice is replacing the two thermodynamic adiabatic processes with two quantum mechanical adiabatic processes. In general, such quantum Carnot engine has six strokes. We analyze the efficiency of such six-stroke quantum Carnot engine in a perturbative way.

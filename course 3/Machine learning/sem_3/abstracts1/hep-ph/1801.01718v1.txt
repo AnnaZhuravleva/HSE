@@ -1,0 +1,1 @@
+We present the parton distribution functions (PDFs) for un- polarised, longitudinally polarized and transversely polarized quarks in a proton using the light-front quark diquark model. We also present the scale evolution of PDFs and calculate axial charge and tecsor charge for $u$ and $d$ quarks at a scale of experimental findings.

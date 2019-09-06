@@ -1,0 +1,1 @@
+Using standard big-bang nucleosynthesis and present, high-precision measurements of light element abundances, we place constraints on the self-gravity of radiation pressure in the early universe. The self-gravity of pressure is strictly non-Newtonian, and thus the constraints we set are a direct test of this aspect of general relativity.

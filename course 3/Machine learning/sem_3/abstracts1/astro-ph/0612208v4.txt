@@ -1,0 +1,1 @@
+Analysis of cosmological solutions of GX dark energy models shows the presence of a separatrix in the phase space of solutions which divides them into two classes: Friedmannian-like with initial singularity and non-Friedmannian solutions. The invariants are found, that reveal the intrinsic symmetry in GX models.

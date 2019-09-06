@@ -1,0 +1,1 @@
+We use a diffusion galactic model to analyze the end of the Galactic cosmic ray spectrum and its mixing with the extragalactic cosmic ray flux. We analyze the transition between Galactic and extragalactic components using two different extragalactic models. We compare the sum of the diffusive galactic spectrum and extragalactic spectrum with the available experimental data.

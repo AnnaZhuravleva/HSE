@@ -1,0 +1,1 @@
+$C_2$ molecule is sometimes considered as a crucial component of carriers of some diffuse interstellar bands. Using UV data achieved by spectrometer STIS fed with HST we detected interstellar $C_2$ lines for few reddened target stars. We tried to verify the idea that intensity of $C_2$ lines around 2313 \AA is correlated with some diffuse interstellar bands.

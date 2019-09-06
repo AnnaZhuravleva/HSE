@@ -1,0 +1,1 @@
+We study constant-roll inflation in the presence of a gauge field coupled to an inflaton. By imposing the constant anisotropy condition, we find new exact anisotropic constant-roll inflationary solutions which include anisotropic power-law inflation as a special case. We also numerically show that the new anisotropic solutions are attractors in the phase space.

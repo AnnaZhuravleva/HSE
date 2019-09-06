@@ -1,0 +1,1 @@
+We present new methods to construct a Ruelle-Pollicott spectrum for the geodesic flow on manifolds with strictly negative curvature and a finite number of hyperbolic cusps.

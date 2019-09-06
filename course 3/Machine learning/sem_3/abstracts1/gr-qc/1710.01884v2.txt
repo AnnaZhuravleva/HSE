@@ -1,0 +1,1 @@
+We study compact configurations with a nontrivial wormholelike spacetime topology supported by a complex ghost scalar field with a quartic self-interaction. For this case, we obtain regular asymptotically flat equilibrium solutions possessing reflection symmetry. We then show their instability with respect to linear radial perturbations.

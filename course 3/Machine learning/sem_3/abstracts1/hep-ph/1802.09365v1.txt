@@ -1,0 +1,1 @@
+Sum rules for the low-energy constants of the chiral SU(3) Lagrangian with charmed baryons of spin J^P=1/2^+ and J^P=3/2^+ baryons are derived from large-N_c QCD. We consider the large-$N_c$ operator expansion at subleading orders for current-current correlation functions in the charmed baryon-ground states for two scalar and two axial-vector currents.

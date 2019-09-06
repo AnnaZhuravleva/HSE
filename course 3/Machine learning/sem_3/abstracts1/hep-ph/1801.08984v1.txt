@@ -1,0 +1,1 @@
+The chromoelectric polarizability of $J/\psi$ is extracted from lattice QCD data on the nucleon-$J/\psi$ potential in the heavy quark limit. The value of $\alpha(1S) = (1.5 \pm 0.6) \,{\rm GeV}^{-3} $ is obtained. We also comment on the possibility of hadrocharmonia.

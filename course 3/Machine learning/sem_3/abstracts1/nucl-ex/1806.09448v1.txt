@@ -1,0 +1,1 @@
+Current developments in excited-state $g$-factor measurements are discussed with an emphasis on cases where the experimental methodology is being extended into new regimes. The transient-field technique, the recoil in vacuum method, and moment measurements with LaBr$_3$ detectors are discussed.

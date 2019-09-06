@@ -1,0 +1,1 @@
+In this paper I will briefly introduce the idea of using Carbon Nanotubes (CNT) as target for the detection of low mass WIMPs with the additional information of directionality. I will also present the experimental efforts of developing a Time Projection Chamber with a CNT target inside and the results of a test beam at the Beam Test Facility of INFN-LNF.

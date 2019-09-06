@@ -1,0 +1,1 @@
+In this paper, two dilatonic fields that capture two conformal symmetries in the Georgi-Glashow SU(5) model are introduced. Then, one of the fields is associated with the Higgs, and the other one with inflation. By using the Higgs portal, the mass of the dilatonic Higgs can be tuned by the coupling constant between the two dilatonic fields.

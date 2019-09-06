@@ -1,0 +1,1 @@
+We discuss a link between symplectic displacement energy, a fundamental notion of symplectic topology, and the quantum speed limit, a universal constraint on the speed of quantum-mechanical processes. The link is provided by the quantum-classical correspondence formalized within the framework of the Berezin-Toeplitz quantization.

@@ -1,0 +1,1 @@
+The effect of the cosmological constant on the time delay caused by an isolated spherical mass is calculated without using the lens equation and compared to a recent observational bound on the time delay of the lensed quasar SDSS J1004+4112.

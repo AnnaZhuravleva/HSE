@@ -1,0 +1,1 @@
+The optical scheme is proposed for realization of controlled phase quantum gate based on the off-resonant interaction of photon with three-level atom in single mode QED-cavity. Possible physical implementation of this scheme is discussed.

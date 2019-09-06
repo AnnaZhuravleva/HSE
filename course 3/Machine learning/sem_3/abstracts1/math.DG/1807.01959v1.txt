@@ -1,0 +1,1 @@
+In this paper we prove that both complete and vertical lifts of a Poisson vector field from a Poisson manifold $(M, \pi)$ to its tangent bundle $(TM, \pi_{TM})$ are also Poisson. We use this fact to describe the infinitesimal deformations of Poisson tensor $\pi_{TM}$. We study some of their properties and present a extensive set of examples in a low dimensional case.

@@ -1,0 +1,1 @@
+We derive a generalized unitarity relation for an arbitrary linear scattering system that may violate unitarity, time-reversal invariance, ${\cal PT}$-symmetry, and transmission reciprocity.

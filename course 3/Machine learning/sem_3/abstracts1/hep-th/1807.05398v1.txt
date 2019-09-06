@@ -1,0 +1,1 @@
+We review a systematic construction of the 2-stack of bundle gerbes via descent, and extend it to non-abelian gerbes. We review the role of non-abelian gerbes in orientifold sigma models, for the anomaly cancellation in supersymmetric sigma models, and in a geometric description of so-called non-geometric T-duals.

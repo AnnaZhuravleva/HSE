@@ -1,0 +1,1 @@
+Static (spherically symmetrical) and stationary solutions for wormholes are considered. The visibility horizon, which characterizes the differences between black holes and passing wormholes, is determined in an invariant way. It is shown that the rotation of wormholes does not affect the amount of phantom matter that surrounds them.

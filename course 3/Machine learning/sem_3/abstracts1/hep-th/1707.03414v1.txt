@@ -1,0 +1,1 @@
+We identify a cubic holomorphic constraint that subtends the total breaking of N=2 supersymmetry in a vector multiplet and exhibit its microscopic origin. The new constraint leaves behind, at low energies, a vector and the two goldstini, in a non-linear Lagrangian that generalizes the N=2 Volkov-Akulov model.

@@ -1,0 +1,1 @@
+We present an improved Wentzel-Kramers-Brillouin (WKB) calculation of tunnel splitting in one dimensional asymmetric double well potentials. We show that the tunnel splitting in general can have linear dependence on the bias energy, beside the well-known quadratic dependence. We demonstrate that the linear correction is greater than previously thought.

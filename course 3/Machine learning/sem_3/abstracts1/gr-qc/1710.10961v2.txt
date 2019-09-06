@@ -1,0 +1,1 @@
+We consider the gravitational radiation in conformal gravity theory. We perturb the metric from flat Mikowski space and obtain the wave equation after introducing the appropriate transformation for perturbation. We derive the effective energy-momentum tensor for the gravitational radiation, which can be used to determine the energy carried by gravitational waves.

@@ -1,0 +1,1 @@
+Eigenvalues of 1-particle reduced density matrices of $N$-fermion states are upper bounded by $1/N$, resulting in a lower bound on entanglement entropy. We generalize these bounds to all other subspaces defined by Young diagrams in the Schur-Weyl decomposition of $\otimes^N\mathbb{C}^d$.

@@ -1,0 +1,1 @@
+We describe a two-field model that generalizes Natural Inflation, in which the inflaton is the pseudo-Goldstone boson of an approximate symmetry that is spontaneously broken, and the radial mode is dynamical. We analyze how the dynamics fundamentally depends on the mass of the radial mode and calculate/estimate the non-Gaussianities arising from such a scenario.

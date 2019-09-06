@@ -1,0 +1,1 @@
+We consider a quantum graph as a model of graphene in magnetic fields and give a complete analysis of the spectrum, for all constant fluxes. In particular, we show that if the reduced magnetic flux $\Phi/2\pi$ through a honeycomb is irrational, the continuous spectrum is an unbounded Cantor set of Lebesgue measure zero.

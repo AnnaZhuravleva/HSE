@@ -1,0 +1,1 @@
+We establish the Haag-Kastler axioms for a class of models on the two-dimensional de Sitter space, including the ${\mathscr P} (\varphi)_2$ model.

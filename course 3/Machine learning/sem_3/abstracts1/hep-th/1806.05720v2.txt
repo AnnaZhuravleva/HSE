@@ -1,0 +1,1 @@
+In this work we calculate the static limit of the energy for a quark-antiquark pair from the Nambu-Goto action using a holographic approach with a deformed AdS space. From this energy we derive the Cornell potential for the quark-antiquark interaction. We also find a range of values for our parameters which fits exactly the Cornell potential parameters.

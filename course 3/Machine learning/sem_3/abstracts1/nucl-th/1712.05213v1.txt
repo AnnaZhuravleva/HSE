@@ -1,0 +1,1 @@
+A brief introduction to the statistical hadronization approach to particle production in relativistic heavy-ion collisions is given. In the context of fluid dynamics modeling various aspects of hadron emission at the freeze-out are discussed. Practical applications of the presented concepts are presented within the THERMINATOR Monte-Carlo hadron generator.

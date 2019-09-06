@@ -1,0 +1,1 @@
+We define Radon transform and its inverse on the two-dimensional anti-de Sitter space over local fields using a novel construction through a quadratic equation over the local field. We show that the holographic bulk reconstruction of quantum fields in this space can be formulated as the inverse Radon transform, generalizing the case over the reals, studied earlier.

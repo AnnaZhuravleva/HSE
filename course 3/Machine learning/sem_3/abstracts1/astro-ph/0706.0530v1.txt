@@ -1,0 +1,1 @@
+We describe the results of the first tests made on LISA, a simulator of planetary environments designed and built in Padua, dedicated to the study of the limit of bacterial life on the planet Mars. Tests on the cryogenic circuit, on the UV illumination and on bacterial coltures at room temperature that shall be used as references are described.

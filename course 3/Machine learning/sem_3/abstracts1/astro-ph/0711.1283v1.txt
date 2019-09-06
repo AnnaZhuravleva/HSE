@@ -1,0 +1,1 @@
+This erratum corrects a number of formulae containing mistakes in the paper 'Luminosity function, sizes and FR dichotomy of radio-loud AGN', 2007, MNRAS, v. 381, p.1548. The corrections do not alter any of the conclusions in the original paper.

@@ -1,0 +1,1 @@
+We study dynamics of induced gravity cosmological models with the sixth degree polynomial potentials, that have been constructed using the superpotential method. We find conditions on the potential under which exact bounce solutions exist and study the stability of these solutions.

@@ -1,0 +1,1 @@
+With a certain approximation for the Coulomb matrix elements in a single j shell of protons and neutrons it is found that wave functions of states of odd angular momentum J in an even-even nucleus are not strongly affected by their presence,

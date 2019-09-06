@@ -1,0 +1,1 @@
+I gently introduce the diagrammatic birdtrack notation, first for vector algebra and then for permutations. After moving on to general tensors I review some recent results on Hermitian Young operators, gluon projectors, and multiplet bases for SU(N) color space.

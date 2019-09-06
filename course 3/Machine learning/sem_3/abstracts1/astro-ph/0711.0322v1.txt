@@ -1,0 +1,1 @@
+We present preliminary results from Smooth Particle Hydrodynamics (SPH) simulations of common envelope evolution. We qualitatively compare the interaction between a 0.9M red giant with two different companion masses: a 0.05M brown dwarf and a 0.25M white dwarf companion.

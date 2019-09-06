@@ -1,0 +1,1 @@
+A direct generalization of Laplace invariants to the case of hyperbolic partial differential systems is considered. The proof of the following statement is given: the determinant of a Laplace invariant vanishes if the corresponding system admits an integral.

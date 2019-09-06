@@ -1,0 +1,1 @@
+We show that a class of bi-gravity theories contain solutions describing dark matter. A particular member of this class is also shown to be equivalent to the Eddington-Born-Infeld gravity, recently proposed as a candidate for dark matter. Bigravity theories also have cosmological de Sitter backgrounds and we find solutions interpolating between matter and acceleration eras.

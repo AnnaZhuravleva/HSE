@@ -1,0 +1,1 @@
+In this paper for the Potts-SOS model on a Cayley tree under some conditions the existence of at least one periodic (non translation-invariant) Gibbs measure is proved.

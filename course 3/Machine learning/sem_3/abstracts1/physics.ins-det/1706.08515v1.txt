@@ -1,0 +1,1 @@
+Particle identification at the Belle II experiment will be provided by two ring imaging Cherenkov devices, the time of propagation counters in the central region and the proximity focusing RICH with aerogel radiator in the forward end-cap region. The key features of these two detectors, the performance studies, and the construction progress is presented.

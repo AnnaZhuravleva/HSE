@@ -1,0 +1,1 @@
+We present hydrodynamical models for Corotating Interaction Regions, which were used by Lobel (2007) to model the Discrete Absorption Components in HD 64760. We also discuss our failure to model the rotational modulations seen in the same star.

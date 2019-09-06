@@ -1,0 +1,1 @@
+Using the Mott exact cross section for moderate relativistic energies, we calculated the corrections to the first-order Born higher moments of the energy-loss distribution of charged particles in a wide range of the particle charge numbers.

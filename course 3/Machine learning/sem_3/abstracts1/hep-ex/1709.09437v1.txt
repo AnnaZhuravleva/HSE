@@ -1,0 +1,1 @@
+We report the first axion dark matter search with toroidal geometry. Exclusion limits of the axion-photon coupling $g_{a\gamma\gamma}$ over the axion mass range from 24.7 to 29.1 $\mu$eV at the 95\% confidence level are set through this pioneering search. Prospects for axion dark matter searches with larger scale toroidal geometry are also given.

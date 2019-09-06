@@ -1,0 +1,1 @@
+This is a survey on certain results which bring about a connection between Fibonacci sequences on the one hand and the areas of matrix theory and quantum information theory, on the other.

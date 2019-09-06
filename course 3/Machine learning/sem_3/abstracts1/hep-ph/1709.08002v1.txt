@@ -1,0 +1,1 @@
+We have computed the circulation integrations of thermal vorticity with and without charged currents in dissipative fluids. We find that the relativistic Kelvin circulation theorem will be modified by the dissipative effects, therefore, the circulation integrations of thermal vorticity may not be conserved during the fluid evolution.

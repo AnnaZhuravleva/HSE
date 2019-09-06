@@ -1,0 +1,1 @@
+The bulk reconstruction formula for a Euclidean anti-de Sitter space is directly related to the inverse of the Gel'fand-Graev-Radon transform. Correlation functions of a conformal scalar field theory in the boundary are thereby related to correlation functions of a self-interacting scalar field theory in the bulk at different loop orders.

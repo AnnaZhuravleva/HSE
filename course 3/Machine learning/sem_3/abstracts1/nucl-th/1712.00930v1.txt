@@ -1,0 +1,1 @@
+The procedure for deriving the Ward-Takahashi identity is applied to the pseudovector coupling pion-nucleon system in which the isovector and axial-vector current does not conserved. The relation is given in closed form although it is more complicated than that of the quantum electrodynamics. The application to the propagator has revealed the interesting results.

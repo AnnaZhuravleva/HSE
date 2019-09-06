@@ -1,0 +1,1 @@
+Localising the galileon symmetry along with Poincare symmetry we have found a version of galileon model coupled with curved spacetime which retains the internal galileon symmetry in covariant form. Also, the model has second order equations of motion.

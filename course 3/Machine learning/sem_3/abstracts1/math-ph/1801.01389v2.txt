@@ -1,0 +1,1 @@
+We consider Bose gases consisting of $N$ particles trapped in a box with volume one and interacting through a weak, repulsive potential with scattering length of the order $N^{-1}$(Gross-Pitaevskii regime). We determine the ground state energy and the low-energy excitation spectrum, up to errors vanishing as $N \to \infty$. Our results confirm Bogoliubov's predictions.

@@ -1,0 +1,1 @@
+We study the Weibel instability in a degenerate Fermi plasma. We disclose new type of quantum Weibel instabilities. In particular, a novel oscillatory Weibel instability is found and its growth rate is obtained. We reveal a transverse zero-sound in a quantum degenerate electron gas, which has no counterpart in the classical consideration.

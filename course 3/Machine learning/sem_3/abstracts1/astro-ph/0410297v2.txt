@@ -1,0 +1,1 @@
+Over the last few years, high-quality X-ray imaging and spectroscopic data from Chandra and XMM-Newton have added greatly to the understanding of the physics of radio jets. Here we describe the current state of knowledge with an emphasis on the underlying physics used to interpret multiwavelength data in terms of physical parameters.

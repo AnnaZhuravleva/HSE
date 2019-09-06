@@ -1,0 +1,1 @@
+A description of the combination of time projection chamber read-out with optical information in the MicroBooNE detector to reduce cosmogenic backgrounds and select electron neutrino induced interactions.

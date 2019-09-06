@@ -1,0 +1,1 @@
+We construct an analog of the subalgebra $Ugl(n)\otimes Ugl(m)$ of $Ugl(m+n)$ in the setting of quantum toroidal algebras and study the restrictions of various representations to this subalgebra.

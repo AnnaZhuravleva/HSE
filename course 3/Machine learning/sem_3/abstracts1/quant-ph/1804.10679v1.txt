@@ -1,0 +1,1 @@
+We utilize the close relation between the complex space $\textbf{C}^2$ and the real space $\textbf{R}^3$ to reformulate quantum mechanics in a manner which allows to, either or both, describe magnetic monopoles and quantize the underlying space, obtaining (noncommutative) quantum mechanics (with magnetic monopoles).

@@ -1,0 +1,1 @@
+We prove that the Schwarzschild black hole is linearly stable under electromagnetic and gravitational perturbations. Our method is to show that for spin $s=1$ or $s=2$, solutions of the Teukolsky equation with smooth, compactly supported initial data outside the event horizon, decay in $L^\infty_{loc}$.

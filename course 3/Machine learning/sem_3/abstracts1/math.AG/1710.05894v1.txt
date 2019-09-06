@@ -1,0 +1,1 @@
+These are expository notes based on a talk given at the Superschool on derived categories and D-branes at University of Alberta in July of 2016. The goal of these notes is to give a motivated introduction to the Strominger-Yau-Zaslow (SYZ) conjecture from the point of view of homological mirror symmetry.

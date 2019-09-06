@@ -1,0 +1,1 @@
+We introduce a new entropy formula for Kerr black holes inspired by recent results for 3-dimensional black holes and cosmologies with soft Heisenberg hair. We show that also Kerr-Taub-NUT black holes obey the same formula.

@@ -1,0 +1,1 @@
+We searched for pulsed gamma-ray emissions from the Crab pulsar using data of the Tibet-III air shower array from November 1999 through November 2005. No evidence for the pulsed emissions was found in our analysis. Upper limits at different energies were calculated for a $3 \sigma$ confidence level in the energy range of multi-TeV to several hundred TeV.

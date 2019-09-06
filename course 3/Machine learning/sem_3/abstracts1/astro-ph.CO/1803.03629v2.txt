@@ -1,0 +1,1 @@
+The observation of an absorption feature in the 21 cm spectrum at redshift $z\approx 17$ implies bounds on Dark Matter annihilations for a broad range of masses, given that significant heating of the intergalactic medium would have erased such feature. The resulting bounds on the DM annihilation cross sections are comparable to the strongest ones from all other observables.

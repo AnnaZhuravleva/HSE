@@ -1,0 +1,1 @@
+It is shown that an effective fermion vertex arises to lattice gravity coupled with fermions. The vertices are associated with gravitational instantons, much as the effective fermion vertices arising due to the existence of fermion zero modes associated with instantons in the Yang-Mills theory.

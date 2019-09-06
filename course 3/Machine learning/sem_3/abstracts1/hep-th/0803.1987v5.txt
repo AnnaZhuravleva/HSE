@@ -1,0 +1,1 @@
+It is suggested that dark energy is the energy of the Hawking radiation from a cosmic horizon. Despite of its extremely low Gibbons-Hawking temperature, this radiation could have the appropriate magnitude $O(M_P^2 H^2)$ and the equation of state to explain the observed cosmological data if there is a Planck scale UV-cutoff, where $H$ is the Hubble parameter.

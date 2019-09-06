@@ -1,0 +1,1 @@
+We study traveling waves for a reaction-diffusion equation with nonlocal anisotropic diffusion and a linear combination of local and nonlocal monostable-type reactions. We describe relations between speeds and asymptotic of profiles of traveling waves, and prove the uniqueness of the profiles up to shifts.

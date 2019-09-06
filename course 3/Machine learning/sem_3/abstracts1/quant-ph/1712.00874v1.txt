@@ -1,0 +1,1 @@
+Building on recent work by Gammelmark et al. [Phys. Rev. Lett. 111, 160401 (2013)] we develop a formalism for prediction and retrodiction of Gaussian quantum systems undergoing continuous measurements. We apply the resulting formalism to study the advantage of incorporating a full measurement record and retrodiction for impulse-like force detection and accelerometry.

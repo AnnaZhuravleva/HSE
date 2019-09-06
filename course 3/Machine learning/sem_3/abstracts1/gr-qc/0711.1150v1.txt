@@ -1,0 +1,1 @@
+Taking advantage of the conformal equivalence of f(R) theories of gravity with General Relativity coupled to a scalar field we generalize the Israel junction conditions for this class of theories by direct integration of the field equations. We suggest a specific non-minimal coupling of matter to gravity which opens the possibility of a new class of braneworld scenarios.

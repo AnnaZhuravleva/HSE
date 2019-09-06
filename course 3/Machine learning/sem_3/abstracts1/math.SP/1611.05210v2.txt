@@ -1,0 +1,1 @@
+We derive a dispersion estimate for one-dimensional perturbed radial Schr\"odinger operators where the angular momentum takes the critical value $l=-\frac{1}{2}$. We also derive several new estimates for solutions of the underlying differential equation and investigate the behavior of the Jost function near the edge of the continuous spectrum.

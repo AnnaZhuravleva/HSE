@@ -1,0 +1,1 @@
+Matrix elements between shifted correlated Gaussians of various potentials with several form-factors are calculated analytically. Analytic matrix elements are of importance for the correlated Gaussian method in quantum few-body physics.

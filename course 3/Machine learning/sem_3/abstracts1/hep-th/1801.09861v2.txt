@@ -1,0 +1,1 @@
+We construct self-consistent analytic solutions in the ${\mathbb C}P^{N-1}$ model in the large-$N$ limit, in which more than one Higgs scalar component take values inside a single or multiple soliton on an infinite space or on a ring, or around boundaries of a finite interval.

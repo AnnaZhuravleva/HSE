@@ -1,0 +1,1 @@
+There have been a number of papers proposing that the light speed of a homogeneous and isotropic universe is variable. This paper outlines a simple way that the vectors and tensors of special relativity can be extended to allow such a variable light speed and show how the field equation of general relativity can also be extended with particular application to such a universe.

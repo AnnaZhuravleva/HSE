@@ -1,0 +1,1 @@
+Recently, a connection between quantum coherence and quantum steering was established and criteria for non-local advantage of quantum coherence were derived. Here, we derive a set of complementarity relations between the non-local advantages of quantum coherence achieved by various criteria.

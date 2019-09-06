@@ -1,0 +1,1 @@
+We conjecture an exact form for an universal ratio of four-point cluster connectivities in the critical two-dimensional $Q$-color Potts model. We also provide analogous results for the limit $Q\rightarrow 1$ that corresponds to percolation where the observable has a logarithmic singularity. Our conjectures are tested against Monte Carlo simulations showing excellent agreement.

@@ -1,0 +1,1 @@
+We propose a perturbative method to estimate the normalization constant in exponential random graph models as the weighting parameters approach infinity. As an application, we give evidence of discontinuity in natural parametrization along the critical directions of the edge-triangle model.

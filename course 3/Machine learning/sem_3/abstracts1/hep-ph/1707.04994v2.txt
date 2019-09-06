@@ -1,0 +1,1 @@
+We expect that $BR(\chi_{c2}(2P)\to gluon\, gluon)\gtrsim 2 \%$ if Particle Data Group as well as BaBar and Belle collaboration correctly identified the state. In reality, this branching ratio corresponds to the one for $\chi_{c2}(2P)$ decaying to the light hadrons. We also discuss the detection possibilities of these decays.

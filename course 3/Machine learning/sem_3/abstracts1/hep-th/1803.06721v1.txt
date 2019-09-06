@@ -1,0 +1,1 @@
+We generalize the Mellin representation for a generic co-dimension flat defect CFT. We study the analytic structure of the Mellin amplitudes. We also compute Witten diagrams for a generic co-dimension flat defect CFT.

@@ -1,0 +1,1 @@
+We study magnetized orbifold models. We assume the localized Fayet-Iliopoulos terms and the corresponding gauge background. Such terms lead to strong localization of zero-mode wavefunc- tions. In this setup, we compute quark mass matrices.

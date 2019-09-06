@@ -1,0 +1,1 @@
+We consider a modification of the Heisenberg algebra with the non-vanishing commutator of scalar field operators. We then identify the scalar field with the second quantized inflaton fluctuation and calculate effects of microcausality violation on the temperature anisotropy of cosmic microwave background radiation.

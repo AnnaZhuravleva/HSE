@@ -1,0 +1,1 @@
+The present paper is concerned with the existence of positive high energy solution of the Choquard equation. Under certain assumptions, the ground state of Choquard equation can not be achieved. However, by global compactness analysis, we prove that there exists a positive high energy solution.

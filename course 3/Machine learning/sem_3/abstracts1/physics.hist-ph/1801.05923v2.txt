@@ -1,0 +1,1 @@
+We discuss some recent work by Tim Maudlin concerning Black Hole Information Loss. We argue, contra Maudlin, that there is a paradox, in the straightforward sense that there are propositions that appear true, but which are incompatible with one another. We discuss the significance of the paradox and Maudlin's response to it.

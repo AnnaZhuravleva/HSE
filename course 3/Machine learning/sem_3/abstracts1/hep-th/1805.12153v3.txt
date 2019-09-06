@@ -1,0 +1,1 @@
+We study the possibility of using machine learning for the calculation of the bounce action in quantum tunneling. Adopting supervised learning, we train neural network to give the bounce action from a given potential. It is found that, for one-dimensional tunneling, even a simple neural network performs at a percent level.

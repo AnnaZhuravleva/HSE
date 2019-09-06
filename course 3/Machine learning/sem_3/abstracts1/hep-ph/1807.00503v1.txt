@@ -1,0 +1,1 @@
+The behavior of scattering amplitudes in the vicinity of a physical-region Landau singularity is considered. The impact on LHC processes is discussed.

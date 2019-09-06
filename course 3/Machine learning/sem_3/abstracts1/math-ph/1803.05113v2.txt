@@ -1,0 +1,1 @@
+We consider the bounded linear operators with domain in the Hilbert space $L^2(S^n)$, $n=2,3,5$ and describe its symbolic calculus defined by the Berezin quantization. In particular, we derive an explicit formula for the composition of Berezin's symbols and thus a noncommutative invariant star product.

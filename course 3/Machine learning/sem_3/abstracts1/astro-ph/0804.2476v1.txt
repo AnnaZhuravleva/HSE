@@ -1,0 +1,1 @@
+We examine the longitudinal distribution of the stars escaping from a cluster along tidal tails. Using both theory and simulations, we show that, even in the case of a star cluster in a circular galactic orbit, when the tide is steady, the distribution exhibits maxima at a distance of many tidal radii from the cluster.

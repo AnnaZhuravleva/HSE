@@ -1,0 +1,1 @@
+We review some results about the suppression of quantum beating in a one dimensional nonlinear double well potential. We implement a single particle double well potential model, making use of nonlinear point interactions. We show that there is complete suppression of the typical beating phenomenon characterizing the linear quantum case.

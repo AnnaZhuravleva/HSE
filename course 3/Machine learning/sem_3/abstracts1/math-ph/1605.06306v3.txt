@@ -1,0 +1,1 @@
+The projective construction of quantum states for field theories may be flawed--in some cases the construction may possibly lead to spaces of quantum states which are "too small" to be used in quantization of field theories. Here we present a slight modification of the construction which is free from this flaw.

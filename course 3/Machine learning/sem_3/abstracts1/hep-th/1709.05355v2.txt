@@ -1,0 +1,1 @@
+We show that there are many compact subsets of the moduli space $M_g$ of Riemann surfaces of genus $g$ that do not intersect any symmetry locus. This has interesting implications for $\mathcal{N}=2$ supersymmetric conformal field theories in four dimensions.

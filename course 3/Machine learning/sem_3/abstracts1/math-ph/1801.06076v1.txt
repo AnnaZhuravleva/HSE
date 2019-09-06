@@ -1,0 +1,1 @@
+The main result of this note is a characterization of the Poisson commutativity of Hamilton functions in terms of their principal action functions.

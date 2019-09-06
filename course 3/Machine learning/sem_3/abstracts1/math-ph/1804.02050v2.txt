@@ -1,0 +1,1 @@
+We consider a general solution of the Langevin equation describing massive fermions to an appropriate boundary problem. Assuming existance we show that all correlators coincide with the Schwinger functions of corresponding Euclidean Quantum Field Theory.

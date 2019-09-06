@@ -1,0 +1,1 @@
+We study properties of heavy-light-heavy three-point functions in two-dimensional CFTs by using the modular invariance of two-point functions on a torus. We show that our result is non-trivially consistent with the condition of ETH (Eigenstate Thermalization Hypothesis). We also study the open-closed duality of cylinder amplitudes and derive behaviors of disk one-point functions.

@@ -1,0 +1,1 @@
+We review the basics and the current status of the Poincar\'e gauge theory of gravity. The general dynamical scheme of Poincar\'e gauge gravity (PG) is formulated, and its physical consequences are outlined. In particular, we discuss exact solutions with and without torsion, highlight the cosmological aspects, and consider the probing of the spacetime geometry.

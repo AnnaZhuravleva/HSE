@@ -1,0 +1,1 @@
+Numerical simulations of strongly compressible MHD corresponding to a stellar atmosphere with substantial gravity and near force-free magnetic fields show that the current sheet collapses (its width decreasing substantially). As a result, the reconnection rate increases dramatically.

@@ -1,0 +1,1 @@
+This paper continues an earlier study of giant planet migration, examining the effect of planet mass and disc viscosity on the migration rate. We find that the migration rate of a gap-opening planet varies systematically with the planet's mass, as predicted in our earlier work. However, the variation with disc viscosity appears to be much weaker than expected.

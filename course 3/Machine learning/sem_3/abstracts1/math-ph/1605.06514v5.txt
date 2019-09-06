@@ -1,0 +1,1 @@
+We show that the transverse field Ising model undergoes a zero temperature phase transition for a $G_\delta$ set of ergodic transverse fields. We apply our results to the special case of quasiperiodic transverse fields, in one dimension we find a sharp condition for the existence of a phase transition.

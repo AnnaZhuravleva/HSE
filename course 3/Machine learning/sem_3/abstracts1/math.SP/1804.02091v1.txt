@@ -1,0 +1,1 @@
+For Schrodinger operators, there is a well known and widely used formula connecting the transfer matrices and Dirichlet determinants. No analog of this formula was previously known for CMV matrices. In this paper we fill this gap and provide the CMV analog of this formula.

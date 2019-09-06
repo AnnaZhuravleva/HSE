@@ -1,0 +1,1 @@
+We consider field equations of spinors with torsional interactions having higher-order dimension: by applying the Velo-Zwanziger method, we obtain that it is always possible to find situations where the propagation is affected by non-causal behaviour.

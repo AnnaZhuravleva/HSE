@@ -1,0 +1,1 @@
+We provide a framework to describe all local-realistic theories and all no-signalling operational theories. We show that when the dynamics is reversible, these two concepts are equivalent. In particular, this implies that unitary quantum theory can be given a local-realistic model.

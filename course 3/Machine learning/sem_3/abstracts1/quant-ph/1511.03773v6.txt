@@ -1,0 +1,1 @@
+We show that for any von Neumann measurement, we can construct a logically reversible measurement such that Shannon entropies and quantum discords induced by the two measurements have compact connections. In particular, we prove that quantum discord for the logically reversible measurement is never less than that for the von Neumann measurement.

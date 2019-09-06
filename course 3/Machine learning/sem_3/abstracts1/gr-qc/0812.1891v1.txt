@@ -1,0 +1,1 @@
+A three-parameter toy-model, which describes a non-minimal coupling of gravity field with electromagnetic field of a relativistic two-component electrically neutral plasma, is discussed. Resonance interactions between particles and transversal waves in plasma are shown to take place due to the curvature coupling effect.

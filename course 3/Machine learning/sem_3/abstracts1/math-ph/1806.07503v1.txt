@@ -1,0 +1,1 @@
+We study Weyl-type perturbation theorems in the context of linear closed relations. We establish general results on perturbations for dissipative relations. In the particular case of selfadjoint relations, we treat finite-rank perturbations and its fine-tuning implications on the spectrum.

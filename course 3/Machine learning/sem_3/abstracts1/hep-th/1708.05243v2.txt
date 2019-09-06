@@ -1,0 +1,1 @@
+We construct walls of mass-deformed K\"{a}hler nonlinear sigma models on $SO(2N)/U(N)$, by using the moduli matrix formalism and the simple roots of $SO(2N)$. Penetrable walls are observed in the nonlinear sigma models on $SO(2N)/U(N)$ with $N>3$.

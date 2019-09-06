@@ -1,0 +1,1 @@
+In this work we elaborate on a previous result relating the partition function of the six-vertex model with domain-wall boundary conditions to eigenvalues of a transfer matrix. More precisely, we express the aforementioned partition function as a determinant of a matrix with entries being eigenvalues of the anti-periodic six-vertex model's transfer matrix.

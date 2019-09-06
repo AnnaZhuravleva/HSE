@@ -1,0 +1,1 @@
+We explore the analytical structure of the generalized $\lambda$-deformation of AdS_p x S^p spaces and construct new integrable backgrounds which depend on (p+1) continuous parameters.

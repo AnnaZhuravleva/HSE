@@ -1,0 +1,1 @@
+In two analyses of orbital data from the Mars Global Surveyor spacecraft, Iorio [1,2] has claimed confirmation of the frame-dragging effect predicted by general relativity. Initially to an accuracy of 6%, and now 0.5%, exceeding the expected accuracy of NASA's Gravity Probe B. It is shown his results come from misinterpreting the MGS data and then altering a key time period.

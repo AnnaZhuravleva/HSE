@@ -1,0 +1,1 @@
+This work gives value to the importance of Hilbert-Schmidt operators in the formulation of a noncommutative quantum theory. A system of charged particle in a constant magnetic field is investigated in this framework.

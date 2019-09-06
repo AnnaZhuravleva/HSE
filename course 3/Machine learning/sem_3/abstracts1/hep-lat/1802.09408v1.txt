@@ -1,0 +1,1 @@
+QCDLAB is a set of programs, written in GNU Octave, for lattice QCD computations. Version 2.0 includes the generation of configurations for the SU(3) theory, computation of rectangle Wilson loops as well as the low lying meson spectrum. In this paper, we give a brief tutorial on lattice QCD computations using QCDLAB.

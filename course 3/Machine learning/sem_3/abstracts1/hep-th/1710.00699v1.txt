@@ -1,0 +1,1 @@
+In this note we discuss the CP(N) model in large N limit in saddle point approximation on disc and annulus with various combinations of Dirichlet and Neumann boundary conditions. We show that homogeneous condensate is not a saddle point in any of considered cases. Behavior of inhomogeneous condensate near boundary is briefly discussed.

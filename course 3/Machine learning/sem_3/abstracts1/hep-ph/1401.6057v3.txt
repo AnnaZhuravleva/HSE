@@ -1,0 +1,1 @@
+A simplified differential equations approach for Master Integrals is presented. It allows to express them, straightforwardly, in terms of Goncharov Polylogarithms. As a proof-of-concept of the proposed method, results at one and two loops are presented, including the massless one-loop pentagon with up to one off-shell leg at order epsilon.

@@ -1,0 +1,1 @@
+This note fills a gap in the article with title above [1]. We provide the proof of Equation (82) of Lemma 5 in [1] and thereby complete its power counting analysis with a more precise next-to-leading-order estimate.

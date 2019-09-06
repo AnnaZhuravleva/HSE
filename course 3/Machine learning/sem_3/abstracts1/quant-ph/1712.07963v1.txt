@@ -1,0 +1,1 @@
+We suggest a way to produce higher-energy superposition states in a circular system of quantum wells. This is inspired by a link to convergence results for geometric transformations of polygons using circulant Hermitian matrices.

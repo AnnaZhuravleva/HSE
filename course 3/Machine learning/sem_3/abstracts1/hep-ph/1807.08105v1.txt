@@ -1,0 +1,1 @@
+Within the picture of quark confinement as due to a \textit{color event horizon}, and of hadronization as an instance of the Unruh radiation for the strong force, we show here that QCD entropy, evaluated by lattice simulations in the region $T_c < T < 1.3 T_c$, is in reasonable agreement with a melting color event horizon.

@@ -1,0 +1,1 @@
+This article is concerned with the large data global regularity for the equivariant case of the classical Skyrme model and proves that this is valid for initial data in $H^s\times H^{s-1}(\mathbb{R}^3)$ with $s>7/2$.

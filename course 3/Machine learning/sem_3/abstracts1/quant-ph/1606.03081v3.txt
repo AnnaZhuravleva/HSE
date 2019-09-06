@@ -1,0 +1,1 @@
+We combine the eyebrow-raising quantum phenomena of erasure and counterfactuality for the first time, proposing a simple yet unusual quantum eraser: A distant Bob can decide to erase which-path information from Alice's photon, dramatically restoring interference, without previously-shared entanglement, and without Alice's photon ever leaving her lab.

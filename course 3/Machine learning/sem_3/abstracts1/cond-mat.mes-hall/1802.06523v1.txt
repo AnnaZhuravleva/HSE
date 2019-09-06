@@ -1,0 +1,1 @@
+A diffraction problem for a flat Chern-Simons layer on the surface of a dielectric semispace is solved. The crossing from the repulsive to the attractive Casimir force is analyzed for two Au and two Si semispaces covered by Chern-Simons layers and separated by a vacuum slit.

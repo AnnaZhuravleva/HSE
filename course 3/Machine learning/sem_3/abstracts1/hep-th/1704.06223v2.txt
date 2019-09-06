@@ -1,0 +1,1 @@
+We show how a global BMS4 algebra appears as the asymptotic symmetry algebra at spatial infinity. Using linearised theory, we then show that this global BMS4 algebra is the one introduced by Strominger as a symmetry of the S-matrix.

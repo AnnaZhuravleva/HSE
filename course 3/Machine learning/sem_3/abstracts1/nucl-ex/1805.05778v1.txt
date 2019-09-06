@@ -1,0 +1,1 @@
+The vector and tensor analysing powers in deuteron-proton elastic scattering have been measured in the forward hemisphere at deuteron kinetic energies of 1.2 GeV and 2.27 GeV using the ANKE spectrometer at the COSY storage ring. The results are compared with other experimental data and with predictions made within the framework of Glauber multiple scattering theory.

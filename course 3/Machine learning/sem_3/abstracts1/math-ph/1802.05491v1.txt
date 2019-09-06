@@ -1,0 +1,1 @@
+An elementary 'quantum-mechanical' derivation of the conditions for a system of functions to form a Reisz basis of a Hilbert space on a finite interval is presented.

@@ -1,0 +1,1 @@
+C. M. Will in a recent Letter [arXiv:1802.05304] predicts a new Mercury's precession rate which is $100$ times larger than the second-post-Newtonian contribution, our calculation is about $30$ times larger. Thus the new Mercury's precession rate is about $6.4\ast 10^{-8}$, instead of $6.2\ast 10^{-8}$, degrees per century.

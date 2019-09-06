@@ -1,0 +1,1 @@
+In the paper, technical documentation and the principle of operation is presented. "KLAUDIA" radio telescope was built in Rabka in 2007 and it is used to receive secondary radio waves, emitted by the Earth's ionosphere at frequency of 40 kHz.

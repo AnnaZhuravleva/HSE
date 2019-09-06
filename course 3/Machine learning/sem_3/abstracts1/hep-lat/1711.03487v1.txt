@@ -1,0 +1,1 @@
+We report on progress of a lattice QCD calculation of the $B\to Dl\nu$ and $B_s\to D_s l\nu$ semileptonic form factors. We use a relativistic staggered action (HISQ) for light and charm quarks, and an improved non-relativistic (NRQCD) action for bottom, on the second generation MILC ensembles.

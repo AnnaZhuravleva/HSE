@@ -1,0 +1,1 @@
+Long ago, Nemeschansky and Sen demonstrated that the Ricci-flat metric on a Calabi-Yau manifold could be corrected, order by order in perturbation theory, to produce a conformally invariant (2,2) nonlinear sigma model. Here we extend this result to (0,2) sigma models for stable holomorphic vector bundles over Calabi-Yaus.

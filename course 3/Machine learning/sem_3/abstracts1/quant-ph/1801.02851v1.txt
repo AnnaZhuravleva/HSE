@@ -1,0 +1,1 @@
+The local uncertainty relation (LUR) criteria for quantum entanglement, which is dependent on chosen observables, is developed recent. In the paper, applying the uncertainty principle, an entanglement criteria for multipartite Gaussian states is given, which is implemented by a minimum optimization computer program and independent on observalbes.

@@ -1,0 +1,1 @@
+We propose a way to encode acceleration directly into quantum fields, establishing a new class of fields. Accelerated quantum fields, as we have named them, have some very interesting properties. The most important is that they provide a mathematically consistent way to quantize space-time in the same way that energy and momentum are quantized in standard quantum field theories.

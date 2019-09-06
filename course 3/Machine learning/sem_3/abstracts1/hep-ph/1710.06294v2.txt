@@ -1,0 +1,1 @@
+We present a calculation of the NNLO QCD corrections to Z-boson pair production at hadron colliders, based on the N-jettiness method for the real radiation parts. We discuss the size and shape of the perturbative corrections along with their associated scale uncertainties and compare our results to recent LHC data at $\sqrt{s}=13$ TeV.

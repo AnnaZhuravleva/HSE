@@ -1,0 +1,1 @@
+We study a simple nonlinear model defined on the cubic lattice. We propose a bilinearization scheme for the field equations and demonstrate that the resulting system is closely related to the well-studied integrable models, such as the Hirota bilinear difference equation and the Ablowitz-Ladik system. This result is used to derive the two sets of the N-soliton solutions.

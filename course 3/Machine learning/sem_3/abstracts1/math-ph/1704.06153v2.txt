@@ -1,0 +1,1 @@
+We comment on the Friedmann and Hagen's quantum mechanical derivation of the Wallis formula for $\pi$. In particular, we demonstrate that not only the Gaussian trial function, used by Friedmann and Hagen, but also the Lorentz trial function can be used to get the Wallis formula. The anatomy of the integrals leading to the appearance of the Wallis ratio is carefully revealed.

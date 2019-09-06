@@ -1,0 +1,1 @@
+We consider an infinite number of one dimensional bilinear Schr\"odinger equations in a segment. We prove the simultaneous global exact controllability in projection of unitarily equivalent sequences of functions.

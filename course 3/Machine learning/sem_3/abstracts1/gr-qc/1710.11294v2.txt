@@ -1,0 +1,1 @@
+We prove that there exists a phase space of canonical variables for the initial value problem for axially symmetric Maxwell fields propagating in Kerr-de Sitter black hole spacetimes such that their motion is restricted to the level sets of a positive-definite Hamiltonian, despite the ergo-region.

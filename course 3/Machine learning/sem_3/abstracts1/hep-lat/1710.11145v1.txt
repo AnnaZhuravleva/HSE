@@ -1,0 +1,1 @@
+We report an attempt to calculate the deep inelastic scattering structure functions from the hadronic tensor calculated on the lattice. We used the Backus-Gilbert reconstruction method to address the inverse Laplace transformation for the analytic continuation from the Euclidean to the Minkowski space.

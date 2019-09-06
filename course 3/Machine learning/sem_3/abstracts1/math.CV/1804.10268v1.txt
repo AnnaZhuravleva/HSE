@@ -1,0 +1,1 @@
+We prove an analogue of the Ikehara theorem for positive non-increasing functions convergent to zero, generalising the results postulated in Diekmann, Kaper (1978, Nonlinear Anal. 2(6), 721--737) and Carr, Chmaj (2004, Proc. AMS 132(8), 2433--2439).

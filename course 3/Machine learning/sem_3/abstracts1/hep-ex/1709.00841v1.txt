@@ -1,0 +1,1 @@
+The production of single top quarks allows to study the interplay of top quark physics and the electroweak sector of the standard model. Deviations from predictions can be a hint for physics beyond the standard model. The t-channel is the dominant production mode for single top quarks at the LHC. This talk presents the latest measurements from the ATLAS and CMS collaborations.

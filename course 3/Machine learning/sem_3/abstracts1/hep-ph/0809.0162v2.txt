@@ -1,0 +1,1 @@
+Assuming that the positron excess in PAMELA satellite data is a consequence of annihilations of cold dark matter, we consider from a model-independent perspective if the data show a preference for the spin of dark matter. We then perform a general analysis of annihilations into two-body final states to determine what weighted combination of channels best describes the data.

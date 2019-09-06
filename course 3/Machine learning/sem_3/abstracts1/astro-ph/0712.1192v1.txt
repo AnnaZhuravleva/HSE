@@ -1,0 +1,1 @@
+We describe our efforts to understand large-scale (10's-100's kpc) relativistic jet systems through observations of the highest-redshift quasars. Results from a VLA survey search for radio jets in ~30 z>3.4 quasars are described along with new Chandra observations of 4 selected targets.

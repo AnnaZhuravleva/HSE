@@ -1,0 +1,1 @@
+For any number h such that hbar:=h/(2\pi) is irrational, let A_{g,h} be the corresponding Weyl *-algebra over Z^{2g} and consider the ergodic group of *-automorphisms of A_{g,h} induced by the action of Sp(2g,Z) on Z^{2g}. We show that the only Sp(2g,Z)-invariant state on A_{g,h} is the trace state.

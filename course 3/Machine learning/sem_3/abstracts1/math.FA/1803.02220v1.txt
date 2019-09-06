@@ -1,0 +1,1 @@
+In this paper, we are concerned with $n$-dimensional spherical wavelets derived from the theory of approximate identities. For nonzonal bilinear wavelets introduced by Ebert \emph{et al.} in 2009 we prove isometry and Euclidean limit property. Further, we develop a theory of linear wavelets. In the end, we discuss the relationship to other wavelet constructions.

@@ -1,0 +1,1 @@
+In this paper we study the moderate deviations for the magnetization of critical Curie-Weiss model. Chen, Fang and Shao considered a similar problem for non-critical model by using Stein method. By direct and simple arguments based on Laplace method, we provide an explicit formula of the error and deduce a Cram\'er-type result.

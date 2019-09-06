@@ -1,0 +1,1 @@
+We introduce two mirror constructions of Vertex Operator Algebras associated to special boundary conditions in 3d N=4 gauge theories. We conjecture various relations between these boundary VOA's and properties of the (topologically twisted) bulk theories. We discuss applications to the Symplectic Duality and Geometric Langlands programs.

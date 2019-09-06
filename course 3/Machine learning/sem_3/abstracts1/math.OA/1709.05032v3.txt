@@ -1,0 +1,1 @@
+We prove that the set of quantum correlations for a bipartite system of 5 inputs and 2 outputs is not closed. Our proof relies on computing the correlation functions of a graph, which is a concept that we introduce.

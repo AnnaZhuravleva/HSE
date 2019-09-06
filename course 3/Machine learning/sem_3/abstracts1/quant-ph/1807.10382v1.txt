@@ -1,0 +1,1 @@
+A signed probability distribution may extend a given traditional probability from observable events to all events. We formalize and illustrate this approach. We also illustrate its limitation. We argue that the right question is not what negative probabilities are but what they are for.

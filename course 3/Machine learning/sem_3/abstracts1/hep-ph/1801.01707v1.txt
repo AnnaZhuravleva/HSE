@@ -1,0 +1,1 @@
+We present model predictions of Collins asymmetries for proton in the SIDIS process for $\pi^+$ and $\pi^-$ channels. We use a recently proposed light-front quark-diquark model for proton with the light-front wave functions predicted in soft-wall AdS/QCD. The model predictions are compared with the HERMES and COMPASS data.

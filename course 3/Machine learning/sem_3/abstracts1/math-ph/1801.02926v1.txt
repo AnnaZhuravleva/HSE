@@ -1,0 +1,1 @@
+A symplectic-Haantjes manifold and a Poisson-Haantjes manifold for the Lagrange top are studied and a set of Darboux-Haantjes coordinates are computed. Such coordinates are separation variables for the associated Hamilton-Jacobi equation.

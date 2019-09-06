@@ -1,0 +1,1 @@
+The unimodular version of the ghost-free higher derivative gravity is obtained. It is the unimodular reduction of some particular lagrangians quadratic in curvature.

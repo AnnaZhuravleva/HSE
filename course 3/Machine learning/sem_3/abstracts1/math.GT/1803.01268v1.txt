@@ -1,0 +1,1 @@
+In this paper, we introduce a new method to prove the Lickorish-Millett type formulae for colored HOMFLY-PT polynomials of links.

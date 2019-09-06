@@ -1,0 +1,1 @@
+I provide a brief summary of the status of supersymmetric models with parameters defined at either the unification or weak scale, based on global fits using the GAMBIT framework.

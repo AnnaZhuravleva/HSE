@@ -1,0 +1,1 @@
+Electromagnetic waves with an azimuthal phase shift are known to have a well defined orbital angular momentum. Different methods that allow for the detection of the angular momentum are proposed. For some, we discuss the required experimental setup and explore the range of applicability.

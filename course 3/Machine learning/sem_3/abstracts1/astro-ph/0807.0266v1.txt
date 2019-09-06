@@ -1,0 +1,1 @@
+We present a time-dependent radiative model for the atmosphere of the transiting planets that take into account the eccentricity of their orbit. We investigate the temporal temperature and flux variations due to the planet-star distance variability. We will also discuss observational aspects with Spitzer measurements.

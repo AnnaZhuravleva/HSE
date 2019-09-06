@@ -1,0 +1,1 @@
+We perform realistic simulations of the current and future long baseline experiments such as T2K, NO$\nu$A, DUNE and T2HK in order to determine their ultimate potential in probing neutrino oscillation parameters. We quantify the potential of these experiments to underpin the octant of the atmospheric angle $\theta_{23}$ as well as the value and sign of the CP phase $\delta_{CP}$.

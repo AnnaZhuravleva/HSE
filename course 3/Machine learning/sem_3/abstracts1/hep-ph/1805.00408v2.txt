@@ -1,0 +1,1 @@
+We show that for a non-zero photon mass, $m_{ph}$, the speed of light anisotropy, $\delta c/c$, is below $10^{-37}$ based on an accepted bound on $m_{ph}$. A strong bound was also obtained in the case of the neutrino.

@@ -1,0 +1,1 @@
+We consider a family of cellular automata $\Phi(n,k)$ associated with infinite reduced elements on the affine symmetric group $\hat S_n$, which is a tropicalization of the rational maps introduced by two of the authors. We study the soliton solutions for $\Phi(n,k)$ and explore a `duality' with the $\mathfrak{sl}_n$-box-ball system.

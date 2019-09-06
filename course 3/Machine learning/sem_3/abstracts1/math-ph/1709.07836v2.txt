@@ -1,0 +1,1 @@
+We present a new class of covariantly constant solutions of the Yang-Mills equations. These solutions correspond to the solution of the field equation for the spin connection of the general form.

@@ -1,0 +1,1 @@
+A new method for local subtraction at next-to-next-to-leading order in QCD is sketched, attempting to conjugate the minimal counterterm structure arising from a sector partition of the radiation phase space with the simplifications following from analytic integration of the counterterms.

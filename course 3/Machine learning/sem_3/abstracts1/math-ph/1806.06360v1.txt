@@ -1,0 +1,1 @@
+We discuss several aspects of the geometry of vector fields in (Poincare'-Dulac) normal form. Our discussion relies substantially on Michel theory and aims at a constructive approach to simplify the analysis of normal forms via a splitting based on the action of certain groups. The case, common in Physics, of systems enjoying an a priori symmetry is also discussed in some detail.

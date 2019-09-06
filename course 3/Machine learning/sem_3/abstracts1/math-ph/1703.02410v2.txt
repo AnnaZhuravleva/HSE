@@ -1,0 +1,1 @@
+In this work we give explicit formulas for the Schwartz integral kernels of some multipliers of the Schr\"odinger operator with inverse square potential on $\R^\ast_+$. By using the integral transforms connecting these multipliers we obtain old and new formulas involving Bessel and hypergeometric functions

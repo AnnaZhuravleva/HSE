@@ -1,0 +1,1 @@
+A scheme to compute reactions with use of the Slater determinants constructed of the oscillator orbitals is suggested. Simple linear equations are employed. A universal method to evaluate the required matrix elements is given.

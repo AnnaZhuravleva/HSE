@@ -1,0 +1,1 @@
+We derive luminosity distance equation in Gurzadyan-Xue cosmological models and compared it with available supernovae and radio galaxies data sets. We found that the luminosity distance does not depend explicitly the speed of light and the gravitation constant, and depends only on the matter parameter (GX-invariant) and curvature.

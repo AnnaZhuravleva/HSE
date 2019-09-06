@@ -1,0 +1,1 @@
+We dig out a deeper mathematical structure of the quantum Hall system from a perspective of the Langlands program. An algebraic expression of the Hamiltonian with the quantum group is a cornerstone. The Langlands duality of the quantum group sheds light on the fractal structure of Hofstadter's butterfly. This would imply a "quantum Langlands duality".

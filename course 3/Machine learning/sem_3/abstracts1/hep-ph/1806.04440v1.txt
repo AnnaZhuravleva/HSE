@@ -1,0 +1,1 @@
+In this paper we solved Schr\"odinger equation with Song-Lin potential by using Asymptotic Iteration Method (AIM). We obtained spin-averaged energy levels of charmonium and bottomonium via AIM. Obtained results agree well with available experimental data and other theoretical studies.

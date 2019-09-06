@@ -1,0 +1,1 @@
+We consider the problem of energy for spinor fields coupled to their surrounding curved-twisted space-time, and we show that when treated geometrically we cannot even be certain that there is a problem for the energy in the first place.

@@ -1,0 +1,1 @@
+We describe the spectral classification of white dwarfs and some of the physical processes important for their understanding. In the major part of this paper we discuss the input physics and computational methods for one of the most widely used stellar atmosphere codes for white dwarfs.

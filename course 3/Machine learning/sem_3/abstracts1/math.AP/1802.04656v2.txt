@@ -1,0 +1,1 @@
+We study solutions to stationary Navier Stokes system in two dimensional exterior domain. We prove that any such solution with finite Dirichlet integral converges at infinity uniformly. No additional condition (on symmetry or smallness) are assumed.

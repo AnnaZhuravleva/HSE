@@ -1,0 +1,1 @@
+We announce a new theorem bearing on high-temperature 2D Bose gases. In a certain mean-field-like regime, the grand-canonical quantum Gibbs state reduces to a nonlinear Gibbs measure constructed from a renormalized mean-field energy functional. This establishes a rigorous connection between quantum fields and (singular) classical fields in the regime of interest.

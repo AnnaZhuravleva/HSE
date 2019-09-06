@@ -1,0 +1,1 @@
+We illustrate from the viewpoint of braiding operations on WZNW conformal blocks how colored HOMFLY polynomials with multiplicity structure can detect mutations. As an example, we explicitly evaluate the (2,1)-colored HOMFLY polynomials that distinguish a famous mutant pair, Kinoshita-Terasaka and Conway knot.

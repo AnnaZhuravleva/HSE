@@ -1,0 +1,1 @@
+It is shown that the creation of a monopole is a gauge invariant statement, based on topology. Creating a monopole is independent on the abelian projection in which it is created. This is fundamental in defining an order parameter for detecting dual superconductivity of the QCD vacuum.

@@ -1,0 +1,1 @@
+After a brief review of the idea and main results of the original p-adic string work, I describe the recent interest in p-adic strings in the context of AdS/CFT duality

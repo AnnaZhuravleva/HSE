@@ -1,0 +1,1 @@
+We study electromagnetic transition rates in the framework of the algebraic cluster model. The concept of shape-phase transitions is used to propose a mechanism that allows to have interband and intraband quadrupole transitions of comparable strength, as observed in 12C.

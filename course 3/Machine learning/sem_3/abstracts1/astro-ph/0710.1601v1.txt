@@ -1,0 +1,1 @@
+After a discussion about the need for observational benchmark for chemical models, we explain 1) why the Horsehead western edge is well suited to serve as reference for models and 2) the steps we are taking toward this goal. We summarize abundances obtained to date and we show recent results.

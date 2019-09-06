@@ -1,0 +1,1 @@
+We show that the Eynard-Orantin topological recursion, in conjunction with simple auxiliary equations, can be used to calculate all correlation functions of supereigenvalue models.

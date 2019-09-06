@@ -1,0 +1,1 @@
+We show that the KZB connection on the punctured torus and on the configuration space of points of the punctured torus can be constructed via the homotopy transfer theorem.

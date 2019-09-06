@@ -1,0 +1,1 @@
+We propose a formal resource-theoretic approach to quantify the degree of polarization of two and three-dimensional random electromagnetic fields. This endows the space of spectral polarization matrices with the orders induced by majorization or convex mixing that naturally recover the best-known polarization measures.

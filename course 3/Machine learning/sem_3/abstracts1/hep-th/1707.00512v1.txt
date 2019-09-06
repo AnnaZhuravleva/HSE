@@ -1,0 +1,1 @@
+In this note, we speculate about the fundamental role being played by the $SO(8)$ group representations displaying the triality structure that necessarily arise in models constructed under the free fermionic methodology as being remnants of the higher-dimensional triality algebra tri$(\mathbb{O}) = \mathfrak{so}(8)$.

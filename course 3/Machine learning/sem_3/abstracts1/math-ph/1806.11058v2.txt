@@ -1,0 +1,1 @@
+We associate with the Grassmann algebra a topological algebra of distributions, which allows the study of processes analogous to the corresponding free stochastic processes with stationary increments, as well as their derivatives.

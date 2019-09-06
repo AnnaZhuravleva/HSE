@@ -1,0 +1,1 @@
+We consider five-dimensional gravity with a Gauss-Bonnet term in the bulk and an induced gravity term on a 2-brane of codimension-2. We show that this system admits BTZ black holes on the 2-brane which are extended into the bulk with regular horizons.

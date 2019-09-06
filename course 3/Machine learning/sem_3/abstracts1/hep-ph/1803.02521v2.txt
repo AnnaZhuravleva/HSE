@@ -1,0 +1,1 @@
+In this paper, the $\rho$ meson impact parameter dependent parton distributions and the impact parameter dependent form factors are introduced and discussed. By employing a Gaussian form wave packet, we calculate the impact parameter distributions of $\rho$ meson based on a light-front constituent quark model.

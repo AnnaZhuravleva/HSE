@@ -1,0 +1,1 @@
+We use the Hilbert distance on cones and the Birkhoff-Hopf Theorem to prove decay of correlation, analyticity of the free energy and a central limit theorem in the one dimensional Jellium model with non constant density charge background, both in the classical and quantum cases.

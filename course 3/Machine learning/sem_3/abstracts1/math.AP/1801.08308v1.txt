@@ -1,0 +1,1 @@
+Uniqueness of mass-conserving self-similar solutions to Smoluchowski's coagulation equation is shown when the coagulation kernel $K$ is given by $K(x,x\_*)=2(x x\_*)^{-\alpha}$, $(x,x\_*)\in (0,\infty)^2$, for some $\alpha>0$.

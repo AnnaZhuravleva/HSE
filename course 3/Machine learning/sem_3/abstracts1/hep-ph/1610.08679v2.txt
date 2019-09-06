@@ -1,0 +1,1 @@
+We analize the non-cyclic geometric phase for neutrinos. We find that the geometric phase and the total phase associated to the mixing phenomenon provide a tool to distinguish between Dirac and Majorana neutrinos. Our results hold for neutrinos propagating in vacuum and through the matter. Future experiments, based on interferometry, could reveal the nature of neutrinos.

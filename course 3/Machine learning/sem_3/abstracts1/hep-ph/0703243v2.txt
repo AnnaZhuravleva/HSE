@@ -1,0 +1,1 @@
+We analyse the PVLAS results using a chameleon field whose properties depend on the environment. We find that, assuming a runaway bare potential $V(\phi)$ and a universal coupling to matter, the chameleon potential is such that the scalar field can act as dark energy. Moreover the chameleon field model is compatible with the CAST results, fifth force experiments and cosmology.

@@ -1,0 +1,1 @@
+The presence of an unstable massive spin-2 ghost state in the renormalizable theory of massive conformal gravity leads to a pair of complex poles appearing in the first sheet of the energy plane. Here we show that the positions of these poles are gauge dependent, which makes the theory unitary.

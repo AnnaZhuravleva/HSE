@@ -1,0 +1,1 @@
+I review the present status of the problem of initial conditions for inflation and describe several ways to solve this problem for many popular inflationary models, including the recent generation of the models with plateau potentials favored by cosmological observations.

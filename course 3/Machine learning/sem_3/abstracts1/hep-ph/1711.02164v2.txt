@@ -1,0 +1,1 @@
+We use the method of QCD Sum Rules to estimate the masses of the charm baryon, $\Lambda^+_c$, bottom baryon $\Lambda^0_b$, strange baryon $\Lambda^0_s$ and compare them to their experimental values.

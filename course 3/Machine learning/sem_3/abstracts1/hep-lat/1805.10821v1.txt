@@ -1,0 +1,1 @@
+We propose a way to improve the resolution of the spatial momentum and the time interval for hadron propagators utilizing the lattice geometry. We demonstrate the validity of the method presenting results for pseudoscalar meson energies with and without finite momenta in a large scale quenched QCD simulation. The method should be useful especially for master-field simulations.

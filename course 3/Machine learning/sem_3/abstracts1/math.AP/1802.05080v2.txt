@@ -1,0 +1,1 @@
+In this note we prove an existence result for the Einstein conformal constraint equations for metrics with vanishing Yamabe invariant assuming that the TT-tensor is small in $L^2$.

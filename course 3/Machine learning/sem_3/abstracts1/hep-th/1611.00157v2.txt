@@ -1,0 +1,1 @@
+We review a construction called Non-Perturbative Gauge-Higgs Unification which is a rather rare type of Higgs mechanism that is a pure quantum and bosonic effect. It is constructed on a five-dimensional "orbifold lattice" with SU(2) bulk gauge symmetry and a (spontaneously broken) Abelian-Higgs like theory on the boundaries.

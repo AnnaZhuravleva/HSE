@@ -1,0 +1,1 @@
+Quantum mechanics is not about 'quantum states': it is about values of physical variables. I give a short fresh presentation and update on the $relational$ perspective on the theory, and a comment on its philosophical implications.

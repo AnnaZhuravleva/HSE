@@ -1,0 +1,1 @@
+Almost 50 radio SNR objects were selected from Green's catalogue for continuum and polarization observations. We present preliminary results of this observational campaign at 4.7 GHz carried out with Torun 32-metre radio telescope.

@@ -1,0 +1,1 @@
+This paper is a continuation of arXiv:17.01.02867. We give here rigorous solution of the parametrix problem for Toda rarefaction problem and complete asymptotic analysis, justifying the asymptotics obtained in arXiv:17.01.02867.

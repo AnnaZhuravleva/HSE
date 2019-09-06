@@ -1,0 +1,1 @@
+We present explicit solutions of the signum-Gordon scalar field equation which have finite energy and are periodic in time. Such oscillons have a strictly finite size. They do not emit radiation.

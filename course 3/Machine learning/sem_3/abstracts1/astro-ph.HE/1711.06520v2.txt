@@ -1,0 +1,1 @@
+Understanding signals from neutron stars requires knowledge about the transport inside the star. We review the transport properties and the underlying reaction rates of dense hadronic and quark matter in the crust and the core of neutron stars and point out open problems and future directions.

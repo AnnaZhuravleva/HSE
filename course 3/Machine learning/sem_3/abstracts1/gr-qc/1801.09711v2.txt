@@ -1,0 +1,1 @@
+The superradiant instability of rotating black holes with negative cosmological constant is studied by numerically solving the full 3+1-dimensional Einstein equations. We find evidence for an epoch dominated by a solution with a single helical Killing vector and a multi-stage process with distinct superradiant instabilities.

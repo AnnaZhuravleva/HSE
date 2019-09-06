@@ -1,0 +1,1 @@
+We have searched for pulsed radio emission from magnetar 4U 0142+61 at the frequency of 111 MHz. No pulsed signal was detected from this source. Upper limits for mean flux density are 0.9 - 9 mJy depending on assumed duty cycle (.05 - .5) of the pulsar.

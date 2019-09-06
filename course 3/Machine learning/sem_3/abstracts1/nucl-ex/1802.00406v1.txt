@@ -1,0 +1,1 @@
+We have measured the half-life of 30S, the parent of a superallowed 0+-to-0+ beta transition, to high precision using very pure sources and a 4pi proportional gas counter to detect the decay positrons. Our result for the half-life is 1.17992(34) s. As a byproduct of this measurement, we determined the half-life of its daughter, 30P, to be 2.501(2) min.

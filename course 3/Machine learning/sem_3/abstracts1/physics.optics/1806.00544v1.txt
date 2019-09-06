@@ -1,0 +1,1 @@
+We show that a dynamic gain-loss modulation in an optical structure can lead to a direction-dependent parity-time (PT) phase transition. The phase transition can be made thresholdless in the forward direction, and yet remains with a non-zero threshold in the backward direction. As a result, non-reciprocal directional amplification can be realized.

@@ -1,0 +1,1 @@
+We obtain an analytical expression for the electromagnetic quasinormal spectrum of the higher-dimensional nearly-extremal Schwarzschild-de Sitter black hole. The WKB method is used to verify the results, and a comparison with known results from previous works is briefly made as well.

@@ -1,0 +1,1 @@
+For two bound-state equations derived as simplified forms of the Bethe-Salpeter equation with confining interaction, stability of all solutions is rigorously shown.

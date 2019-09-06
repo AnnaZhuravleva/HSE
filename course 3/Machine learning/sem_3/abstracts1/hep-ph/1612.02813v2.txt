@@ -1,0 +1,1 @@
+We discuss phenomenology of light scalar sgoldstino in context of CERN electron beam dump experiment NA64. We calculate sgoldstino production rate for this experiment taking into account sgoldstino mixing with the Higgs boson and find a region in the model parameter space which can be tested in NA64.

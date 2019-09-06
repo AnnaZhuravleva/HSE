@@ -1,0 +1,1 @@
+In these lecture notes, we present the equations presently used in stellar interior models in order to compute the effects of axial rotation. We discuss the hypotheses made. We suggest that the effects of rotation might play a key role at low metallicity.

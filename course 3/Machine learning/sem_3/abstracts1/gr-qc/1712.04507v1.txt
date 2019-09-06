@@ -1,0 +1,1 @@
+It is shown that the stereographic coordinates on the $(1+3)$-dimensional de Sitter spacetime induce, in the parametric equations of all the timelike geodesics, artificial singularities which do not have any physical motivation.

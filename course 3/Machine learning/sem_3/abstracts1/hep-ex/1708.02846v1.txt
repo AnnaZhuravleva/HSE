@@ -1,0 +1,1 @@
+We report the recent results of charmed baryon decays, based on the data collected by the Belle experiment at the KEKB collider. This includes the observation of the doubly Cabibbo-suppressed decay $\Lambda_c^+\to\pi^-K^+p$, search for the decay $\Lambda_c^+\to\phi p \pi^0$, and the branching fraction measurement of $\Lambda_c^+\to\pi^+K^-p\pi^0$.

@@ -1,0 +1,1 @@
+We propose a method for finding an initial state vector which by ordinary Hamiltonian time evolution follows a single branch of many-worlds quantum mechanics. The resulting deterministic system appears to exhibit random behavior as a result of the successive emergence over time of information present in the initial state but not previously observed.

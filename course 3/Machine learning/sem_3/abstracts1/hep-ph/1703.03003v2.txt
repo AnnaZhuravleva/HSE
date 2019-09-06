@@ -1,0 +1,1 @@
+Following previous work [1], we propose to analyze the rapidity dependence of transverse momentum and transverse-momentum multiplicity correlations. We demonstrate that the orthogonal polynomial expansion of the latter has the potential to discriminate between models of particle production.

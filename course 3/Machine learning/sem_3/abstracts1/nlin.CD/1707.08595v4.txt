@@ -1,0 +1,1 @@
+In this article we synchronize by active control method all 19 identical Sprott systems provided in paper [10]. Particularly, we find the corresponding active controllers as well as we perform (as an example) the numerical synchronization of two Sprott-A models.

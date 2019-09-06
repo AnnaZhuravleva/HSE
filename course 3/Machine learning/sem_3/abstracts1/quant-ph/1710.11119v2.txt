@@ -1,0 +1,1 @@
+Bell's theorem is reformulated and proved in the pure mathematical terms of automata theory, avoiding any physical or ontological notions. It is stated that no pair of finite probabilistic sequential machines can reproduce in its output the statistical results of the quantum-physical Bell test experiment if each machine is independent of the respective remote input.

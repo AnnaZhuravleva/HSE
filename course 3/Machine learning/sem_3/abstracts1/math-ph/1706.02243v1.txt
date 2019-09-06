@@ -1,0 +1,1 @@
+In this paper, we obtain the formula for the Kac determinant of the algebra arising from the level $N$ representation of the Ding-Iohara-Miki algebra. It is also discovered that its singular vectors correspond to generalized Macdonald functions (the q-deformed version of the AFLT basis).

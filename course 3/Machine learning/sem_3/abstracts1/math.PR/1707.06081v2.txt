@@ -1,0 +1,1 @@
+We consider the Activated Random Walk model in any dimension with any sleep rate and jump distribution, and show that the stabilization properties depend only on the average density of particles, regardless of how they are initially located on the lattice.

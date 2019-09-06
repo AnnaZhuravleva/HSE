@@ -1,0 +1,1 @@
+We study formulations of bound state (Bethe-Salpeter) equations on arbitrary Riemannian manifolds. We obtain a hierarchy of equations for multipartice wave functions. These equations, at each number of particles, depend on certain choices of combinatorial origin, which together with the metric, define the equations completely.

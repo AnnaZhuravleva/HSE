@@ -1,0 +1,1 @@
+In this paper we propose and discuss a notion of mass for compact static metrics with positive cosmological constant. As a consequence, we characterise the de Sitter solution as the only static vacuum metric with zero mass. Finally, we show how to adapt our analysis to the case of negative cosmological constant, leading to a uniqueness theorem for the Anti de Sitter spacetime.

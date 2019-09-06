@@ -1,0 +1,1 @@
+We obtain nonperturbative results on the sine-Gordon model using the lattice field technique. In particular, we employ the Fourier accelerated hybrid Monte Carlo algorithm for our studies. We find the critical temperature of the theory based autocorrelation time, as well as the finite size scaling of the "thickness" observable used in an earlier lattice study by Hasenbusch et al.

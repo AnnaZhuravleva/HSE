@@ -1,0 +1,1 @@
+We formulate the worldline quantization of a massive fermion model coupled to external higher spin sources. We use the relations obtained in this way to show that its regularized effective action is endowed with an $L_\infty$ symmetry. The same result holds also for a massive scalar model.

@@ -1,0 +1,1 @@
+Using the gauge-invariant but path-dependent variables formalism, we examine the effect of the space-time dimensionality on a physical observable in the unparticle scenario. We explicitly show that long-range forces between particles mediated by unparticles are still present whenever we go over into lower dimensions.

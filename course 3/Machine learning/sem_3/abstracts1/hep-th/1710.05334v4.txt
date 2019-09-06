@@ -1,0 +1,1 @@
+We investigate the bounce solutions in vacuum decay problems. We show that it is possible to have a stable false vacuum in a potential that is unbounded from below.

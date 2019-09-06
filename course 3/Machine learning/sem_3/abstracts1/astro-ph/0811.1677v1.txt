@@ -1,0 +1,1 @@
+We present a fast, arbitrarily accurate method to simulate the effect of gravitational lensing of the Cosmic Microwave Background anisotropies and polarization fields by large scale structures. We demonstrate the efficiency and accuracy of the method and exhibit their dependence on the algorithm parameters.

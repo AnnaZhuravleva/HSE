@@ -1,0 +1,1 @@
+We describe the emission properties of blazars, i.e. the AGNs that, due to their peculiar orientation w.r.t. the observer, allow the most penetrating and direct view of their central engine. After showing that the extragalactic GeV-TeV sky is dominated by blazars of various types, we discuss the kind of blazars that are likely to be jointly detected by AGILE and MAGIC.

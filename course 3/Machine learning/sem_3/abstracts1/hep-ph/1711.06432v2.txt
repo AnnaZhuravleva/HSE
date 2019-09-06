@@ -1,0 +1,1 @@
+We derive a positivity bound on the right-chiral tensor coupling Im $g_R$ in polarized top quark decay by analyzing the angular decay distribution of the three-body polarized top quark decay $t(\uparrow)\to b+\ell^+ +\nu_\ell$ in NLO QCD. We obtain the bound $-0.0420 \le$ Im $g_R \le 0.0420$.

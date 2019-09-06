@@ -1,0 +1,1 @@
+We study the thermodynamics of the `ungauged' D0-brane matrix model by Monte Carlo simulation. Our results appear to be consistent with the conjecture by Maldacena and Milekhin.

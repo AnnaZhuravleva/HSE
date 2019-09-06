@@ -1,0 +1,1 @@
+The purpose of this paper is to provide a cohomology of $n$-Hom-Leibniz algebras. Moreover, we study some higher operations on cohomology spaces and deformations.

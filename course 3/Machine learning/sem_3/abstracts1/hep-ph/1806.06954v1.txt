@@ -1,0 +1,1 @@
+We compute the $\beta$-function for a massless Yukawa theory in a closed form at the order $\mathcal{O}(1/N_f)$ in the spirit of the expansion in a large number of flavours $N_f$. We find an analytic expression with a finite radius of convergence, and the first singularity occurs at the coupling value $K=3$.

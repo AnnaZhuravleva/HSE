@@ -1,0 +1,1 @@
+We present Bernstein-Sato identities for scalar-, spinor- and differential form-valued distribution kernels on Euclidean space associated to conformal symmetry breaking operators. The associated Bernstein-Sato operators lead to partially new formulae for conformal symmetry breaking differential operators on functions, spinors and differential forms.

@@ -1,0 +1,1 @@
+We linearize vacuum Einstein field equations with a cosmological constant around a curved background to elaborate on the reconstruction of the Abbott-Deser charges and incorporate a spin connection into the definition using the algebra of differential forms on a given curved background spacetime.

@@ -1,0 +1,1 @@
+The small oscillations of an arbitrary scleronomous system subject to time-independent non dissipative forces are discussed. The linearized equations of motion are solved by quadratures. As in the conservative case, the general integral is shown to consist of a superposition of harmonic oscillations. A complexification of the resolving algorithm is presented.

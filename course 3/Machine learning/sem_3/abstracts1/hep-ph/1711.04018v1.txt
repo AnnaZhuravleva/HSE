@@ -1,0 +1,1 @@
+As active data taking has moved to the LHC at CERN, more and more LHC data have been included into fits of parton distribution functions. An anomaly has arisen where formerly excellent agreement between theoretical predictions and experiment in single-top-quark production at the Tevatron is no longer quite as good. Is this indicative of a deeper issue?

@@ -1,0 +1,1 @@
+The aim of the presented research is to give a rigorous mathematical approach to Feynman path integrals based on strong (pathwise) approximations based on simple random walks.

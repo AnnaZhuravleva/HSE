@@ -1,0 +1,1 @@
+We show that not all quasinormal modes of a massless scalar field in the Schwarzschild metric are encoded in the corresponding characteristic equation expressed by means of a continued fraction. We provide an analytical formula for these new hitherto missing quasinormal modes, and in doing that we also construct a generalization of the Gauss convergence criterion.

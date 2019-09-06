@@ -1,0 +1,1 @@
+We derive an explicit formula for the scalar curvature over a two-torus with a Dirac operator conformally rescaled by a globally diagonalizable matrix. We show that the Gauss-Bonnet theorem holds and extend the result to all Riemann surfaces with Dirac operators modified in the same way.

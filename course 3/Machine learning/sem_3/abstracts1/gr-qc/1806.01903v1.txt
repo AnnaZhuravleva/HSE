@@ -1,0 +1,1 @@
+A regular rotating MOG compact object is derived that reduces to the Kerr black hole when the parameter $\alpha=0$. Physical consequences of the dark compact object, which is regular everywhere in spacetime for $\alpha > \alpha_{\rm crit}=0.674$ and is a rotating Kerr-MOG black hole for $\alpha < \alpha_{\rm crit}$ are investigated.

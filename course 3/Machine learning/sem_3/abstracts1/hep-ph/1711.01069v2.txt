@@ -1,0 +1,1 @@
+Experimental observations at the LHC of the collective effects in small systems such as $pp$--scattering suggest introduction of the centrality variable to classify collision events similar to the case of nucleus--nucleus collisions. We discuss this issue with reference to the existing measurements at the LHC and the asymptotical energy region.

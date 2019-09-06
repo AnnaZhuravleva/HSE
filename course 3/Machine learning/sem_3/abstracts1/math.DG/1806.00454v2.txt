@@ -1,0 +1,1 @@
+We study a Hamiltonian function on the cotangent bundle of the space of Riemannian metrics on a 3-manifold $M$ and prove the constrained Hamiltonian dynamics produces (Ricci-flat) $G_2$-manifolds foliated by hypersurfaces diffeomorphic to $M\times \mathrm{SO}(3)$.

@@ -1,0 +1,1 @@
+We study the Riemann-Hilbert problems associated to the Donaldson-Thomas theory of the resolved conifold. We give explicit solutions in terms of the Barnes double and triple sine functions. We show that the corresponding tau function is a non-perturbative partition function, in the sense that its asymptotic expansion coincides with the topological string partition function.

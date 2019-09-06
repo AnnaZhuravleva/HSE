@@ -1,0 +1,1 @@
+We give a detailed analysis of an abelianized gauge field model in which a Rarita-Schwinger spin-$\frac{3}{2}$ field is directly coupled to a spin-$\frac{1}{2}$ field. The model permits a perturbative expansion in powers of the gauge field coupling, and from the Feynman rules for the model we calculate the chiral anomaly.

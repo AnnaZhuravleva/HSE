@@ -1,0 +1,1 @@
+We obtain the renormalization group improved expressions of the Wilson coefficients associated to the ${\cal O}(1/m^3)$ spin-dependent heavy quark effective theory Lagrangian operators, with leading logarithmic approximation, in the case of zero light quarks. We have employed the Coulomb gauge.

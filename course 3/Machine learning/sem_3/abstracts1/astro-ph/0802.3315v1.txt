@@ -1,0 +1,1 @@
+We present a grid of stellar models, obtained with the CLES evolution code, following the specification of ESTA-Task1, and the corresponfing seismic properties, computed with the LOSC code. We provide a complete description of the corresponding files that will be available on the ESTA web-pages.

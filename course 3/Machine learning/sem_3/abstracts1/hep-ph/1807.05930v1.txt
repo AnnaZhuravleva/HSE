@@ -1,0 +1,1 @@
+I report on progress in the calculation of one-loop amplitudes with a space-like gluon. Amplitudes with space-like partons are relevant for factorization procedure s that require initial-state partons with non-vanishing transverse momentum components.

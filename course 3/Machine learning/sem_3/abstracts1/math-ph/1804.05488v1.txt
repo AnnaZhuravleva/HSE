@@ -1,0 +1,1 @@
+We show that the scattering matrix for a class of Schr\"odinger-type operators with long-range perturbations is a Fourier integral operator with the phase function which is the generating function of the modified classical scattering map.

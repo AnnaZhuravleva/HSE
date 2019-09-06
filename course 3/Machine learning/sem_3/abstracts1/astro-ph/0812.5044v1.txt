@@ -1,0 +1,1 @@
+We recalibrate a standard solar model seismologically to estimate the main-sequence age of the Sun. Our procedure differs from what we have done in the past by removing from the observed frequencies the effect of hydrogen ionization and the superadiabatic convective boundary layer. Our preliminary result is $t_\odot=4.63 \pm 0.02$ Gy.

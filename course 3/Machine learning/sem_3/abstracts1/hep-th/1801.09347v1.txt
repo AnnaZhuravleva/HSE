@@ -1,0 +1,1 @@
+We review the topological structure, sitting in any supergravity theory, which has been recently discovered in arXiv: 1801.04940. We describe how such a structure allows for a cohomological reformulation of the generalized Killing spinor equations which characterize bosonic supergravity solutions with unbroken supersymmetry.

@@ -1,0 +1,1 @@
+We show how the theory of $\mathbb{Z}_2^n$ -manifolds - which are a non-trivial generalisation of supermanifolds - may be useful in a geometrical approach to mixed symmetry tensors such as the dual graviton. The geometric aspects of such tensor fields on both flat and curved space-times are discussed.

@@ -1,0 +1,1 @@
+CCD UBVRI photometry is presented for type II SN 2004dj for about 1200 days, starting day 2 past discovery. The photometric behaviour is typical for SNe II-P, although some minor peculiarities are noticed. We compare the photometric data for the host cluster S96 before and after SN 2004dj outburst and do not find any significant changes.

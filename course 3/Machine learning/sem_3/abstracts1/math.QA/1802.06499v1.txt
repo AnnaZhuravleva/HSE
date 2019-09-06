@@ -1,0 +1,1 @@
+We consider the trigonometric classical $r$-matrix for $\mathfrak{gl}_N$ and the associated quantum Gaudin model. We produce higher Hamiltonians in an explicit form by applying the limit $q\to 1$ to elements of the Bethe subalgebra for the $XXZ$ model.

@@ -1,0 +1,1 @@
+We develop an alternative description of the procedure of vertical integration based on the observation that amplitudes can be written in BRST exact form in the large Hilbert space. We relate this approach to the description of vertical integration given by Sen and Witten.

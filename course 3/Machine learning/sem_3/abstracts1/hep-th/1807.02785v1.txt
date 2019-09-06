@@ -1,0 +1,1 @@
+We initiate a study of an infinite set of renormalization group flows with accidental supersymmetry enhancement. The ultraviolet fixed points are strongly interacting four-dimensional $\mathcal{N}=2$ superconformal field theories (SCFTs) with no known Lagrangian descriptions, and the infrared fixed points are SCFTs with thirty-two (Poincar\'e plus special) supercharges.

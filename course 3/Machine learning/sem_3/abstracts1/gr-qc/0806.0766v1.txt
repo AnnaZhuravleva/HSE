@@ -1,0 +1,1 @@
+In the context of modified gravity, we point out how the Palatini version of these theories is singled out as a very special case corresponding to the unique fixed point of a transformation involving a special conformal rescaling of the metric. This mathematical peculiarity signals deeply rooted problems which make the theory unphysical.

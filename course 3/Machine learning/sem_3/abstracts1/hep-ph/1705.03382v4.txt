@@ -1,0 +1,1 @@
+In this paper we revisit the idea of measuring the magnetic dipole moments of the charm baryons and, in particular, of charmed Lambda by studying the spin precession induced by the strong effective magnetic field inside the channels of a bent crystal. We present a detailed sensitivity study showing the feasibility of such an experiment at the LHC in the coming years.

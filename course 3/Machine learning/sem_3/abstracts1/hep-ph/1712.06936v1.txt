@@ -1,0 +1,1 @@
+The graviton solutions for the glueball spectrum of ref. \cite{Rinaldi:2017wdn} interpreted in a different manner lead to very interesting results which we describe in this comment.

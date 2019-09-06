@@ -1,0 +1,1 @@
+The high energy neutrino telescope NT200+ is currently in operation in Lake Baikal. We review the status of the Baikal the Baikal Neutrino Telescope, and describe recent progress on key components of the next generation kilometer-cube (km3) Lake Baikal detector, like investigation of new large area phototubes, integrated into the telescope.

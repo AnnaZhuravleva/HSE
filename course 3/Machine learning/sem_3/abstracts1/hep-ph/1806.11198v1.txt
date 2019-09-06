@@ -1,0 +1,1 @@
+We show that if global lepton number symmetry is spontaneously broken in a post inflation epoch, then it can lead to the formation of cosmological domain walls. This happens in the well-known "majoron paradigm" for neutrino mass generation. We propose some realistic examples which allow spontaneous lepton number breaking to be safe from such domain walls.

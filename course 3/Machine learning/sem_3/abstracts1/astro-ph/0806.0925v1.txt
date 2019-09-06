@@ -1,0 +1,1 @@
+During our Swift/XRT program to obtain X-ray positions at arcsecond level for a sample of Galactic X-ray binaries, we discovered that SAX J0840.7+2248 is not a binary, but rather BeppoSAX/WFC+GRBM X-ray Rich GRB 980429. Here we report on this discovery and on the properties of this long, X-ray rich gamma-ray burst, from prompt to (very) late followup.

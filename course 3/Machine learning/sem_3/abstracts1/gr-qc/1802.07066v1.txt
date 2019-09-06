@@ -1,0 +1,1 @@
+We write the known invariant definition of the Szekeres-Szafron family of solutions in an intrinsic, deductive, explicit and algorithmic form. We also intrinsically characterize the two commonly considered subfamilies, and analyze other subclasses, also defined by first-order differential conditions. Furthermore, we present a Rainich-like approach to these metrics.

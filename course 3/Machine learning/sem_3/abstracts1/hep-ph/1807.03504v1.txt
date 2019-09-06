@@ -1,0 +1,1 @@
+Assuming that a single-flavor diffuse neutrino flux dN_nu/dE_nu is equal to k*E_nu^(-2) in the energy range 10^(17) eV - 2.5*10^(19) eV, an upper bound on k is calculated in the ADD model as a function of the number of extra dimensions n and gravity scale M_D. An expected number of neutrino induced events at the Surface Detector array of the Pierre Auger Observatory is estimated.

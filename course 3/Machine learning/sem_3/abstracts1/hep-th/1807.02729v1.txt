@@ -1,0 +1,1 @@
+[French] We develop new applications of Sklyanin's $K$-matrix formalism to the study of periodic solutions of the sinh-Gordon equation.

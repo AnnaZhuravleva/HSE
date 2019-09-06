@@ -1,0 +1,1 @@
+We continue our study of the Einstein-Dirac-Born-Infeld system as started in \cite{Pal:2012zn}. In this paper, we studied the thermodynamical aspect of the black hole by keeping the horizon as planar in the grand canonical ensemble. In particular, we obtain the first law of thermodynamics and the Smarr type relation. Also, studied the thermodynamic stability.

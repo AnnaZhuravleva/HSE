@@ -1,0 +1,1 @@
+We analyse the high-energy limit of the gluon-gluon scattering amplitude in QCD, and display an intriguing relation between the finite parts of the one-loop gluon impact factor and the finite parts of the two-loop Regge trajectory.

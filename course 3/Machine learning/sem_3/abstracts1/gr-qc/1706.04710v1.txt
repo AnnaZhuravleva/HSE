@@ -1,0 +1,1 @@
+We find a crucial miscalculation in [arXiv:1501.00365 [gr-qc]] which leads to the wrong master equation. This follows that there is no wormhole-like solution for hyperbolic scalar potential and the solution at large distances differs from that of [arXiv:1501.00365 [gr-qc]].

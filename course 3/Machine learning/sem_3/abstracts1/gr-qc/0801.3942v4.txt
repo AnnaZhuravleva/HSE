@@ -1,0 +1,1 @@
+Applying the Thomas-Fermi approximation to renormalizable field theories, we construct ghost condensation models that are free of the instabilities associated with violations of the null-energy condition.

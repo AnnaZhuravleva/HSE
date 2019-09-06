@@ -1,0 +1,1 @@
+We consider a simple modification of the quadratic chaotic inflation. We add a logarithmic correction to a mass term, and find that this model can be consistent with latest cosmological observations such as the Planck. Moreover, it could be tested by future CMB polarization observations.

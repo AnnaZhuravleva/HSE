@@ -1,0 +1,1 @@
+A Lorentz invariant version of a mass-gap graphene-like planar quantum electrodynamics, the parity-preserving $U(1)\times U(1)$ massive QED$_3$, exhibits attractive interaction in low-energy electron-polaron--electron-polaron s-wave scattering, favoring quasiparticles bound states, the s-wave bipolarons.

@@ -1,0 +1,1 @@
+In this document, we present the global QCD analysis of parton-to-kaon fragmentation functions at next-to-leading order accuracy using the latest experimental information on single-inclusive kaon production in electron-positron annihilation, lepton-nucleon deep-inelastic scattering, and proton-proton collisions. An extended analysis of this work can be found in Ref.[1].

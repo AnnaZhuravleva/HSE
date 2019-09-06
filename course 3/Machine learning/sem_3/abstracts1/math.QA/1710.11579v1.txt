@@ -1,0 +1,1 @@
+We construct the Heisenberg counterpart of a Clifford categorification. It is a modification of Khovanov's Heisenberg categorification. We express generators of the Heisenberg category as a complex of generators of the Clifford category. Certain vertex operators associated to the Clifford algebra are lifted to endofunctors of the Fock space categorification.

@@ -1,0 +1,1 @@
+We consider Schr\"odinger operators with a random potential which is the square of an alloy-type potential. We investigate their integrated density of states and prove Lifshits tails. Our interest in this type of models is triggered by an investigation of randomly twisted waveguides.

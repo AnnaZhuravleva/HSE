@@ -1,0 +1,1 @@
+By extending the Lichnerowicz and Israel theorems, William Nelson have demonstrated that the Schwarzschild solution is the \emph{unique} static, spherically symmetric, and asymptotically flat black hole solution in the Starobinsky model of gravity. In this paper, we back up and extend this conclusion by using the Taylor series expansion method.

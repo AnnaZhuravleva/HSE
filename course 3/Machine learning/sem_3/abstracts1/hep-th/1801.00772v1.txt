@@ -1,0 +1,1 @@
+We consider linearised Vasiliev's equations around the background AdS field in three dimensions for the scalar-scalar-higher spin field correlation function. Relating this with the higher spin field determined in the metric formulation allows determination of the corresponding coupling coefficient. The result agrees with the analogous computation for the spin three field.

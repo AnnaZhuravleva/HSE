@@ -1,0 +1,1 @@
+I will discuss, from a dynamical systems point of view, some recent attempts to rigorously derive the macroscopic laws of transport (e.g. the heat equation) from deterministic microscopic dynamics.

@@ -1,0 +1,1 @@
+We analyze the simple model of a rigid rotor with $C_{3}$ symmetry and show that the use of parity simplifies considerably the calculation of its eigenvalues. We also consider a non-Hermitian space-time-symmetric counterpart that exhibits real eigenvalues and determine the exceptional point at which the antiunitary symmetry is broken.

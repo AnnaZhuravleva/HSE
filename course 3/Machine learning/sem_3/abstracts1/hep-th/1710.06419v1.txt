@@ -1,0 +1,1 @@
+We use the method of asymptotic expansions to study the OPE limit of a four-point function of protected operators in N=4 SYM. We use a new method for evaluating the resulting propagator-type integrals and then extract the OPE coefficient with Konishi at the five loop order.

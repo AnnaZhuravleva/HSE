@@ -1,0 +1,1 @@
+In these pedagogical notes I introduce the operator form of Wick's theorem, i.e. a procedure to bring to normal order a product of 1-particle creation and destruction operators, with respect to some reference many-body state. Both the static and the time- ordered cases are presented.

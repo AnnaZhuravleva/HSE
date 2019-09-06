@@ -1,0 +1,1 @@
+We give a review on the thermal average of the annihilation cross-sections for $3\rightarrow 2$ and general higher-order processes. Thermal average of higher order annihilations highly depend on the velocity of dark matter, especially, for the case with resonance poles. We show such examples for scalar dark matter in gauged $Z_3$ models.

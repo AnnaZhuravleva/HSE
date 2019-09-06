@@ -1,0 +1,1 @@
+A Born-Infeld theory has been proposed in order to explain both dark matter and dark energy. We show that the approximation used to deduce the flat rotation curves in this model breaks down at large distances in a spherically symmetric configuration.

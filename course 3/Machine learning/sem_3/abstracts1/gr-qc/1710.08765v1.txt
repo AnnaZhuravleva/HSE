@@ -1,0 +1,1 @@
+In conventional gravitational wave scattering theory, a large-distance asymptotic approximation is employed. In this approximation, the gravitational wave is approximated by its large-distance asymptotics. In this paper, we establish a rigorous gravitational wave scattering theory without the large-distance asymptotic approximation.

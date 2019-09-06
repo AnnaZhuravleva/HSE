@@ -1,0 +1,1 @@
+We show that the bulk-edge correspondence for two-dimensional type A and type AII topological insulators follows directly from the cobordism invariance of the index.

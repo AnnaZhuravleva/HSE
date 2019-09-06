@@ -1,0 +1,1 @@
+Partition functions can be calculated by saddle point approximations whenever regular solutions exist, as they dominate the path integral. We examine a regular Taub-Bolt dyon of Einstein-Born-Infeld theory which has electric and magnetic flux proportional to each other. Magnetic flux is found to be essentially a winding number and the electric flux turns out to be indexed by it.

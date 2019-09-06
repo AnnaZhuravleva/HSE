@@ -1,0 +1,1 @@
+We study the Riemann-Hilbert problem attached to an uncoupled BPS structure proposed by Bridgeland in [3]. We show that it has "essentially" unique meromorphic solutions given by a product of Gamma functions. We reconstruct the corresponding connection.

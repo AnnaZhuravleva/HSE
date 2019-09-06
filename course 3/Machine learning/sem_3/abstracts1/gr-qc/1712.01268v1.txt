@@ -1,0 +1,1 @@
+The exact interior static solution of Einstein-Maxwell equations in Bondi's coordinates for the electrically charged fluid ball is obtained as a source of the Reissner-Nordstr\"om solution.

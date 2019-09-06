@@ -1,0 +1,1 @@
+We present the results of radio observations, taken primarily with the Very Large Array, of Supernovae 1993J, 2001gd, 2001em, 2002hh, 2004dj, and 2004et. We have fit a parameterized model to the multi-frequency observations of each supernova. We compare the observed and derived radio properties of these supernovae by optical classification and discuss the implications.

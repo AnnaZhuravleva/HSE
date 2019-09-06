@@ -1,0 +1,1 @@
+We present the results of new high resolution ATCA observations of SNR J0519-6926. We found that this SNR exhibits a typical "horseshoe" appearance with alpha = -0.55 +- 0.08 and D=28+-1 pc. No polarization (or magnetic fields) are detected to a level of 1%. This is probably due to a relatively poor sampling of the uv plane caused be observing in "snap-shot" mode.

@@ -1,0 +1,1 @@
+We consider steady three-dimensional gravity-capillary water waves with vorticity propagating on water of finite depth. We prove a variational principle for doubly periodic waves with relative velocities given by Beltrami vector fields, under general assumptions on the wave profile.

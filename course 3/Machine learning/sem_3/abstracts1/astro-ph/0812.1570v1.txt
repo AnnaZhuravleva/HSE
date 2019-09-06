@@ -1,0 +1,1 @@
+Torsion oscillations of the neutron star crust are Landau damped by the Alfven continuum in the bulk. For strong magnetic fields (in magnetars), undamped Alfven eigenmodes appear.

@@ -1,0 +1,1 @@
+We study quantum corrections to projectable Horava gravity with $z = 2$ scaling in 2+1 dimensions. Using the background field method, we utilize a non-singular gauge to compute the anomalous dimension of the cosmological constant at one loop, in a normalization adapted to the spatial curvature term.

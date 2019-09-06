@@ -1,0 +1,1 @@
+An exact solution of the vacuum Einstein equations with a cosmological constant is exhibited which can perhaps be used to describe the interior of compact rotating objects. The physical part of this solution has the topology of a torus, which may shed light on the origin of highly collimated jets from compact objects.

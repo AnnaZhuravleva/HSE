@@ -1,0 +1,1 @@
+We investigate if the topology of pure gauge fields in the electroweak vacuum can play a role in classical dynamics at the electroweak phase transition. Our numerical analysis shows that magnetic fields are produced if the initial vacuum has non-trivial Chern-Simons number, and the fields are helical if the Chern-Simons number changes during the phase transition.

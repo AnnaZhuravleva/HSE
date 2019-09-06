@@ -1,0 +1,1 @@
+This paper continues the study of large time behavior of a nonlinear quantum walk begun in arXiv:1801.03214. In this paper, we provide a weak limit theorem for the distribution of the nonlinear quantum walk. The proof is based on the scattering theory of the nonlinear quantum walk and the limit distribution is obtained in terms of its asymptotic state.

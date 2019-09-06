@@ -1,0 +1,1 @@
+We theoretically study the phase sensitivity of an SU(1,1) interferometer with a thermal state and squeezed vacuum state as inputs and parity detection as measurement. We find that phase sensitivity can beat the shot-noise limit and approaches the Heisenberg limit with increasing input photon number.

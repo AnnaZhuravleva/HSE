@@ -1,0 +1,1 @@
+In this article, we make a generalization of classical fixed point theorems by using the concept of half-continuity and then apply it to improve the nonuniqueness result for solutions to the vacuum Einstein conformal equations shown by the author in arxiv.org/abs/1507.01081

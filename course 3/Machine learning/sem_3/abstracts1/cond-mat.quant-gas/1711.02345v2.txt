@@ -1,0 +1,1 @@
+We derive an integral equation describing $N$ two-dimensional bosons with zero-range interactions and solve it for the ground state energy $B_N$ by applying a stochastic diffusion Monte Carlo scheme for up to 26 particles. We confirm and go beyond the scaling $B_N\propto 8.567^N$ predicted by Hammer and Son [Phys. Rev. Lett. {\bf 93}, 250408 (2004)] in the large-$N$ limit.

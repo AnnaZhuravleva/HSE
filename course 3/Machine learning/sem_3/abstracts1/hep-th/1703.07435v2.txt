@@ -1,0 +1,1 @@
+We show that a recently conjectured form for perturbative supersymmetric partition functions on spheres of general dimension $d$ is consistent with the flat space limit of 6-dimensional $\mathcal{N}=1$ super Yang-Mills. We also show that the partition functions for $\mathcal{N}=1$ 8- and 9-dimensional theories are consistent with their known flat space limits.

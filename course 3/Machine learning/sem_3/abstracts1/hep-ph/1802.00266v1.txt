@@ -1,0 +1,1 @@
+The Covariant Spectator Theory is applied to the description of quarks and the pion. The dressed quark mass function is calculated dynamically in Minkowski space and used in the calculation of the pion electromagnetic form factor. The effects of the mass function on the pion form factor and the different quark-pole contributions to the triangle diagram are analyzed.

@@ -1,0 +1,1 @@
+We calculated the coupling coefficients for non-linear, quasi-local oscillatory modes of thin accretion disks. We found that several of them are non-zero. Mode coupling is a necessary condition for a resonance, and thus our results may be relevant for the recently discussed QPO resonance model.

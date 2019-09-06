@@ -1,0 +1,1 @@
+We investigate the concept of $q$-replicated arguments in symmetric functions with its connection to spectral functions of hyperbolic geometry. This construction suffices for vector generation functions in the form of $q$-series, and string theory. We hope that the mathematical side of the construction can be enriched by ideas coming from physics.

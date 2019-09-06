@@ -1,0 +1,1 @@
+The family of unitary non-equivalent Weyl-Stratonovich kernels determining the Wigner probability distribution function of an arbitrary N-level quantum system is constructed.

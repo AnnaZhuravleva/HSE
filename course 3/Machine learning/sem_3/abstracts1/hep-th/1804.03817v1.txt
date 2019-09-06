@@ -1,0 +1,1 @@
+In this article, we define the Pauli Hamiltonian function for twist-deformed N-enlarged Newton-Hooke space-time provided in article [12]. Further, we derive its energy spectrum, i.e., we find the corresponding eigenvalues as well as the proper eigenfunctions.

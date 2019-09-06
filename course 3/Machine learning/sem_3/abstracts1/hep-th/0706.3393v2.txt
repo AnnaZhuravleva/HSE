@@ -1,0 +1,1 @@
+An explicitly covariant formulation is presented of a modified DGP scenario proposed recently [1], to avoid the instability of the self-accelerating branch. It is based on the introduction of a bulk scalar field with appropriate non-minimal coupling to the bulk Einstein-Hilbert term. The method is general and may be applied to other models as well.

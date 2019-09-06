@@ -1,0 +1,1 @@
+We conjecture a formula which expresses charges of infinitely long states of the Heisenberg spin-1/2 chain model. Several arguments are provided which support the proposal.

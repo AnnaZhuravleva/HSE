@@ -1,0 +1,1 @@
+This article addresses the large data global regularity for the equivariant case of the $2+1$-dimensional Faddeev model and shows that it holds true for initial data in $H^s\times H^{s-1}(\mathbb{R}^2)$ with $s>3$.

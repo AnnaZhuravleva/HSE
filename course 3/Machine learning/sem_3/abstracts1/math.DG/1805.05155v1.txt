@@ -1,0 +1,1 @@
+In the spirit of Otal and Croke, we prove that a negatively-curved asymptotically hyperbolic surface is boundary distance rigid, where the distance between two points on the boundary at infinity is defined by a renormalized quantity.

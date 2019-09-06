@@ -1,0 +1,1 @@
+Multi-particle scattering states are constructed for massive Wigner particles in the general operator-algebraic setting of wedge-local quantum field theory. The apparent geometrical restriction of the conventional wedge-local Haag-Ruelle argument to two-particle scattering states is overcome with a swapping symmetry argument based on wedge duality.

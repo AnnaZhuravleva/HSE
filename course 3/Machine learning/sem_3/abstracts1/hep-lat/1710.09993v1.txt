@@ -1,0 +1,1 @@
+Tensor Network methods have been established as a powerful technique for simulating low dimensional strongly-correlated systems for over two decades. Employing the formalism of Matrix Product States, we investigate the phase diagram of the massive Thirring model. We also show the possibility of studying soliton dynamics and topological phase transition via the Thirring model.

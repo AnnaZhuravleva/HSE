@@ -1,0 +1,1 @@
+It is well known that related with the irreducible representations of the Lie group $SO(2)$ we find a discrete basis as well a continuous one. In this paper we revisited this situation under the light of Rigged Hilbert spaces, which are the suitable framework to deal with both discrete and bases in the same context and in relation with physical applications.

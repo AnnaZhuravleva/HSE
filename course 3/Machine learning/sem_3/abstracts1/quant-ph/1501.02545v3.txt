@@ -1,0 +1,1 @@
+The quantum discord was introduced by Ollivier, Zurek, Henderson and Vedral as an indicator of the degree of quantumness of mixed states. In this paper, we give out the decomposition condition of quantum discords. Moreover, we show that under the condition, the quantum correlations between the quantum systems can be captured completely by the entanglement measure.

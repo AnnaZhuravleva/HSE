@@ -1,0 +1,1 @@
+In classical mechanics well-known cryptographic algorithms and protocols can be very useful for construction canonical transformations preserving form of Hamiltonians. We consider application of a standard generic divisor doubling for construction of new auto B\"{a}cklund transformations for the Lagrange top and H\'{e}non-Heiles system separable in parabolic coordinates.

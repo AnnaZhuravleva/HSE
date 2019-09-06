@@ -1,0 +1,1 @@
+B-Pol is a medium-class space mission aimed at detecting the primordial gravitational waves generated during inflation through high accuracy measurements of the Cosmic Microwave Background (CMB) polarization. We discuss the scientific background, feasibility of the experiment, and implementation developed in response to the ESA Cosmic Vision 2015-2025 Call for Proposals.

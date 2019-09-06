@@ -1,0 +1,1 @@
+I briefly discuss some theoretical aspects of top mass measurements at the LHC. In particular, I illustrate a recent theoretical study performed using next-to-leading order (NLO) calculations interfaced to shower generators (NLO+PS) of increasing accuracy, interfaced to both Pythia8 and Herwig7 Monte Carlo generators.

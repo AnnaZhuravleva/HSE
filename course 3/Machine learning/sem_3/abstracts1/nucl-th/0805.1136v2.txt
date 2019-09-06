@@ -1,0 +1,1 @@
+Using elementary geometric tools, we apply essentially the same methods to derive expressions for the rotation angle of the swing plane of Foucault's pendulum and the rotation angle of the spin of a relativistic particle moving in a circular orbit (Thomas precession effect).

@@ -1,0 +1,1 @@
+We give 4 formulations of the Modified KP hierarchy and show that they are equivalent. We also discuss the reductions of the MKP hierarchy to the modified $n$-KdV hierarchies. As a byproduct, we find an astonishingly simple explicit description of all polynomial tau-functions of the KP, the MKP and the $n$-KdV hierarchies, and (implicitly) also for the modified $n$-KdV hierarchy.

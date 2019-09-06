@@ -1,0 +1,1 @@
+We extend the optimal filtering equation known from the Stratonovich filtering theory on the quantum process case. The used observation model is based on an indirect measurement method, where the measurement is performed on an ancilla system that is interacted with an unknown one. Observation model for single qudit system is proposed.

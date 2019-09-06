@@ -1,0 +1,1 @@
+Bell's inequality has been derived several times from quite different basic assumptions, which imply different conclusions. This resulted into widespread confusion regarding the exact implications of the experimental violations of the inequality. In this article, the structures of Bell's and of Peres' derivations are analyzed, and the title question is explicitly answered.

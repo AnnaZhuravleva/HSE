@@ -1,0 +1,1 @@
+We characterise continuity of composition operators on weighted spaces of holomorphic functions $H_{v}(B_{X})$, where $B_{X}$ is the open unit ball of a Banach space which is homogeneous, that is, a $JB^{\ast}-$triple.

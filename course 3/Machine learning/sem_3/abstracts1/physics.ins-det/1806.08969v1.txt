@@ -1,0 +1,1 @@
+This paper presents a readout system designed for testing the prototype of Small-Strip Thin Gap Chamber (sTGC), which is one of the main detector technologies used for ATLAS New-Small-Wheel Upgrade. This readout system aims at testing one full-size sTGC quadruplet with cosmic muon triggers.

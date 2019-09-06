@@ -1,0 +1,1 @@
+The paper has been withdrawn because double checking and comparison with other data sets after the original submission showed that a broken R-band filter at the Maidanak telescope had affected our quasar monitoring observations in the years 2004 and 2005. They had led to partially spurious measurements, hence our original analysis and conclusions are not reliable.

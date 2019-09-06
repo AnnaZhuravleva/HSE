@@ -1,0 +1,1 @@
+We show that a conformal anomaly in Weyl/Dirac semimetals generates a bulk electric current perpendicular to a temperature gradient and the direction of a background magnetic field. The associated conductivity of this novel contribution to the Nernst effect is fixed by a beta function associated with the electric charge renormalization in the material.

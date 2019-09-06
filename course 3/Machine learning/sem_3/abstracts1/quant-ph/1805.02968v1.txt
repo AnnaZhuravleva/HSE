@@ -1,0 +1,1 @@
+We propose a novel version of the dissipative Gross--Pitaevski equation and examine its properties. In contrast to previous proposals our approach, based on the metriplectic formulation of the dissipative system dynamics, conserves the number of particles in the system.

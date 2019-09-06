@@ -1,0 +1,1 @@
+We give an explicit formula for the Gauss-Bonnet-Chern mass of an asymptotically flat graphical manifold of arbitrary codimension and use it to prove the positive mass theorem and the Penrose inequality for graphs with flat normal bundle.

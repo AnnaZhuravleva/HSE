@@ -1,0 +1,1 @@
+This is a written version of a series of lectures aimed at undergraduate students in astrophysics/particle theory/particle experiment. We summarize the important progress made in recent years towards understanding high energy astrophysical processes and we survey the state of the art regarding the concordance model of cosmology.

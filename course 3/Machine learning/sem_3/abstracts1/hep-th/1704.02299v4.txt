@@ -1,0 +1,1 @@
+We introduce a $Sim(2)$ invariant dimensional regularization of loop integrals. Then we compute the one loop quantum corrections to the photon self energy, electron self energy and vertex in the Electrodynamics sector of the Very Special Relativity Standard Model(VSRSM).

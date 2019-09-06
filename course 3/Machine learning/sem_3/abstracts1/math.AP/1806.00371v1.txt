@@ -1,0 +1,1 @@
+We show existence of interfaces between two anisotropic materials so that light is refracted in accordance with a given pattern of energy. To do this we formulate a vector Snell law for anisotropic media when the wave fronts are given by norms for which the corresponding unit spheres are strictly convex.

@@ -1,0 +1,1 @@
+These are lecture notes on Floer and Rabinowitz-Floer homology written for a graduate course at UNICAMP August-December 2016 and a mini-course held at IMPA in August 2017.

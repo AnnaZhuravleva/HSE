@@ -1,0 +1,1 @@
+IceCube is a cubic kilometer neutrino telescope under construction at the South Pole. The primary goal is to discover astrophysical sources of high energy neutrinos. We describe the detector and present results on atmospheric muon neutrinos from 2006 data collected with nine detector strings.

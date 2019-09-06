@@ -1,0 +1,1 @@
+We extend the key notion of Martin-L\"of randomness for infinite bit sequences to the quantum setting, where the sequences become states of an infinite dimensional system. We work towards showing an analogy with the Levin-Schnorr theorem to characterise quantum ML-randomness of states by incompressibility (in the sense of quantum Turing machines) of all initial segments.

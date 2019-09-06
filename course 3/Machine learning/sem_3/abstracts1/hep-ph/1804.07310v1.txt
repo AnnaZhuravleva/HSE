@@ -1,0 +1,1 @@
+We compute the three-loop QCD corrections to the massive quark form factors with external vector, axial-vector, scalar and pseudo-scalar currents. All corrections with closed loops of massless fermions are included. The non-fermionic part is computed in the large-$N_c$ limit, where only planar Feynman diagrams contribute.

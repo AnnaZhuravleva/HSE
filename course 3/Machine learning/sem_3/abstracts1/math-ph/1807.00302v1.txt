@@ -1,0 +1,1 @@
+The quantum SL(3,C) invariant spin magnet with infinite-dimensional principal series representation in local spaces is considered. We construct eigenfunctions of Sklyanin B-operator which define the representation of separated variables of the model.

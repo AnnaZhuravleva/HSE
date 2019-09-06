@@ -1,0 +1,1 @@
+We show that there exists a 1-parameter family of positive-definite and conserved energy functionals for axially symmetric Newman-Penrose-Maxwell scalars on the maximal spacelike hypersurfaces in the exterior of Kerr black holes. It is also shown that the Poisson bracket within this 1-parameter family of energies vanishes on the maximal hypersurfaces.

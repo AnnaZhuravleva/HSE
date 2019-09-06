@@ -1,0 +1,1 @@
+We present a general expression for any term of the Magnus series as an iterated integral of a linear combination of independent right-nested commutators with given coefficients. The relation with the Malvenuto--Reutenauer Hopf algebra of permutations is also discussed.

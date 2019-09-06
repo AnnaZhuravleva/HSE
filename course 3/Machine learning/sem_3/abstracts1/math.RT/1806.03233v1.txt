@@ -1,0 +1,1 @@
+We prove a conjecture proposed in [DSKV16] describing the Lax type operator L(z) for the quantum finite W-algebras of gl_N in terms of a PBW generating system for the W-algebra. In doing so, we extend this result to an arbitrary good grading and an arbitrary isotropic subspace of g[1/2].

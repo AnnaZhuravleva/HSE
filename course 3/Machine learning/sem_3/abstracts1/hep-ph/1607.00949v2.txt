@@ -1,0 +1,1 @@
+We study sets of oscillators that have high quantum occupancy and that interact by exchanging quanta. It is shown by analytical arguments and numerical simulation that such systems obey classical equations of motion only on time scales of order their relaxation time $\tau$ and not longer than that. The results are relevant to the cosmology of axions and axion-like particles.

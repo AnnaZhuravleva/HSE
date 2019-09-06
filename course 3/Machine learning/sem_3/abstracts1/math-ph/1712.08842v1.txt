@@ -1,0 +1,1 @@
+We prove the existence and, in certain cases, the uniqueness of functional solutions for two boundary value problems of systems of P.D.E. in divergence form motivated by problems of heat and mass transfer. If $\cc_F$ and $\cc$ denote respectively the set of functional and classical solutions of these problems we settle, in simple cases, the question if $\cc_F=\cc$.

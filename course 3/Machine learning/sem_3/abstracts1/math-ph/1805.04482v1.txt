@@ -1,0 +1,1 @@
+In this paper we give a description of periodic Gibbs measures for Potts-SOS model on the Cayley tree of order $k\geq 1$ , i.e. a characterization of such measures with respect to any normal subgroup of finite index of the group representation of a Cayley tree.

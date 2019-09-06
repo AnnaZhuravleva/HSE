@@ -1,0 +1,1 @@
+We introduce a framework for coverings of noncommutative spaces. Moreover, we study noncommutative coverings of irrational quantum tori and characterize all such coverings that are connected in a reasonable sense.

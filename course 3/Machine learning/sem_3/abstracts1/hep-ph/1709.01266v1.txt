@@ -1,0 +1,1 @@
+Loopedia is a new database at loopedia.org for information on Feynman integrals, intended to provide both bibliographic information as well as results made available by the community. Its bibliometry is complementary to that of SPIRES or arXiv in the sense that it admits searching for integrals by graph-theoretical objects, e.g. its topology.

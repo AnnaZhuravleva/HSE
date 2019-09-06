@@ -1,0 +1,1 @@
+General relativity in four dimensions can be reformulated as a gauge theory, referred to as Palatini-Cartan-Holst theory. This paper describes its reduced phase space using a geometric method due to Kijowski and Tulczyjew and its relation to that of the Einstein-Hilbert approach.

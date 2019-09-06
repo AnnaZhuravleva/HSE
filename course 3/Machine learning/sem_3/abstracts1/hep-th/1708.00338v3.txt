@@ -1,0 +1,1 @@
+We offer a semi-classical re-interpretation of the 4D Majorana fermion mass term as an `influence action' in the Schwinger-Keldysh formulation of fermionic Quantum Field Theories.

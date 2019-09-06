@@ -1,0 +1,1 @@
+We extend the inner product from bosonic Fock space to a pairing between suitable antifunctionals on the symmetric algebra. Our account is illustrated by the (Gaussian) half-form pairing between positive polarizations in the form needed for geometric quantization.

@@ -1,0 +1,1 @@
+We derive a new, exact formula for the estimate of the initial energy densities from a new family of finite and exact solution of relativistic perfect fluid hydrodynamics. The new formula depends non-trivially on the speed of sound and on the shape or width parameter of the measured (pseudo)rapidity distribution.

@@ -1,0 +1,1 @@
+We define different non-relativistic limit of p-brane with the help of canonical form of the p-brane action. We discuss properties of these actions and their symmetries.

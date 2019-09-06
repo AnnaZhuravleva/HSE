@@ -1,0 +1,1 @@
+The initial value problem of metric and Palatini f(R)gravity is studied by using the dynamical equivalence between these theories and Brans-Dicke gravity. The Cauchy problem is well-formulated for metric f(R)gravity in the presence of matter and well-posed in vacuo. For Palatini f(R)gravity, instead, the Cauchy problem is not well-formulated.

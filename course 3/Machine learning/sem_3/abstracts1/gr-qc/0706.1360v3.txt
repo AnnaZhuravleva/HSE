@@ -1,0 +1,1 @@
+For the quintom models with arbitrary potential $V=V(\phi,\sigma)$, the asymptotic value of equation of state parameter w is obtained by a new method. In this method, w of stable attractors are calculated by using the ratio (d ln V)/(d ln a) in asymptotic region. All the known results, have been obtained by other methods, are reproduced by this method as specific examples.

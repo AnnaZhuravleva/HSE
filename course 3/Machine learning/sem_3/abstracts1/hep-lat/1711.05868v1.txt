@@ -1,0 +1,1 @@
+We review recent attempts at dealing with the sign problem in Monte Carlo calculations by deforming the region of integration in the path integral from real to complex fields. We discuss the theoretical foundations, the algorithmic issues and present some results for low dimensional field theories in both imaginary and real time.

@@ -1,0 +1,1 @@
+In this paper we study a slightly subcritical Choquard problem on a bounded domain D. We prove that the number of positive solutions depends on the topology of the domain. In particular when the exponent of the nonlinearity approaches the critical one, we show the existence of cat(D)+1 solutions. Here cat(D) denotes the Lusternik-Schnirelmann category.

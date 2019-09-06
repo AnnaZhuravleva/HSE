@@ -1,0 +1,1 @@
+The conformal bootstrap theory is studied by the determinantal method for the self-avoiding walk, which is equivalent to a dilute polymer in a solvent. The equivalence of the branched polymer in D dimensions to Yang-Lee edge singularity in D-2 dimensions is discussed by the determinantal method with the use of the N=0 limit in O(N) vector model.

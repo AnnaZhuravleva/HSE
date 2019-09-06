@@ -1,0 +1,1 @@
+We propose a conjectural explicit formula of generating series of a new type for Gromov--Witten invariants of $\mathbb{P}^1$ of all degrees in full genera.

@@ -1,0 +1,1 @@
+I discuss various scenarios for long-lived particles at the LHC that can have spectacular signatures, not all of which have been searched for. I take motivation from dark matter and the hierarchy problem, as well as from finding novel signatures. There is also a brief discussion of triggers.

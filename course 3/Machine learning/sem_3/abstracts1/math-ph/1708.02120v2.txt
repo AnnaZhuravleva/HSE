@@ -1,0 +1,1 @@
+We study transport properties of a Chalker-Coddington type model in the plane which presents asymptotically pure anti-clockwise rotation on the left and clockwise rotation on the right. We prove delocalisation in the sense that the absolutely continuous spectrum covers the whole unit circle. The result is of topological nature and independent of the details of the model.

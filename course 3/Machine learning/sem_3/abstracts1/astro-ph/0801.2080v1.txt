@@ -1,0 +1,1 @@
+This paper reports on the current status of the World Space Observatory WSO-UV, a space mission for UV astronomy, planned for launch at the beginning of next decade. It is based on a 1.7 m telescope, with focal plane instruments including high resolution spectrographs, long slit low resolution spectrographs and imaging cameras.

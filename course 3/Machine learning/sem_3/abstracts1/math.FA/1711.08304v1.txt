@@ -1,0 +1,1 @@
+We describe the set of all Dirichlet forms associated to a given infinite graph in terms of Dirichlet forms on its Royden boundary. Our approach is purely analytical and uses form methods.

@@ -1,0 +1,1 @@
+We apply Starobinsky's formalism of stochastic inflation to the case of a minimally coupled scalar field with linear self-interaction potential. We solve the corresponding Fokker-Planck equation exactly, and obtain analytical expressions for the stochastic expectation values.

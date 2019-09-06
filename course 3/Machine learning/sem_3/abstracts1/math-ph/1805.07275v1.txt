@@ -1,0 +1,1 @@
+A new concise proof is given of a duality theorem connecting completely monotone relaxation functions with Bernstein class creep functions in one-dimensional and anisotropic 3D viscoelasticity. The proof makes use of the theory of complete Bernstein functions and Stieltjes functions and is based on a relation between these two function classes.

@@ -1,0 +1,1 @@
+We consider the Sachdev-Ye-Kitaev (SYK) model where interaction involves $q$ fermions at a time. We find the next order correction to the thermal two-point function in the large $q$ expansion. Using this result we find the next order correction to the SYK free energy.

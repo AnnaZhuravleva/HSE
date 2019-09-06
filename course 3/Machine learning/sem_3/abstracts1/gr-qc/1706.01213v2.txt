@@ -1,0 +1,1 @@
+It is argued that the main results of the paper of Gibbons and Volkov (Phys. Rev. D {\bf 96}, 024053 (2017)) come from erroneous interpretations of the surface $r=0$ in the Kerr and Kerr-(anti)de Sitter spacetimes.

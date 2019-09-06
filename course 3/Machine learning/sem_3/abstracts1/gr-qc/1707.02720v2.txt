@@ -1,0 +1,1 @@
+The Hamiltonian of Intrinsic Time Gravity is elucidated. The theory describes Schrodinger evolution of our universe with respect to the fractional change of the total spatial volume. Heat kernel regularization is employed to demonstrate that Einstein's Ricci scalar potential emerges naturally from the simple positive-definite self-adjoint Hamiltonian of the theory.

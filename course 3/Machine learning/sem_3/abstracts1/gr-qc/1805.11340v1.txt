@@ -1,0 +1,1 @@
+A unified gauge approach to both, dynamics and thermodynamics involving gravity, is developed from the local realization of the Poincar\'e group as a particular instance of a spacetime group including translations. The formalism is applied to study the physical features of the spherical non-rotating matter source of an inner Schwarzschild metric.

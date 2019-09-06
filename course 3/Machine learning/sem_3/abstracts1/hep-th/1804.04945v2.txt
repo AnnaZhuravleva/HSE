@@ -1,0 +1,1 @@
+We characterize all the supersymmetric configurations and solutions of minimal ($\mathcal{N}=(1,0)$) $d=6$ supergravity coupled in the most general gauge-invariant way to an arbitrary number of tensor and vector multiplets and hypermultiplets.

@@ -1,0 +1,1 @@
+In this work we study the spherical symmetric solutions of $f(R)$ gravity in the metric formalism. We show that for a generic $f(R)$ gravity, the spherical symmetric solution is consistent with the modified gravity equations except in the case of imposing an extra condition for the metric.

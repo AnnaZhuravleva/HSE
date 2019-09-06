@@ -1,0 +1,1 @@
+In this paper, we elucidate the key role played by the cosymplectic geometry in the theory of time dependent Hamiltonian systems. In particular, we generalize the cosymplectic structures to time-dependent Nambu-Poisson Hamiltonian systems and corresponding Jacobi's last multiplier for 3D systems. We illustrate our constructions with various examples.

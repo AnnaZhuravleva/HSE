@@ -1,0 +1,1 @@
+Let $M_n$ be the set of $n\times n$ complex matrices. In this note we determine all the possible ranks of a bipartite state in $M_m\otimes M_n$ with prescribed reduced states in the two subsystems. The results are used to determine the Choi rank of quantum channels $\Phi: M_m \rightarrow M_n$ sending $I/m$ to a specific state $\sigma_2 \in M_n$.

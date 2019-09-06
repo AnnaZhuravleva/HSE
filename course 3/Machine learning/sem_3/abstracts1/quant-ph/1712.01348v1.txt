@@ -1,0 +1,1 @@
+This short paper presents an efficient implementation of Baker-Campbell-Hausdorff formula for calculating the logarithm of product of two possibly non-commutative Lie group elements using only Lie algebra terms.

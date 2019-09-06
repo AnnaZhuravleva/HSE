@@ -1,0 +1,1 @@
+Informationally complete measurements are a dramatic discovery of quantum information science, and the symmetric IC measurements, known as SICs, are in many ways optimal among them. Close study of three of the "sporadic SICs" reveals an illuminating relation between different ways of quantifying the extent to which quantum theory deviates from classical expectations.

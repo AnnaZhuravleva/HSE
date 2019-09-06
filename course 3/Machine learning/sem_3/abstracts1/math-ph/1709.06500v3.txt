@@ -1,0 +1,1 @@
+We interpret values of spherical Whittaker functions on metaplectic covers of the general linear group over a nonarchimedean local field as partition functions of two different solvable lattice models. We prove the equality of these two partition functions by showing the commutativity of transfer matrices associated to different models via the Yang-Baxter equation.

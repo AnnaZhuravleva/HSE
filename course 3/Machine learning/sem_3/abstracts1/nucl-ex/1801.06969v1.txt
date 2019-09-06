@@ -1,0 +1,1 @@
+{$\mu$}X-ray spectra for Z=9-90 were measured with HPGe detectors and muonic beams of PSI (Villigen, Switzerland). The results are presented as electronic atlas composed of graphic plots. The atlas is available at JINR site.

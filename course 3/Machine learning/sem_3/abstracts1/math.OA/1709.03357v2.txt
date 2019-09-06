@@ -1,0 +1,1 @@
+We provide a function class which is useful to distinguish central and non-central elements of a $C^*$-algebra in the following sense: for each element $f$ of this function class, a self-adjoint element $a$ of a $C^*$-algebra is central if and only if $f$ is locally convex at $a.$

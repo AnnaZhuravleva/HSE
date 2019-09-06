@@ -1,0 +1,1 @@
+Here we present the specifications of the newly developed beta-spectrometer based on thick full absorption Si(Li) detector. The spectrometer can be used for precision measurements of various beta-spectra, namely for the beta-spectrum shape study of $^{144}$Pr, which is considered to be the most promising anti-neutrino source for sterile neutrino searches.

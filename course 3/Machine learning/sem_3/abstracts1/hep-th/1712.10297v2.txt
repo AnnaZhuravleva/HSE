@@ -1,0 +1,1 @@
+In this paper we compute the vacuum expectation value of the Wilson loop and its correlators with chiral primary operators in $\mathcal{N}=2, 4$ superconformal $U(N)$ gauge theories at large $N$. After localization these quantities can be computed in terms of a deformed $U(N)$ matrix model. The Wilson loops we deal with are in the fundamental and symmetric representations.

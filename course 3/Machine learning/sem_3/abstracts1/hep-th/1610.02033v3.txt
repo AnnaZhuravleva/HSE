@@ -1,0 +1,1 @@
+The de Rham-Gabadadze-Tolley massive gravity admits pp-wave backgrounds on which linear fluctuations are shown to undergo time advances for all values of the parameters. The perturbations may propagate in closed time-like curves unless the parameter space is constrained to a line. These classical phenomena take place well within the theory's validity regime.

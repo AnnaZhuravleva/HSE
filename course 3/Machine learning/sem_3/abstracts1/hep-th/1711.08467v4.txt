@@ -1,0 +1,1 @@
+We give an exposition of the SYK model with several new results. A non-local correction to the Schwarzian effective action is found. The same action is obtained by integrating out the bulk degrees of freedom in a certain variant of dilaton gravity. We also discuss general properties of out-of-time-order correlators.

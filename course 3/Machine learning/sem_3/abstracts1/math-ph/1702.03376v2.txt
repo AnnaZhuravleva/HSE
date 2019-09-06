@@ -1,0 +1,1 @@
+We present new results and challenges in obtaining hydrodynamic limits for non-symmetric (weakly asymmetric) particle systems (exclusion processes on pre-fractal graphs) converging to a non-linear heat equation. We discuss a joint density-current law of large numbers and a corresponding large deviations principle.

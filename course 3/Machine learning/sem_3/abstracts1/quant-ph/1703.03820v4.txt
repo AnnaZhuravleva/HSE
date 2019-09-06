@@ -1,0 +1,1 @@
+Supersymmetry breaking of a supersymmetric harmonic oscillator with polynomial interaction is analyzed. Some thermal effects are studied in the context of Thermo Field Dynamics (TFD). The restored supersymmetry results in non vanishing energy at finite temperatures due the additivity of the thermal effects, while at $T=0$ the energy is zero.

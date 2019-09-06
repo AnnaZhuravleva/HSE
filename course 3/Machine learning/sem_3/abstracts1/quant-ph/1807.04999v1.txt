@@ -1,0 +1,1 @@
+Contrary to the claims made in Ref. [1], the recent Bell tests by Giustina et al. and Shalm et al. do not suffer from a "photon identification loophole". The model discussed in Ref. [1] is exploiting the well-known detection loophole, that is precisely what was closed in the recent experiments.

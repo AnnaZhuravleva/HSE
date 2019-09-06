@@ -1,0 +1,1 @@
+We show that Coulomb branches of quiver gauge theories of affine type $A$ are Cherkis bow varieties, which have been introduced as ADHM type description of moduli space of instantons on the Taub-NUT space equivariant under a cyclic group action.

@@ -1,0 +1,1 @@
+A series of quantization identities are established for static vortex solutions governed by the Born--Infeld type actions. These identities are of a universal nature which are indifferent to the details of the models and provide refined descriptions of divergent energetic quantities.

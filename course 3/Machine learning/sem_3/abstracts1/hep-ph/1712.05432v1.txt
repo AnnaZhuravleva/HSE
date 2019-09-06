@@ -1,0 +1,1 @@
+We show how supersymmetric hybrid inflation with scalar spectral index $n_{\rm s}\simeq 0.96 - 0.97$ is realized in the context of quasi-minimal supergravity if we insist that the inflationary potential not exhibit any local minima. We also address the problem of the initial conditions for both monotonic and non-monotonic inflationary potentials.

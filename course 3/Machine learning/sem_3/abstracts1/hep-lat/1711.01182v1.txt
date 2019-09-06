@@ -1,0 +1,1 @@
+I review the most recent evolutions of the QCD codes on new architectures, with a focus on the performances obtained by the different coding strategies as presented during the Lattice2017 conference.

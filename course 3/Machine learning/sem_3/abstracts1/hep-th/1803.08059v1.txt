@@ -1,0 +1,1 @@
+We revisit the construction of N=2 superconformal multiplets using rheonomic superspace techniques. We apply the result to the derivation of off-shell Poincar\'e supersymmetric models where a tensor multiplet couples to gravity and to an arbitrary number of vector multiplets. We also analyze gaugings involving the tensor field.

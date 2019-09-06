@@ -1,0 +1,1 @@
+We compute the free energy in the presence of a chemical potential coupled to a conserved charge in the effective SU(N)xSU(N) scalar field theory to third order for asymmetric volumes in general d-dimensions, using dimensional regularization. We also compute the mass gap in a finite box with periodic boundary conditions.

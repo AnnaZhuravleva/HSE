@@ -1,0 +1,1 @@
+The critics of P. Lipavsky on the derivation of conservation laws including gradient corrections is refuted since his counterexample is based on a mathematical error. Instead, the derived conservation laws for density, momentum and energy remain valid even without using the objected relation. Only for the entropy local terms are missing which vanish under integration.

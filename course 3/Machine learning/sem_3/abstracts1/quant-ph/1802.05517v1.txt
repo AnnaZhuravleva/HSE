@@ -1,0 +1,1 @@
+Uniquely among the sciences, quantum cryptography has driven both foundational research as well as practical real-life applications. We review the progress of quantum cryptography in the last decade, covering quantum key distribution and other applications.

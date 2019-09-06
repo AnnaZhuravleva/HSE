@@ -1,0 +1,1 @@
+It is proved that the set of geodesic circles in two dimensions may be given a variational description and the explicit form of it is presented. In the limit case of the Euclidean geometry a certain claim of uniqueness of such description is proved. A formal notion of 'spin' force is discovered as a by-product of the variation procedure involving the acceleration.

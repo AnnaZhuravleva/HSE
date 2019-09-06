@@ -1,0 +1,1 @@
+In this paper we consider C*-algebraic deformations a la Rieffel and show that every state of the undeformed algebra can be deformed into a state of the deformed algebra in the sense of a continuous field of states. The construction is explicit and involves a convolution operator with a particular Gauss function.

@@ -1,0 +1,1 @@
+We compute the decay rate of dimuonium into a neutral pion and a photon. We find that approximately one in 10^5 ortho-dimuonia decays into this channel. We also determine the contribution of the virtual photon-pion loop to the hyperfine splitting in dimuonium and reproduce its leading effect in the anomalous magnetic moment of the muon.

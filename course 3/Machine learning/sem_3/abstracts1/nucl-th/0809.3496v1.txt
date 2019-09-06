@@ -1,0 +1,1 @@
+The lowest order constrained variational method is applied to calculate the polarized symmetrical nuclear matter properties with the modern $AV_{18}$ potential performing microscopic calculations. Results based on the consideration of magnetic properties show no sign of phase transition to a ferromagnetic phase.

@@ -1,0 +1,1 @@
+We show the kinematic equivalence between cosmological models driven by Dirac-Born-Infeld fields $\phi$ with constant proper velocity of the brane and exponential potential $V=V_0e^{-B\phi}$ and interactive cosmological systems with Modified Holographic Ricci type fluids as dark energy in flat Friedmann-Robertson-Walker cosmologies.

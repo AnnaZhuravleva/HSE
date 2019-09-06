@@ -1,0 +1,1 @@
+We prove characterization theorems for relative entropy (also known as Kullback-Leibler divergence), q-logarithmic entropy (also known as Tsallis entropy), and q-logarithmic relative entropy. All three have been characterized axiomatically before, but we show that earlier proofs can be simplified considerably, at the same time relaxing some of the hypotheses.

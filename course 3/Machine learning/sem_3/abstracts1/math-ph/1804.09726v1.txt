@@ -1,0 +1,1 @@
+We reconsider the basic building blocks of classical phenomenological thermodynamics. While doing so we show that the zeroth law is a redundant postulate for the theory by deriving it from the first and the second laws. This is in stark contrast to the prevalent conception that the three laws, the zeroth, first and second, are all necessary and independent axioms.

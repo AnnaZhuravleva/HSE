@@ -1,0 +1,1 @@
+Given a symplectic form and a pseudo-riemannian metric on a manifold, a non degenerate even Poisson bracket on the algebra of differential forms is defined and its properties are studied. A comparison with the Koszul-Schouten bracket is established.

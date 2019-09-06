@@ -1,0 +1,1 @@
+The Janszky representation constructs quantum states of a field mode as a superposition of coherent states on a line in the complex plane. We show that this provides a natural Schr\"{o}dinger picture description of the interference between a pair of modes at a beam splitter.

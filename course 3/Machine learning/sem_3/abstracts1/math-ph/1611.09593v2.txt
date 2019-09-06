@@ -1,0 +1,1 @@
+Gustafson's integrals are multidimensional generalizations of the classical Mellin-Barnes integrals. We show that some of these integrals arise from relations between matrix elements in Sklyanin's representation of Separated Variables in spin chain models. We also present several new integrals.

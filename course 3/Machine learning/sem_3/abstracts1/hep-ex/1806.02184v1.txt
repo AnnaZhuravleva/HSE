@@ -1,0 +1,1 @@
+A method to measure integrated luminosities at the LHC using Z bosons without theoretical cross section input is discussed. The main uncertainties and the prospects for precision luminosity measurements using this method are outlined.

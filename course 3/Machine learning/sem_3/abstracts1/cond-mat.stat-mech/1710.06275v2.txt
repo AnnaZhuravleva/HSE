@@ -1,0 +1,1 @@
+The light cone spreading of correlations following a quantum quench is obtained from first principles. Fully taking into account quantum and interaction effects, the derivation shows how light cone dynamics does not require peculiar properties of the post-quench state.

@@ -1,0 +1,1 @@
+The Toda hierarchy refers to a family of integrable flows on Jacobi operators that have many applications in mathematics and physics. We demonstrate carefully that an alternative characterization of the Toda hierarchy using cocycle maps is equivalent to the traditional approach using Lax pairs.

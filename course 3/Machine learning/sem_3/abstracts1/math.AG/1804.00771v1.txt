@@ -1,0 +1,1 @@
+We prove functional equations of Nekrasov partition functions for $A_{1}$-singularity, suggested by Ito-Maruyoshi-Okuda. Our proof uses the method by Nakajima-Yoshioka based on the theory of wall-crossing formula developed by Mochizuki.

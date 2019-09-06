@@ -1,0 +1,1 @@
+A circle pattern is an embedding of a planar graph in which each face is inscribed in a circle. We define and prove magnetic criticality of a new family of Ising models on planar graphs whose dual is a circle pattern. Our construction includes as a special case the critical isoradial Ising models of Baxter.

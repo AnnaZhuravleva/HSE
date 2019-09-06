@@ -1,0 +1,1 @@
+Angular momentum loss (AML) mechanisms and dynamical evolution owing to magnetic braking and gravitational radiation in relativistic binary stars (RBS) are studied with use of physical parameters collected from the literature. We have calculated and compared AML time scales for the RBS with non-degenerate components and double degenerate (DD) systems.

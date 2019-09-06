@@ -1,0 +1,1 @@
+In the Sachdev-Ye-Kitaev model, we argue that the entanglement entropy of any eigenstate (including the ground state) obeys a volume law, whose coefficient can be calculated analytically from the energy and subsystem size. We expect that the argument applies to a broader class of chaotic models with all-to-all interactions.

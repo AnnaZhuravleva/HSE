@@ -1,0 +1,1 @@
+Pair creation of spin- 1/2 particles in Minkowski spacetime is investigated by obtaining exact solu- tions of the Dirac equation in the presence of electromagnetic fields and using them for determining the Bogoliubov coefficients. The resulting particle creation number density depends on the strength of the electric and magnetic fields.

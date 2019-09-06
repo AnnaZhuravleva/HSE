@@ -1,0 +1,1 @@
+We study and develop constraint preserving boundary conditions for the Newtonian magnetohydrodynamic equations and analyze the behavior of the numerical solution upon considering different possible options.

@@ -1,0 +1,1 @@
+We study the location of trapping surfaces in space-times resulting from an axial deformation of static isotropic systems, and show that the Misner-Sharp mass evaluated on the corresponding undeformed spherically symmetric space provides the correct gravitational radius to locate the spheroidal horizon.

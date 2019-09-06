@@ -1,0 +1,1 @@
+A red tilted primordial power spectrum is preferred by WMAP five-year data and a large positive local-type non-Gaussianity $f_{NL}$ might be observed as well. In this short note we find that a red tilted and large non-Gaussian primordial power spectrum cannot be naturally obtained in curvaton model, because $f_{NL}$ is related to the initial condition of inflation.

@@ -1,0 +1,1 @@
+Recently the spinor helicity and (two types of) superamplitude formalisms for 11D supergravity and 10D supersymmetric Yang-Mills theories were proposed in [1,2,3]. In this contribution we describe briefly the basic properties of these superamplitudes for the simpler case of 10D SYM.

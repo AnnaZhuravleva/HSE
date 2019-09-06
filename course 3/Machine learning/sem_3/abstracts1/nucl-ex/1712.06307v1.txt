@@ -1,0 +1,1 @@
+In this report one of the methods used for the luminosity determination for the experiment performed by WASA Collaboration to search for 3He-eta mesic nuclei is presented. The method is based on the analysis of pd -> 3He eta process.

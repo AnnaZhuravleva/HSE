@@ -1,0 +1,1 @@
+We argue that localized excitations in Minkowski space must be thought of as constrained states of holographic degrees of freedom. The Minkowski "vacuum" is in fact a density matrix of infinite entropy. The argument assumes that Minkowski space can be viewed as a limit of a space-time with non-vanishing cosmological constant, either positive or negative.

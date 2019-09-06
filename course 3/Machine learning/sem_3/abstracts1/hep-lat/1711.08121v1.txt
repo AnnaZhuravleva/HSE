@@ -1,0 +1,1 @@
+We develop calculational method for fermionic Green functions in the framework of Grassmann higher-order tensor renormalization group. The validity of the method is tested by applying it to three-dimensional free Wilson fermion system. We compare the numerical results for chiral condensate and two-point correlation functions with the exact ones obtained by analytical methods.

@@ -1,0 +1,1 @@
+We construct rich families of Schr\"odinger operators on symmetric graphs, both quantum and combinatorial, whose spectral degeneracies are persistently larger than the maximal dimension of an irreducible representations of the symmetry group.

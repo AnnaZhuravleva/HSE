@@ -1,0 +1,1 @@
+We consider a chain of Abelian Klebanov-Tarnopolsky fermionic tensor models coupled through quartic nearest-neighbor interactions. We characterize the gauge-singlet spectrum for small chains ($L=2,3,4,5$) and observe that the spectral statistics exhibits strong evidences in favor of quasi-many body localization.

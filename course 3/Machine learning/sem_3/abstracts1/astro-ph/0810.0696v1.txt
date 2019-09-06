@@ -1,0 +1,1 @@
+We investigate the stability of general-relativistic boson stars by classifying singularities of differential mappings and compare it with the results of perturbation theory. Depending on the particle number, the star has the following regimes of behavior: stable, metastable, pulsation, and collapse.

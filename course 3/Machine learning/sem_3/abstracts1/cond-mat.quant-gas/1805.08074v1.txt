@@ -1,0 +1,1 @@
+We discuss the effect of anomalous quantum-reflection of Bose-Einstein condensates as a screening effect, that is created by the condensate itself. We derive an effective, time-independent single-mode approach, that allows us to define different paths of reflection. We compare our theory with experimental results.

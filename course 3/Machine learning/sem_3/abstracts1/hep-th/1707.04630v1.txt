@@ -1,0 +1,1 @@
+Starting with the most general four-dimensional spacetime possessing two commuting Killing vectors and a nontrivial Killing tensor, we analytically integrate Einstein-Yang-Mills equations for a completely arbitrary gauge group. It is assumed that the gauge field inherits the symmetries of the background and is aligned with the principal null directions of the spacetime.

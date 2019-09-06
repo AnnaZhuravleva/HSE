@@ -1,0 +1,1 @@
+We present the ${\mathscr P}(\varphi)_2$ model on de Sitter space in the canonical formulation. We discuss the role of the Noether theorem and we provide explicit expressions for the energy-stress tensor of the interacting model.

@@ -1,0 +1,1 @@
+We present a characterization of states in generalized probabilistic models by appealing to a non-commutative version of geometric probability theory based on algebraic geometry techniques. Our theoretical framework allows for incorporation of invariant states in a natural way.

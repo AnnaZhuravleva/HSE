@@ -1,0 +1,1 @@
+Let us consider the renormalized Nelson model at a fixed total momentum $P$: $H_{\mathrm{ren}}(P)$; The Hamiltonian $H_{\mathrm{ren}}(P)$ is defined through an infinite energy renormalization. We prove that $e^{-\beta H_{\mathrm{ren}}(P)}$ is positivity improving for all $P\in \mathbb{R}^3$ and $\beta >0$ in the Fock representation.

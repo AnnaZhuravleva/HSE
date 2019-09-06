@@ -1,0 +1,1 @@
+Simple analytic formulae for energy relaxation (ER) in electron-ion systems, with quantum corrections, ion dynamics and RPA-type screening are presented. ER in the presence of bound electrons is examined in view of of recent simulations for ER in hydrogen in the range 10^{20}-10^{24} electrons/cc.

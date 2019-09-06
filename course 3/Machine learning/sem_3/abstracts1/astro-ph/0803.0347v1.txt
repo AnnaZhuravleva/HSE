@@ -1,0 +1,1 @@
+We investigate whether angular momentum transport due to unstable pulsation modes can play a significant role in the rotational evolution of massive stars. We find that these modes can redistribute appreciable angular momentum, and moreover trigger shear-instability mixing in the molecular weight gradient zone adjacent to stellar cores, with significant evolutionary impact.

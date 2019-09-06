@@ -1,0 +1,1 @@
+We give a variational formulation of perfect fluids on a general pseudoriemannian manifold by variating tangent fields according the flux produced by them. In this approach no constraints are needed. As a result, Euler and continuity equations are obtained quite directly.

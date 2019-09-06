@@ -1,0 +1,1 @@
+We report on recent results on the two-mass corrections for massive operator matrix elements at 2- and 3-loop orders in QCD. These corrections form the building blocks of the variable flavor number scheme. Due to the similar values of the charm and bottom quark masses the two-mass corrections form an important contribution.

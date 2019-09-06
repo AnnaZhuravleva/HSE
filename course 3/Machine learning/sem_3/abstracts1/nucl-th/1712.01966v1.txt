@@ -1,0 +1,1 @@
+In the paper the so-called modified Yamaguchi function for the Bethe-Salpeter equation with a separable kernel is discussed. The type of the functions is defined by the analytic stucture of the hadron current with breakup - the reactions with interacting nucleon-nucleon pair in the final state (electro-, photo-, and nucleon-disintegration of the deuteron).

@@ -1,0 +1,1 @@
+We present results from simulations to examine how the separation between two convectively unstable layers affect their interaction. We show that two convectively unstable layers remain connected via the overshooting plumes even when they are separated by several pressure scale heights.

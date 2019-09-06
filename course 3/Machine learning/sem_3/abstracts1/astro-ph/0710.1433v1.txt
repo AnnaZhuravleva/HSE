@@ -1,0 +1,1 @@
+We present the first combined Ly<alpha> and Ly<beta> profiles in solar prominences obtained by the SOHO/SUMER instrument and discuss their important spatial variability with respect to predictions from 1D and multithread models.

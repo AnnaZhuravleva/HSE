@@ -1,0 +1,1 @@
+We consider a version of the Sachdev-Ye-Kitaev model with complex fermions. We apply the shadow formalism to find four-point functions in the leading order in $1/N$ and dimensions of operators present in the theory. We also compute the retarded kernel and show that the Lyapunov exponent for the mode corresponding to the $U(1)$ charge is zero.

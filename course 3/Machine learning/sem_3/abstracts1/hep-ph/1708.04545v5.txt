@@ -1,0 +1,1 @@
+In this article, we construct the axialvector-diquark-scalar-antidiquark type currents to interpolate the axialvector doubly heavy tetraquark states, and study them with the QCD sum rules in details by carrying out the operator product expansion up to the vacuum condensates of dimension 10.

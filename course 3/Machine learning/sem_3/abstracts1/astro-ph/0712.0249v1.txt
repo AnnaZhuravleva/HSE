@@ -1,0 +1,1 @@
+The ESAC Gaia team engages in a form of eXtreme programming while the DPAC will follow a series of six month development cycles modeled on this approach. As a project within the European Space Agency the European Committee for Space Standardization (ECSS) standards are required. We present the bringing together of these realms.

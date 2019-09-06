@@ -1,0 +1,1 @@
+We prove that the minimum-time controlled Kepler problem is not Liouville integrable in the class of meromorphic functions, via the Moral\`es-Ramis theory.

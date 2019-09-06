@@ -1,0 +1,1 @@
+It is well known that a Wilson action reduces to the generating functional of connected correlation functions as we take the momentum cutoff to zero. For a fixed point Wilson action, this implies that for momenta large compared with the cutoff, the action reduces to the generating functional. We elaborate on this simple observation.

@@ -1,0 +1,1 @@
+A deformed exponential family of states on a von Neumann algebra is constructed for one specific deformation which makes the exponential function asymptotically linear. Difficulties arising due to non-commutativity are highlighted.

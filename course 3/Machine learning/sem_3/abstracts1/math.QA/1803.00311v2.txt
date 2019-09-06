@@ -1,0 +1,1 @@
+We introduce the quantum determinant for the elliptic quantum algebra $\mathcal{A}_{q,p}(\mathfrak{\widehat{gl}}_N)$ and prove that it generates the center of this algebra.

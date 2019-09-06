@@ -1,0 +1,1 @@
+We consider the cases of the self-adjoint and skew-self-adjoint discrete Dirac systems, obtain explicit expressions for reflection coefficients and show that rational reflection coefficients and Weyl functions coincide.

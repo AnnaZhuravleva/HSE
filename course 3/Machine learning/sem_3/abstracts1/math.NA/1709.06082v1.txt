@@ -1,0 +1,1 @@
+We report results on various techniques which allow to compute the expansion into Legendre (or in general Gegenbauer) polynomials in an efficient way. We describe in some detail the algebraic/symbolic approach already presented in Ref.1 and expand on an alternative approach based on a theorem of Schoenberg.

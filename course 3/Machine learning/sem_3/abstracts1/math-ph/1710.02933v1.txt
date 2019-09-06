@@ -1,0 +1,1 @@
+We show that the Cauchy problem for the KdV equation can be solved by the inverse scattering transform (IST) for any initial data bounded from below, decaying sufficiently rapidly at plus infinity, but unrestricted otherwise. Thus our approach doesn't require any boundary condition at minus infinity.

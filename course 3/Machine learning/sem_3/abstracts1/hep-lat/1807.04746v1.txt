@@ -1,0 +1,1 @@
+The finite-volume spectrum of the $\pi^+\pi^+$ and $\pi^+\pi^+\pi^+$ systems is deduced using a previously derived 3-body quantization condition. The results agree perfectly with the available lattice data from NPLQCD collaboration ($L=2.5$ fm and $m_\pi\in\{291,352,491,591\}$ MeV). Statistical uncertainties are estimated and extrapolations to physical pion mass are performed.

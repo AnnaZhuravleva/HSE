@@ -1,0 +1,1 @@
+We develop a general method of proving the ellipticity of boundary value problems for the stationary vacuum space time, by showing that the stationary vacuum field equations are elliptic subjected to a geometrically natural collection of boundary conditions in the projection formalism. Using this we prove the manifold theorem for the moduli space of stationary vacuum spacetimes.

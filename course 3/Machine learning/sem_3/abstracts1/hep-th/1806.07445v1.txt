@@ -1,0 +1,1 @@
+We use the t'Hoft-Wilson method for the generation of static fermions potential in order to derive a class of confining potentials which can describe the quark confinement. A general pattern for the construction of propagators through the localization of non-local actions is uncovered.

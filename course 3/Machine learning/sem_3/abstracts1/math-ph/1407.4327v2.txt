@@ -1,0 +1,1 @@
+In two-dimensional Euclidean plane, existence of second-order integrals of motion is investigated for integrable Hamiltonian systems involving spin (\emph{e.g.,} those systems describing interaction between two particles with spin 0 and spin 1/2) and it has been shown that no nontrivial second-order integrals of motion exist for such systems.

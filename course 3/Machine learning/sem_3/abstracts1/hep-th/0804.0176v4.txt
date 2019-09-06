@@ -1,0 +1,1 @@
+We consider a compactification with a six-dimensional torus in the type II brane gas models. We show that the dilaton and the scale of each cycle of the internal space are fixed in the presence of NS5-brane and Kaluza-Klein monopoles as well as D-branes with the gauge fields. We can construct various models that lead to fixed moduli by using T-duality transformations.

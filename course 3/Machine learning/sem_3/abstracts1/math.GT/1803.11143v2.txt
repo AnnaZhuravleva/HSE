@@ -1,0 +1,1 @@
+We propose a new algorithm for Dehn surgery problem, finding exceptional Dehn filling slopes for a given hyperbolic 3-manifold with a torus boundary, using a quantum invariant called "3D index". The invariant is defined using an ideal triangulation of the cusped 3-manifold. We test the algorithm for many examples.

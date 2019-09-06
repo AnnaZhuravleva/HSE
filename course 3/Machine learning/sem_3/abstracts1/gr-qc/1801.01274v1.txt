@@ -1,0 +1,1 @@
+In the context of $f\left( R\right) $-gravity with a spatially flat FLRW metric containing an ideal fluid, we use the method of invariant transformations to specify families of models which are integrable. We find three families of $f(R)$ theories for which new analytical solutions are given and closed-form solutions are provided.

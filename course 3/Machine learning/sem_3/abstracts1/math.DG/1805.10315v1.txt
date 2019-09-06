@@ -1,0 +1,1 @@
+We provide an intrinsic description of the notion of modular class for an even symplectic manifold and study its properties in this coordinate free setting.

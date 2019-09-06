@@ -1,0 +1,1 @@
+The properties of the relativistic rings which show up in images of a source when a black hole lies between the source and observer are examined. The impact parameters are calculated, along with the distances of closest approach of the rays which form a relativistic ring, their angular sizes, and their "magnification" factors, which are much less than unity.

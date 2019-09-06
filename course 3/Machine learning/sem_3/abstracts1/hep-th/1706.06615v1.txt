@@ -1,0 +1,1 @@
+We settle a result on generic exactness of SUSY in 3-D, and provide a mechanism of F-term spontaneous breaking of 3-D SUSY, with a different set of tools from those used by O'Raifeartaigh in his seminal work on 4-D SUSY. In our study, we use techniques of projective algebraic geometry so as to deal successfully with cubic hypersurfaces.

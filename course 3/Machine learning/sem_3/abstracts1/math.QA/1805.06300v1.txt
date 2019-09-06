@@ -1,0 +1,1 @@
+We equip a family of algebras whose noncommutativity is of Lie type with a derivation based differential calculus obtained, upon suitably using both inner and outer derivations, as a reduction of a redundant calculus over the Moyal four dimensional space.

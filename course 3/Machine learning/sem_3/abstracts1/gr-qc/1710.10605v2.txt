@@ -1,0 +1,1 @@
+We present general formulas for transverse and transverse-traceless (TT) symmetric tensors in flat spaces. TT tensors in conformally flat spaces can be obtained by means of a conformal transformation.

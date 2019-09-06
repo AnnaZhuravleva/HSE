@@ -1,0 +1,1 @@
+Unlike the standard Quantum Computational Logic (QCL), where the carrier of information (target) is conventionally assumed to be only the last qubit over a sequence of many qubits, here we propose an extended version of the QCL (we call Multi Target Quantum Computational Logic, briefly MTQCL) where the number and the position of the target qubits are arbitrary.

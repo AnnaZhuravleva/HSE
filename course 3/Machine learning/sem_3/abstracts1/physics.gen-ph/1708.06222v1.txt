@@ -1,0 +1,1 @@
+This paper aims to give a coordinate based introduction to the so-called Lounesto spinorial classification scheme. We introduce the main ideas and aspects of this spinorial categorization in an argumentative basis, after what we delve into a commented account on recent results obtained from (and within) this branch of research.

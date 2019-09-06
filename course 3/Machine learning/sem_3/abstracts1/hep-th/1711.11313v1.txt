@@ -1,0 +1,1 @@
+Using the fact that eleven-dimensional supergravity yields type IIA supergravity under dimensional reduction, we determine higher-derivative terms of eleven-dimensional supergravity including the $ R^4 $, $ (\pa F)^2 R^2 $ and $ (\pa F)^4 $ terms.

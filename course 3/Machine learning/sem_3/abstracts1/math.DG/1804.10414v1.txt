@@ -1,0 +1,1 @@
+Potential functions can be used as generating potentials of relevant geometric structures for a Riemannian manifold such as the Riemannian metric and affine connections. We study wether this procedure can also be applied to tensors of rank four and find a negative answer. We study this from the perspective of solving the inverse problem and also from an intrinsic point of view.

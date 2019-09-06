@@ -1,0 +1,1 @@
+In this paper we study Wilson loops in various representations for finite and large values of the color gauge group for supersymmetric ${\cal N}=4$ gauge theories. We also compute correlators of Wilson loops in different representations and perform a check with the dual gravitational theory.

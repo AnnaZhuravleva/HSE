@@ -1,0 +1,1 @@
+In this note we prove that suitable positive powers of the absolute value of the characteristic polynomial of a Haar distributed random unitary matrix converge in law, as the size of the matrix tends to infinity, to a Gaussian multiplicative chaos measure once correctly normalized. We prove this in the whole $L^1$- or subcritical phase of the chaos measure.

@@ -1,0 +1,1 @@
+In this paper, inspired by the "Minimum Description Length Principle" in classical Statistics, we introduce a new method for predicting the outcomes of a quantum measurement and for estimating the state of a quantum system with minimum quantum complexity, while, at the same time, avoiding overfitting.

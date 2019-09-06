@@ -1,0 +1,1 @@
+We outline some recent proofs of quantum ergodicity on large graphs and give new applications in the context of irregular graphs. We also discuss some remaining questions.

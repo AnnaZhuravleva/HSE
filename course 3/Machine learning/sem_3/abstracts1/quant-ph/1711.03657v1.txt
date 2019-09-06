@@ -1,0 +1,1 @@
+A new lower boundary for the product of variances of two observables is obtained in the case, when these observables are entangled with the third one. This boundary can be higher than the Robertson--Schr\"odinger one. The special case of the two-dimensional pure Gaussian state is considered as an example.

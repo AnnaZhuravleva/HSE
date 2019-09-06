@@ -1,0 +1,1 @@
+We review some recent results on the identification and characterisation of Active Galactic Nuclei (AGN) obtained by cross correlating X-ray surveys with infrared and submillimetre surveys. We also look toward the scientific gains that could be achieved from an XMM-Newton survey of the medium-deep legacy fields that are being observed at ~1-850um.

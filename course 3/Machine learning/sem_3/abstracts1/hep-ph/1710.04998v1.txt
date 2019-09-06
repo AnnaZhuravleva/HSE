@@ -1,0 +1,1 @@
+We briefly review the status of high precision QCD predictions available for LHC processes, focusing on corrections beyond NLO and ways to make the latter available in a convenient format. As a phenomenological example we discuss the two-loop corrections to Higgs boson pair production in gluon fusion.

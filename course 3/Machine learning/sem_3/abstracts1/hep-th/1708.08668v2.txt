@@ -1,0 +1,1 @@
+We determine the Feynman rules for the minimal type A higher-spin gauge theory on AdS$_{d+1}$ at cubic order. In particular, we establish the quantum action at cubic order in de Donder gauge, including ghosts. We also give the full de Donder gauge propagators of higher-spin gauge fields and their ghosts. This provides all ingredients needed to quantise the theory at cubic order.

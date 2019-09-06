@@ -1,0 +1,1 @@
+It is shown that the one-loop effective action of unimodular gravity is the same as that of ordinary gravity, restricted to unimodular metrics. The only difference is in the treatment of the global scale degree of freedom and of the cosmological term. A constant vacuum energy does not gravitate, addressing one aspect of the cosmological constant problem.

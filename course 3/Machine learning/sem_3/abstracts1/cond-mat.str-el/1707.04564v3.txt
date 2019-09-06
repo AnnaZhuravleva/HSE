@@ -1,0 +1,1 @@
+We present an exactly solvable lattice Hamiltonian to realize gapped boundaries of Kitaev's quantum double models for Dijkgraaf-Witten theories. We classify the elementary excitations on the boundary, and systematically describe the bulk-to-boundary condensation procedure. We also present the parallel algebraic/categorical structure of gapped boundaries.

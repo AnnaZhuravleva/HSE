@@ -1,0 +1,1 @@
+We use duality to relate resonances in missing mass $M$ to the large-mass diffraction dissociation of protons. In deep inelastic lepton-hadron scattering (DIS), hadronic resonances are related by duality in $Q^2$ to the low-$x$, smooth behaviour of the DIS structure functions.

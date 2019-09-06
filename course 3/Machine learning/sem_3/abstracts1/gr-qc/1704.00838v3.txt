@@ -1,0 +1,1 @@
+We study the production of primordial circular ("V-mode") polarization in axion inflation coupled to fermions and gauge fields, with special attention paid to (p)reheating. We construct the power spectrum of $V$, and find a blue-tilted spectrum with index $n_V=4$. This is independent of the dominant decay channel of the inflaton (direct fermion vs. direct photon production)

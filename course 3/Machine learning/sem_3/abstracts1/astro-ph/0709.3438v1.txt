@@ -1,0 +1,1 @@
+The high energy neutrino detection by a km^3 Neutrino Telescope placed in the Mediterranean sea provides a unique tool to both determine the diffuse astrophysical neutrino flux and the neutrino-nucleon cross section in the extreme kinematical region, which could unveil the presence of new physics. Here is performed a brief analysis of possible NEMO site performances.

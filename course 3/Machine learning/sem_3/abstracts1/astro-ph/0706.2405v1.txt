@@ -1,0 +1,1 @@
+Propagation of Alfven waves in the solar plasma has been a topic of scientific interest for a long time. We have derived a dispersion relation for shear Alfven waves in a viscous and diffusive plasma.

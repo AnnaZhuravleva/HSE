@@ -1,0 +1,1 @@
+In this invited paper, the authors discuss the exponential computing speed-up achievable by interconnecting quantum computers through a quantum internet. They also identify key future research challenges and open problems for quantum internet design and deployment.

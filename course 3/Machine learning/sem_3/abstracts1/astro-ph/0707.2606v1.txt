@@ -1,0 +1,1 @@
+Using archival International AGN Watch observations we find a correlation between the asymmetry of the H-beta line and the system luminosity: the line becomes bluer as the system gets brighter. We also find a differential lag between the red and blue wings of the line: the blue wing lags the red by ~4 days, suggesting an inflow component of the BLR.

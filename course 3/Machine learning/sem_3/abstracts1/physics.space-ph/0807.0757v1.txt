@@ -1,0 +1,1 @@
+A law of semi-major axes in the Solar system is described. The proposed law is recommended as an additional criterion for planet definition as it represents a generating function of planetary distances.

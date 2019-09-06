@@ -1,0 +1,1 @@
+In non-relativistic systems, when there is spontaneous symmetry breaking, the number of Nambu-Goldstone bosons ($n_{NG}$) are not necessarily equal to the number of broken generators ($n_{BG}$). Here we use the method of operators for analyzing the necessary conditions in order to obtain the correct dispersion relation for the Nambu-Goldstone bosons.

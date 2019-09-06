@@ -1,0 +1,1 @@
+We argue that in the tensionless phase of string theory where the stringy gauge symmetries are unbroken, (at least some) cosmological singularities can be understood as gauge artefacts. We present two conceptually related, but distinct, pieces of evidence: one relying on spacetime and the other on worldsheet.

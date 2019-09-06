@@ -1,0 +1,1 @@
+We propose to apply an object point process to automatically delineate filaments of the large-scale structure in redshift catalogues. We illustrate the feasibility of the idea on an example of the recent 2dF Galaxy Redshift Survey, describe the procedure, and characterise the results.

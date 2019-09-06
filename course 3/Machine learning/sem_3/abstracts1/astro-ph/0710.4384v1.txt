@@ -1,0 +1,1 @@
+Models for DM are invoked with various density distributions, to account for flat rotation curves of galaxies. The effect of DE on these profiles for large galaxies and clusters are also studied. The rotation curves are shown to dip at a particular distance, when the effect of DE became significant.

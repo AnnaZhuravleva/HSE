@@ -1,0 +1,1 @@
+A new method for explicit computation of the CY moduli space metric was proposed by the authors recently. The method makes use of the connection of the moduli space with a certain Frobenius algebra. Here we clarify this approach and demonstrate its efficiency by computing the Special geometry of the 101-dimensional moduli space of the quintic threefold around the orbifold point.

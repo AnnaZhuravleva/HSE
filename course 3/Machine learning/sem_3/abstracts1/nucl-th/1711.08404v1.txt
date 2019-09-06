@@ -1,0 +1,1 @@
+After shortly analyzing data relevant to fission hindrance of odd-A nuclei and high-$K$ isomers in superheavy (SH) region we point out the inconsistency of current fission theory and propose an approach based on the instanton formalism. A few results of this method, simplified by replacing selfconsistency by elements of the macro-micro model, are given to illustrate its features.

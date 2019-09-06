@@ -1,0 +1,1 @@
+We compute the two-loop QCD corrections to amplitudes for processes $g g \to H g, q g \to H q$ and $q \bar{q} \to H g$ in the limit when the Higgs transverse momentum is larger than the top quark mass, $p_\perp \gg m_t$. These amplitudes are important ingredients for understanding higher-order QCD effects on Higgs transverse momentum distribution at large $p_\perp$.

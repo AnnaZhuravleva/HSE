@@ -1,0 +1,1 @@
+We construct a class of nonabelian superconformal (1,0) hypermultiplet theories in six dimensions by introducing an abelian auxiliary field. The gauge fields of this class of theories are non-dynamical, and this class of theories can be viewed as Chern-Simons-matter theories in 6D.

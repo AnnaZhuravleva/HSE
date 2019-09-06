@@ -1,0 +1,1 @@
+I present theoretical results for charged Higgs production in association with a $W$ boson or a top quark at the LHC. I calculate higher-order threshold corrections and show that they are very significant. I present detailed results for total cross sections as well as transverse-momentum and rapidity distributions for various LHC energies.

@@ -1,0 +1,1 @@
+The system of two-dimensional damped harmonic oscillator is revisited in the extended phase space. We show that the system is singular. The classical Hamiltonian is proportional to the first-class constraint. We pursue with the Dirac's canonical quantization procedure by fixing the gauge and provide a reduced phase space description of the system.

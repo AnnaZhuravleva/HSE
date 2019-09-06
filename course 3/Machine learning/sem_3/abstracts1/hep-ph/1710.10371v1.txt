@@ -1,0 +1,1 @@
+We have investigated the renormalization group running of the pole mass in the multi-Higgs theory in two different types of the gauge fixing conditions. It turns out that the pole mass when expressed in terms of the Lagrangian parameters, is invariant under the renormalization group with the beta and gamma functions of the symmetric phase.

@@ -1,0 +1,1 @@
+The problem of finding a minimal-time path for an aeroplane travelling in a wind flow has a simple formulation in terms of analogue gravity. This paper gives an elementary explanation with equations and some numerical solutions.

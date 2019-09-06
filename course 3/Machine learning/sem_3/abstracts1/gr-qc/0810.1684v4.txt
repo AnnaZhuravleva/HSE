@@ -1,0 +1,1 @@
+This contribution reviews recent work on a new approach to the cosmological constant problem, which starts from the macroscopic behavior of a conserved relativistic microscopic variable q. First, the statics of the vacuum energy density is discussed and, then, the dynamics in a cosmological context.

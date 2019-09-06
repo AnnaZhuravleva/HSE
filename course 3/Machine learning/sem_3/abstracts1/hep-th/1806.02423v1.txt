@@ -1,0 +1,1 @@
+The exceptional symmetries of supergravity have been reproduced from the Hamiltonian formulation of the classical mechanics of F-theory. We now find the Lagrangian formalism has even larger exceptional symmetries, simplifying its derivation: We discuss D = 5 as an example.

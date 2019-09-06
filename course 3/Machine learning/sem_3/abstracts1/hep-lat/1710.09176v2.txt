@@ -1,0 +1,1 @@
+We present a progress update on the calculation of beyond the standard model (BSM) kaon mixing matrix elements at the physical point. Simulations are performed using 2+1 flavour domain wall lattice QCD with the Iwasaki gauge action at 3 lattice spacings and with pion masses ranging from 430 MeV to the physical pion mass.

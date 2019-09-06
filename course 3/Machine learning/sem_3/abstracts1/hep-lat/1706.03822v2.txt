@@ -1,0 +1,1 @@
+We propose new gradient flows that define Lefschetz thimbles and do not blow up in a finite flow time. We study analytic properties of these gradient flows, and confirm them by numerical tests in simple examples.

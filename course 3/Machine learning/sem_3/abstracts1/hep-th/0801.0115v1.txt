@@ -1,0 +1,1 @@
+In the limit of infinite external magnetic field B the static field of an electric charge is squeezed into a string parallel to B. Near the charge the potential grows like |x_3|(ln |x_3| + const) with the coordinate x_3 along the string. The energy of the string breaking is finite and very close to the effective photon mass.

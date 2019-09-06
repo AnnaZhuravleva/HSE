@@ -1,0 +1,1 @@
+A model for soft and diffractive scattering is presented which is incorporated seamlessly into the pre-existing MPI model in the Monte Carlo Event Generator Herwig. With the improved model we are able to describe general aspects of Minimum Bias and Underlying Event data.

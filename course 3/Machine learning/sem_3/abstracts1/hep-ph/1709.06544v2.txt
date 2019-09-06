@@ -1,0 +1,1 @@
+We provide an accurate evaluation of the two-photon exchange correction to the hyperfine splitting of S energy levels in muonic hydrogen exploiting the corresponding measurements in electronic hydrogen. The proton structure uncertainty in the calculation of $\alpha^5$ contribution is sizably reduced.

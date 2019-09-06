@@ -1,0 +1,1 @@
+This is a comment on "Strong Measurements Give a Better Direct Measurement of the Quantum Wave Function" which was published as PRL 116, 040502 (2016). We show that there is crucial normalization error in this Letter which invalidates the proposal.

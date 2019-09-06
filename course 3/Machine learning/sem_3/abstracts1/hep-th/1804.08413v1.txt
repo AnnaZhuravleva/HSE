@@ -1,0 +1,1 @@
+For the Myers-Pospelov extensions of QED, we study its tree-level dynamics, discuss the dispersion relation, and present one more scheme for its perturbative generation, including the finite temperature case. Also, we explicitly verify that in the absence of higher time derivatives, the unitarity is preserved at the one-loop level.

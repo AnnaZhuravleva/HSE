@@ -1,0 +1,1 @@
+We analyse the time reversing procedure of Schramm Loewner evolutions and its relation to Liouville field theory or 2d pure gravity. We can get martingale observables by the calculation of LFT correlation functions without matter.

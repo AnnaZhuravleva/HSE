@@ -1,0 +1,1 @@
+We propose a model based on Regge theory to describe photoproduction of light vector mesons. We fit the SLAC data and make predictions for the energy and momentum transfer dependence of the spin-density matrix elements in photoproduction of $\omega$, $\rho^0$ and $\phi$ mesons at $E_\gamma \sim 8.5$ GeV, which are soon to be measured at Jefferson Lab.

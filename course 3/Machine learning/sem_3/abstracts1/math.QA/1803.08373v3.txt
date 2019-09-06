@@ -1,0 +1,1 @@
+Having in mind applications to particle physics we develop the differential calculus over Jordan algebras and the theory of connections on Jordan modules. In particular we focus on differential calculus over the exceptional Jordan algebra and provide a complete characterization of the theory of connections for free Jordan modules.

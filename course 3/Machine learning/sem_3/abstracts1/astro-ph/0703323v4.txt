@@ -1,0 +1,1 @@
+The possible small variation downward by about $10^{-5}$, of the ratio of the proton mass to the electron mass, over cosmological time is related to the decrease with time of a small vacuum expectation value for a Goldstone-like pseudoscalar field. The initial vacuum expectation value controls the magnitude of a very small cosmological constant.

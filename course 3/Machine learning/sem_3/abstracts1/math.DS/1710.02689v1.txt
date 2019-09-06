@@ -1,0 +1,1 @@
+Following the techniques of [4], we formulate a Normal Form Lemma suited to close to be integrable Hamiltonian systems where not all the coordinates are action angles. The Lemma turns to be useful in the theory of KAM tori of Sun-Earth-Asteroids systems.

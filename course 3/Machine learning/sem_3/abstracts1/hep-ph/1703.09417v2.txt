@@ -1,0 +1,1 @@
+We discuss the linkage between dark matter mass in the one-loop radiative seesaw model and the effective neutrino mass for the neutrino less double beta decay. This linkage, which has been already numerically suggested, is confirmed to be a reasonable relationship by deriving analytical expressions for two zero flavor neutrino mass texture.

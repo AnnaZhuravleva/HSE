@@ -1,0 +1,1 @@
+We consider Potts model, with competing interactions and countable spin values $\Phi=\{0,1,\dots \}$ on a Cayley tree of order three. We study periodic ground states for this model.

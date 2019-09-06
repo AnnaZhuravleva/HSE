@@ -1,0 +1,1 @@
+We present our results on soft gluon resummation in the invariant mass threshold applied to the associated production of a top quark pair with a W boson at the LHC in the Mellin space formalism.

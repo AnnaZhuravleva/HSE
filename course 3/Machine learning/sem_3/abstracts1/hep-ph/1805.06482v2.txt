@@ -1,0 +1,1 @@
+We consider radiative corrections to false vacuum decay in a four-dimensional scalar field theory with cubic and quartic potential. Using planar thin wall approximation we were able to get analytical expression for the decay rate up to two loop order. The results obtained employ dimensional regularization and $\overline{MS}$ renormalization scheme.

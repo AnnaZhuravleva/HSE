@@ -1,0 +1,1 @@
+I informally review the Higgs mechanism, focusing on fundamental aspects which should be common knowledge but apparently are not, explain why your understanding of gauge symmetry breaking is a decreasing function of your reliance on the unitary gauge, and discuss some implications for cosmology (domains, dark energy, CMB cold spot).

@@ -1,0 +1,1 @@
+In these lecture notes presented at the 2015 Villa de Leyva Summer School, we give an introduction to superstring theory. We begin by studying the particle and superparticle in order to get a better understanding on the superstring side. Afterwards, we review the pure spinor formalism and end by computing the scattering amplitude for three gravitons at tree-level.

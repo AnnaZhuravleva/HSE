@@ -1,0 +1,1 @@
+Second variation of a smooth optimal control problem at a regular extremal is a symmetric Fredholm operator. We study asymptotics of the spectrum of this operator and give an explicit expression for its determinant in terms of solutions of the Jacobi equation.

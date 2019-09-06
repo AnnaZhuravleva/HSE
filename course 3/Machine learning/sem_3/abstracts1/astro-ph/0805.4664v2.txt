@@ -1,0 +1,1 @@
+In this contribution we briefly review the reverberation mapping technique and its results for low and intermidiate luminosity AGNs. Then we present a monitoring campaign of high-luminosity high-redshift quasars which will extend these results by two orders of magnitude, probing the broad-line region size and black hole (BH) mass of luminous AGN at redshift ~2-3.

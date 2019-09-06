@@ -1,0 +1,1 @@
+This paper describes a new algorithm for Monte Carlo integration, based on the Field Estimator for Arbitrary Spaces (FiEstAS). The algorithm is discussed in detail, and its performance is evaluated in the context of Bayesian analysis, with emphasis on multimodal distributions with strong parameter degeneracies. Source code is available upon request.

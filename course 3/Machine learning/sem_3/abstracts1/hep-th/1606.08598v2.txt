@@ -1,0 +1,1 @@
+We review recent results in the theory of numbers and single-valued functions on the complex plane which arise in quantum field theory. We use the results to calculate the renormalization functions $\beta$, $\gamma$, $\gamma_m$ of dimensionally regularized $\phi^4$ theory in the minimal subtraction scheme up to seven loops.

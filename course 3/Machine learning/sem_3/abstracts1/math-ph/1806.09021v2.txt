@@ -1,0 +1,1 @@
+We show that the classical Brink-Schwarz superparticle is a generalized AKSZ field theory. We work in the Batalin-Vilkovisky formalism: the main technical tool is the vanishing of Batalin--Vilkovisky cohomology below degree -1.

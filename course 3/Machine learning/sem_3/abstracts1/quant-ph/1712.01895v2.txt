@@ -1,0 +1,1 @@
+While much of the technical analysis in the preceding Comment [1] is correct, in the end it confirms the conclusion reached in my previous work [2]: a consistent histories analysis provides no support for the claim of counterfactual quantum communication put forward in [3]

@@ -1,0 +1,1 @@
+One-loop counterterms are computed in first order formalism for the Einstein-Hilbert action using the background field method and the heat kernel technique. The obtained result coincides with the result found by Hooft and Veltman in second order formalism.

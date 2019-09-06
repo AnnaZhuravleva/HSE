@@ -1,0 +1,1 @@
+In this note we discuss a generalization of the Lipatov's effective action approach, \cite{LipatovEff,LipatovEff1}, for the case of description of gluon and quark production amplitudes in the quasi-multi-Regge kinematics. Following to \cite{Faddeev}, we define the S-matrix elements of high energy QCD processes in this kinematics and discuss applications of the obtained results.

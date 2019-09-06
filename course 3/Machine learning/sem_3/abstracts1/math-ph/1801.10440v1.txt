@@ -1,0 +1,1 @@
+In the paper we consider the Maxwell operator in a three-dimensional cylinder with coefficients periodic along the axis of a cylinder. It is proved that for cylinders with circular and rectangular cross-section the spectrum of the Maxwell operator is absolutely continuous.

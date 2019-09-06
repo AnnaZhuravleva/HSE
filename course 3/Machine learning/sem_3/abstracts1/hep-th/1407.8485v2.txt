@@ -1,0 +1,1 @@
+We complete the construction of a gauge-invariant action for NS-NS superstring field theory in the large Hilbert space begun in arXiv:1305.3893 by giving a closed-form expression for the action and nonlinear gauge transformations. The action has the WZW-like form and vertices are given by a pure-gauge solution of heterotic string field theory in the small Hilbert space.

@@ -1,0 +1,1 @@
+We define elliptic generalization of W-algebras associated with arbitrary quiver using the formalism of arXiv:1512.08533 applied to six-dimensional quiver gauge theory compactified on elliptic curve.

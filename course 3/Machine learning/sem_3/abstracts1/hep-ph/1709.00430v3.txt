@@ -1,0 +1,1 @@
+We improve limits on the spin-independent scattering cross section of Dark Matter on nucleons, for DM in the 300 MeV -- 100 GeV mass range, based on the DAMIC and XQC experiments. Our results close the window which previously existed in this mass range, for a DM-nucleon cross section of order $\approx \mu$b, assuming the standard velocity distribution.

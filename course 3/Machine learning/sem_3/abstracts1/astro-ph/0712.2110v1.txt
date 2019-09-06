@@ -1,0 +1,1 @@
+With the arrival of wide-field imagers on medium-size telescopes (e.g. SkyMapper, Pan-STARRS) and the future co-existence of LSST with the E-ELT, it is worthwhile to evaluate the scientific potential of a CCD camera with ~1 degree FOV for the VLT. Here we discuss the role that such an instrument could play in resolving persisting fundamental problems in "near-field cosmology".

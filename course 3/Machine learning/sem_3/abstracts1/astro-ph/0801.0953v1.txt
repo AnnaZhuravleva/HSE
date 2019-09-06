@@ -1,0 +1,1 @@
+During the last few years a class of enigmatic sub-luminous accreting neutron stars has been found in our Galaxy. They have peak X-ray luminosities (2-10 keV) of a few times 1E34 erg/s to a few times 1E35 erg/s, and both persistent and transient sources have been found. I present a short overview of our knowledge of these systems and what we can learn from them.

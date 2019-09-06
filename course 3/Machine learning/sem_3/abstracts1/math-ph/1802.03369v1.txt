@@ -1,0 +1,1 @@
+We propose a deformed version of the generalized Heisenberg algebra by using techniques borrowed from the theory of pseudo-bosons. In particular, this analysis is relevant when non self-adjoint Hamiltonians are needed to describe a given physical system. We also discuss relations with nonlinear pseudo-bosons. Several examples are discussed.

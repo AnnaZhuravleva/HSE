@@ -1,0 +1,1 @@
+We present a generalisation of the double-logarithmic equation for the anomalous dimension of the non-singlet unpolarized twist-2 operators in QCD. Using the known three-loop result, this generalisation allows to predict a small x expansion of the four-loop non-singlet splitting functions in QCD for all powers of logarithms up to the single-logarithm term.

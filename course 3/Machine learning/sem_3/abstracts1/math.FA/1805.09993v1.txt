@@ -1,0 +1,1 @@
+We prove a version of the variational Euler-Lagrange equations valid for functionals defined on Fr\'echet manifolds, such as the spaces of sections of differentiable vector bundles appearing in various physical theories.

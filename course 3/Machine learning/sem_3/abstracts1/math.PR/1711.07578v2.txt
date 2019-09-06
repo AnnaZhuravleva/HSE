@@ -1,0 +1,1 @@
+We prove a chaos expansion for the 2D parabolic Anderson Model in small time, with the expansion coefficients expressed in terms of the annealed density function of the polymer in a white noise environment.

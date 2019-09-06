@@ -1,0 +1,1 @@
+We show how twisting the spectral triple of the Standard Model of elementary particles naturally yields the Krein space associated with the Lorentzian signature of spacetime. We discuss the associated spectral action, both for fermions and bosons. What emerges is a tight link between twist and Wick rotation.

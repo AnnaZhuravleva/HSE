@@ -1,0 +1,1 @@
+Visibility $V$ and distinguishability $D$ quantify wave-ray duality: $V^2 + D^2 \le 1$. We join them to polarization $P$ via the Polarization Coherence Theorem, a tight equality: $P^2 = V^2 + D^2$.

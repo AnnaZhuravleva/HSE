@@ -1,0 +1,1 @@
+The Newman-Janis and Giampieri algorithms are two simple methods to generate stationary rotating black hole solutions in four dimensions. In this paper, we obtain the Mayers-Perry black hole from the Schwartzchild solution in five dimensions using quaternions. Our method generates the Mayers-Perry black hole solution with two angular momenta in one fell swoop.

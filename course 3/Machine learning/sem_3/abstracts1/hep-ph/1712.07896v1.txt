@@ -1,0 +1,1 @@
+We calculate the one loop quantum electrodynamic corrections to the process $ \gamma\gamma\rightarrow\mu^+\mu^-\gamma $, all photons are on-shell. The result is obtained in the analytical form and is implemented as functions on the C programming language, which can be used to calculate the cross-section, the differential distribution functions, and to construct of generators.

@@ -1,0 +1,1 @@
+First, we give a new proof for the Beals commutator criterion for non-magnetic Weyl pseudo-differential operators based on classical Gabor tight frames. Second, by introducing a modified 'magnetic' Gabor tight frame, we naturally derive the magnetic analogue of the Beals criterion originally considered by Iftimie-M\u{a}ntoiu-Purice.

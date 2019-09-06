@@ -1,0 +1,1 @@
+We find a class of scale-anomaly-free $\mathcal{N}=2$ supersymmetric quantum systems with non-vanishing potential terms where space and time scale with distinct exponents. Our results generalise the known case of the supersymmetric inverse square potential to a larger class of scaling symmetries.

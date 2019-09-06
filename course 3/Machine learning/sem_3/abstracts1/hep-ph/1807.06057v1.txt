@@ -1,0 +1,1 @@
+We review the status of NNLO calculations for jet cross sections at the LHC. In particular, we describe how perturbative stability and convergence can be used as criteria to select the most appropriate scales in the theoretical description of di-jet and single jet inclusive production.

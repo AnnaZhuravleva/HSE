@@ -1,0 +1,1 @@
+I comment and summarize the principles underlying the Four Dimensional Regularization/Renormalization (FDR) approach to the UV and IR infinities. A few recent results are also reviewed.

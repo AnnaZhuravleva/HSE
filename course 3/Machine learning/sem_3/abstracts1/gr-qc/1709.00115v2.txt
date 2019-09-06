@@ -1,0 +1,1 @@
+We present a simple model for stellar collapse and evaluate the quantum mechanical stress-energy tensor to argue that quantum effects do not play an important role for the collapse of astrophysical objects.

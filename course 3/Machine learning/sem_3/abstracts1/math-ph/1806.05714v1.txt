@@ -1,0 +1,1 @@
+In our previous paper \cite{FTD1}, we derived the almost sure convergence of the global density of eigenvalues of random matrices of the SYK model. In this paper, we will prove the central limit theorem for the linear statistic of eigenvalues and compute its variance.

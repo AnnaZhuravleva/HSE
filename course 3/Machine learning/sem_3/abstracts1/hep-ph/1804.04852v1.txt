@@ -1,0 +1,1 @@
+We comment on the recently reiterated claim that the contribution of the W-boson loop to the Higgs boson decay into two photons leads to different expressions in the $R_\xi$ gauge and the unitary gauge. By applying a gauge-symmetry preserving regularization with higher-order covariant derivatives we reproduce once again the "classical" gauge-independent result.

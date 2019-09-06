@@ -1,0 +1,1 @@
+It has been recently demonstrated that it is possible to construct isochronous cosmologies, extending to general relativity a result valid for non-relativistic Hamiltonian systems. In this paper we review these findings and we discuss the Newtonian limit of these isochronous spacetimes, showing that it reproduces the analogous findings in the context of non-relativistic dynamics.

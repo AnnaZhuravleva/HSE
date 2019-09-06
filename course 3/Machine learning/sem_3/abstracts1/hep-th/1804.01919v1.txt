@@ -1,0 +1,1 @@
+We provide a unified geometrical origin for both boundary charges and particle dressings, with a focus on electrodynamics. The method is furthermore generalizable to QCD and gravity, and can be extended to the non-perturbative domain.

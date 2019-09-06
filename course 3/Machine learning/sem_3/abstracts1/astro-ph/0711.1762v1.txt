@@ -1,0 +1,1 @@
+We summarize a novel approach which has been recently proposed for direct detection of low energy neutrino backgrounds such as the cosmological relic neutrinos, exploiting neutrino/antineutrino capture on nuclei that spontaneously undergo beta decay.

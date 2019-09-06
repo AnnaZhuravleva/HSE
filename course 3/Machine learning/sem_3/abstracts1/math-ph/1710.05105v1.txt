@@ -1,0 +1,1 @@
+We obtain sufficient conditions that ensure block diagonalization (by a direct rotation) of sign-indefinite symmetric sesquilinear forms as well as the associated operators that are semi-bounded neither from below nor from above. In the semi-bounded case, we refine the obtained results and, as an example, revisit the block Stokes Operator from fluid dynamics.

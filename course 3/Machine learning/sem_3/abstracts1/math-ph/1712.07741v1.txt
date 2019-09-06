@@ -1,0 +1,1 @@
+In this work we will show that it is possible to construct totally noncommuta tivity in the cas of massive bosonic string in an external B-field by extending the well known Faddeev-Jackiw formalism proposed by L.D. Faddeev and R. Jackiw.

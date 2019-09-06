@@ -1,0 +1,1 @@
+We develop an analytic model that relates intensity correlation measurements performed by an image sensor to the properties of photon pairs illuminating it. Experiments using both an effective single-photon counting (SPC) camera and a linear electron-multiplying charge-coupled device (EMCCD) camera confirm the model.

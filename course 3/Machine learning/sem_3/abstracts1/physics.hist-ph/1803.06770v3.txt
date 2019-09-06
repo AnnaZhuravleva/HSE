@@ -1,0 +1,1 @@
+Kepler's laws are derived from the inverse square law without the use of calculus and are simplified over previous such derivations.

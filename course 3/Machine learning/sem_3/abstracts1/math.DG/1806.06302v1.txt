@@ -1,0 +1,1 @@
+In this note, we prove the magnetic spectral gap-labelling conjecture as stated in [arXiv:1508.01064], in all dimensions, for principal solenoidal tori.

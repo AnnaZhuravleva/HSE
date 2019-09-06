@@ -1,0 +1,1 @@
+Out of the eight possible Pin groups that can be used to describe the transformation behaviour of fermions under parity and time reversal, we show that only two are compatible with general relativity.

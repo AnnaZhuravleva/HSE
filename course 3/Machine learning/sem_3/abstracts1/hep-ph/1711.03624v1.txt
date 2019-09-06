@@ -1,0 +1,1 @@
+We review the flavor structure of the Standard Model and the ways in which the flavor parameters are measured. This is an extended writeup of the TASI 2016 lectures on flavor physics. Earlier versions of these lectures were presented at pre-SUSY 2015 and Cornell University's Physics 7661 course in 2010.

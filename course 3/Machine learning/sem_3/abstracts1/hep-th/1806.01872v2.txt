@@ -1,0 +1,1 @@
+We show that the recently discovered logarithmic terms in the soft graviton theorem induce a late time component in the gravitational wave-form that falls off as inverse power of time, producing a tail term to the linear memory effect. Unlike memory effect, the contribution to the tail term from low velocity particles is not suppressed.

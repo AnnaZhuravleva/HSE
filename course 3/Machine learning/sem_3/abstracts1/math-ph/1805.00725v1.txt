@@ -1,0 +1,1 @@
+In this paper we review recent work that has been done on quantum many-particle systems on metric graphs. Topics include the implementation of singular interactions, Bose-Einstein condensation, sovable models and spectral properties of some simple models in connection with superconductivity in wires.

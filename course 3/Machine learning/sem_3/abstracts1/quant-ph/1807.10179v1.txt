@@ -1,0 +1,1 @@
+We study the dynamics of the non-classical correlations for few atom systems in the presence of strong interactions for a number of recently developed adiabatic state preparation protocols. We show that entanglement can be created in a controlled fashion and can be attributed to two distinct sources, the atom-atom interaction and the distribution of atoms among different traps.

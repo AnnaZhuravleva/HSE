@@ -1,0 +1,1 @@
+Axial anomalous contributions into neutrino PBF losses due to triplet pairing of neutrons are still ignored in modeling the evolution of neutron stars. In this paper, the influence of the anomalous axial contributions onto the rate of neutron stars cooling is estimated.

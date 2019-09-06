@@ -1,0 +1,1 @@
+In this paper, we prove Lorentzian positive mass theorem for spacetimes with distributional curvature. To do so, we introduce distributional curvature and generalized Arnowitt-Deser-Misner (ADM) momentum. As an application, we discuss a junction of spacetimes.

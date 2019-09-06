@@ -1,0 +1,1 @@
+We study low-amplitude crustal oscillations of slowly rotating relativistic stars consisting of a central fluid core and an outer thin solid crust. We estimate the effect of rotation on the torsional toroidal modes and on the interfacial and shear spheroidal modes. The results compared against the Newtonian ones for wide range of neutron star models and equations of state.

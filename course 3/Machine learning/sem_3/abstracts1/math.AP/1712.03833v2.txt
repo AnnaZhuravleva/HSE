@@ -1,0 +1,1 @@
+We consider the wave equation with a focusing cubic nonlinearity in higher odd space dimensions without symmetry restrictions on the data. We prove that there exists an open set of initial data such that the corresponding solution exists in a backward light-cone and approaches the ODE blowup profile.

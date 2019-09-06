@@ -1,0 +1,1 @@
+Some models are presented in which the strength of the gravitational coupling of the potential energy relative to the same coupling for the kinetic energy is, in a precise sense, adjustable. The gauge symmetry of these models consists of those coordinate changes with unit jacobian.

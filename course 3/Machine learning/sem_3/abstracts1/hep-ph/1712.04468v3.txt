@@ -1,0 +1,1 @@
+We evaluate the induced value of Newton's constant which would arise in QCD. The ingredients are modern lattice results, perturbation theory and the operator product expansion. The resulting shift in the Planck mass is positive. A scaled-up version of such a theory may be part of a quantum field theory treatment of gravity.

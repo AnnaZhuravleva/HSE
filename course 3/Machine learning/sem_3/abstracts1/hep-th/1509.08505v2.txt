@@ -1,0 +1,1 @@
+We calculate the free energy from the on-shell action for topologically massive gravity with negative and vanishing cosmological constant, thereby providing a first principles derivation of the free energy of Banados-Teitelboim-Zanelli (BTZ) black holes and flat space cosmologies. We summarize related recent checks of flat space holography.

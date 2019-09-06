@@ -1,0 +1,1 @@
+In this article we discuss few new derivations of the so called Born's rule for quantum probability in the context of the pilot wave theory proposed by de Broglie in 1927.

@@ -1,0 +1,1 @@
+We use the Fourier operator to transform a time dependent mass quantum harmonic oscillator into a frequency dependent one. Then we use Lewis-Ermakov invariants to solve the Schr\"odinger equation by using squeeze operators. Finally we give two examples of time dependencies: quadratically and hyperbolically growing masses.

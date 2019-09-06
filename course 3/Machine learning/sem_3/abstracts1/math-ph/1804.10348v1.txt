@@ -1,0 +1,1 @@
+We present an introduction to the nonlinear Schr\"odinger equation (NLSE) with concentrated nonlinearities in $\mathbb{R}^2$. Precisely, taking a cue from the linear problem, we sketch the main challenges and the typical difficulties that arise in the two-dimensional case, and mention some recent results obtained by the authors on local and global well-posedness.

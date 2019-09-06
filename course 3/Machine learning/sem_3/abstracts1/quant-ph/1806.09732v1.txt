@@ -1,0 +1,1 @@
+We study the power of QMA(2) with postselection and show that the power is equal to NEXP. Our method for showing this equality can be also used to prove that other classes with exponentially small completeness-soundness gap equals to the corresponding postselection versions.

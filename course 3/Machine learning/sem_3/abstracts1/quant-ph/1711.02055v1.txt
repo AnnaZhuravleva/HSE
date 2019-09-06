@@ -1,0 +1,1 @@
+This is the reply to [arXiv:1711.00764], in which the authors claim that there is crucial normalization error in PRL 116, 040502 (2016) and that some quantities appearing in the method of PRL 116, 040502 (2016) are not experimentally measurable. We show that the claim of [arXiv:1711.00764] is not correct and that the quantities appearing in PRL 116, 040502 (2016) can be measured.

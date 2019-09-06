@@ -1,0 +1,1 @@
+We show that contrary to what it is claimed in Phys. Rev. A \textbf{94}, 022329 (2016), in general the local projective measurement that induces maximal coherence loss is \textit{not} the projection onto the local basis that defines the coherence of the system, at least for all quantum-incoherent states.

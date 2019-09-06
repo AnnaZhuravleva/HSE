@@ -1,0 +1,1 @@
+In this paper we define the quaternionic Cayley transformation of a densely defined, symmetric, quaternionic right linear operator and formulate a general theory of defect number in a right quaternionic Hilbert space. This study investigates the relation between the defect number and S-spectrum, and the properties of the Cayley transform in the quaternionic setting.

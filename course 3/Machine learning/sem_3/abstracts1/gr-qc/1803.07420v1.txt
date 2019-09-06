@@ -1,0 +1,1 @@
+A physically realistic stellar model with a simple expression for the energy density and conformally flat interior is found. The relations between the different physical conditions are used without graphic proofs. It may represnet a real pulsar.

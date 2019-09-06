@@ -1,0 +1,1 @@
+Metric spinor phase of the Infeld-van der Waerden {\gamma}-formalism and axion field were identified in Ref. [1], by using Maxwell's theory. Since axion couples with fermions, we will investigate Dirac's theory to extend the work given in [1]. We will show that is possible to identify this phase with the axion again.

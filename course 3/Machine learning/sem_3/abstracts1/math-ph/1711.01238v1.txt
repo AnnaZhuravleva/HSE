@@ -1,0 +1,1 @@
+We study Picard groups and $K_0$ groups for the cluster algebras that come from the cluster categories of \cite{HernandezLeclerc}. This is inspired by a study of boundaries and defects in the associated spin chains. We also do some discussion for their formal deformation quantizations.

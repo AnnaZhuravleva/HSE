@@ -1,0 +1,1 @@
+A method based on the quantum Calogero-Sutherland model is used to obtain generating functions for characters and multiplicities of $A_3$. Some comments on other rank three algebras are offered.

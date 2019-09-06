@@ -1,0 +1,1 @@
+We invert the period map defined by the second structure connection of quantum cohomology of $\mathbb{P}^2$. For small quantum cohomology the inverse is given explicitly in terms of the Eisenstein series $E_4$ and $E_6$, while for big quantum cohomology the inverse is determined perturbatively as a Taylor series expansion whose coefficients are quasi-modular forms.

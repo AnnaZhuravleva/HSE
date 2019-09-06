@@ -1,0 +1,1 @@
+We argue that the typical energy density of a light scalar field should not be less than $H^4$ in the inflationary Universe. This requirement implies that the non-Gaussianity parameter $f_{NL}$ is typically bounded by the tensor-scalar ratio $r$ from above, namely $f_{NL}\lesssim 518\cdot r^{1\over 4}$. If $f_{NL}=10^2$, inflation occurred around the GUT scale.

@@ -1,0 +1,1 @@
+The prospects for finding transiting exoplanets in the range of a few to 20 Earth masses is growing rapidly with both ground-based and spaced-based efforts. We describe a publicly available computer code to compute and quantify the compositional ambiguities for differentiated solid exoplanets with a measured mass and radius, including the mass and radius uncertainties.

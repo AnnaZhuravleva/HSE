@@ -1,0 +1,1 @@
+In this note we give an account of recent progress on the construction of holomorphic vertex algebras as cyclic orbifolds as well as related topics in lattices and modular categories. We present a novel computation of the Schur indicator of a lattice involution orbifold using finite Heisenberg groups and discriminant forms.

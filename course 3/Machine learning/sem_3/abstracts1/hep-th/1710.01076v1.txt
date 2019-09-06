@@ -1,0 +1,1 @@
+We review how to describe a field theory that includes a non-Hermitian mass term in the region of parameter space where the Lagrangian is $PT$-symmetric. The discrete symmetries of the system are essential for understanding the consistency of the model, and the link between conserved current and variation of the Lagrangian has to be revisited in the case of continuous symmetries.

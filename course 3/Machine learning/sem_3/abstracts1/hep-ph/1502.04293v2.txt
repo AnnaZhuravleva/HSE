@@ -1,0 +1,1 @@
+The abelian Higgs model and its phase structure are discussed from the perspective that the gauge and scalar fields admit a dual description in terms of fermion variables. The results which indicate the presence of three main phases: Coulomb, Higgs and confinement agree well with those in the literature although a nonstandard order parameter is employed.

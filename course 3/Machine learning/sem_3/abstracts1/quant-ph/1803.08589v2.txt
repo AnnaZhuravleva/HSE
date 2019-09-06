@@ -1,0 +1,1 @@
+We present a version of the Quantum Jump (Monte Carlo wave-function) algorithm which has been upgraded to use adaptive time step. A single parameter describing the maximal allowed total jump probability per time step governs the convergence of ensembles of trajectories to the solution of the full master equation.

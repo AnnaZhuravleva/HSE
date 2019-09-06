@@ -1,0 +1,1 @@
+Geometrical symmetry in a spacetime can generate test solutions to the Maxwell equation. We demonstrate that the source-free Maxwell equation is satisfied by any generator of spacetime self-similarity---a proper homothetic vector---identified with a vector potential of the Maxwell theory. The test fields obtained in this way share the scale symmetry of the background.

@@ -1,0 +1,1 @@
+This paper aims to recall some of the main contributions of Roberto Petronzio to QCD, with a particular regard to the period we have been working together. His seminal contributions span both the development of analytic computations using perturbation theory and the starting of lattice gauge theories.

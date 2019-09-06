@@ -1,0 +1,1 @@
+We consider scattering matrix for Schr\"odinger-type operators on $R^d$ with perturbation $V(x)=O(\langle x\rangle^{-1})$ as $|x|\to\infty$. We show that the scattering matrix (with time-independent modifiers) is a pseudodifferential operator. We present examples of which the spectrum of the scattering matrix is dense point spectrum.

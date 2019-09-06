@@ -1,0 +1,1 @@
+We rigorously prove that the spin-1/2 XYZ chain with a magnetic field has no local conserved quantity. Any nontrivial conserved quantity of this model is a sum of operators supported by contiguous sites with at least half of the entire system.

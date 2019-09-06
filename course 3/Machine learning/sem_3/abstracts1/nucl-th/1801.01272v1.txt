@@ -1,0 +1,1 @@
+Radiative capture reaction rates for $^6$He, $^9$Be and $^{17}$Ne formation at astrophysical conditions are studied within a three-body model using the analytical transformed harmonic oscillator method to calculate their states. An alternative procedure to estimate these rates from experimental data on low-energy breakup is also discussed

@@ -1,0 +1,1 @@
+We present a new Hamiltonian formulation of barotropic Hall magnetohydrodynamics in two complementary approaches based on Dirac's constraint analysis. In one case the Hamiltonian is canonical involving physical variables only but the brackets are noncanonical, while in the other case the phase space is enlarged to retain the canonical structure of brackets.

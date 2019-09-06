@@ -1,0 +1,1 @@
+We prove that a system of coupled nonlinear Schr{\"o}dinger equations on the torus exhibits both stable and unstable small KAM tori. In particular the unstable tori are related to a beating phenomena which has been proved recently in [6]. This is the first example of unstable tori for a 1d PDE.

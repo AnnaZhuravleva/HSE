@@ -1,0 +1,1 @@
+.We notice many non-Hermitian Hamiltonians yield real spectra .Interestingly some of them belong to PT symmetry and others non-PT symmetry in nature.In the case of simple quantum systems, one can calculate the eigen- spectra analytically, however in other cases one has seek numerical results .We give specific atten tion on stable real spectra .

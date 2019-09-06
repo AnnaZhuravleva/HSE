@@ -1,0 +1,1 @@
+In the present paper, a wavelet family over the $n$-dimensional sphere is constructed such that for each scale the wavelet is a polynomial and the inverse wavelet transform of a continuous function converges in the supremum norm.

@@ -1,0 +1,1 @@
+A simple formula is introduced which indicates the amount by which projections of dark matter direct detection experiments are expected to be degraded due to backgrounds.

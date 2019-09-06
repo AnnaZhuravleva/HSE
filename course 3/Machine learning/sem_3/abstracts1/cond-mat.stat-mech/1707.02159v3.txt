@@ -1,0 +1,1 @@
+The distinction between interacting and noninteracting integrable systems is proposed to be characterized by the Onsager matrix. It being zero is the defining property of a noninteracting integrable system. To support our view we discuss various classical and quantum integrable chains.

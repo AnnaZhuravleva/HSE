@@ -1,0 +1,1 @@
+The color memory effect is the non-abelian gauge theory analog of the gravitational memory effect, in which the passage of color radiation induces a net relative SU(3) color rotation of a pair of nearby quarks. It is proposed that this effect can be measured in the Regge limit of deeply inelastic scattering at electron-ion colliders.

@@ -1,0 +1,1 @@
+We analyze the unitarity properties of higher derivative quantum field theories which are free of ghosts and ultraviolet singularities. We point out that in spite of the absence of ghosts most of these theories are not unitary. This result confirms the difficulties of finding a consistent quantum field theory of quantum gravity.

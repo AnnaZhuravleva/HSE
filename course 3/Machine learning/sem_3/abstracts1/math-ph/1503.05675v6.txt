@@ -1,0 +1,1 @@
+This is a set of lecture notes on the operator algebraic approach to 2-dimensional conformal field theory. Representation theoretic aspects and connections to vertex operator algebras are emphasized. No knowledge on operator algebras or quantum field theory is assumed.

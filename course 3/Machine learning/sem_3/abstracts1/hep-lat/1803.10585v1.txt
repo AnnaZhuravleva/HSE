@@ -1,0 +1,1 @@
+We study the critical region of the $O(2)\,\phi^4$ theory by means of Monte Carlo simulations on the lattice. In particular we determine the ratio $\Delta\langle\phi^2\rangle_c/g$ in order to estimate the first correction to the critical temperature of a weak interacting Bose gas.

@@ -1,0 +1,1 @@
+The empirical formula proposed by J. D. Anderson et al. [1] to reproduce the data on the Earth flyby anomalies is derived from special relativity (SR). The transverse Doppler shift together with the addition of velocities account for the Doppler data. Time dilation together with the addition of velocities account for the ranging data.

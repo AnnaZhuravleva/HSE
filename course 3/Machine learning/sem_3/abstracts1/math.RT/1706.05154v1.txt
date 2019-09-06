@@ -1,0 +1,1 @@
+This is an introduction to a provisional mathematical definition of Coulomb branches of $3$-dimensional $\mathcal N=4$ supersymmetric gauge theories, studied in arXiv:1503.03676, arXiv:1601.03586. This is an expanded version of an article arXiv:1612.09014 appeared in the 61st DAISUUGAKU symposium proceeding (2016), written originally in Japanese.

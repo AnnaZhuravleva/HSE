@@ -1,0 +1,1 @@
+In this article we prove smoothness of the correlation functions in probabilistic Liouville Conformal Field Theory. Our result is a step towards proving that the correlation functions satisfy the higher Ward identities and the higher BPZ equations, predicted by the Conformal Bootstrap approach to Conformal Field Theory.

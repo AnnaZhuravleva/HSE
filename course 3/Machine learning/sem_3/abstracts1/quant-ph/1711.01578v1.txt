@@ -1,0 +1,1 @@
+We show how random unitary dynamics arise from the coupling of an open quantum system to a static environment. Subsequently, we derive a master equation for the reduced system random unitary dynamics and study three specific cases: commuting system and interaction Hamiltonians, the short-time limit, and the Markov approximation.

@@ -1,0 +1,1 @@
+Lecture notes from the 2017 Les Houches Summer School on Effective Field Theories. The lectures covered introductory material on EFTs as used in high energy physics to compute experimentally observable quantities. Other lectures at the school covered a wide range of applications in greater depth.

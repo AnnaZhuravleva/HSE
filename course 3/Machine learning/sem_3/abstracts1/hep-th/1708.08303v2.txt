@@ -1,0 +1,1 @@
+We study the entanglement entropy of the vacuum in non-relativistic local theories with Galilean or Schr\"{o}dinger symmetry. We clear some confusion in the literature on the free Schr\"odinger case. We find that with only positive $U(1)$ charge particles (states) and a unique zero $U(1)$ charge state (the vacuum) the entanglement entropy must vanish in that state.

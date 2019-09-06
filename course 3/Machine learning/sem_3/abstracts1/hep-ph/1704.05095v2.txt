@@ -1,0 +1,1 @@
+In this note we confront the research conducted in \cite{Hoang:2017suc} with results previously obtained by the author, and critically examine some of their claimed findings.

@@ -1,0 +1,1 @@
+The logarithm of the diagonal matrix element of a high power of a random matrix converges to the Cole-Hopf solution of the Kardar-Parisi-Zhang equation in the sense of one-point distributions.

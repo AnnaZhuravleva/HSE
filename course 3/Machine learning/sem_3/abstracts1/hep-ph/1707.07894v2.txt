@@ -1,0 +1,1 @@
+A spectral representation for the neutrino propagator in a moving matter with constant density is constructed. It is found that in a matter there exists a 4-dimensional axis of complete polarization, all poles of the propagator are classified according to the values of the spin projection onto this axis.

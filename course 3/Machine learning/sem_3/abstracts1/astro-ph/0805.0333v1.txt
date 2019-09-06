@@ -1,0 +1,1 @@
+This paper reports on efforts to simulate wave propagation in the solar interior. Presented is work on extending a numerical code for constant entropy acoustic waves in the absence of magnetic fields to the case where magnetic fields are present. A set of linearized magnetohydrodynamic (MHD) perturbation equations has been derived and implemented.

@@ -1,0 +1,1 @@
+The quantum Casimir condensate of a conformal massive scalar field in a compact Friedmann universe is considered. The Abel--Plana formula is used for renormalization of divergent series in the condensate calculation. A differential relation between the Casimir energy density and the condensate is derived.

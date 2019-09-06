@@ -1,0 +1,1 @@
+We present a canonical form for a symplectic involution $S\in Sp(2g,\mathbb{Z})$, $S^2=1$; the construction is algorithmic. Application is made in the Riemann surface setting.

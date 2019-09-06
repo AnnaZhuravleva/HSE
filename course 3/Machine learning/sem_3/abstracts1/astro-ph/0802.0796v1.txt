@@ -1,0 +1,1 @@
+After a rapid introduction about the models of comptonization, we present some simulations that underlines the expected capabilities of Simbol-X to constrain the presence of this process in objects like AGNs or XRB.

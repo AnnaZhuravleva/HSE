@@ -1,0 +1,1 @@
+The quantities C_4 and Theta_2,2,2 are as defined by Wanless, C_4 just the number of 4-loops of a graph. The construction of this paper provides a counterexample to a conjecture of Butera, Pernici, and the author about the monomer-dimer entropy, lambda, of a regular bipartite lattice. The lattice we construct is not a lattice graph in its most common definition.

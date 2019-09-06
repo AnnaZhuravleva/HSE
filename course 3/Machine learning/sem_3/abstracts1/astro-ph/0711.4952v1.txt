@@ -1,0 +1,1 @@
+An exact solution of the Einstein field equations is proposed which represents a differentially rotating fluid. As this solution matches the exterior Kerr solution and reduces to the Schwarzschild interior solution by setting the rotational parameter to zero, it could serve as Kerr interior.

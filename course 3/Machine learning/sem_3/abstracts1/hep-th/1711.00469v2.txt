@@ -1,0 +1,1 @@
+We use Picard-Lefschetz theory to prove a new formula for intersection numbers of twisted cocycles associated to a given arrangement of hyperplanes. In a special case when this arrangement produces the moduli space of punctured Riemann spheres, intersection numbers become tree-level scattering amplitudes of quantum field theories in the Cachazo-He-Yuan formulation.

@@ -1,0 +1,1 @@
+We gauge fix the Standard Model Effective Field Theory in a manner invariant under background field gauge transformations using a geometric description of the field connections.

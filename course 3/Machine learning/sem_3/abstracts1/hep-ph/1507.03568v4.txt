@@ -1,0 +1,1 @@
+We present the calculation of the $\rm CP$ conserving contributions to $\Gamma(h \rightarrow \gamma \gamma)$, from dimension six operators at one-loop order, in the linear Standard Model Effective Field Theory. We discuss the impact of these corrections on interpreting current and future experimental bounds on this decay.

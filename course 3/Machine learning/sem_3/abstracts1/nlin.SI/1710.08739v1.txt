@@ -1,0 +1,1 @@
+In this paper we construct Darboux transformations for the supersymmetric Two-boson equation. Two Darboux transformations and associated B\"acklund transformations are presented. For one of them, we also obtain the corresponding the nonlinear superposition formula.

@@ -1,0 +1,1 @@
+We consider the propagation of light along a 3D nanophotonic structure with the spatial shape of a spacetime containing a traversable wormhole. We show that waves experience significant changes of phase and group velocities when propagating along this curved space. This experiment can be realized with state-of-the-art nanophotonics technology.

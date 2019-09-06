@@ -1,0 +1,1 @@
+Einstein's equations of gravitation are not invariant under geodesic mappings, i. e. under a certain class of mappings of the Christoffel symbols and the metric tensor which leave the geodesic equations in a given coordinate system invariant. A theory in which geodesic mappings play the role of gauge transformations is considered.

@@ -1,0 +1,1 @@
+In this paper we consider a differential--difference system which is equivalent to the commutativity condition of two differential--difference operators. We study the rank two algebro--geometric solutions of this system.

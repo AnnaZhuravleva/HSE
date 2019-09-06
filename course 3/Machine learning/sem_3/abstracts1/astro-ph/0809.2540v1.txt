@@ -1,0 +1,1 @@
+We briefly review the standard derivation of the spectra of cosmological perturbations in the simplest models of inflation. We then consider models with several scalar fields, described by Lagrangians with an arbitrary dependence on the kinetic terms. We illustrate our general formalism with the case of multi-field DBI inflation.

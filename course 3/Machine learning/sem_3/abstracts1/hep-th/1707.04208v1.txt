@@ -1,0 +1,1 @@
+We compute logarithmic corrections to the entropy of a magnetically charged extremal black hole in AdS4 x S7 using the quantum entropy function and discuss the possibility of matching against recently derived microscopic expressions.

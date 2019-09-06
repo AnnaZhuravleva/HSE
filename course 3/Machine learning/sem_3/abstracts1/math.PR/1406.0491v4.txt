@@ -1,0 +1,1 @@
+We initiate in this paper the study of analytic properties of the Liouville heat kernel. In particular, we establish regularity estimates on the heat kernel and derive non trivial lower and upper bounds.

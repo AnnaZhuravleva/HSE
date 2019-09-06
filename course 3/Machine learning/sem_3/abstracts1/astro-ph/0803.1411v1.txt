@@ -1,0 +1,1 @@
+We have measured the angular diameters for a sample of 24 exoplanet host stars using Georgia State University's CHARA Array interferometer. We use these improved angular diameters together with Hipparcos parallax measurements to derive linear radii and to estimate the stars' evolutionary states.

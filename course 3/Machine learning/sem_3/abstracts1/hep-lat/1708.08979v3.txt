@@ -1,0 +1,1 @@
+A generalization of the Wilson loop area-law criterion is proposed, which is applicable to gauge theories with matter in the fundamental representation of the gauge group. This new criterion, like the area law, is stronger than the statement that asymptotic particle states are massive color singlets, which holds even for theories described by the Brout-Englert-Higgs mechanism.

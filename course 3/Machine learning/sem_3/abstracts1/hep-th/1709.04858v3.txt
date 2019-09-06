@@ -1,0 +1,1 @@
+String-localized quantum fields transforming in Wigner's infinite-spin representations were introduced by Mund, Schroer and Yngvason. We construct these fields as limits of fields of finite mass $m\to 0$ and finite spin $s\to\infty$. We determine a string-localized infinite-spin quantum stress-energy tensor with a novel prescription that does not refer to a classical Lagrangean.

@@ -1,0 +1,1 @@
+This paper proves a weak limit theorem for a one-dimensional split-step quantum walk and investigates the limit density function. In the density function, the difference between two Konno's functions appears.

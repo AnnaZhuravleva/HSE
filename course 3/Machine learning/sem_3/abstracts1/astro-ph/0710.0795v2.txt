@@ -1,0 +1,1 @@
+Two aspects of our recent N-body studies of star clusters are presented: (1) What impact does mass segregation and selective mass loss have on integrated photometry? (2) How well compare results from N-body simulations using NBODY4 and STARLAB/KIRA?

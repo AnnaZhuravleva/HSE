@@ -1,0 +1,1 @@
+We use the technique of deconstruction to lift dualities from 2+1 to 3+1 dimensions. In this work we demonstrate the basic idea by deriving S-duality of maximally supersymmetric electromagnetism in 3+1 dimensions from mirror symmetry in 2+1. We also study the deconstruction of a non-supersymmetric duality in 3+1 dimensions using Abelian bosonization in 2+1 dimensions.

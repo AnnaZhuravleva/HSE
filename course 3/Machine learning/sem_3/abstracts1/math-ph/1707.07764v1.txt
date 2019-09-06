@@ -1,0 +1,1 @@
+The triadic description of General Relativity in three dimensions is known to be a BF theory. Diffeomorphisms, as symmetries, are easily re- covered on shell from the symmetries of BF theory. This note describes an explicit off-shell BV symplectomorphism between the BV versions of the two theories, each endowed with their natural symmetries.

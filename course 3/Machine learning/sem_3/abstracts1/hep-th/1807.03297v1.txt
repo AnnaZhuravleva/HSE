@@ -1,0 +1,1 @@
+In this paper we use the scalar field constructed in phase space to analyze the analogous Stefan-Boltzman law and Casimir effect both of them at finite temperature. The temperature is introduced by Thermo Field Dynamics (TFD) and the quantities are analyzed once projected in the coordinates space.

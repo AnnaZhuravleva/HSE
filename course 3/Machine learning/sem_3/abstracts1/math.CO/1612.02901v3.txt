@@ -1,0 +1,1 @@
+We introduce a new class of complex Hadamard matrices which have not been studied previously. We use these matrices to construct a new infinite family of parity proofs of the Kochen-Specker theorem. We show that the recently discovered simple parity proof of the Kochen-Specker theorem is the initial member of this infinite family.

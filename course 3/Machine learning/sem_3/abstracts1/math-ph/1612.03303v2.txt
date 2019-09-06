@@ -1,0 +1,1 @@
+We consider the two-dimensional BCS functional with a radial pair interaction. We show that the translational symmetry is not broken in a certain temperature interval below the critical temperature. In the case of vanishing angular momentum our results carry over to the three-dimensional case.

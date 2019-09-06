@@ -1,0 +1,1 @@
+A decomposition of the Wiener measure based on its quasi-invariance under the group of diffeo- morphisms is proposed. As a result, functional integrals in the Schwarzian theory can be written as the Fourier transform of the integrals in a tahyonic model with the Calogero potential.

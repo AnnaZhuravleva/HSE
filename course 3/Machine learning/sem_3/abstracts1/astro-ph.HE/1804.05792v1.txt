@@ -1,0 +1,1 @@
+The DAMPE experiment has recently reported an electron spectrum that can be explained by dark matter annihilation into charged lepton pairs in a nearby dark matter clump. The accompanying bremsstrahlung may yield a gamma-ray excess with a known spectral shape that extends over an angular scale of $O(10^\circ)$. We show that such an excess is not present in Fermi-LAT data.

@@ -1,0 +1,1 @@
+We give good approximate analytic solutions for spherical charged boson stars in the large scalar-self-coupling limit in general relativity. We show that if the charge $e$ and mass $m$ of the scalar field nearly satisfy the critical relation $e^2\approx Gm^2$ (where $G$ is the Newton constant), our analytic expressions for stable solutions agree well with the numerical solutions.

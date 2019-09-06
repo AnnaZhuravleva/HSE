@@ -1,0 +1,1 @@
+We firstly report an axion haloscope search with toroidal geometry. In this pioneering search, we exclude the axion-photon coupling $g_{a\gamma\gamma}$ down to about $5\times10^{-8}$ GeV$^{-1}$ over the axion mass range from 24.7 to 29.1 $\mu$eV at a 95\% confidence level. The prospects for axion dark matter searches with larger scale toroidal geometry are also considered.

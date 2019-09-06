@@ -1,0 +1,1 @@
+In this paper, we define time-independent modifiers to construct a long-range scattering theory for discrete schr\"odinger operators on the square lattice $\mathbb{Z}^N$. We prove the existence and completeness of modified wave operators in terms of the above mentioned time-independent modifiers.

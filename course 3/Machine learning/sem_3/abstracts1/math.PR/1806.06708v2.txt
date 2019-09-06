@@ -1,0 +1,1 @@
+Following our paper "Two Groups in a Curie-Weiss Model" [5], where we showed bivariate laws of large numbers and central limit theorems for two groups of spins with a homogeneous coupling matrix, we now show similar results when the coupling matrix is heterogeneous and positive definite, under the assumption that the coupling both within groups and between groups is weak.

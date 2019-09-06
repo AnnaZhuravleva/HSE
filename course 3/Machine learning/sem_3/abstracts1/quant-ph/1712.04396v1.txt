@@ -1,0 +1,1 @@
+We discuss efficient simulation and certification of the dynamics induced by a quantum many-body Hamiltonian with short-ranged interactions, extending prior results for one-dimensional systems [Osborne, Phys. Rev. Lett. 97, 157202 (2006) and Lanyon, Maier et al, Nat. Phys. 13, 1158 (2017)] to lattices in arbitrary spatial dimensions.

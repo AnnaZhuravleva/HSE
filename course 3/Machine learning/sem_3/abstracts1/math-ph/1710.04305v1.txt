@@ -1,0 +1,1 @@
+In this article, we construct two-dimensional integrable and superintegrable sys- tems in terms of the master function formalism and relate them to Mielnik;s and Marquette;s construction in supersymmetric quantum mechanics. For two diferent cases of the master functions, we obtain two diferent two-dimensional superintegrable systems with higher order integrals of motion.

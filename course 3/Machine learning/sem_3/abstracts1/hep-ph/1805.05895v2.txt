@@ -1,0 +1,1 @@
+We explore protoneutron star matter in the framework of cold and dense QCD using the state-of-the-art perturbative equation of state including neutrinos fixed by a lepton fraction that is appropriate for this environment. Furthermore, we calculate the modifications in the lepton-rich equation of state showing that stable strange quark matter has a more restricted parameter space.

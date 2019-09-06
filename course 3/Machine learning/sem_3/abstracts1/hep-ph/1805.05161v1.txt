@@ -1,0 +1,1 @@
+Implications of the recent measurements of the parameter $\rho(s)$ (ratio of the real to imaginary parts of the forward scattering elastic amplitude) by TOTEM collaboration at $\sqrt{s}=13$ $TeV$ are discussed with emphasis on the rising energy dependence of the ratio of elastic to total cross--sections.

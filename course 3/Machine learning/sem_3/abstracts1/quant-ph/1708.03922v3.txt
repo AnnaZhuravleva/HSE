@@ -1,0 +1,1 @@
+Boolean logic is used to prove the CHSH inequalities. The proof elucidates the connection be- tween Einstein elements of reality and quantum non locality. The violation of the CHSH inequality by quantum theory is discussed and the two stage view of quantum measurement relevance to incompatible observables is outlined.

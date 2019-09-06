@@ -1,0 +1,1 @@
+We consider a theory of scalar superfields in two dimensions with arbitrary superpotential. By imposing no particle production in tree level scattering, we constrain the form of the admissible interactions, recovering a supersymmetric extension of the sinh-Gordon model.

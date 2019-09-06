@@ -1,0 +1,1 @@
+We extract the mass spectra of triply heavy baryon $\Omega_{ccb}$ using Hypercentral constituent quark model. The first order correction is also added to the potential term of Hamiltonian. The radial and orbital excited state masses are also determined. Moreover, the Regge trajectories and magnetic moments are also given for this baryon.

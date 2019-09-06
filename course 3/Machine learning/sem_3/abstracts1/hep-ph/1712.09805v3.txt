@@ -1,0 +1,1 @@
+Reggeon cuts in QCD amplitudes with negative signature are discussed. These cuts appear in the next-to-next-to-leading logarithmic approximation (NNLLA) and greatly complicate the derivation of the BFKL equation. Feynman diagrams responsible for appearance of these cuts are indicated and the cut contributions are calculated in the two- and three-loop approximation.

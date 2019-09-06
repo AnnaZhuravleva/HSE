@@ -1,0 +1,1 @@
+Using equations proposed by J. Suzuki we compute numerically the first three integrals of motion for $N=1$ supersymmetric CFT. Our computation agrees with the results of ODE-CFT correspondence which was explained in a more general context by S. Lukyanov.

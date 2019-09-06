@@ -1,0 +1,1 @@
+We study soliton solutions of matrix "good" Boussinesq equations, generated via a binary Darboux transformation. Essential features of these solutions are revealed via their "tropical limit", as introduced in previous work about the KP equation. This limit associates a point particle interaction picture with a soliton (wave) solution.

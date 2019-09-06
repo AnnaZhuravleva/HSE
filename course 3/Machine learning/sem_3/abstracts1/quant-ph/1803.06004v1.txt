@@ -1,0 +1,1 @@
+A quantum inspired open optical system is mathematically implemented with an analogous three state non-Hermitian Hamiltonian exhibiting two special avoided-resonance-crossings; where interesting characteristics alongside a third-order exceptional point is explored towards robust ultra-selective state switching.

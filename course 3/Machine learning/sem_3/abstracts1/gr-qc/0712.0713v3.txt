@@ -1,0 +1,1 @@
+An algorithm recently presented by Lake to obtain all static spherically symmetric perfect fluid solutions, is extended to the case of locally anisotropic fluids (principal stresses unequal). As expected, the new formalism requires the knowledge of two functions (instead of one) to generate all possible solutions. To illustrate the method some known cases are recovered.

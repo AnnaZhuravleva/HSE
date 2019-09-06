@@ -1,0 +1,1 @@
+In this work we present an extension of the L\"uscher formalism to include the interaction of particles with spin, focusing on the scattering of two vector particles. The derived formalism will be applied to Scalar QED in the Higgs Phase, where the U(1) gauge boson acquires mass.

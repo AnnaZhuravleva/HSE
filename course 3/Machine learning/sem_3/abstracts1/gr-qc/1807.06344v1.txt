@@ -1,0 +1,1 @@
+For a given space-time and for an arbitrary time-like geodesic, we analyze the conditions for the construction of Fermi coordinates so that they are also rigid covariant. We then apply these conditions to linear plane gravitational waves.

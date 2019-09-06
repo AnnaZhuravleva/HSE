@@ -1,0 +1,1 @@
+We examine the possibility of the flavor symmetry being $SU_f(3)$ in which the phenomenologically successful discreet symmetry $A_4$ is embedded. The allowed quadratic and quartic potentials are constructed exploiting the full symmetry chain $SU(3)\supset SO(4)\supset A_4$. The spontaneous symmetry breaking involving the $SU(3)$ octet scalar fields is analyzed.

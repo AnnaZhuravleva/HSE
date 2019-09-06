@@ -1,0 +1,1 @@
+We demonstrate that the complete factorization of equations of motion into first-order differential equations can be obtained for real and complex scalar field theories with non-canonical dynamics.

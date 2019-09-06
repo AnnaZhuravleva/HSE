@@ -1,0 +1,1 @@
+Using the superfield formalism, we propose a non-local extension of the supersymmetric gauge theory coupled to massless chiral matter. Two different non-local models are considered. For these models, we explicitly calculate the one-loop K\"{a}lerian effective potential.

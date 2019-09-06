@@ -1,0 +1,1 @@
+We present a Lanczos algorithm utilizing multiple grids that reduces the memory requirements both on disk and in working memory by one order of magnitude for RBC/UKQCD's 48I and 64I ensembles at the physical pion mass. The precision of the resulting eigenvectors is on par with exact deflation.

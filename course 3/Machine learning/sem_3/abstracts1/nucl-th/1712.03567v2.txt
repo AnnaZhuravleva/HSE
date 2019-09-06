@@ -1,0 +1,1 @@
+The yields for hadrons and even light nuclei measured at midrapidity in relativistic heavy ion collisions are found to be dictated exclusively by their thermal Boltzmann factor for a common temperature of approximately 155 MeV. The reason for the validity of the thermal model description is widely discussed. Here, we offer a new type of argument in its favor.

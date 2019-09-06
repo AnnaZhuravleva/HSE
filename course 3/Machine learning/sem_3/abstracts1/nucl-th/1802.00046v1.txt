@@ -1,0 +1,1 @@
+We present progress in the evaluation of $\gamma^* N \rightarrow N^*(1535)$ transition form factors in a quark-diquark picture of these baryons. Our analysis is based upon the fully-consistent treatment of a vector $\times$ vector contact interaction, embedded in the interlaced formalism of Schwinger-Dyson and Bethe-Salpeter equations.

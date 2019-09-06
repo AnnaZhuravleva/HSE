@@ -1,0 +1,1 @@
+A spin-foam model is derived from the canonical model of Loop Quantum Gravity coupled to a massless scalar field. We generalized to the full theory the scheme first proposed in the context of Loop Quantum Cosmology by Ashtekar, Campiglia and Henderson, later developed by Henderson, Rovelli, Vidotto and Wilson-Ewing.

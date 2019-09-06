@@ -1,0 +1,1 @@
+In this paper, we construct a new relation between ABS equations and Painlev\'e equations. Moreover, using this connection we construct the difference-differential Lax representations of the fourth and fifth Painlev\'e equations.

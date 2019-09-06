@@ -1,0 +1,1 @@
+We construct a new class of solutions to the dispersionless hyper--CR equation, and show how any solution to this equation gives rise to a supersymmetric Einstein--Maxwell cosmological space--time in $(3+1)$--dimensions.

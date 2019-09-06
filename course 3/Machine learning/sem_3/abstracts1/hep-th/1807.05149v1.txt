@@ -1,0 +1,1 @@
+In this work we give an explicit construction for the vertex operators of massless states in the pure spinor superstring in a plane wave background. The construction is based on the observation that the full action can be divided in two parts, where the simpler one is based on a smaller coset and closely resembles the gauge fixed Green-Schwarz action.

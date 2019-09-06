@@ -1,0 +1,1 @@
+Apart from the perihelion precession of Mercury's elliptical orbit, the gravitation between the Mercury and the Sun certainly causes the change of the radial position of the Mercury. Calculation shows that the major-axis contraction of Mercury's elliptical orbit is $14.2$ km which can be observable with present astronomical distance measurement technology.

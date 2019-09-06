@@ -1,0 +1,1 @@
+We briefly review the connection between the fuzzy field theories and matrix models and describe the main features of the models that appear. We summarize the different approaches to their analysis, some of the recent results and the challenges to be addressed in the future.

@@ -1,0 +1,1 @@
+The search for central exclusive production of muon pairs is performed using the LHCb data acquired on 2011 ($\sqrt{s} = 7$ TeV) and 2012 ($\sqrt{s} = 8$ TeV). Preliminary measurements of cross section using these samples are showed and a first comparison with theoretical previews is presented.

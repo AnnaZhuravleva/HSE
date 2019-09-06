@@ -1,0 +1,1 @@
+The recently discovered general formulas for perturbative correlators in basic matrix models can be interpreted as the Schur-preservation property of Gaussian measures. Then substitution of Schur by, say, Macdonald polynomials, defines a q,t-deformation of the matrix model. Eigenvalue integral representations and Virasoro-like constraints are immediate consequences.

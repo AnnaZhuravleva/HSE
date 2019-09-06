@@ -1,0 +1,1 @@
+We consider a class of globally hyperbolic space-times with "expanding singularities". Under suitable assumptions we show that no $C^0$-extensions across a compact boundary exist, while the boundary must be null wherever differentiable (which is almost everywhere) in the non-compact case.

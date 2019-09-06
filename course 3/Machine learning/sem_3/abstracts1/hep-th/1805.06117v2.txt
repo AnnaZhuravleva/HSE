@@ -1,0 +1,1 @@
+We study the holographic entanglement entropy in a (d+1)-dimensional boundary quantum field theory at both the zero and finite temperature. The phase diagrams for the holographic entanglement entropy at various temperatures are obtained by solving the entangled surfaces in the different homology. We also verify the Araki-Lieb inequality and illustrate the entanglement plateau.

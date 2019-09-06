@@ -1,0 +1,1 @@
+We derive the cosmic microwave background temperature anisotropy two-point correlation function (including off-diagonal correlations) from broken spatial isotropy due to an arbitrarily oriented homogeneous cosmological magnetic field.

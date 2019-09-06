@@ -1,0 +1,1 @@
+We present analytical next-to-leading order results for the correlator of baryonic currents at the three loop level with one finite mass quark. We obtain the massless and the HQET limit of the correlator from the general formula as particular cases. We also give explicit expressions for the moments of the spectral density.

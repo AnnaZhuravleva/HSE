@@ -1,0 +1,1 @@
+Principal component analysis is considered as an addition to the well-tested parametrization w(a)=w_0+w_a(1-a) for the dark energy equation of state. This brief note cautions against some unjustified assumptions in interpretation of PCA calculations, giving quantified examples.

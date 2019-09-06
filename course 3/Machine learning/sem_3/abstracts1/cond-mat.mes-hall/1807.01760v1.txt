@@ -1,0 +1,1 @@
+We introduce a one dimensional non-Hermitian four band tight binding lattice system. We find stable topological edge states protected by particle-hole and parity-time symmetries. We show that topological phase appears in the system. We discuss that the system can also be used as a topological laser if the gain and loss positions in a unit cell are judiciously arranged.

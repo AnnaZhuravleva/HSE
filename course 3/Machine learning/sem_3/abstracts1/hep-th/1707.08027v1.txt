@@ -1,0 +1,1 @@
+We prove the asymptotic large volume expression of diagonal form factors in integrable models by evaluating carefully the diagonal limit of a non-diagonal form factor in which we send the rapidity of the extra particle to infinity.

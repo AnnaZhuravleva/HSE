@@ -1,0 +1,1 @@
+We give simple string theory embeddings of several recently introduced dualities between 2+1-dimensional Chern-Simons matter theories using probe brane holography. Our construction is reliable in the limit of a large number of colors $N$ with fixed Chern-Simons level $k$.

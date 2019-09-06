@@ -1,0 +1,1 @@
+We prove criteria for a {\it 'magnetic' Weyl operator} to be in a Schatten-von Neuman class by extending a method developed by H. Cordes, T. Kato and G. Arsu.

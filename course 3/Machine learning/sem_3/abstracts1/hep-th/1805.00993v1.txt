@@ -1,0 +1,1 @@
+We study the open refined topological string amplitudes using the refined topological vertex. We determine the refinement of holonomies necessary to describe the boundary conditions of open amplitudes (which in particular satisfy the required integrality properties). We also derive the refined holonomies using the refined Chern-Simons theory.

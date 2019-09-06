@@ -1,0 +1,1 @@
+We calculate the formation of dust clouds in atmospheres of giant gas-planets. The chemical structure and the evolution of the grain size distribution in the dust cloud layer is discussed based on a consistent treatment of seed formation, growth/evaporation and gravitational settling. Future developments are shortly addressed.

@@ -1,0 +1,1 @@
+We prove the global existence of Dirac-wave maps with curvature term with small initial data on globally hyperbolic manifolds of arbitrary dimension which satisfy a suitable growth condition. In addition, we also prove a global existence result for wave maps under similar assumptions.

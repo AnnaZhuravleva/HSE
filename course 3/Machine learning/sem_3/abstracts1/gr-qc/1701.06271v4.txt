@@ -1,0 +1,1 @@
+The basics of teleparallel gravity and its extensions are reviewed with particular emphasis on the problem of Lorentz-breaking choice of connection in pure-tetrad versions of the theories. Various possible ways to covariantise such models are discussed. A by-product is a new form of $f(T)$ field equations.

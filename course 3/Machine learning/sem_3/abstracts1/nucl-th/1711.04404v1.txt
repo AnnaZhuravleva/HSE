@@ -1,0 +1,1 @@
+We calculate the spectral function in pseudoscalar (scalar) channel in the high temperature phase of QCD in presence of a background magnetic field. Spatial and temporal screening masses are determined from the long distance behavior of the corresponding correlation functions.

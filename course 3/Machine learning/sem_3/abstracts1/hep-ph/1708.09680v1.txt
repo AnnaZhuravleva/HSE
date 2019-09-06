@@ -1,0 +1,1 @@
+We present phenomenological predictions at NNLO QCD and NLO EW accuracy for $t \bar t$ distributions at the LHC (8 and 13 TeV). We discuss the impact of the electroweak corrections and quantify the theory errors from scale and PDF uncertainties. Moreover, we show the relevance of a precise determination of the photon PDF for $t \bar t$ distributions.

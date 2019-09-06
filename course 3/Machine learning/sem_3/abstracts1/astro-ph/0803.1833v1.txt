@@ -1,0 +1,1 @@
+This chapter is based on four lectures given at the Cambridge N-body school "Cambody". The material covered includes the IMF, the 6D structure of dense clusters, residual gas expulsion and the initial binary population. It is aimed at those needing to initialise stellar populations for a variety of purposes (N-body experiments, stellar population synthesis).

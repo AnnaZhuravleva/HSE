@@ -1,0 +1,1 @@
+We argue that $\mathcal N=8$ supergravity in four dimensions exhibits an exceptional $E_{8(8)}$ symmetry, enhanced from the known $E_{7(7)}$ invariance. Our procedure to demonstrate this involves dimensional reduction of the $\mathcal N=8$ theory to $d=3$, a field redefinition to render the $E_{8(8)}$ invariance manifest, followed by dimensional oxidation back to $d=4$.

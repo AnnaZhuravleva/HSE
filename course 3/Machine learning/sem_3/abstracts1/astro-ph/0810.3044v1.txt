@@ -1,0 +1,1 @@
+We develop a simple semi-analytic model of the star formation rate (SFR) as a function of time. We estimate the SFR for a wide range of values of the cosmological constant, spatial curvature, and primordial density contrast. Our model can predict such parameters in the multiverse, if the underlying theory landscape and the cosmological measure are known.

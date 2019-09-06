@@ -1,0 +1,1 @@
+The paper discusses nonlinear singular perturbations of delta type of the fractional Schr\"odinger equation $\imath\partial_t\psi=\left(-\triangle\right)^s\psi$, with $s\in(\frac{1}{2},1]$, in dimension one. Precisely, we investigate local and global well posedness (in a strong sense), conservations laws and existence of blow-up solutions and standing waves.

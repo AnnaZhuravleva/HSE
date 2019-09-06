@@ -1,0 +1,1 @@
+This article consists of a very short introduction to classical and quantum information theory. Basic properties of the classical Shannon entropy and the quantum von Neumann entropy are described, along with related concepts such as classical and quantum relative entropy, conditional entropy, and mutual information. A few more detailed topics are considered in the quantum case.

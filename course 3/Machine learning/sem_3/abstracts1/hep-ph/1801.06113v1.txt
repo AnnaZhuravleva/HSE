@@ -1,0 +1,1 @@
+We present an algorithm to rearrange the colour chains of dipole showers in the shower process according to the colour amplitudes of a simple matrix element. We implement the procedure in the dipole shower of Herwig and show comparisons to data.

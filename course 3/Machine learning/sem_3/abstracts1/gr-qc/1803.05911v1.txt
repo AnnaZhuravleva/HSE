@@ -1,0 +1,1 @@
+The aim of this paper is to obtain the solution of the Einstein equation in the interior of the black holes by using arbitrary distribution functions; corresponding to Gaussian, Rayleigh, Maxwell-Boltzmann and non-Gaussian distributions. Also we calculate the Hawking temperature, the mass and heat capacity for cosmological horizon and the black hole horizon.

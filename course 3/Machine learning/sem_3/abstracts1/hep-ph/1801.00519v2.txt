@@ -1,0 +1,1 @@
+We derive basis-independent, necessary and sufficient conditions for the custodial symmetry in N-Higgs-doublet models (NHDM) for N > 2, and apply them on some 3HDM examples.

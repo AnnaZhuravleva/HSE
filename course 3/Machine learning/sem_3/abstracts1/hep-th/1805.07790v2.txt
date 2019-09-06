@@ -1,0 +1,1 @@
+We present a new solution describing a pair of rotating, charged, and accelerating black holes in in the low energy limit of heterotic string theory. To obtain the solution, we apply the Hassan-Sen transformation to the neutral accelerating Kerr spacetime as the seed solution. Some properties of the black hole solutions are discussed.

@@ -1,0 +1,1 @@
+We consider a multi-string configuration that provides a new way to compute the expectation value of the Polyakov loop in a five-dimensional framework known as AdS/QCD. The obtained results are in reasonably good agreement with those obtained by lattice simulations for pure SU(3) gauge theory and also by the usual single string configuration.

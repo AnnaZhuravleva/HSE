@@ -1,0 +1,1 @@
+We in the paper study the metric perturbations generated in a bouncing universe driven by the Quintom matter. Firstly, we review the background evolution of Quintom Bounce and the power spectrum of scalar perturbations. Secondly, we study the non-Gaussianity of curvature perturbations and then calculate the tensor perturbations of the model.

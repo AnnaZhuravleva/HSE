@@ -1,0 +1,1 @@
+We review some recent results on eigenvalues of fractional Laplacians and fractional Schr\"odinger operators. We discuss, in particular, Lieb-Thirring inequalities and their generalizations, as well as semi-classical asymptotics.

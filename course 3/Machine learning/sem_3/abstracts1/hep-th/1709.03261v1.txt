@@ -1,0 +1,1 @@
+We calculate $q$-dimension of $k$-th Cartan power of fundamental representation $\Lambda_0$, corresponding to affine root of affine simply laced Kac-Moody algebras, and show that in the limit $q\rightarrow 1 $, and with natural renormalization, it is equal to universal partition function of Chern-Simons theory on three-dimensional sphere.

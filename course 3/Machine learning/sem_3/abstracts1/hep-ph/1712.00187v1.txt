@@ -1,0 +1,1 @@
+We use the linear sigma model coupled to quarks to compute the effective potential beyond the mean field approximation, including the contribution of the ring diagrams at finite temperature and baryon density. We determine the model couplings and use them to study the phase diagram in the baryon chemical potential-temperature plane and to locate the Critical End Point.

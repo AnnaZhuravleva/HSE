@@ -1,0 +1,1 @@
+We present and compare the predictions of various cosmic-ray Monte Carlo models for the energy (dE/deta) and particle (dN/deta) flows in p-p, p-Pb and Pb-Pb collisions at sqrt(s) = 14, 8.8, and 5.5 TeV respectively, in the range covered by forward LHC detectors like CASTOR or TOTEM (5.2<|eta|<6.6) and ZDC or LHCf (|eta|>8.1 for neutrals).

@@ -1,0 +1,1 @@
+In this paper, we prove that any subset with an appropriate sub-linear horizontal growth has a non-zero stationary harmonic measure. On the other hand, we also show any subset with linear horizontal growth will have a $0$ stationary harmonic measure at every point. This result is fundamental to the study of stationary DLA.

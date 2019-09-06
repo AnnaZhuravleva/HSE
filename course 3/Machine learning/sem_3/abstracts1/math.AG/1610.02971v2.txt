@@ -1,0 +1,1 @@
+The purpose of this note is to share some observations and speculations concerning the asymptotic behavior of Gromov-Witten invariants. They may be indicative of some deep phenomena in symplectic topology that in full generality are outside of the reach of current techniques. On the other hand, many interesting cases can perhaps be treated via combinatorial techniques.

@@ -1,0 +1,1 @@
+An N=(4,0) supersymmetric Liouville theory is formulated by the coadjoint orbit method. It is discovered that the action has a hidden symmetry under PSU(1,1|2).

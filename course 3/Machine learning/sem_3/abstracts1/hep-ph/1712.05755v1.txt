@@ -1,0 +1,1 @@
+We describe the program pySecDec, which factorises endpoint singularities from multi-dimensional parameter integrals and can serve to calculate integrals occurring in higher order perturbative calculations numerically. We focus on the new features and on frequently asked questions about the usage of the program.

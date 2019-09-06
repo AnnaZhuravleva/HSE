@@ -1,0 +1,1 @@
+We show that the deviation from exponential behavior of the diffraction cone observed near t=-0.1 GeV^2 both at ISR and the LHC (so-called break) follows from a two-pion loop in the t channel, imposed by unitarity. By using a simple Regge-pole model, we extrapolate the "break" from the ISR energy region to that of the LHC.

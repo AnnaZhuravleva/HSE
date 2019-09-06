@@ -1,0 +1,1 @@
+Application of the intersection theory to construction of n-point finite-difference equations associated with classical integrable systems is discussed. As an example, we present a few new discretizations of motion of the Euler top sharing the integrals of motion with the continuous time system and the Poisson bracket up to the integer scaling factor.

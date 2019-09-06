@@ -1,0 +1,1 @@
+We investigate the General Relativistic (GR) effects on the conversion from nuclear to two-flavour quark matter in compact stars, both static as well as rotating. We find that GR effects lead to qualitative differences in rotating stars, indicating the inadequacy of non-relativistic (NR) or even Special Relativistic (SR) treatments for these cases.

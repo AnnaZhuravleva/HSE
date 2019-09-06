@@ -1,0 +1,1 @@
+We demonstrate separability of the Maxwell's equations in the Myers-Perry-(A)dS geometry and derive explicit solutions for various polarizations. Application of our construction to the four-dimensional Kerr black hole leads to a new ansatz for the Maxwell field which has significant advantages over the previously known parameterization.

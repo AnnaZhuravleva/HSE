@@ -1,0 +1,1 @@
+In this note we report two versions of Gilbert-Varshamov type existential bounds for asymmetric quantum error-correcting codes.

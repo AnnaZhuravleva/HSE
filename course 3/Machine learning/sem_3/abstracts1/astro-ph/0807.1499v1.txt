@@ -1,0 +1,1 @@
+We report on the first results obtained from our development project of focusing gamma-rays ($>$60 keV) by using Laue lenses. The first lens prototype model has been assembled and tested. We describe the technique adopted and the lens focusing capabilities at about 100 keV.

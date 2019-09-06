@@ -1,0 +1,1 @@
+We construct space quasi-periodic standing wave solutions to the nonlinear Schr\"odinger equations on R^d for arbitrary d. This is a type of quasi-periodic nonlinear Bloch-Floquet waves.

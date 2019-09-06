@@ -1,0 +1,1 @@
+We summarize previous work on $\bar b \bar bud$ four-quark systems in the Born-Oppenheimer approximation and discuss first steps towards an extension to the theoretically more challenging $b\bar b u\bar d$ system. Strategies to identify a possibly existing $b\bar b u\bar d$ bound state are discussed and first numerical results are presented.

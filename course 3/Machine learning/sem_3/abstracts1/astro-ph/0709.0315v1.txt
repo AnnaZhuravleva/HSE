@@ -1,0 +1,1 @@
+A phaenomenological DM-DE coupling could indicate their common origin. Various constraint however exist to such coupling; here we outline that it can suppress Meszaros' effect, yielding transfered spectra with a softer bending above k_{hor,eq}. It could be therefore hard to reconcile these models with both CMB and deep sample data, using a constant spectral index.

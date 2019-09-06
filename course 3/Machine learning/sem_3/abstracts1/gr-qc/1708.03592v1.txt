@@ -1,0 +1,1 @@
+We reconstruct $F(\mathcal{G})$ gravity theory with an exponential scale factor to realize the bouncing behavior in the early universe and examine the asymptotic behaviour of late-time solutions in this model. We propose an approach to the construction of asymptotic expansions of solutions of the Friedmann equations on the basis of Puiseux series.

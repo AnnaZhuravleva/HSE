@@ -1,0 +1,1 @@
+We show that an array of identical two level systems coupled losslessly to a one dimensional waveguide is able to realize a high fidelity conditional phase shift useful for quantum logic. We propose two arrangements of emitters (one that relies on direct interactions between the emitters, and one that does not), and describe possible physical realizations and limitations.

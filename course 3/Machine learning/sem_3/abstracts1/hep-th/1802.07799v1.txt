@@ -1,0 +1,1 @@
+Trying to quantize the string in a de Sitter spacetime, Miao Li, Wei Song and Yushu Song presents a solution for the string equation of motion (JHEP04(2007)042) that is not correct. This reopens the problem by them addressed.

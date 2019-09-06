@@ -1,0 +1,1 @@
+We investigate the cosmological evolution of the system of a Dirac-Born-Infeld field plus a perfect fluid. We analyze the existence and stability of scaling solutions for the AdS throat and the quadratic potential. We find that the scaling solutions exist when the equation of state of the perfect fluid is negative and in the ultra-relativistic limit.

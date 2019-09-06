@@ -1,0 +1,1 @@
+We show that within the proxy-SU(3) scheme the wave functions of the normal parity orbitals in a given nuclear shell are affected very little as a result of the replacement of the abnormal parity orbitals by their 0[110] proxy-SU(3) counterparts.

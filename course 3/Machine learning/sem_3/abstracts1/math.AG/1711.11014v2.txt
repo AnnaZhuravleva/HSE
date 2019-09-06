@@ -1,0 +1,1 @@
+In this article, we study the change of genus zero Gromov-Witten invariants under cubic extremal transitions, following Lee-Lin-Wang [arXiv:1705.04799]. We use the language of quantum $D$-modules.

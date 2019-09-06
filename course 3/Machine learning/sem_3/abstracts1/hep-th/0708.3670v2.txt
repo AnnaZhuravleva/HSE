@@ -1,0 +1,1 @@
+We here propose a covariant entropy conjecture on cosmological dynamical horizon. After the formulation of our conjecture, we test its validity in adiabatically expanding universes with open, flat and closed spatial geometry, where our conjecture can also be viewed as a cosmological version of the generalized second law of thermodynamics in some sense.

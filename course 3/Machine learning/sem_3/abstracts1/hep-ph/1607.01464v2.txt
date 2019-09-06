@@ -1,0 +1,1 @@
+We present a Randall-Sundrum toy model with an added scalar singlet that couples only to KK fermions in the bulk. Such a scalar would nontrivially affect radion phenomenology. In addition, we examine the radion phenomenology in light of the new scalar and show how this scalar could present another probe to search for the radion.

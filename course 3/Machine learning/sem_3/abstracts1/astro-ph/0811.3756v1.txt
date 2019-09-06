@@ -1,0 +1,1 @@
+We study the 2-dimensional Navier-Stokes-Poisson equations with density-dependent viscosity $\theta=1/2$ without pressure of gaseous stars in astrophysics. The analytical solutions with collapsing in radial symmetry, are constructed in this paper.

@@ -1,0 +1,1 @@
+We present an estimate of survival probability from an eikonal mini- jet model implemented with a proposal for soft gluon resummation to all orders. We compare it with experimental data for diffractive di-jet production from LHC experiments, CMS and ATLAS, both at LO and NLO order.

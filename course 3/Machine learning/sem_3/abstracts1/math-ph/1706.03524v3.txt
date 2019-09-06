@@ -1,0 +1,1 @@
+We show uniform-in-time propagation of algebraic and stretched exponential moments for the Becker-D\"oring equations. Our proof is based upon a suitable use of the maximum principle together with known rates of convergence to equilibrium.

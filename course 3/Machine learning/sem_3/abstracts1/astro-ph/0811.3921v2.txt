@@ -1,0 +1,1 @@
+We show how inhomogeneous cosmological models can naturally explain the large angle correlation we observe in the CMB (cosmological microwave background) radiation without invoking any inflationary stage, but simply considering the effects of inhomogeneities on the propagation of photons from the last scattering surface.

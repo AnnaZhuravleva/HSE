@@ -1,0 +1,1 @@
+We present calculations of prompt and thermal photon production in Au-Au collisions at $\sqrt{s_{NN}}=19-200$~GeV. We discuss features of the spacetime profile of the plasma relevant for electromagnetic emission. We highlight how the suppression of prompt photon production at low $\sqrt{s_{NN}}$ can provide a window to measure thermal photons in low collision energies.

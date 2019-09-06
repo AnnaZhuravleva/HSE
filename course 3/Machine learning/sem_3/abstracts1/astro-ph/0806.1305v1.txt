@@ -1,0 +1,1 @@
+In this paper we extend oblate and prolate Jaffe models into more general flattened Jaffe models. Since dynamical properties of oblate and prolate Jaffe Models have been studied by Jiang & Moss, they are not repeated here.

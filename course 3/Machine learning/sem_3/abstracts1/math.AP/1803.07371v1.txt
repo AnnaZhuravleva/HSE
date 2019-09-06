@@ -1,0 +1,1 @@
+In this paper we first show a blow-up criterion for solutions to the Navier-Stokes equations with a time-independent force by using the profile decomposition method. Based on the orthogonal properties related to the profiles, we give some examples of global solutions to the Navier-Stokes equations with a time-independent force, whose initial data are large.

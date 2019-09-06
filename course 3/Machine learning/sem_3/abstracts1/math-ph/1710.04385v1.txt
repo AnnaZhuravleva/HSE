@@ -1,0 +1,1 @@
+We study a spinless fermion lattice model that has ${\cal{N}}=2$ supersymmetry given by Hermann Nicolai. We show that high degeneracy of supersymmetric ground states of the Nicolai model is associated to breakdown of local fermion symmetries hidden in the model.

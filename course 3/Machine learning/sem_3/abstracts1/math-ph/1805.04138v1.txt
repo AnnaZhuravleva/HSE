@@ -1,0 +1,1 @@
+We construct a weight matrix for the 3D Ising model satisfying the so-called twisted tetrahedron equation. The result is based on the theory of the n-simplicial complex and the invented recursion procedure on the space of n-simplex solutions in correspondences. The weight matrix reveals some properties intrinsic for the hypercube combinatorics.

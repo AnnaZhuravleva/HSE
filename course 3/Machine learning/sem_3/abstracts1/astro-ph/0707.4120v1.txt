@@ -1,0 +1,1 @@
+We have analyzed XMM-Newton archive data for five clusters of galaxies (redshifts 0.223 to 0.313) covering a wide range of dynamical states, from relaxed objects to clusters undergoing several mergers. We present here temperature maps of the X-ray gas together with a preliminary interpretation of the formation history of these clusters.

@@ -1,0 +1,1 @@
+We investigated the thermal evolution of rotating strange stars with the deconfinement heating due to magnetic braking. We consider the stars consisting of either normal quark matter or color-flavor-locked phase. Combining deconfinement heating with magnetic field decay, we find that the thermal evolution curves are identical to pulsar data.

@@ -1,0 +1,1 @@
+We consider finite-range ferromagnetic Ising models on $\mathbb{Z}^d$ in the regime $\beta<\beta_c$. We analyze the behavior of the prefactor to the exponential decay of $\mathrm{Cov}(\sigma_A,\sigma_B)$, for arbitrary finite sets $A$ and $B$ of even cardinality, as the distance between $A$ and $B$ diverges.

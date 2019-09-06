@@ -1,0 +1,1 @@
+We discuss the reliability of available methods to constrain the location of the QCD critical endpoint with lattice simulations. In particular we calculate the baryon fluctuations up to $\chi^B_8$ using simulations at imaginary chemical potentials. We argue that they contain no hint of criticality.

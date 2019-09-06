@@ -1,0 +1,1 @@
+Bitcoin and blockchain in general is a hot topic nowadays. In the paper we propose a quantum empowering of this technology and show how to speed-up the mining procedure using the modified Grover's algorithm.

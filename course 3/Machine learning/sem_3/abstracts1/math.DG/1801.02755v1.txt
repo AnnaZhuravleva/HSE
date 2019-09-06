@@ -1,0 +1,1 @@
+We study the Hessian geometry of toric Gibbons-Hawking metrics and their phase change phenomena via the images of their moment maps.

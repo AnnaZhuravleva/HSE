@@ -1,0 +1,1 @@
+We study the invariance of stochastic differential equations under random diffeomorphisms, and establish the determining equations for random Lie-point symmetries of stochastic differential equations, both in Ito and in Stratonovich form. We also discuss relations with previous results in the literature.

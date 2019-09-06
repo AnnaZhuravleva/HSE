@@ -1,0 +1,1 @@
+We explain on a selection of mappings how the method introduced by Halburd and our simplified variant thereof, the so-called express method, can be used to calculate the dynamical degree of second-order rational mappings from nothing more than their singularity structure.

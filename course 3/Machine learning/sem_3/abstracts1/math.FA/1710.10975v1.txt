@@ -1,0 +1,1 @@
+We generalise a classical example given by Krein in 1953. We compute the difference of the resolvents and the difference of the spectral projections explicitly. We further give a full description of the unitary invariants, i.e., of the spectrum and the multiplicity. Moreover, we observe a link between the difference of the spectral projections and Hankel operators.

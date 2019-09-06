@@ -1,0 +1,1 @@
+These notes are a short introduction to the Sachdev-Ye-Kitaev model. We discuss: SYK and tensor models as a new class of large N quantum field theories, the near-conformal invariance in the infrared, the computation of correlation functions, generalizations of SYK, and applications to AdS/CFT and strange metals.

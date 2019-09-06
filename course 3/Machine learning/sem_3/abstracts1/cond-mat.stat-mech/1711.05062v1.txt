@@ -1,0 +1,1 @@
+Meta-conformal transformations are constructed as dynamical symmetries of the linear transport equation in $d$ spatial dimensions. In one and two dimensions, the associated Lie algebras are infinite-dimensional and isomorphic to the direct sum of either two or three Virasoro algebras. Co-variant two-point correlators are derived and possible physical applications are discussed.

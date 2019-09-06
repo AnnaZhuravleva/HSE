@@ -1,0 +1,1 @@
+We prove that in Einstein-Maxwell theory the inequality $(8\pi J)^2+(4\pi Q^2)^2 < A^2$ holds for any sub-extremal axisymmetric and stationary black hole with arbitrary surrounding matter. Here $J, Q$, and $A$ are angular momentum, electric charge, and horizon area of the black hole, respectively.

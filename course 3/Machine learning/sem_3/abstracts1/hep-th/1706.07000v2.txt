@@ -1,0 +1,1 @@
+We find a formulation of $\mathcal{N}=2$ supersymmetric Yang-Mills theory in Projective superspace. In particular we find an expression for the field strength in terms of an unconstrained prepotential which is desirable when quantizing the theory. We use this to write the action in terms of the prepotential and show that it reduces to the known result in the abelian limit.

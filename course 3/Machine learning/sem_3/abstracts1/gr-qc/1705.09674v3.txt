@@ -1,0 +1,1 @@
+We develop a local theory for the construction of singular spacetimes in all spacetime dimensions which become asymptotically self-similar as the singularity is approached. The techniques developed also allow us to construct and classify exact self-similar solutions which correspond to the formal asymptotic expansions of Fefferman and Graham's ambient metric.

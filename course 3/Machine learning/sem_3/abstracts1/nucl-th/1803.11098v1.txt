@@ -1,0 +1,1 @@
+A global equilibrium state of a spin polarized fluid that undergoes constant acceleration along the stream lines is described as a solution of recently introduced perfect-fluid hydrodynamic equations with spin 1/2.

@@ -1,0 +1,1 @@
+In this paper we apply the AdS/CFT correspondence to study a strongly coupled plasma far from equilibrium with a strong emphasis on the shear behavior. The plasma serves as a model for an electrically charged quark-gluon plasma. On the gravitational side, we use an ingoing Vaidya black brane spacetime. The highest rate of mass infall is confined to a short time interval.

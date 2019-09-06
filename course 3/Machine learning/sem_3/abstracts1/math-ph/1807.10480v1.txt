@@ -1,0 +1,1 @@
+The statistical counterpart of the formalism of hamiltonian systems with convex dissipation arXiv:0810.1419 , arXiv:1408.3102 is a completely open subject. Here are described a stochastic version of the SBEN principle and a Liouville type theorem which uses a minimal dissipation cost functional.

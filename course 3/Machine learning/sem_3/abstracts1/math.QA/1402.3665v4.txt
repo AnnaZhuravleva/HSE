@@ -1,0 +1,1 @@
+Finite dimensional irreducible modules of the two-parameter quantum enveloping algebra $U_{r,s}(\mathfrak{sl}_n)$ are explicitly constructed using the fusion procedure when $rs^{-1}$ is generic. This provides an alternative and combinatorial description of the Schur-Weyl duality for the two-parameter quantum linear algebras of type $A$.

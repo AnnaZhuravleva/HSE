@@ -1,0 +1,1 @@
+Two-dimensional spin lattices exhibiting perfect state transfer and fractional revival are obtained from projection of quantum walks on graphs generalizing the hypercube and belonging to the ordered 2-Hamming scheme. Single excitation eigenfunctions are given in terms of many-variables Krawtchouk polynomials.

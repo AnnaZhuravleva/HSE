@@ -1,0 +1,1 @@
+For a wide class of two-body interactions, including standard examples like gravitational or Coulomb fields, we show that collision orbits in $n$-body systems are of Liouville measure zero for all energies. We use techniques from symplectic geometry to relate the volume of the union of collision orbits to the area of Poincar\'e surfaces surrounding the collision set.

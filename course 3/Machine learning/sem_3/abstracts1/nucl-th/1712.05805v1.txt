@@ -1,0 +1,1 @@
+We summarize the new method for the correction of participant fluctuations in high energy nucleus-nucleus collisions. It allows to estimate a fluctuation baseline in comparison to a useful signal. In particular cases of a weak signal compared to baseline, it allows to cancel the baseline contribution from participants.

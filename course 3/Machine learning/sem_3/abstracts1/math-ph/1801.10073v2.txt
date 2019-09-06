@@ -1,0 +1,1 @@
+This is the first part of a series of papers on the spectrum of the SYK model, which is a simple model of the black hole in physics literature. In this paper, we will give a rigorous proof of the almost sure convergence of the global density of the eigenvalues. We also discuss the largest eigenvalue of the SYK model.

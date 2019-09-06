@@ -1,0 +1,1 @@
+For a wide class of 2D periodic elliptic operators, we show that the global extrema of all spectral band functions are isolated.

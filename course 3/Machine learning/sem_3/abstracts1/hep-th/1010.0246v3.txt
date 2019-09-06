@@ -1,0 +1,1 @@
+I consider a simple model where the graviton mass and the cosmological constant depend on a scalar field with appropriate couplings and I calculate the graviton propagator and the resulting effective potential for the scalar field in order to examine issues of stability and symmetry breaking.

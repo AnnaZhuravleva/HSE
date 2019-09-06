@@ -1,0 +1,1 @@
+The predictions of a model which was tuned in 2013 to describe the elastic and diffractive $pp$- and/or $p\bar p$-data at collider energies up to 7 TeV are compared with the new 13 TeV TOTEM results. The possibility of an odd-signature Odderon exchange contribution is discussed.

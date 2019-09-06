@@ -1,0 +1,1 @@
+We consider the boundary rigidity problem for asymptotically hyperbolic manifolds. We show injectivity of the X-ray transform in several cases and consider the non-linear inverse problem which consists of recovering a metric from boundary measurements for the geodesic flow.

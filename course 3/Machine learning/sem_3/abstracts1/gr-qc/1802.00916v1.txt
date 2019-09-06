@@ -1,0 +1,1 @@
+Several types of static solutions to Einstein's equations coupled with antisymmetric tensor fields are found in $(2+N+1)$-dimensional spacetime. The solutions describe a product of a three-dimensional radially symmetric spacetime and an internal maximally symmetric manifold. The scale of the internal space may depend on the radial distance from the origin in these solutions.

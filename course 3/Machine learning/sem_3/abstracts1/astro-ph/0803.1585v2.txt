@@ -1,0 +1,1 @@
+We update our previous constraints on two-component hot dark matter (axions and neutrinos), including the recent WMAP 5-year data release. Marginalising over sum m_nu provides m_a < 1.02 eV (95% C.L.) for the axion mass. In the absence of axions we find sum m_nu < 0.63 eV (95% C.L.).

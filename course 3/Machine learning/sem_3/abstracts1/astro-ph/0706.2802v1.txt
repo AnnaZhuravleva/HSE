@@ -1,0 +1,1 @@
+Pairs potential-density in terms of elementary functions that represents flat rings structures are presented. We study structures representing one or several concentric flat rings. Also disks surrounded by concentric flat rings are exhibited. The stability of concentrically circular orbits of particles moving on a flat ring structure is analyzed for radial perturbations.

@@ -1,0 +1,1 @@
+We investigate the asymptotic dynamics of exact quantum Brownian motion. We find that non-Markovianity can persist in the long-time limit, and that in general the asymptotic behaviour depends strongly on the system-environment coupling and the spectral density of the bath.

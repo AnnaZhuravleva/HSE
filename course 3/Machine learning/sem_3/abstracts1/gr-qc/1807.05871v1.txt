@@ -1,0 +1,1 @@
+A model for the universe with a self-interacting fermionic tachyon field is investigated. It is shown that for proper choose of self-interaction potential, this field can produce an accelerated era which can be interpreted as dark energy dominated period. At late time the acceleration tends to a constant value as we expect from cosmological constant.

@@ -1,0 +1,1 @@
+We outline ideas to connect the analytic structure of Feynman amplitudes to the structure of Karen Vogtmann's {\em Outer Space}. We focus on the role of cubical chain complexes in this context, and also investigate the bordification problem in the example of the 3-edge banana graph.

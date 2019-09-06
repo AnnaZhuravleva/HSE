@@ -1,0 +1,1 @@
+We show that the Palatini--Cartan--Holst formulation of General Relativity in tetrad variables must be complemented with additional requirements on the fields when boundaries are taken into account for the associated BV theory to induce a compatible BFV theory on the boundary.

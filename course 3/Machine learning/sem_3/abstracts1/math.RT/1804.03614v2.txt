@@ -1,0 +1,1 @@
+A constructive method, based on Cartan's theory of highest weights, for decomposing finite dimensional representations of real Lie algebras is developed. The procedure is illustrated by numerous examples.

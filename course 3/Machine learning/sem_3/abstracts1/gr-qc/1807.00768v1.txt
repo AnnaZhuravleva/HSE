@@ -1,0 +1,1 @@
+This article examines the foundation of the recently developed relativistic variational formalism[1], its extension to the multi-fluid theory and its utility in astrophysics and cosmology. We use the formalism to examine the entrainment phenomena in the dark-sector.

@@ -1,0 +1,1 @@
+It is argued that the multiplicity distribution in proton-proton ($pp$) collisions, which is often parameterized by the negative binomial distribution, may result from the multiplicity distribution measured in electron-positron ($e^{+}e^{-}$) collisions, once the fluctuating energy carried by two leading protons in $pp$ is taken into account.

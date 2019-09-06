@@ -1,0 +1,1 @@
+It is a well-known open problem in the literature on random polymers to show that a directed polymer in random environment localizes around a favorite path at low temperature. A precise statement of this conjecture is formulated and proved in this article.

@@ -1,0 +1,1 @@
+In this short note we perform canonical analysis of Schrodinger field and non-relativistic electrodynamics coupled to Newton-Cartan gravity. We identify physical degrees of freedom and analyze constraints structure of these theories.

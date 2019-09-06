@@ -1,0 +1,1 @@
+ExDiff is a Monte Carlo event generator for simulation of Exclusive Diffractive processes in proton-proton collisions. The present version includes reactions: elastic scattering $pp\to pp$ at 7, 8, 13, 14~TeV; $pp\to p+R+p$, $R = f_0(1710),\, f_2(1950)$ at 13~TeV. In the future versions many processes of Central Exclusive Diffractive Production will be added.

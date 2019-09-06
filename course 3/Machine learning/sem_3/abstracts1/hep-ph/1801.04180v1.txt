@@ -1,0 +1,1 @@
+We briefly review common tools and methods to identify boosted, hadronically decaying top quarks at the LHC experiments. This includes generic jet substructure variables, specific top identification algorithms, and recent developments in deep learning techniques.

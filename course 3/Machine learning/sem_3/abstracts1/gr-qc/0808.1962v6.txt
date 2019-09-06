@@ -1,0 +1,1 @@
+We covariantly modify the Einstein-Hilbert action such that the modified action perturbatively resolves the flat rotational velocity curve of the spiral galaxies and gives rise to the Tully-Fisher relation, and dynamically generates the cosmological constant. This modification requires introducing just a single new universal parameter.

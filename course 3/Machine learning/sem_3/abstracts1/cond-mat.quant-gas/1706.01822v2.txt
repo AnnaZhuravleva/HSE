@@ -1,0 +1,1 @@
+Following an earlier calculation in 3D, we calculate the 2D critical temperature of a dilute, translation-invariant Bose gas using a variational formulation of the Bogoliubov approximation introduced by Critchley and Solomon in 1976. This provides the first analytical calculation of the Kosterlitz-Thouless transition temperature that includes the constant in the logarithm.

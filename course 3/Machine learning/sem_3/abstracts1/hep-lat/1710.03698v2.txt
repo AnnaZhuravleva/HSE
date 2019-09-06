@@ -1,0 +1,1 @@
+We present results for the eta prime meson and the topological susceptibility in two flavour lattice QCD. The results are obtained using Wilson twisted mass fermions at maximal twist with pion masses ranging from 340 MeV down to the physical point. A comparison to literature values is performed giving a handle on discretisation effects.

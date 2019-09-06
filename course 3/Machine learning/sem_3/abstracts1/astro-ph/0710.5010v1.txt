@@ -1,0 +1,1 @@
+Recent observations of XTE J1739-285 suggest that it contains a neutron star rotating at 1122 Hz. Such rotational frequency would be the first for which the effects of rotation are significant. We study the consequences of very fast rotating neutron stars for the potentially observable quantities as stellar mass and pulsar period.

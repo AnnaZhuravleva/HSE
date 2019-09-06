@@ -1,0 +1,1 @@
+The self-consistent system of master equations describing the kinetics of a relativistic non-Abelian plasma, influenced by curvature interactions, is formulated. Non-minimal (curvature induced) coupling is shown to modify all the subsystems of the model: the gauge field equations, the gravity field equations and the kinetic equation for colored particles.

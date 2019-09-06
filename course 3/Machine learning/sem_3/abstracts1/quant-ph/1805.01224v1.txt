@@ -1,0 +1,1 @@
+This paper provides an overview of the first experimental realizations of quantum-mechanical Maxwell's demons based on superconducting circuits. The principal results of these experiments are recalled and put into context. We highlight the versatility offered by superconducting circuits for studying quantum thermodynamics.

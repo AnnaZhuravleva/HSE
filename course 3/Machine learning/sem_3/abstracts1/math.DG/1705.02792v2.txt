@@ -1,0 +1,1 @@
+We show that the property of existence of solution to the Strominger system in dimension six is neither open nor closed under holomorphic deformations of the complex structure. These results are obtained both in the case of positive slope parameter as well as in the case of negative slope parameter in the anomaly cancellation equation.

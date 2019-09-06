@@ -1,0 +1,1 @@
+We present an analysis of high precision radial velocity (RV) observations of stars hosting multi-planet systems with Jovian companions. We use dynamical stability constraints and quasi-global methods of optimization. As an illustration, we present new results derived for the RV data of the Sun-like dwarfs HD 155358 and $\tau^1$ Gruis.

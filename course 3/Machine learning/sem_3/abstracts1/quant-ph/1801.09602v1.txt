@@ -1,0 +1,1 @@
+We explore the Klein-Gordon equation in the framework of crypto-Hermitian quantum mechanics. Solutions to common problems with probability interpretation and indefinite inner product of the Klein-Gordon equation are proposed.

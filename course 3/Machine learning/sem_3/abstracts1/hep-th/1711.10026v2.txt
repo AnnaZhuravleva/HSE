@@ -1,0 +1,1 @@
+We compute the ultraviolet divergences in the self-dual Yang-Mills theory, both in the purely perturbative (zero instanton charge) and topologically non-trivial sectors. It is shown in particular that the instanton measure is precisely the same as the one-loop result in the standard Yang-Mills theory.

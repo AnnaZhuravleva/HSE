@@ -1,0 +1,1 @@
+In a residual $\mathbb{Z}_2 \times \mathbb{Z}_2$ symmetry approach, we investigate minimally perturbed Majorana neutrino mass matrices. Constraint relations among the low energy neutrino parameters are obtained. Baryogenesis is realized through flavored leptogenesis mechanism with quasi-degenerate right handed (RH) heavy neutrinos.

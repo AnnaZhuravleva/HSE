@@ -1,0 +1,1 @@
+Two recent deformation schemes for quantum field theories on the two-dimensional Minkowski space, making use of deformed field operators and Longo-Witten endomorphisms, respectively, are shown to be equivalent.

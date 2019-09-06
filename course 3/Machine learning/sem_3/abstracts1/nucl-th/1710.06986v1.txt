@@ -1,0 +1,1 @@
+A new two parameter formula for ground-state bands in even-even nuclei, which is deduced for soft rotors or transitional nuclei, is proposed. This new formula blends those of very soft nuclei and large deformed nuclei.

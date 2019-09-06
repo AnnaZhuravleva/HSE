@@ -1,0 +1,1 @@
+In this paper we outline equipotential and equidensity methods of constructing axisymmetric models for galaxies. The former method defines equipotentials, from which the corresponding densities of the galaxy models can be obtained using Poisson's equation; the latter defines the equidensity surfaces of the galaxy models directly.

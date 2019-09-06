@@ -1,0 +1,1 @@
+We show that there is an inconsistency in the class of solutions obtained in Phys. Rev. D {\bf 95}, 084037 (2017). This inconsistency is due to the approximate relation between lagrangian density and its derivative for Non-Linear Electrodynamics. We present an algorithm to obtain new classes of solutions.

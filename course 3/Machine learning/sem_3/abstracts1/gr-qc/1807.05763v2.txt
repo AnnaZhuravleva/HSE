@@ -1,0 +1,1 @@
+Let a particle move in the flat space-time under the action of the electric potential. If it decays to two fragments, the energy of debris can be larger than the original energy and, moreover, the efficiency of such a process can be unbounded. Moreover, this happens even for nonrelativistic particles.

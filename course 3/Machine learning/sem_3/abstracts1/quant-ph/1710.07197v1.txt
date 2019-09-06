@@ -1,0 +1,1 @@
+We survey some recent work on topological quantum computation with gapped boundaries and boundary defects and list some open problems.

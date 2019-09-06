@@ -1,0 +1,1 @@
+We study the the optimization of full implementation of the four-intensity decoy-state Measurement-Device-Independent Quantum Key Distribution (MDIQKD) over asymmetric and unstable quantum channel.

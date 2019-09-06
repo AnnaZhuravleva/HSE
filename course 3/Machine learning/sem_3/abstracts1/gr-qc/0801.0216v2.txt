@@ -1,0 +1,1 @@
+We present brief, to great extent pedagogical review on renormalization in curved space-time and of some recent results on the derivation and better understanding of quantum corrections to the action of gravity. The paper is mainly devoted to the semiclassical approach, but we also discuss its importance for quantum gravity and string theory.

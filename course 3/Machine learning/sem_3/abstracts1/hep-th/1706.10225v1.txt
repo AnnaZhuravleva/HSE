@@ -1,0 +1,1 @@
+We suggest a method to compute the correlation functions in conformal quantum mechanics (CFT$_1$) for the fields that transform under a non-local representation of $\mathfrak{sl}(2)$ basing on the invariance properties. Explicit calculations of 2- and 3-point correlation functions are presented.

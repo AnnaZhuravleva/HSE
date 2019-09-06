@@ -1,0 +1,1 @@
+We provide an analytical expression for the entanglement decay of initially maximally entangled orbital angular momentum bi-photon states, when scattered off an obstruction. We show that the decay is controlled by the diffraction-induced mutual overlap between the diffracted field modes, and quantify its dependence on the size and position of the obstruction.

@@ -1,0 +1,1 @@
+We develop a model for spiral galaxies based on a nonlinear realization of the Newtonian dynamics starting from the momentum and mass conservations in the phase space. The radial solution exhibits a rotation curve in qualitative accordance with the observational data.

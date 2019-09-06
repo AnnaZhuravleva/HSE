@@ -1,0 +1,1 @@
+We discuss the two-dimensional Grassmannian sigma model $\mathbb{G}_{N, M}$ on a finite interval $L$. The different boundary conditions which allow to obtain analytical solutions by the saddle-point method in the large $N$ limit are considered. The nontrivial phase structure of the model on the interval similar to $\mathbb{C}P(N)$ model is found.

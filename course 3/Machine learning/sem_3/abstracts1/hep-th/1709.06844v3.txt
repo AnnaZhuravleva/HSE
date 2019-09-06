@@ -1,0 +1,1 @@
+We investigate the algebraic curve for string in $Sch_5\times S^5$. We compute the semiclassical spectrum for BMN string in $Sch_5\times S^5$ from the algebraic curve. We compare our results with the anomalous dimensions in $sl(2)$ sector of the null dipole deformation of $\mathcal{N} = 4$ super Yang-Mills theory.

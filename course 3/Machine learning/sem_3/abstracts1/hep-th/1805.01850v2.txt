@@ -1,0 +1,1 @@
+We prove that all connected n-point Green functions of four-dimensional topological Yang-Mills theories quantized in the (anti-)self-dual Landau gauges are tree-level exact, i.e. there are no radiative corrections in this gauge choice.

@@ -1,0 +1,1 @@
+In the wake of recent measurements of the decays $B_c^+\to J/\psi D^+_s$ and $B_c^+\to J/\psi D^{\ast\,+}_s$ performed by the LHCb and ATLAS Collaborations, we recalculate their branching fractions in the framework of the covariant confined quark model. We compare the obtained results with available experimental data, our previous findings and numbers from other approaches.

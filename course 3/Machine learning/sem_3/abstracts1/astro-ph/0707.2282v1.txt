@@ -1,0 +1,1 @@
+In the simulation of protoplanetary disc with a power law density profile a disc instability is detected. The instability arises only with a power law profile and is affected by power index. Thus the impact of initial density profile is large within the employed numerical model.

@@ -1,0 +1,1 @@
+We give an overview of the status of string cosmology. We explain the motivation for the subject, outline the main problems, and assess some of the proposed solutions. Our focus is on those aspects of cosmology that benefit from the structure of an ultraviolet-complete theory.

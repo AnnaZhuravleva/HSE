@@ -1,0 +1,1 @@
+A recent QCD formulation that is non-perturbative, finite, gauge-invariant, exact emerged from Schwinger's Generating Functional. A first test of the validity of this formulation is provided here against elastic proton-proton scattering at the Intersecting Storage Rings, ISR, energies. Extension to LHC energies is underway.

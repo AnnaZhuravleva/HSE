@@ -1,0 +1,1 @@
+The famous Shannon impossibility result says that any encryption scheme with perfect secrecy requires a secret key at least as long as the message. In this paper we prove its quantum analogue with imperfect secrecy and imperfect correctness. We also provide a systematic study of information-theoretically secure quantum encryption with two secrecy definitions.

@@ -1,0 +1,1 @@
+In this paper we studied approximate solutions of the radial Schr\"odinger equation with the attractive Gaussian potential. We used asymptotic iteration method and variational method in order to obtain energy eigenvalues for any $n$ and $l$ quantum numbers. Our results are in good agreement with the other studies.

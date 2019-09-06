@@ -1,0 +1,1 @@
+Revised translation of Kaluza's historic 1921 paper, "Zum Unit\"atsproblem der Physik," on 5-dimensional spacetime, used to unify gravity and electromagnetism. This version is based, in part, on a 1984 translation provided by T. Muta, but revised and formatted using LaTeX to closely match the original paper in appearance and pagination. Kaluza's original notation is restored.

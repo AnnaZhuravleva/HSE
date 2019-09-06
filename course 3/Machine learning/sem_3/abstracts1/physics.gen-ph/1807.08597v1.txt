@@ -1,0 +1,1 @@
+Following up on earlier work about across-horizon quantum scattering and information transfer outwards across the black-hole horizon, we show that it is also possible to extract electric charge from a static nonrotating black hole. This result can be extended to other types of charge with a gauge-boson coupling and to nonstatic rotating black holes.

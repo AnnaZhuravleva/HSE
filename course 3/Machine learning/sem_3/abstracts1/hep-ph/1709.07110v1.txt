@@ -1,0 +1,1 @@
+In these proceedings we use recent LHC heavy-ion data to set a limit on axion-like particles coupling to electromagnetism with mass in the range 10-100 GeV. We recast ATLAS data as per the strategy proposed in 1607.06083, and find results in-line with the projections given there.

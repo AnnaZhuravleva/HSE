@@ -1,0 +1,1 @@
+In this work, we provide a quantum algorithm to the matrix multiplication problem. When the norm of rows and columns of given matrices are small in size $O(d^{0.3728639})$, then our algorithm is better than the best classical algorithm. The main techniques are swap test and quantum state preparation.

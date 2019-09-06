@@ -1,0 +1,1 @@
+Using the bilinear formalism, we consider multicomponent and matrix modified KP hierarchies. The main tool is the bilinear identity for the tau-function which is realized as an expectation value of a Clifford group element composed from multicomponent fermionic operators. We also construct the Baker-Akhiezer functions and derive auxiliary linear equations satisfied by them.

@@ -1,0 +1,1 @@
+We consider a focusing Davey-Stewartson system and construct the solution of the Cauchy problem in the possible presence of exceptional points (and/or curves).

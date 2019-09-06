@@ -1,0 +1,1 @@
+We have used a simple camera phone to significantly improve an `exploration system' for astrobiology and geology. This camera phone will make it much easier to develop and test computer-vision algorithms for future planetary exploration. We envision that the `Astrobiology Phone-cam' exploration system can be fruitfully used in other problem domains as well.

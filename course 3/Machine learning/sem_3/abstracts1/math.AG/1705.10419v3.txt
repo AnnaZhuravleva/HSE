@@ -1,0 +1,1 @@
+We define quantum equivariant K-theory of Nakajima quiver varieties. We discuss type A in detail as well as its connections with quantum XXZ spin chains and trigonometric Ruijsenaars-Schneider models. Finally we study a limit which produces a K-theoretic version of results of Givental and Kim, connecting quantum geometry of flag varieties and Toda lattice.

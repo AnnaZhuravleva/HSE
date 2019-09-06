@@ -1,0 +1,1 @@
+We propose matching pairs of half-BPS boundary conditions related by IR dualities of 3d $\mathcal{N}=2$ gauge theories. From these matching pairs we construct duality interfaces. We test our proposals by anomaly matching and the computation of supersymmetric indices. Examples include basic abelian dualities, level-rank dualities, and Aharony dualities.

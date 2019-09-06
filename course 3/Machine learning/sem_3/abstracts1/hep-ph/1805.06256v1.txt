@@ -1,0 +1,1 @@
+We calculate higher-order quantum contributions in different Lorentz-violating parameters to the gauge sector of the extended QED. As a result of this one-loop calculation, some terms which do not produce first-order corrections, contribute with nontrivial gauge-invariant second-order quantum inductions.

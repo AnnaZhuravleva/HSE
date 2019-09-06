@@ -1,0 +1,1 @@
+Taking into account (growing) time-dependent Hawking temperature and finite evaporation time of the black hole, total spectral distributions of the radiant energy and of the number of particles have been explicitly calculated and compared to their initial blackbody counterparts (spectral exitances).

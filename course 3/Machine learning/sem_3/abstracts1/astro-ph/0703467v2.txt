@@ -1,0 +1,1 @@
+We present two diagnostic methods based on ideas of Principal Component Analysis and demonstrate their efficiency for sophisticated processing of multicolour photometric observations of variable objects.

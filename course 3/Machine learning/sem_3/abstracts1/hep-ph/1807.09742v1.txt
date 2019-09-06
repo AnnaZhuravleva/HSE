@@ -1,0 +1,1 @@
+We study the radiative correction to $p_T$-broadening of a fast quark in a quark-gluon plasma beyond the soft gluon approximation. We find that the radiative processes can suppress considerably $p_T$-broadening. This differs dramatically from previous calculations to logarithmic accuracy in the soft gluon approximation, predicting a considerable enhancement of $p_T$-broadening.

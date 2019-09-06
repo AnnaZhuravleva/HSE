@@ -1,0 +1,1 @@
+We prove that three spaces of importance in topological combinatorics are homeomorphic to closed balls: the totally nonnegative Grassmannian, the compactification of the space of electrical networks, and the cyclically symmetric amplituhedron.

@@ -1,0 +1,1 @@
+We update the experimental moments for the charm quark as computed in arXiv:hep-ph/0702103. and used in arXiv:0907.2110 and arXiv:1010.6157 for the determination of the charm-quark mass. The new value for the MSbar charm-quark mass reads mc(3GeV)=0.993+/-0.008 GeV.

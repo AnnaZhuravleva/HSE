@@ -1,0 +1,1 @@
+This note presents search for the Standard Model Higgs boson in $WW$, $\tau\tau$ and $\mu\mu$ decay channels with the proton-proton collision data collected by the CMS experiment at the LHC. The results have been derived using different amounts of luminosities for different channels.

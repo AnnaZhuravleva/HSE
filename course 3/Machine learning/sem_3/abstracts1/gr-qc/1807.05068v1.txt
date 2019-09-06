@@ -1,0 +1,1 @@
+A 1-parameter class of quadratic equations of state is confronted with the Hubble diagram of supernovae and Baryonic Acoustic Oscillations. The fit is found to be as good as the one using the LambdaCDM model. The corresponding universe has no initial singularity, only a mild bounce at a temperature well above the Planck temperature.

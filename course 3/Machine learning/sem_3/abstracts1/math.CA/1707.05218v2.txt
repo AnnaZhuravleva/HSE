@@ -1,0 +1,1 @@
+The problem of evaluation of higher derivatives of Airy functions in a closed form is investigated. General expressions for the polynomials which have arisen in explicit formulae for these derivatives are given in terms of particular values of Gegenbauer polynomials. Similar problem for products of Airy functions is solved in terms of terminating hypergeometric series.

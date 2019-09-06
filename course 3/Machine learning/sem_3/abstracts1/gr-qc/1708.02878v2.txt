@@ -1,0 +1,1 @@
+We prove existence of large families of solutions of Einstein-complex scalar field equations with a negative cosmological constant, with a stationary or static metric and a time-periodic complex scalar field.

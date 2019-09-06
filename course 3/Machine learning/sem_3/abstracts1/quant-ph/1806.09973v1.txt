@@ -1,0 +1,1 @@
+In this paper, we consider an anharmonic perturbation to the harmonic oscillator in the classical and the quantum regimes. We analyse a relativistic particle subjected to such a potential and then proceed to study a gas of such particles. In the first case, the partition function is computed and stated. In both cases, expressions for the average energy are obtained.

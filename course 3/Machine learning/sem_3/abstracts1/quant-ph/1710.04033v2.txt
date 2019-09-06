@@ -1,0 +1,1 @@
+Playing a Parrondo's game with a qutrit is the subject of this paper. We show that a true quantum Parrondo's game can be played with a 3 state coin(qutrit) in a 1D quantum walk in contrast to the fact that playing a true Parrondo's game with a 2 state coin(qubit) in 1D quantum walk fails in the asymptotic limits.

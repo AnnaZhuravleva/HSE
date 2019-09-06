@@ -1,0 +1,1 @@
+In this work an algorithm is proposed to calculate entropy for field theories living on NS five branes, which gives a result invariant under T-duality. This is a deformation of the well known Ryu-Takayanagi formula, which takes into account dependence of localized backgrounds for the branes on winding modes of strings.

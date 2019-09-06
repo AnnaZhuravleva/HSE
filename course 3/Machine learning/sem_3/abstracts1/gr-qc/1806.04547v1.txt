@@ -1,0 +1,1 @@
+We compare the Vinti integral of the classic celestial mechanics with a conserved Carter-like integral of motion for an axially-symmetric body in the Newtonian theory that has been recently found by Clifford Will. We demonstrate that the integrals are identical. It sheds new light on the Newtonian limit of the Kerr geometry.

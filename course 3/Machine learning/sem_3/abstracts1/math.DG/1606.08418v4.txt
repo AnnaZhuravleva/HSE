@@ -1,0 +1,1 @@
+Given a submanifold $S \subset \mathbb R^n$ of codimension at least three, we construct an asymptotically Euclidean Riemannian metric on $\mathbb R^n$ with nonnegative scalar curvature for which the outermost apparent horizon is diffeomorphic to the unit normal bundle of $S$.

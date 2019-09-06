@@ -1,0 +1,1 @@
+Let M be a compact oriented manifold such that there is a submersion from its boundary to the circle. We construct a class of magnetic fields defined over its interior which posses a complete magnetic flow. This means that charged particles inside of M under the influence of such magnetic fields become confined to its interior for all time.

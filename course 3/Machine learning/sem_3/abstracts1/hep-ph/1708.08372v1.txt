@@ -1,0 +1,1 @@
+We prove the general theorem that the real part of the forward two-body scattering amplitude is positive at sufficiently high energies if, above a certain energy, the total cross section increases monotonically to infinity at infinite energy.

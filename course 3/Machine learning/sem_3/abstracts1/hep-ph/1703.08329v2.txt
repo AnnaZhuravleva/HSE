@@ -1,0 +1,1 @@
+We derive two-loop anomalous dimensions for four-Fermi operators in supersymmetric theories using the effective Kahler potential. We introduce the general forms in generic gauge theories and apply our results to the flavor-changing operators in (minimal) supersymmetric standard models.

@@ -1,0 +1,1 @@
+In this short survey, we describe our approach for constructing hierarchies of Poisson brackets for classical integrable systems using its' spectral curves.

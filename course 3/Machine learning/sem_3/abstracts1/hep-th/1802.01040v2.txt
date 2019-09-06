@@ -1,0 +1,1 @@
+These lectures review recent developments in our understanding of the emergence of local bulk physics in AdS/CFT. The primary topics are sufficient conditions for a conformal field theory to have a semiclassical dual, bulk reconstruction, the quantum error correction interpretation of the correspondence, tensor network models of holography, and the quantum Ryu-Takayanagi formula.

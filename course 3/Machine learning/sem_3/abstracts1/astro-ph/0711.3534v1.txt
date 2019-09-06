@@ -1,0 +1,1 @@
+We performed a new calibration of the Stroemgren metallicity index m1 based on the b-y color of cluster red giant stars. The current Metallicity-Index-Color relation is not linear in the color range 0.40 < b-y < 1.0, but provides iron abundances of cluster and field red giants with an accuracy of ~ 0.25 dex.

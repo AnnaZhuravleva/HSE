@@ -1,0 +1,1 @@
+We prove that, for arbitrary centres and strengths, the wave operators for three dimensional Schr\"odinger operators with multi-centre local point interactions are bounded in $L^p(\mathbb{R}^3)$ for $1<p<3$ and unbounded otherwise.

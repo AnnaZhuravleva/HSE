@@ -1,0 +1,1 @@
+We compute asymptotic symmetry algebras of conformal gravity. Due to more general boundary conditions allowed in conformal gravity in comparison to those in Einstein gravity, we can classify the corresponding algebras. The highest algebra for non-trivial boundary conditions is five dimensional and it leads to global geon solution with non-vanishing charges.

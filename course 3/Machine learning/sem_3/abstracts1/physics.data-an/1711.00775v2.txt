@@ -1,0 +1,1 @@
+We consider whether the asymptotic distributions for the log-likelihood ratio test statistic are expected to be Gaussian or chi-squared. Two straightforward examples provide insight on the difference.

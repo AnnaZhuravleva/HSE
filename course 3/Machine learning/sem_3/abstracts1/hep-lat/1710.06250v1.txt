@@ -1,0 +1,1 @@
+The LLR method is a novel algorithm that enables us to evaluate the density of states in lattice gauge theory. We present our study of the ergodicity properties of the LLR algorithm for the model of Yang Mills SU(3). We show that the use of the replica exchange method alleviates significantly the topological freeze-out that severely affects other algorithms.

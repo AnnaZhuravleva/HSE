@@ -1,0 +1,1 @@
+First and second order non-equilibrium thermodynamics are studied in the context of particle creation mechanism for homogeneous and isotropic FLRW model and a general formulation of the emergent scenario is investigated. Finally, the stability of the non-equilibrium thermodynamics is examined.

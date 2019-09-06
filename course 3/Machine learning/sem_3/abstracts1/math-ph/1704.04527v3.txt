@@ -1,0 +1,1 @@
+We discuss the Matsuo-Cherednik type correspondence between the quantum Knizhnik-Zamolodchikov equations associated with $GL(N)$ and the $n$-particle quantum Ruijsenaars model, with $n$ being not necessarily equal to $N$. The quasiclassical limit of this construction yields the quantum-classical correspondence between the quantum spin chains and the classical Ruijsenaars models.

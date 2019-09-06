@@ -1,0 +1,1 @@
+We prove that Maxwell fields of asymptotically flat solutions of the Einstein-Maxwell equations inherit the stationarity of the metric.

@@ -1,0 +1,1 @@
+We present results for the QED and strong isospin breaking corrections to the hadronic vacuum polarization using $N_f=2+1$ Domain Wall fermions. QED is included in an electro-quenched setup using two different methods, a stochastic and a perturbative approach. Results and statistical errors from both methods are directly compared with each other.

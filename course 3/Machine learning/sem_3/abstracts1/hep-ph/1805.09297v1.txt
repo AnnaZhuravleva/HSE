@@ -1,0 +1,1 @@
+We study analytically and numerically effects of spatial eccentricity of the projectile shape on the second flow harmonic in inclusive gluon production in p-A collisions in the CGC framework. Keeping the collision area fixed, we find that the two quantities are anti-correlated.

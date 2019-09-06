@@ -1,0 +1,1 @@
+It was argued in literature that traversable wormholes can exist with arbitrarily small violation of null energy conditions. We show that if the amount of exotic material near the wormhole throat tends to zero, either this leads to a horn instead of a wormhole or the throat approaches the horizon in such a way that infnitely large stresses develop on the throat.

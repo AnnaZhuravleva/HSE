@@ -1,0 +1,1 @@
+The main purpose of this paper is to study the problem of determining initial condition of nonlinear parabolic equation from noisy observations of the final condition. We introduce a regularized method to establish an approximate solution. We prove an upper bound on the rate of convergence of the mean integrated squared error.

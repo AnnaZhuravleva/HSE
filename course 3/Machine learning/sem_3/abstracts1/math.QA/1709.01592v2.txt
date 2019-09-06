@@ -1,0 +1,1 @@
+We present an affine analog of the evaluation map for quantum groups. Namely we introduce a surjective homomorphism from the quantum toroidal gl(n) algebra to the quantum affine gl(n) algebra completed with respect to the homogeneous grading. We give a brief discussion of evaluation modules.

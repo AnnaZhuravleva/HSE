@@ -1,0 +1,1 @@
+In this report we extend some ideas already developed by [8,11,12] to the case where the singular perturbation is given by a derivative of the Dirac's $\delta$.

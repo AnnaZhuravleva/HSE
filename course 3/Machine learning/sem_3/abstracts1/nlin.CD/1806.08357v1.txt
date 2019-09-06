@@ -1,0 +1,1 @@
+In this article we provide the noncommutative Sprott models. We demonstrate, that effectively, each of them is described by system of three complex, ordinary and nonlinear differential equations. Apart of that, we find for such modified models the corresponding (noncommutative) jerk dynamics as well as we study numerically as an example, the deformed Sprott-A system.

@@ -1,0 +1,1 @@
+The high-$p_T$ inclusive spectra measured at the LHC demonstrate a non-perturbative $p_T^{-6}$ dependence. This can be related to observation of a nondecreasing with $p_T$ one-spin asymmetries at RHIC questioning the fact of the spin degrees of freedom neglect at the LHC energies.

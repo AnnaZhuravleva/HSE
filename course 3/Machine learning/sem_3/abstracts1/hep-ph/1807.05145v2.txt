@@ -1,0 +1,1 @@
+We review the current status of calculations of the HQET field anomalous dimension and the cusp anomalous dimension. In particular, we give the results at 4 loops for the quartic Casimir contribution, and for the full QED case, up to $\varphi^6$ in the small angle expansion. Furthermore, we discuss the leading terms in the anti-parallel lines limit at four loops.

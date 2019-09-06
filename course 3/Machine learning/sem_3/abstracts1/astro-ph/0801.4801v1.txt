@@ -1,0 +1,1 @@
+We describe the construction of GROND, a 7-channel imager, primarily designed for rapid observations of gamma-ray burst afterglows. It allows simultaneous imaging in the Sloan g'r'i'z' and near-infrared $JHK$ bands. GROND was commissioned at the MPI/ESO 2.2m telescope at La Silla (Chile) in April 2007, and first results of its performance and calibration are presented.

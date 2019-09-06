@@ -1,0 +1,1 @@
+We give an algebraic description of screw dislocations in a crystal, especially simple cubic (SC) and body centered cubic (BCC) crystals, using free abelian groups and fibering structures. We also show that the strain energy of a screw dislocation based on the spring model is expressed by the Epstein-Hurwitz zeta function approximately.

@@ -1,0 +1,1 @@
+We derive a closed formula for the tensor product of a family of mixed tensors using Deligne's interpolating category $Rep(GL_{0})$. We use this formula to compute the tensor product between any two maximal atypical irreducible $GL(2|2)$-representations.

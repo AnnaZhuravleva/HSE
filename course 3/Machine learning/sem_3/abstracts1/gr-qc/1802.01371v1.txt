@@ -1,0 +1,1 @@
+We show in a new way that the general relativity action (and Lagrangian)in recent Einstein-Palatini formulation is equivalent in four dimensions to the action (and Lagrangian) of a gauge field. This paper is a continuation of the previous paper [17] and it also gives an amended version of the lecture delivered by one of the authors [M.D.] at Hypercomplex Seminar in Bedlewo.

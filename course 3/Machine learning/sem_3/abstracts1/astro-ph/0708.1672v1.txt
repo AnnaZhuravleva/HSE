@@ -1,0 +1,1 @@
+Transition region lines in active regions can become strongly enhanced in coronal footpoints and active region blinkers. The weak transition region lines found in the Solar-B/EIS wavebands will thus become useful for diagnostic studies of these events. EIS count rates predicted from SOHO/CDS spectra are presented, and a Mg VII density diagnostic is highlighted.

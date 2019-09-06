@@ -1,0 +1,1 @@
+For local conformal field theories, it is shown how to construct an expression for the energy-momentum tensor in terms of a Wilsonian effective Lagrangian. Tracelessness implies a single, unintegrated equation which enforces both the Exact Renormalization Group equation and its partner encoding invariance under special conformal transformations.

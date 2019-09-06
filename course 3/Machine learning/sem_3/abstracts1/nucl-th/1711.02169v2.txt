@@ -1,0 +1,1 @@
+We discuss properties of the method based on time dependent superfluid local density approximation (TDSLDA) within an application to induced fission of 240Pu and surrounding nuclei. Various issues related to accuracy of time evolution and the determination of the properties of fission fragments are discussed.

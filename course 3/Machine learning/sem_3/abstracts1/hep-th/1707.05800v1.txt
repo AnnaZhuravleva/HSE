@@ -1,0 +1,1 @@
+Recently we proposed a universal solvable irrelevant deformation of $AdS_3/CFT_2$ duality, which leads in the ultraviolet to a theory with a Hagedorn entropy [1]. In this note we provide a worldsheet description of this theory as a coset CFT, and compare its spectrum to the field theory predictions of [2,3].

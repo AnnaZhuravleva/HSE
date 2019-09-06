@@ -1,0 +1,1 @@
+An inhomogeneous pseudo-scalar field configuration behaves like an optically active medium. Consequently, if a light ray passes through an axion cloud surrounding a Kerr black hole, it may experience a polarization-dependent bending. We explore the size and relevance of such effect considering both the QCD axion and a generic axion-like particle.

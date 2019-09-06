@@ -1,0 +1,1 @@
+We add a thermal noise to Starobinsky equation of slow roll inflation. We calculate the number of e-folds of the stochastic system. The power spectrum and the spectral index are evaluated from the fluctuations of e-folds using an expansion in the quantum and thermal noise terms.

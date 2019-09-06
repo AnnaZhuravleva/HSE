@@ -1,0 +1,1 @@
+Recent extensive data from the beam energy scan of the STAR collaboration at BNL-RHIC provide the basis for a detailed update for the universal behavior of the strangeness suppression factor gamma_s as function of the initial entropy density, as proposed in our recent paper [1]. [1] P. Castorina, S. Plumari and H. Satz, Int. J. Mod. Phys. E26 (2017) 1750081 (arXiv:1709.02706)

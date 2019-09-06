@@ -1,0 +1,1 @@
+Current sheets formed in magnetic reconnection events are found to be unstable to high-wavenumber perturbations. The instability is very fast: its maximum growth rate scales as S^{1/4} v_A/L, where L is the length of the sheet, v_A the Alfven speed and S the Lundquist number. As a result, a chain of plasmoids (secondary islands) is formed, whose number scales as S^{3/8}.

@@ -1,0 +1,1 @@
+We investigate the non-perturbative features of $\phi^4_2$ theory in two dimensions, using Monte Carlo lattice methods. In particular we determine the ratio $f_0 \equiv g/\mu^2$, where g is the unrenormalised coupling, in the infinite volume and continuum limit. Our final result is $f_0$ = 11.055(14).

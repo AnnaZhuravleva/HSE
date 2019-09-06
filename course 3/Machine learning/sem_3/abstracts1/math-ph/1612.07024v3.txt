@@ -1,0 +1,1 @@
+We consider a possible `deformation' of the trace of the heat kernel on odd dimensional spheres, motivated by the calculation of the free energy of a scalar field on a discretized circle. By using an expansion in terms of the modified Bessel functions, we obtain the values of the free energies after a suitable regularization.

@@ -1,0 +1,1 @@
+We find that an S-duality in SL(2) Chern-Simons theory for hyperbolic 3-manifolds emerges by the Borel resummation of a semiclassical expansion around a particular flat connection associated to the hyperbolic structure. We demonstrate it numerically with two representative examples of hyperbolic 3-manifolds.

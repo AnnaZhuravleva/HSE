@@ -1,0 +1,1 @@
+We solve the metrisability problem for the six Painlev\'e equations, and more generally for all 2nd order ODEs with Painlev\'e property, and determine for which of these equations their integral curves are geodesics of a (pseudo) Riemannian metric on a surface.

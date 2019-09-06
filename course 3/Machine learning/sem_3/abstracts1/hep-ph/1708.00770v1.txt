@@ -1,0 +1,1 @@
+In these lecture notes I describe the theory of QCD and its application, through perturbation theory, at particle colliders.

@@ -1,0 +1,1 @@
+After motivating the need of a multiscale version of fractional calculus in quantum gravity, we review current proposals and the program to be carried out in order to reach a viable definition of scale-dependent fractional operators. We present different types of multifractional Laplacians and comment on their known or expected properties.

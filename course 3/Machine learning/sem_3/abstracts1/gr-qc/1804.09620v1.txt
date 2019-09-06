@@ -1,0 +1,1 @@
+A new simple expression for the circular velocity of spiral galaxies is proposed and tested against HI Nearby Galaxy Survey (THINGS) data set. Its accuracy is compared with the one coming from MOND.

@@ -1,0 +1,1 @@
+We investigate whether the classical equivalence of $f(R)$ gravity and its formulation as scalar-tensor theory still holds at the quantum level. We explicitly compare the corresponding one-loop divergences and find that the equivalence is broken by off-shell quantum corrections, but recovered on-shell.

@@ -1,0 +1,1 @@
+The Arcminute Microkelvin Imager is a pair of interferometer arrays operating with six frequency channels spanning 13.9-18.2 GHz, with very high sensitivity to angular scales 30''-10'. The telescope is aimed principally at Sunyaev-Zel'dovich imaging of clusters of galaxies. We discuss the design of the telescope and describe and explain its electronic and mechanical systems.

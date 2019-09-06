@@ -1,0 +1,1 @@
+We have studied the non-resonant streaming instability of charged energetic particles moving through a background plasma, discovered by Bell (2004). We confirm his numerical results regarding a significant magnetic field amplification in the system. A detailed physical picture of the instability development and of the magnetic field evolution is given.

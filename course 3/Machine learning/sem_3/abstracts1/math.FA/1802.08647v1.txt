@@ -1,0 +1,1 @@
+Extensions of dual definite subspaces to dual maximal definite ones are described. The concepts of dual quasi maximal subspaces and quasi basis are introduced and studied. The obtained results are applied to the classification of C-symmetries.

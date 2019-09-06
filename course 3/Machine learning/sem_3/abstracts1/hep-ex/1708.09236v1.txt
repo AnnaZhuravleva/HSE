@@ -1,0 +1,1 @@
+LHCb, while purpose built for $b-$physics, also functions as a general purpose forward detector, covering the pseudo-rapidity range 2.0 to 5.0. LHCb has performed several measurements including jets, which concern, e.g., QCD, top and Higgs physics. A selection of LHCb results in this area will be presented, focusing on the most recent ones.

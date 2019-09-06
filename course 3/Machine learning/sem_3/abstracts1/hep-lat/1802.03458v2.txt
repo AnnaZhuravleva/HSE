@@ -1,0 +1,1 @@
+In this work, we present an explicit form of the Luescher equation and consider the construction of the operators in different irreducible representations for the case of scattering of two vector particles. The formalism is applied to scalar QED in the Higgs Phase, where the $U(1)$ gauge boson acquires mass.

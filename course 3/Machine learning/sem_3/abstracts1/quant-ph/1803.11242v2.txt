@@ -1,0 +1,1 @@
+We analyze quantum superdense coding as would be seen in Everett's many worlds interpretation of measurement, and compare it to Everettian teleportation.

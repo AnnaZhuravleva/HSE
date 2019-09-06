@@ -1,0 +1,1 @@
+The Bogoliubov free energy functional is analysed. The functional serves as a model of a translation invariant Bose gas at positive temperature. We prove the existence of minimizers in the case of repulsive interactions given by a sufficiently regular two-body potential. Furthermore, we prove existence of a phase transition in this model and provide its phase diagram.

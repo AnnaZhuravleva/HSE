@@ -1,0 +1,1 @@
+We show that the transition laws for a 2-connection can be recovered by discretizing the base 2-space of a 2-bundle into an Euclidean hypercubic lattice. The aim of this work is to serve as an example of how important results in higher gauge theory, which have been derived in a continuous setting, can also be derived in the lattice scheme.

@@ -1,0 +1,1 @@
+Away from the central axis, we prove the stability of the Positive Mass Theorem in the $W^{1,p}$ sense for asymptotically flat axisymmetric manifolds with nonnegative scalar curvature satisfying some additional technical assumptions. We also derive estimates for the volumes of regions, the areas of axisymmetric surfaces, and the distances between points within the manifolds.

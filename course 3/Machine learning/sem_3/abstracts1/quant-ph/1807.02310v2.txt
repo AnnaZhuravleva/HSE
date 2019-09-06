@@ -1,0 +1,1 @@
+This paper is devoted to the analysis of massive particle in general and Newton-Cartan Background in de Broglie-Bohm Theory. We find classical and quantum version of Hamilton-Jacobi equations and find their relations to wave equations. We also discuss fundamental difference between classical and quantum description of these two systems.

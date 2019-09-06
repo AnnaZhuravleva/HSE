@@ -1,0 +1,1 @@
+We consider compressive viscosity and thermal conductivity to study the propagation and dissipation of long period slow longitudinal MHD waves in polar coronal holes. We discuss their likely role in the line profile narrowing, and in the energy budget for coronal holes and the solar wind. We compare the contribution of longitudinal MHD waves with high frequency Alfven waves.

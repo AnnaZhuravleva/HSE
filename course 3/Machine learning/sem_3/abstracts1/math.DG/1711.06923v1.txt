@@ -1,0 +1,1 @@
+A linear connection is associated to a nonlinear connection on a vector bundle by a linearization procedure. Our definition is intrinsic in terms of vector fields on the bundle. For a connection on an affine bundle our procedure can be applied after homogenization and restriction. Several applications in Classical Mechanics are provided.

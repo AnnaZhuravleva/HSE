@@ -1,0 +1,1 @@
+We present a program allowing for the construction of a heavy ion Monte Carlo event using a general purpose proton--proton event generator of the users' choice to deliver sub--collisions. In this heavy ion event, one or more jets can be added, again using a jet calculation of the users' choice, allowing for more realistic simulation studies of jets in a heavy ion background.

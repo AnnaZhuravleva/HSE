@@ -1,0 +1,1 @@
+This paper is concerned with density estimation of directional data on the sphere. We introduce a procedure based on thresholding on a new type of spherical wavelets called {\it needlets}. We establish a minimax result and prove its optimality. We are motivated by astrophysical applications, in particular in connection with the analysis of ultra high energy cosmic rays.

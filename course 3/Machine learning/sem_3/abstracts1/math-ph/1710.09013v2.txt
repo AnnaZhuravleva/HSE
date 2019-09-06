@@ -1,0 +1,1 @@
+A central limit theorem is proved for the free energy of the random field Ising model with all plus or all minus boundary condition, at any temperature (including zero temperature) and any dimension. This solves a problem posed by Wehr and Aizenman in 1990. The proof uses a variant of Stein's method.

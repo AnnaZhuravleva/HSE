@@ -1,0 +1,1 @@
+For the first time we develop the gauge invariance of the supersymmetric grassmannian sigma model $G(M,N)$. It is richer then its purely bosonic submodel and we show how to use it in order to reduce some constant curvature holomorphic solutions of the model into simpler expressions.

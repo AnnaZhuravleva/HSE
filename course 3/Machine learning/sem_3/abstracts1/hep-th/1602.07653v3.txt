@@ -1,0 +1,1 @@
+We apply a discrete quantum walk from a quantum particle on a discrete quantum spacetime from loop quantum gravity and show that the related Entanglement Entropy can drive a entropic force. We apply this concepts to propose a model of a walker position topologically encoded on a spin network.

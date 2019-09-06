@@ -1,0 +1,1 @@
+The thermodynamics of quarks and gluons strongly depends on the vacuum colormagnetic field, which grows with the temperature $T$, so that spatial string tension $\sigma_s ={\rm const}~ g^4 (T) T^2$. We investigate below what happens when one imposes in addition constant magnetic field and discover remarkable structure of the resulting thermodynamic potential.

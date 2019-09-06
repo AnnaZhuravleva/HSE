@@ -1,0 +1,1 @@
+We prove the existence of solitary waves in the KdV limit of two-dimensional FPU-type lattices using asymptotic analysis of nonlinear and singularly perturbed integral equations. In particular, we generalize the existing results by Friesecke and Matthies since we allow for arbitrary propagation directions and non-unidirectional wave profiles.

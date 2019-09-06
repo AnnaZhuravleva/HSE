@@ -1,0 +1,1 @@
+A hard three-loop correction to parapositronium energy levels of order $m\alpha^7$ is calculated. This nonlogarithmic contribution is due to the insertions of one-loop photon propagator in the fermion lines in the diagrams with virtual two-photon annihilation. We obtained $\Delta E=0.03297(2)(m\alpha^7/\pi^3)$ for this energy shift.

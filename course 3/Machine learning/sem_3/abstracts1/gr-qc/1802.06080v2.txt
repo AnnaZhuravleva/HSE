@@ -1,0 +1,1 @@
+It is shown that a linearized classical gravity wave $\hat{a}$ {\em la} Einstein can get entangled with an array of test masses in a plane perpendicular to its direction of propagation. A Bell-CHSH inequality based on the requirement of noncontextuality for classical realism is derived, and it is shown that the entangled state produced violates this inequality.

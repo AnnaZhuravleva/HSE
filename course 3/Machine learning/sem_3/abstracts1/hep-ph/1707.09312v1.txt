@@ -1,0 +1,1 @@
+We estimate the temperature dependence of the gluon condensate from the Polyakov loop effective potential. It is presented how this analytic approach provides a simple picture for the electric gluon condensate around the deconfinement temperature, showing that it drops to zero in a temperature range which is in good agreement with different pure gauge lattice results.

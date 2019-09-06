@@ -1,0 +1,1 @@
+Contrary to the claim in a series of recent papers, we show that it cannot. A source of the error in those papers is misinterpretation of coordinate time as a physical time.

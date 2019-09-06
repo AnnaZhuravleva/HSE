@@ -1,0 +1,1 @@
+We discuss the sharp interface limit of the action functional associated to either the Glauber dynamics for Ising systems with Kac potentials or the Glauber+Kawasaki process. The corresponding limiting functionals, for which we provide explicit formulae of the mobility and transport coefficients, describe the large deviations asymptotics with respect to the mean curvature flow.

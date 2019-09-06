@@ -1,0 +1,1 @@
+Discrete-time quantum walk in one-dimension is studied from a path-integral perspective. This enables derivation of a closed-form expression for amplitudes corresponding to any coin-position basis of the state vector of the quantum walker at an arbitrary step of the walk. This provides a new approach to the foundations and applications of quantum walks.

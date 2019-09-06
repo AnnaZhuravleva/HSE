@@ -1,0 +1,1 @@
+We investigate the vacuum energy in $\kappa$-Poincar\'e invariant field theories. It is shown that for the equivariant Dirac operator one obtains an improvement in UV behavior of the vacuum energy and therefore the cosmological constant problem has to be revised.

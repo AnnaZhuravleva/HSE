@@ -1,0 +1,1 @@
+We present CO(1-0) and CO(2-1) maps of the Seyfert 2 galaxy NGC3147 of the NUclei of GAlaxies (NUGA) sample at 1.8'' x 1.6'' and 1.4'' x 1.2'' resolution respectively. Identifying the presence of a bar in NGC3147 we also compute the gravity torques exerted from the stellar bar on the gas.

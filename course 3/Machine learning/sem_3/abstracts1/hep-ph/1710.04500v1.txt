@@ -1,0 +1,1 @@
+We calculate the two-mass contribution to the 3-loop vacuum polarization of the gluon in Quantum Chromodynamics at virtuality $p^2 = 0$ for general masses and also present the analogous result for the photon in Quantum Electrodynamics.

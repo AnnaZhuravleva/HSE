@@ -1,0 +1,1 @@
+We construct non-relativistic string and p-brane actions in Newton-Cartan background using the limiting procedure from the relativistic string and p-brane action in general background. We also find their Hamiltonian formulations when however we restrict ourselves to the case of the vanishing gauge field.

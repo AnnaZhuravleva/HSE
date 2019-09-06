@@ -1,0 +1,1 @@
+A new method is proposed to compute the bulk viscosity in strange quark matter at high densities. Using the method it is straightforward to prove that the bulk viscosity is positive definite, which is not so easy to accomplish in other approaches especially for multi-component fluids like strange quark matter with light up and down quarks and massive strange quarks.

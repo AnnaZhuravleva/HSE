@@ -1,0 +1,1 @@
+Coefficients of surface tension for even-even nuclei were estimated using its dependence of nuclear rigidity. The values of nuclear rigidity were obtained owing to its connection to mean squared deformations. The correlation of estimated surface tension coefficients with data on nuclear shapes was revealed.

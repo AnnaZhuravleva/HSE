@@ -1,0 +1,1 @@
+The free energy of a static quark-antiquark pair is obtained in an interacting dyon ensemble near the deconfinement temperature. Comparing the results with the noninteracting case, we observe that the string tension between the quark-antiquark pair increases for the interacting ensemble. As a result, the confinement temperature decreases.

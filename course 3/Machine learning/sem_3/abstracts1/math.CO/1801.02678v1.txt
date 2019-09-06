@@ -1,0 +1,1 @@
+In the study of supersymmetry in one dimension, various works enumerate sets of generators of garden algebras $GR(d,N)$ (and equivalently, valise Adinkras) for special cases $N = d = 4$ and $N = d = 8$, using group-theoretic methods and computer computation. We complement this work by enumerating the objects for arbitrary $N$ and $d$ via a formula in a streamlined manner.

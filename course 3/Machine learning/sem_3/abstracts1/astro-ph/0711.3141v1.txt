@@ -1,0 +1,1 @@
+We present new evolutionary synthesis models for Single Stellar Populations covering a wide range in age and metallicity. The most important difference with existing models is the use of NLTE atmosphere models for the hot stars (O, B, WR, post-AGB stars, and planetary nebulae) that have an important impact in the stellar cluster's ionizing spectra.

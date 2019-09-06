@@ -1,0 +1,1 @@
+I construct multiplicies and orientations of tangent cones to any blow-up set $Z$ for the Seiberg-Witten equation with multiple spinors. This is used to prove that $Z$ determines a homology class, which is shown to be equal to the Poincar\'{e} dual of the first Chern class of the determinant line bundle. I also obtain a lower bound for the 1-dimensional Hausdorff measure of $Z$.

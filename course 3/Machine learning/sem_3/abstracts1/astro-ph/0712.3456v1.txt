@@ -1,0 +1,1 @@
+Formulae suitable for computing light-induced drift (LID) acceleration and corresponding diffusional segregation of isotopes in CP star model atmospheres are given.

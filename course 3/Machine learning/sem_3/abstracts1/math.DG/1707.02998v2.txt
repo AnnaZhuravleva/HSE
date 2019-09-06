@@ -1,0 +1,1 @@
+Let $(M,\Omega)$ be a closed $8$-dimensional manifold equipped with a generically non-integrable $\mathrm{Spin}(7)$-structure $\Omega$. We prove that if $\mathrm{Hom}(H^{3}(M,\mathbb{Z}), \mathbb{Z}_{2}) = 0$ then the moduli space of irreducible $\mathrm{Spin}(7)$-instantons on $(M,\Omega)$ with gauge group $\mathrm{SU}(r)$, $r\geq 2$, is orientable.

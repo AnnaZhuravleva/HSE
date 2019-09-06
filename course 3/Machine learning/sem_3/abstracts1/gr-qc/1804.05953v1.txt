@@ -1,0 +1,1 @@
+The perturbations of fields with spin 0, 1/2, and 1 propagating in a higher-dimensional generalization of the charged Nariai spacetime are investigated. The boundary conditions leading to quasinormal modes are analyzed and the quasinormal frequencies are analytically obtained.

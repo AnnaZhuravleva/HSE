@@ -1,0 +1,1 @@
+We show that contrary to the claim in Sci. Rep. 7, 15492 (2017), the quantum Fisher information itself is not a valid coherence measure based on the resource theory of coherence because it can increase via an incoherent operation.

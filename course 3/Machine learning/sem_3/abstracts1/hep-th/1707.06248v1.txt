@@ -1,0 +1,1 @@
+We study the possibility of an ultraviolet (UV) zero in the six-loop beta function of an O($N$) $\lambda |\vec \phi|^4$ field theory in $d=4$ spacetime dimensions. For general $N$, in the range of values of $\lambda$ where a perturbative calculation is reliable, we find evidence against such a UV zero in this six-loop beta function.

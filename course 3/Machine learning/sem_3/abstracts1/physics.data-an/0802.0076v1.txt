@@ -1,0 +1,1 @@
+Transfer matrix method gives underlying dynamics of a multifractal. In the present studies transfer matrix method is applied to multifractal properties of Cherenkov image from which probabilities of electromagnetic components are obtained.

@@ -1,0 +1,1 @@
+We consider reheating after inflation with a non-standard kinetic term. We show that the difference in the kinetic term in different Hubble patches inherited from the long-wavelength moduli inhomogeneities may generate a significant level of non-Gaussianity after inflation.

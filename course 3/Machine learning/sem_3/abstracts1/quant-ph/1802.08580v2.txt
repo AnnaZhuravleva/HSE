@@ -1,0 +1,1 @@
+It is shown how a "meddlesome" photon indistinguishable from another photon of an entangled pair can affect the result of an Einstein- Podolsky-Rosen (EPR) experiment. This makes it clear the importance of the notion of field over that of particle.

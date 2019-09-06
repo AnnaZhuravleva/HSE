@@ -1,0 +1,1 @@
+We construct the conserved charges (mass and angular momentum) of the Chern-Simons modified General Relativity in asymptotically flat and Anti-de Sitter (AdS) spacetimes. Our definition is based on background Killing symmetries and reduces to the known expressions in the proper limits.

@@ -1,0 +1,1 @@
+In this paper, we examine the existence of traversable wormhole solutions within the Chern-Simons modified gravity. We find a non-trivial solution in the theory with dynamical Chern-Simons coefficient in the absence of matter sources. This result displays a situation opposite to GR where the matter sources violating the energy conditions are required.

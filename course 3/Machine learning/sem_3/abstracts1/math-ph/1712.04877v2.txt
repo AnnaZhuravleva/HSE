@@ -1,0 +1,1 @@
+Using duality techniques, we derive the hydrodynamic limit for one-dimensional, boundary-driven, symmetric exclusion processes with different types of non-reversible dynamics at the boundary, for which the classical entropy method fails.

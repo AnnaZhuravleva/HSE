@@ -1,0 +1,1 @@
+We introduce the discrete time version of the spin Calogero-Moser system. The equations of motion follow from the dynamics of poles of rational solutions to the matrix KP hierarchy with discrete time. The dynamics of poles is derived using the auxiliary linear problem for the discrete flow.

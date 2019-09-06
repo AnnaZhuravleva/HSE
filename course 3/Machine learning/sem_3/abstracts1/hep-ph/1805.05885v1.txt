@@ -1,0 +1,1 @@
+We perform a semi-perturbative calculation of the quark-gluon vertex inspired from the three-loop expanded 3PI effective action and investigate the relative strengths of the chirally symmetric/broken tensor structures below and above the crossover.

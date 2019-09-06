@@ -1,0 +1,1 @@
+The existing decoy-state MDI-QKD theory assumes the perfect control of the source states which is a an impossible task for any real setup. In this paper, we study the decoy-state MDI-QKD method with source errors without any presumed conditions and we get the final security key rate only with the range of a few parameters in the source state.

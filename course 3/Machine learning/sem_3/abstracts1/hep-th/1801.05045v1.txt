@@ -1,0 +1,1 @@
+We introduce an exactly solvable model of two-dimensional Dirac fermion in presence of an asymmetric vector potential. Fundamental solutions of its stationary equation are represented by an irreducible combination of two Gauss hypergeometric functions. Peculiar spectral properties of the system are analyzed.

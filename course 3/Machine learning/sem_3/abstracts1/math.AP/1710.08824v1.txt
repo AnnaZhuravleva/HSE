@@ -1,0 +1,1 @@
+The Lie symmetries for a class of systems of evolution equations are studied. The evolution equations are defined in a bimetric space with two Riemannian metrics corresponding to the space of the independent and dependent variables of the differential equations. The exact relation of the Lie symmetries with the collineations of the bimetric space is determined

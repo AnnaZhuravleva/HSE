@@ -1,0 +1,1 @@
+We introduce concept of next generation shape invariance and show that the process of shape invariant extension can be continued indefinitely.

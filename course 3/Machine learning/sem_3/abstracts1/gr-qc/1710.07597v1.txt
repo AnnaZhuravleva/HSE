@@ -1,0 +1,1 @@
+We prove that the $TT$-gauge-fixed linearised Einstein operator is non-degenerate for Riemannian Kottler ("Schwarzschild-anti de Sitter") metrics with dimension- and topology-dependent ranges of mass parameter. We provide evidence that this remains true for all such metrics except the spherical ones with a critical mass.

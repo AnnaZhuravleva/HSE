@@ -1,0 +1,1 @@
+We study the propagation of a gravitational wave in an Ads spacetime. We find that, in presence of the cosmological constant, the graviton mass cannot be measured with higher precision than the square root of the cosmological constant.

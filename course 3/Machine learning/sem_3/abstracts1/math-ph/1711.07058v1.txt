@@ -1,0 +1,1 @@
+The Lagrangian of the causal action principle is computed in Minkowski space for Dirac wave functions interacting with classical electromagnetism and linearized gravity in the limiting case when the ultraviolet cutoff is removed. Various surface layer integrals are computed in this limiting case.

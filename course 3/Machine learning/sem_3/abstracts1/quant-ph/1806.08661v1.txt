@@ -1,0 +1,1 @@
+We give an $\dfrac{1}{54}$ separation between 5-party pseudo-telepathy games and two-local theories. We define the notion of strategy in a k-local theory for a game, and extend the method of Chao and Reichardt. We also study variation of the game to minimize the classical winning probability.

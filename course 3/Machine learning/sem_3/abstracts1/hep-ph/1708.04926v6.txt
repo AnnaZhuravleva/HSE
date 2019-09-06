@@ -1,0 +1,1 @@
+It is shown that in the standard model of $K^0_{S}$ regeneration a system of noncoupled equations of motion is used instead of the coupled ones. A model alternative to the standard one is proposed. The calculation performed by means of diagram technique agrees with that based on exact solution of equations of motion.

@@ -1,0 +1,1 @@
+We show that the large-charge formalism can be successfully applied to models that go beyond the vector models discussed so far in the literature. We study the explicit example of a conformal $SU(3)$ matrix model in 2+1 space-time dimensions at fixed charge and calculate the anomalous dimension and fusion coefficients at leading order in the $U(1)$ charge.

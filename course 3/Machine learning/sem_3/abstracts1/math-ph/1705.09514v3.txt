@@ -1,0 +1,1 @@
+We consider a system associated to Klein-Gordon equations with homogeneous time-dependent electric fields. The upper and lower boundaries of a time-evolution propagator for this system were proven by Veseli\'c in 1991 for electric fields that are independent of time. We extend this result to time-dependent electric fields.

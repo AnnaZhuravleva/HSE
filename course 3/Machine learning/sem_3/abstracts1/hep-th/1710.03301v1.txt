@@ -1,0 +1,1 @@
+In this paper we study the (2 + 1)-dimensional Dirac oscillator in the noncommutative phase space and the energy eigenvalues and the corresponding wave functions of the system are obtained through the sl(2) algebraization. It is shown that the results are in good agreement with those obtained previously via a different method.

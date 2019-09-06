@@ -1,0 +1,1 @@
+Equations of motion of low-energy string effective actions can be conveniently described in terms of generalized geometry and Levi-Civita connections on Courant algebroids. This approach is used to propose and prove a suitable version of the Kaluza-Klein-like reduction. Necessary geometrical tools are recalled.

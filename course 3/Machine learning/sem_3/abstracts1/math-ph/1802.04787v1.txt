@@ -1,0 +1,1 @@
+After revisiting the Koopman-von Neumann theory of classical mechanics from a Hamiltonian viewpoint, a new expression of the Liouville density in terms of classical wavefunctions is exploited to formulate a dynamical theory for the interaction between classical and quantum systems.

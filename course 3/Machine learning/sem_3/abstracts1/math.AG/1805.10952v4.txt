@@ -1,0 +1,1 @@
+We derive explicit universal equations for primary Gromov-Witten invariants by applying Getzler's genus one relation to quantum powers of Euler vector field. As an application, we provide some evidences for the genus-1 Virasoro conjecture.

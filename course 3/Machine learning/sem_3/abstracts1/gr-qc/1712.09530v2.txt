@@ -1,0 +1,1 @@
+In the spirit of Galileon inflation and by considering some sorts of non-canonical kinetic terms in the action, we realize a stage of super-inflation leading to a blue-tilted tensor perturbation. We show also that addition of Galileon-like term to the action leads to avoidance of ghost instabilities in this setup.

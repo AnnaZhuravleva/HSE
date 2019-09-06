@@ -1,0 +1,1 @@
+We investigate the distribution of dark matter (DM) in gas-rich, low-mass galaxies, confronting them with numerical cosmological simulations with cold dark matter (LCDM). We show that the derived rotation curves comply best with cored DM density profiles, whereas the signatures of the central cusps invariably predicted by LCDM simulations are not seen.

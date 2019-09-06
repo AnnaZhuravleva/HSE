@@ -1,0 +1,1 @@
+Employing methods introduced by Schwinger in quantum electrodynamics, we compute the propagator for a non-Abelian gauge field in a plane wave background field. In the long distance limit a mass-like term for the gauge field is induced by this interaction.

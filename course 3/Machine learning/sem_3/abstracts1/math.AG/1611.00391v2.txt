@@ -1,0 +1,1 @@
+Mid-dimensional $(A,B,A)$ and $(B,B,B)$-branes in the moduli space of flat $G_{\mathbb C}$-connections appearing from finite group actions on compact Riemann surfaces are studied. The geometry and topology of these spaces is then described via the corresponding Higgs bundles and Hitchin fibrations.

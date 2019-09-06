@@ -1,0 +1,1 @@
+I review the latest results on the calibration of the Tip of the Red Giant Branch as a standard candle, in the optical and in the near infrared. The agreement among different and independent empirical calibrations is rather good, if all the uncertainties are taken into account. The possible extension of the calibration to SDSS photometric bands (i,z) is also discussed.

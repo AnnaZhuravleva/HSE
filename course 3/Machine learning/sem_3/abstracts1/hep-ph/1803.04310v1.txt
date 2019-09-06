@@ -1,0 +1,1 @@
+These lectures provide an introduction to Soft-Collinear Effective Theory. As applications we discuss resummation for (i) soft-photon effects in QED, (ii) event-shape variables and (iii) jet cross sections.

@@ -1,0 +1,1 @@
+The scalar-tensor theory of gravity with the Higgs field as scalar field is presented. For central symmetry it reproduces the empirically measured flat rotation curves of galaxies. We approximate the galaxy by a polytropic gas sphere with the polytropic index $\gamma=2$ and a massive core.

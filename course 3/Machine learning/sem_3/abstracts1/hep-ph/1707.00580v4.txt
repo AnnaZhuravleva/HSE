@@ -1,0 +1,1 @@
+We study the most general renormalizable couplings containing Higgs $H(10)$, $D(120)$, $\overline{\Delta}(\overline{126})+ \Delta(126)$, $A(45)$, $E(54)$ and $\Phi(210)$ in the supersymmetric SO(10) models. The Clebsch-Gordan Coefficients are calculated using the maximal subgroup $SU(5)\times U(1)_X$.

@@ -1,0 +1,1 @@
+We compute hybrid static potentials in SU(3) lattice gauge theory. We present a method to generate a large set of suitable creation operators with defined quantum numbers from elementary building blocks. We show preliminary results for several channels and discuss, which structures of the gluonic flux tube seem to be realized by the ground states in these channels.

@@ -1,0 +1,1 @@
+It is shown that quantum beats can be obtained using a superposition of two Breit-Wigner distributions. This modified distribution can explain the GSI time anomaly with quantum beats resulting from the existence of two energy levels of the decaying ion.

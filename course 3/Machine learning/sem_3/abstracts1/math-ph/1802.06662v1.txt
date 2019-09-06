@@ -1,0 +1,1 @@
+We consider interacting Bose gases trapped in a box $\Lambda = [0;1]^3$ in the Gross-Pitaevskii limit. Assuming the potential to be weak enough, we establish the validity of Bogoliubov's prediction for the ground state energy and the low-energy excitation spectrum. These notes are based on \cite{BBCS3}, a joint work with C. Boccato, C. Brennecke and S. Cenatiempo.

@@ -1,0 +1,1 @@
+The effect of dark energy on the low and high temperature of strip region of the boundary field theory dual to AdS black holes was studied. In this framework, we investigate this behavior for different types of equation state and different regimes of normalization factor (a). We will see that the change of entanglement entropy is growing up with increasing a and |\omega|.

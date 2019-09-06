@@ -1,0 +1,1 @@
+We show that dust matter-dark energy combined phases can be achieved by the exact solution derived from a power law $f(R)$ cosmological model. This example answers the query by which a dust-dominated decelerated phase, before dark-energy accelerated phase, is needed in order to form large scale structures.

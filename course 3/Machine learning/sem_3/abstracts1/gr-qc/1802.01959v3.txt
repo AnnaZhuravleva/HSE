@@ -1,0 +1,1 @@
+The geodesics on de Sitter and anti-de Sitter spacetimes of any dimensions are derived in terms of conserved quantities. With their help the mesoscopic systems on these manifolds are studied finding the general solutions of the Boltzmann-Marle model in both these cases.

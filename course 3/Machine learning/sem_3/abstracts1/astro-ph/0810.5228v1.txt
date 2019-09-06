@@ -1,0 +1,1 @@
+A review on the current state of mode physics in classical pulsators is presented. Two, currently in use, time-dependent convection models are compared and their applications on mode stability are discussed with particular emphasis on the location of the Delta Scuti instability strip.

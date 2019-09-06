@@ -1,0 +1,1 @@
+Modifying black hole horizon can drastically change the spectrum of quasinormal modes. But if the modification is close enough to the horizon the ringdown signal remains almost unaltered, and well described by the quasinormal modes of the original GR solution. I show how the original quasinormal modes emerge in the sum over the new modes.

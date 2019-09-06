@@ -1,0 +1,1 @@
+We present a simple proof that the imaginary part of the world-line path integral which computes the rate of Schwinger pair production of charged particles in a constant electric field, is given exactly by the semiclassical WKB limit.

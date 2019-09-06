@@ -1,0 +1,1 @@
+In this paper we prove the universal nature of the Unruh effect in a general class of weakly non-local field theories.   At the same time we solve the tension between two conflicting claims published in literature.   Our universality statement is based on two independent computations based on the canonical formulation as well as path integral formulation of the quantum theory.

@@ -1,0 +1,1 @@
+We extend the well-known Sacks-Uhlenbeck energy gap result (1981) for harmonic maps from closed Riemann surfaces into closed Riemannian manifolds from the case of maps with small energy (thus near a constant map), to the case of harmonic maps with high absolute energy but small energy relative to a reference harmonic map.

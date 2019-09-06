@@ -1,0 +1,1 @@
+We solve explicitly the Goldstone modes in spontaneously symmetry breaking models with supersymmetry. We find that, when more than one fields or representations contribute to the symmetry breaking, there exist identities among the Clebsch-Gordan coefficients which can be used as consistent checks on the calculations.

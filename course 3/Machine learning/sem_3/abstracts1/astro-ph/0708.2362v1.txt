@@ -1,0 +1,1 @@
+We study the effect of WIMP annihilation on the temperature of a neutron star. We shall argue that the released energy due to WIMP annihilation inside the neutron stars, might affect the temperature of stars older than 10 million years, flattening out the temperature at $\sim 10^4$ K for a typical neutron star.

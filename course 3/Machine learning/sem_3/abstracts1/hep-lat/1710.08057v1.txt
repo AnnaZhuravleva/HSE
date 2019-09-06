@@ -1,0 +1,1 @@
+We study the critical point for finite temperature Nf=3 QCD using several temporal lattice sizes up to 10. In the study, the Iwasaki gauge action and non-perturbatively O(a) improved Wilson fermions are employed. We estimate the critical temperature and the upper bound of the critical pseudo-scalar meson mass.

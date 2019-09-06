@@ -1,0 +1,1 @@
+The paper shows that under some mild conditions $n$-dimensional spherical wavelets derived from approximate identities build semi-continuous frames. Moreover, for sufficiently dense grids Poisson wavelets on $n$-dimensional spheres constitute a discrete frame. In the proof we only use the localization properties of the reproducing kernel and its gradient.

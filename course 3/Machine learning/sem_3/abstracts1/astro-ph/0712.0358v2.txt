@@ -1,0 +1,1 @@
+To achieve maximum planet yield for a given radial velocity survey, the observing strategy must be carefully considered. In particular, the adopted cadence can greatly affect the sensitivity to exoplanetary parameters such as period and eccentricity. Here we describe simulations which aim to maximise detections based upon the target parameter space of the survey.

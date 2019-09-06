@@ -1,0 +1,1 @@
+Supermassive black holes are a key element in our understanding of how galaxies form. Most of the progress in this very active field of research is based on just ~30 determinations of black hole mass, accumulated over the past decade. We illustrate how integral-field spectroscopy, and in particular our OASIS modeling effort, can help improve the current situation.

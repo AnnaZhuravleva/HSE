@@ -1,0 +1,1 @@
+A mathematical proposition with a trainable pair, operator and quantum circuit, are introduced to approximate functions expressed as cubic Taylor polynomials, numerical simulations illustrate three cases.

@@ -1,0 +1,1 @@
+We formulate a notion of modular form on the double half-plane for half-integral weights and explain its relationship to the usual notion of modular form. The construction we provide is compatible with certain physical considerations due to the second author.

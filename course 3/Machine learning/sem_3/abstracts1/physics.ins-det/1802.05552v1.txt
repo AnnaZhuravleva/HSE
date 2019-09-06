@@ -1,0 +1,1 @@
+The current status of the QUAX R\&D program is presented. QUAX is a feasibility study for a detection of axion as dark matter based on the coupling to the electrons. The relevant signal is a magnetization change of a magnetic material placed inside a resonant microwave cavity and polarized with a static magnetic field.

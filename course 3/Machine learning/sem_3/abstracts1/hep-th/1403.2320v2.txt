@@ -1,0 +1,1 @@
+We introduce a Lorentz-symmetry violating extended quantum electrodynamics (QED) which preserves gauge symmetry. The extended fermionic sector can radiatively induce an extended effective action which simultaneously displays the same electromagnetic terms present in the Carroll-Field-Jackiw, Myers-Pospelov and Aether actions.

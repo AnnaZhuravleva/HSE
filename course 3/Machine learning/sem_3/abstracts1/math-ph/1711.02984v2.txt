@@ -1,0 +1,1 @@
+Elementary proofs are presented for the factorization of the elliptic Boltzmann weights of the $A^{(1)}_n$ face model, and for the sum-to-1 property in the trigonometric limit, at a special point of the spectral parameter. They generalize recent results obtained in the context of the corresponding trigonometric vertex model.

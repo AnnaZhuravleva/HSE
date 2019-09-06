@@ -1,0 +1,1 @@
+We investigate the effects of the accretion of phantom energy with non-zero bulk viscosity onto a Morris-Thorne wormhole. We have found that if the bulk viscosity is large then the mass of wormhole increases rapidly as compared to small or zero bulk viscosity.

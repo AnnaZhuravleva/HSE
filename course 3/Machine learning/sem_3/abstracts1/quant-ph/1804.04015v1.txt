@@ -1,0 +1,1 @@
+We present an alternative description of magnetic monopoles by lifting quantum mechanics from 3-dimensional space into a one with 2 complex dimensions. Magnetic monopoles are realized as a generalization of the considered states. Usual algebraic relations and magnetic fields describing monopoles are reproduced, with the Dirac quantization condition satisfied naturally.

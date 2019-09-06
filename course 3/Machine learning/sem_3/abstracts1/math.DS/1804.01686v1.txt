@@ -1,0 +1,1 @@
+In this paper we give a short survey of recent results on algebraic version of the Birkhoff conjecture for integrable billiards on surfaces of constant curvature. We also discuss integrable magnetic billiards. As a new application of the algebraic technique we study the existence of polynomial integrals for the two-sided magnetic billiards introduced by Kozlov and Polikarpov.

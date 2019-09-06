@@ -1,0 +1,1 @@
+We construct non-Abelian global string solutions in the U(N)_L x U(N)_R linear sigma model. These strings are the most fundamental objects which are expected to form during the chiral phase transitions, because the Abelian eta' string is marginally decomposed into N of them. We point out Nambu-Goldstone modes of CP^{N-1} for breaking of U(N)_V arise around a non-Abelian vortex.

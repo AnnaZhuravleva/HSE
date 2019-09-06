@@ -1,0 +1,1 @@
+Stimulated by the recent debate on the physical relevance and on the predictivity of q-Gaussian formalism, we present specific analytical expressions for the parameters characterizing non-Gaussian distributions, such as the nonextensive parameter q, expressions that we have proposed for different physical systems, an important example being plasmas in the stellar cores.

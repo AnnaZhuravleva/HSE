@@ -1,0 +1,1 @@
+Integrals occurring in Thomas-Fermi theory which contains the logarithm of the Airy function Ai'(x) have been obtained in terms of analytical expressions.

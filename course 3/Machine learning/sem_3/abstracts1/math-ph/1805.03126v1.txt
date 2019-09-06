@@ -1,0 +1,1 @@
+We show that complex representations of Clifford algebra can always be reduced either to a real or to a quaternionic algebra depending on signature of complex space thus showing that complex spinors are unavoidably either real Majorana spinors or quaternionic spinors. We use this result to support (1,3) signature for Minkowski space.

@@ -1,0 +1,1 @@
+We show an atom of atomic number $Z$ described by the time-dependent Thomas-Fermi equation or the Vlasov equation cannot bind more than $4Z$ electrons.

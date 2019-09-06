@@ -1,0 +1,1 @@
+We introduce the redshift spherical shell energy (RSSE), which can be used to test in the redshift space the radial inhomogeneity of an isotropic universe, providing additional constraints for LTB models, and a more general test of cosmic homogeneity.

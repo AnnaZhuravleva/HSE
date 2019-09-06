@@ -1,0 +1,1 @@
+In this talk we present the current status of the theoretical description of the production of top-quark pairs at the LHC, detailing recent progress for predictions at the stable-top level as well as for predictions that include the decay of the top quarks.

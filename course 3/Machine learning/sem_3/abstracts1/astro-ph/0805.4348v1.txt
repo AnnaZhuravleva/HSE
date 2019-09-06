@@ -1,0 +1,1 @@
+A study is made of the power-law tail effect in the quantum particle distribution over momentum on the nuclear fusion reactions. Our results do not support the idea of averaging the fusion reaction cross-section over the momentum distribution postulated and used in many publications.

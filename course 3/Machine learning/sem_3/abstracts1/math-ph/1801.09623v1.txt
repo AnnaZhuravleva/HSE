@@ -1,0 +1,1 @@
+This paper is based on the author's talk at the Arbeitstagung 2017. It discusses some general approaches to the construction of classical and quantum holographic codes on Bruhat-Tits trees and buildings and on Drinfeld symmetric spaces, in the context of the p-adic AdS/CFT correspondence.

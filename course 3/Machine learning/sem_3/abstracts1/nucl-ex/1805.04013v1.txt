@@ -1,0 +1,1 @@
+In this paper we have taken into account shell inhomogeneities of the single-particle level spectra in the practical model of the gamma-decay of neutron resonance developed in Dubna. The obtained data confirm a dependence of breaking thresholds for Cooper pairs on a shape of investigated nuclei - a phenomenon noticed earlier without taking into account the shell inhomogeneity.

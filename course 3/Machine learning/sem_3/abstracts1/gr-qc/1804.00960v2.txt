@@ -1,0 +1,1 @@
+A star of mass greater than a critical mass is believed to undergo gravitational collapse to form a singularity, owing to Hawking-Penrose singularity theorem which is based on the Raychaudhuri equation in the absence of torsion. We argue that the spin-aspect of matter can lead to the evasion of singularity, caused by its mass-aspect, via torsion in asymptotically safe gravity.

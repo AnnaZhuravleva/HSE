@@ -1,0 +1,1 @@
+We review the recent developments of the Loop-Tree Duality method, focussing our discussion on the first numerical implementation and its use in the direct numerical computation of multi-leg Feynman integrals. Non-trivial examples are presented.

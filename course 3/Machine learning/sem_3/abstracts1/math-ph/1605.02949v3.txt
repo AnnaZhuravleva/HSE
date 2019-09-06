@@ -1,0 +1,1 @@
+We consider bosonic Coulomb systems with $N$-particles and $K$ static nuclei. Let $E_N^Z$ denote the ground state energy of a bosonic molecule of the total nuclear charge $Z$. We prove that the system has no normalizable ground state when $E_{N}^{N-1} = E_{N-1}^{N-1}$.

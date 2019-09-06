@@ -1,0 +1,1 @@
+The angular asymmetry in decays of polarized muons and tau leptons is discussed. Both the standard V-A Fermi model and the general parameterization via Michel parameters are considered. Numerical importance of contributions suppressed by charged lepton mass ratio is underlined. Contribution of the second order QED correction is estimated in the leading logarithm approximation.

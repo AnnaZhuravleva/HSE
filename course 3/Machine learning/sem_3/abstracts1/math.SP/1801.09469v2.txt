@@ -1,0 +1,1 @@
+We construct a norm resolvent approximation to the family of point interactions $f(+0)=\alpha f(-0)+\beta f'(-0)$, $f'(+0)=\alpha^{-1}f'(-0)$ by Schr\"odinger operators with localized rank-two perturbations coupled with short range potentials. In particular, a new approximation to the $\delta'$-interactions is obtained.

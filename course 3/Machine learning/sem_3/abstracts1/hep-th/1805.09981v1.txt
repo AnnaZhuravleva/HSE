@@ -1,0 +1,1 @@
+We conjecture an equality between (1) the entropy associated with a Janus interface in a 4d N=2 superconformal field theory and (2) Calabi's diastasis, a particular combination of analytically continued Kahler potentials, on the conformal manifold (moduli space) of the 4d theory.

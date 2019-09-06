@@ -1,0 +1,1 @@
+The main result of this paper is a formula for the scalar product of semiclassical eigenvectors of two integrable systems on the same symplectic manifold. An important application of this formula is the Ponzano-Regge type of asymptotic of Racah-Wigner coefficients.

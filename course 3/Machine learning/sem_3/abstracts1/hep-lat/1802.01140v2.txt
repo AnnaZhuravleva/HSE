@@ -1,0 +1,1 @@
+We calculate the wave-function renormalization in 2-dimensional O(3) sigma model, non- perturbatively. It is evaluated in a box with a finite spatial extent. We determine the anomalous dimension in the finite volume scheme through an analysis of the step scaling function. Results are compared with a perturbative evaluation, and the reasonable behavior is confirmed.

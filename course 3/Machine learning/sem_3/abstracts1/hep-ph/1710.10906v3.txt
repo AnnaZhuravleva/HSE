@@ -1,0 +1,1 @@
+We present an extension to the colour reconnection model in the Monte-Carlo event generator Herwig to account for the production of baryons and compare it to a series of observables for soft physics. The new model is able to improve the description of charged-particle mutliplicities and hadron flavour observables in pp collisions

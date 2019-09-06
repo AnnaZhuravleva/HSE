@@ -1,0 +1,1 @@
+In this work we have revisited a few principal formulae about one-tangle of multipartite entanglement of fermionic systems in noninertial frames calculated in the paper [Phys. Rev. A 83, 022314(2011)] and given their correct expressions.

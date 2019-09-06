@@ -1,0 +1,1 @@
+We have tested some simple $\Lambda$CDM (the same test is also valid for quintessence) inflation models, imposing that they match with the recent observational data provided by the BICEP and Planck's team and leading to a reheating temperature, which is obtained via gravitational particle production after inflation, supporting the nucleosynthesis success.

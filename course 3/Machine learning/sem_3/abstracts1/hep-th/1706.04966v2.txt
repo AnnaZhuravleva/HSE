@@ -1,0 +1,1 @@
+We introduce a framework for non-linear time evolution in quantum mechanics as a natural non-linear generalization of the Schrodinger equation. Within our framework, we derive simple toy models of dynamical geometry on finite graphs. Along similar lines we also propose a model of non-linear quantum field theory on spaces with state-dependent geometry.

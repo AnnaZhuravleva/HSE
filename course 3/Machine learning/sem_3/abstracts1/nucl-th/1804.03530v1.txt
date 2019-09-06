@@ -1,0 +1,1 @@
+In this talk we will discuss the recent advances in describing heavy-quark dynamics in the quark-gluon plasma (QGP), which evolves hydrodynamically. Special emphasis is put on the collective flow of the heavy-quarks with the medium constituents, for which we present our latest results obtained within the MC@sHQ+EPOS2 model at $\sqrt{s}=5$~TeV.

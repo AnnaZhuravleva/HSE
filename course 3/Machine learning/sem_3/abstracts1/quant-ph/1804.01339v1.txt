@@ -1,0 +1,1 @@
+We study the scattering off a time-periodic zero-range potential in one spatial dimension. We focus on the parameter regions that lead to zero-transmission probability (ZTP). For static potentials, ZTP leads to fermionization of distinguishable equal-mass particles. For time-periodic potentials, fermionization is prevented by the formation of evanescent waves.

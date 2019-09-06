@@ -1,0 +1,1 @@
+We prove that the boundary of the trapped region in an asymptotically Euclidean Riemannian manifold of dimension at least 3 is a stable smooth minimal hypersurface except for a singular set of codimension at least 8.

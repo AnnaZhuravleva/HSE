@@ -1,0 +1,1 @@
+We derive a one-parameter deformation of the refined topological vertex that, when used to compute non-periodic web diagrams, reproduces the six-dimensional topological string partition functions that are computed using the refined vertex and periodic web diagrams.

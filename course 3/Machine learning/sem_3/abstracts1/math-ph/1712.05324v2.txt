@@ -1,0 +1,1 @@
+We investigate the quantum Jensen divergences from the viewpoint of joint convexity. It turns out that the set of the functions which generate jointly convex quantum Jensen divergences on positive matrices coincides with the Matrix Entropy Class which has been introduced by Chen and Tropp quite recently in [Electron. J. Probab. 19 (2014), 1-30].

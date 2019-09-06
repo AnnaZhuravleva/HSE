@@ -1,0 +1,1 @@
+We consider the vacuum decay by electron-positron pair production in spatially homogeneous, time dependent electric fields by means of quantum kinetic equations. Our focus is on the impact of various pulse shapes as envelopes of oscillating fields and the assistance effects in multi-scale fields, which are also seen in photons accompanying the creation and motion of pairs.

@@ -1,0 +1,1 @@
+We consider a universe with an arbitrary number of extra dimensions, $N$. We present a new method for constructing the cosmological equations of motion and find analytic solutions with an explicit dependence on $N$. When we take the $N\rightarrow\infty$ limit we find novel, emergent behaviour which distinguishes it from normal Kaluza-Klein universes.

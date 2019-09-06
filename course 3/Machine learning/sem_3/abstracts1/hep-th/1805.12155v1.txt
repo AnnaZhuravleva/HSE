@@ -1,0 +1,1 @@
+We study string theory on $\mathrm{AdS}_3$ backgrounds with mixed flux using the hybrid formalism of Berkovits, Vafa and Witten. We solve the worldsheet description of the theory completely in the plane-wave limit. This constitutes a direct derivation of the plane-wave spectrum from the worldsheet with mixed flux.

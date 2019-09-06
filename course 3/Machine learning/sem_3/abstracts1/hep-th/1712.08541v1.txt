@@ -1,0 +1,1 @@
+Cyclotomic polylogarithms are reviewed and new results concerning the special constants that occur are presented. This also allows some comments on previous literature results using PSLQ.

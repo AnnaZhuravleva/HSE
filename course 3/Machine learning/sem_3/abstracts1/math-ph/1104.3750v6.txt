@@ -1,0 +1,1 @@
+In this paper we construct the noncommutative Grosse-Wulkenhaar model on 2-dimensional Moyal plane with the method of loop vertex expansion. We treat renormalization with this new tool, adapt Nelson's argument and prove Borel summability of the perturbation series. This is the first non-commutative quantum field theory model to be built in a non-perturbative sense.

@@ -1,0 +1,1 @@
+An algorithm for finding the bound-state eigenvalues and eigenfunctions of a Hermitian Hamiltonian operator using Green's method, developed by Waxman\cite{W98},has been extended to include non-Hermitian Hamiltonian operators.

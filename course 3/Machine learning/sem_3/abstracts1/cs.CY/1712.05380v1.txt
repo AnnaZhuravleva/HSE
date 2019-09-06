@@ -1,0 +1,1 @@
+This paper considers the potential impact that the nascent technology of quantum computing may have on society. It focuses on three areas: cryptography, optimization, and simulation of quantum systems. We will also discuss some ethical aspects of these developments, and ways to mitigate the risks.

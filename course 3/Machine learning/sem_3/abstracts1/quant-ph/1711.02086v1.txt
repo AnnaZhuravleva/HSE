@@ -1,0 +1,1 @@
+We talk about the right way to order amplitudes in a wavefunction, and the right way to interpret operator matrices in quantum computation.

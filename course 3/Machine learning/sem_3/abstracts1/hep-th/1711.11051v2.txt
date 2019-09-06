@@ -1,0 +1,1 @@
+We show that $R^2$ gravity coupled conformally to scalar fields is equivalent to the real bosonic sector of SU(N,1)/SU(N)$\times$U(1) no-scale supergravity, where the conformal factor can be identified with the K\"ahler potential, and we review the construction of Starobinsky-like models of inflation within this framework.

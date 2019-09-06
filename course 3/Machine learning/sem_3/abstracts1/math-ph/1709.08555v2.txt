@@ -1,0 +1,1 @@
+A presentation \`a la Faddeev-Reshetikhin-Takhtajan (FRT) of the Onsager, augmented Onsager and sl(2)-invariant Onsager algebras is given, using the framework of the non-standard classical Yang-Baxter algebras. Associated current algebras are identified, and generating functions of mutually commuting quantities are obtained.

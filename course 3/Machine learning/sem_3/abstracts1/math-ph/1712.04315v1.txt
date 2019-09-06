@@ -1,0 +1,1 @@
+We first propose a pedestrian review of the Coordinate Bethe Ansatz for the $\delta$-Bose gas on an infinite axis. The scalar product of Bethe states, briefly reviewed, provides the first keystone to compute a compact expression for the Matrix Elements of the Particle Number Operator as conjectured by V. Terras, the main result of the following reflection.

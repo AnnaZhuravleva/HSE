@@ -1,0 +1,1 @@
+The existence of global solutions for a system of differential equations is proved, and some of their properties are described. The system involves a kinetic equation for quantum particles. It is a simplified version of a mathematical description of a weakly interacting dilute gas of bosons in the presence of a condensate near the critical temperature.

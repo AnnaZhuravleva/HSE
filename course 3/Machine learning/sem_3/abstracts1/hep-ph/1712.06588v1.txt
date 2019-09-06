@@ -1,0 +1,1 @@
+We describe the generation of the electric current flowing along the external magnetic field in the system of massive charged fermions, possessing anomalous magnetic moments and electroweakly interacting with background matter. This current is shown to result in the instability of the magnetic field leading to its growth. Some astrophysical applications are discussed.

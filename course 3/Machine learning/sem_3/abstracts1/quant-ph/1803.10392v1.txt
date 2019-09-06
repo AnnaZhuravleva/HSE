@@ -1,0 +1,1 @@
+We consider secret sharing schemes with a classical secret and quantum shares. One example of such schemes was recently reported whose access structure cannot be realized by any secret sharing schemes with classical shares. In this paper, we report further quantum secret sharing schemes whose access structures cannot be realized by any classical secret sharing schemes.

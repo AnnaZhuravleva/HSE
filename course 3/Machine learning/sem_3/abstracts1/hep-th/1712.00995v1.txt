@@ -1,0 +1,1 @@
+We consider a cosmological setup with the inflaton field in the presence of a redshift dependent Lorentz-violating time-like background to address the inflationary regime and other phases of the Universe. We also show that the regime of dark energy at large distances (low redshifts) is essentially dominated by the presence of the Lorentz-violating background.

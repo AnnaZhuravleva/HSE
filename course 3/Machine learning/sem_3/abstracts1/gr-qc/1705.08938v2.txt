@@ -1,0 +1,1 @@
+We show that higher curvature order gravities, in particular the propagating quadratic curvature models, cannot be derived by self-coupling from their linear, flat space, forms, except through an unphysical version of linearization; only GR can. Separately, we comment on an early version of the self-coupling bootstrap.

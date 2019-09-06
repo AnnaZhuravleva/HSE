@@ -1,0 +1,1 @@
+We develop a new compact scheme for second-order PDE (parabolic and Schr\"odinger type) with a variable time-independent coefficient. It has a higher order and smaller error than classic implicit scheme. The Dirichlet and Neumann boundary problems are considered. The relative finite-difference operator is almost self-adjoint.

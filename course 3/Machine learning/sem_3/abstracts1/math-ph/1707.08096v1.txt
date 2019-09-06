@@ -1,0 +1,1 @@
+Lecture notes for the course "Batalin-Vilkovisky formalism and applications in topological quantum field theory" given at the University of Notre Dame in the Fall 2016 for a mathematical audience. In these lectures we give a slow introduction to the perturbative path integral for gauge theories in Batalin-Vilkovisky formalism and the associated mathematical concepts.

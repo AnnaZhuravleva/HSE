@@ -1,0 +1,1 @@
+We consider the sets of future/past trapped null geodesics in the exterior region of a sub-extremal Kerr-Newman-Taub-NUT spacetime. We show that, from the point of view of any timelike observer outside of such a black hole, trapping can be understood as two smooth sets of spacelike directions on the celestial sphere of the observer.

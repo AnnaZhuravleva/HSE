@@ -1,0 +1,1 @@
+We comment on the work by Chandra and Kumthekar (2007, henceforth CK) which is questionable. In the derivation of dispersion relation, CK neither invoke the concept of vector space nor do they follow the basic criterion for the elimination of perturbation terms under which the damped magnetoacoustic waves are derived.

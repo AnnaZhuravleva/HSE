@@ -1,0 +1,1 @@
+We report on the status of an ongoing calculation of the NLO electroweak corrections to sequential polarized top quark decays $t(\uparrow) \to X_b +W^+ (\to \ell^+ +\nu_\ell)$.

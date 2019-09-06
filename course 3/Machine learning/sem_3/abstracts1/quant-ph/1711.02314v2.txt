@@ -1,0 +1,1 @@
+We develop a family of perfect quantum error correcting codes that correct for phase errors that arise on any qubit, at any time, during a perfect state transfer experiment. These ensure that we find the optimal operating regime for corrected state transfer. For a specific class of system, we further show that while dephasing noise can be corrected, depolarising noise cannot.

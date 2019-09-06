@@ -1,0 +1,1 @@
+We discuss the quantum Hall effect on a single-layer graphene in the framework of noncommutative (NC) phase space. We find it induces a shift in the Hall resistivity. Furthermore, comparison with experimental data reveals an upper bound on the magnitude of the momentum NC parameter $\eta$ in about $\sqrt{\eta}\leq 2.5 \, \mathrm{eV}/c$.

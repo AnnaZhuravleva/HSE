@@ -1,0 +1,1 @@
+We prove duality isomorphisms of certain representations of W-algebras which play an essential role in the quantum geometric Langlands Program and some related results.

@@ -1,0 +1,1 @@
+It is shown how the geometrical splitting of N-point Feynman diagrams can be used to simplify the parametric integrals and reduce the number of variables in the occurring functions. As an example, a calculation of the dimensionally-regulated one-loop four-point function in general kinematics is presented.

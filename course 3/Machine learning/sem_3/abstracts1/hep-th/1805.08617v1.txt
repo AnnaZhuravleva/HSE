@@ -1,0 +1,1 @@
+We briefly review the place of the Toda closed chain and the Toda field theory in solution to the $\cal{N}$=2 supersymmetric Yang-Mills theory. The classical and quantum aspects of the correspondence are mentioned and the role of branes as degrees of freedom is emphasized.

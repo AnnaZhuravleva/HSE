@@ -1,0 +1,1 @@
+We study the finite size effect of rigidly rotating and spinning folded strings in $(AdS_3\times S^3)_{\varkappa}$ background. We calculate the leading order exponential corrections to the infinite size dispersion relation of the giant magnon, and single spike solutions. For the spinning folded strings we write the finite size effect in terms of the known Lambert $W$-function.

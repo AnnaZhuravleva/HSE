@@ -1,0 +1,1 @@
+This note provides an alternative approach to the momentum decay and thermal evolution of decoupled massive particles. Although the ingredients in our results have been addressed in Ref.\cite{Weinberg}, the strategies employed here are simpler, and the results obtained here are more general.

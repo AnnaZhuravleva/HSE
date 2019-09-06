@@ -1,0 +1,1 @@
+The spin structure of parity violating and time reversal invariance violating effects in neutron scattering is discussed. The explicit relations between these effects are presented in terms of functions nuclear spins and neutron partial widths of p-wave resonances.

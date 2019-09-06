@@ -1,0 +1,1 @@
+In this paper we investigate the energy functions for a class of non Gaussian processes. These processes are characterized in terms of the Mittag-Leffler function. We obtain closed analytic form for the energy function, in particular we recover the Brownian and fractional Brownian motion cases.

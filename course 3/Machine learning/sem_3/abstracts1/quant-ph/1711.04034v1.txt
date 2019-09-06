@@ -1,0 +1,1 @@
+This is a brief review of various families of coherent and squeezed states (and their generalizations) for a charged particle in a magnetic field, that have been constructed for the past 50 years. Although the main attention is paid to the Gaussian states, various families of non-Gaussian states are also discussed, and the list of relevant references is provided.

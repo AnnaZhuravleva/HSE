@@ -1,0 +1,1 @@
+We investigate the collision dynamics of two non-Abelian vortices and find that, unlike Abelian vortices, they neither reconnect themselves nor pass through each other, but create a rung between them in a topologically stable manner. Our predictions are verified using the model of the cyclic phase of a spin-2 spinor Bose-Einstein condensate.

@@ -1,0 +1,1 @@
+The aim of this paper is to present a new approach, based on singular volume integral equations, in order to compute the size dependency of plasmonic resonances. The paper also provides rigorous derivations of the extinction and absorption cross sections for elliptical particles.

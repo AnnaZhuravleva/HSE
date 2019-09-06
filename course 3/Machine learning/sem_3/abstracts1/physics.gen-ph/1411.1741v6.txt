@@ -1,0 +1,1 @@
+In the paper we consider an interesting possibility of a time as a stochastic process in quantum mechanics.In order to do it we reconsider time as a mechanical quantity in classical mechanics and afterwards we quantize it. We consider continuous and discrete time.

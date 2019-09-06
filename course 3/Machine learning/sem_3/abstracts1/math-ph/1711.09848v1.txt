@@ -1,0 +1,1 @@
+We study finite but growing principal square submatrices $A_n$ of the one- or two-sided infinite Fibonacci Hamiltonian $A$. Our results show that such a sequence $(A_n)$, no matter how the points of truncation are chosen, is always stable -- implying that $A_n$ is invertible for sufficiently large $n$ and $A_n^{-1}\to A^{-1}$ pointwise.

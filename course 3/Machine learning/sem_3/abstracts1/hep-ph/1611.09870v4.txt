@@ -1,0 +1,1 @@
+In this paper we analytically extract the odd azimuthal anisotropy in the Classical Yang-Mills equations for the Glasma for pA collisions. We compute the first non-trivial term in the expansion of the proton sources of color charge. The computation is valid in the limit of a large nucleus when the produced particle momenta are larger than the saturation momentum of the proton.

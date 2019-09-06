@@ -1,0 +1,1 @@
+We describe recent additions to the WHIZARD 2 Monte-Carlo event generator which improve the physics description of lepton-collider event samples and speed up the calculation time required for cross sections and event generation.

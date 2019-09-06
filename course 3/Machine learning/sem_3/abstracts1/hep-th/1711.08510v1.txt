@@ -1,0 +1,1 @@
+The Galilean covariance, formulated in 5-dimensions space, describes the non-relativistic physics in a way similar to quantum field theory. Using a non-relativistic approach the Stefan-Boltzmann law and the Casimir effect at finite temperature for a particle with spin zero and $1/2$ are calculated. The Thermo Field Dynamics is used to calculate the temperature effect.

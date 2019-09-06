@@ -1,0 +1,1 @@
+We bound the locations of outermost minimal surfaces in geometrostatic manifolds whose ADM mass is small relative to the separation between the black holes and prove the Intrinsic Flat Stability of the Positive Mass Theorem in this setting.

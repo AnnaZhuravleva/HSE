@@ -1,0 +1,1 @@
+We present a 2.5 GHz quantum key distribution setup with the emphasis on a simple experimental realization. It features a three-state time-bin protocol based on a pulsed diode laser and a single intensity modulator. Implementing an efficient one-decoy scheme and finite-key analysis, we achieve record breaking secret key rates of 1.5 kbps over 200 km of standard optical fiber.

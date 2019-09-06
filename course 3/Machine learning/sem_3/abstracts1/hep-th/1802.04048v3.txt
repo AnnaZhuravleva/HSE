@@ -1,0 +1,1 @@
+We classify kinematical Lie algebras in dimension 2+1. This is approached via the classification of deformations of the static kinematical Lie algebra. In addition, we determine which kinematical Lie algebras admit invariant symmetric inner products.

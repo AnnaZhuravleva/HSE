@@ -1,0 +1,1 @@
+It is observed that certain convex envelopes of Wightman type functionals corresponding to scalar, stochastically positive quantum fields consist of Wightman type functionals only .This leads to the construction of a large classes of not quasi-free scalar quantum field theory models obeying all Wightman axioms in any dimensions

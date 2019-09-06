@@ -1,0 +1,1 @@
+We present a simple parameterization of the two-photon exchange amplitude in elastic electron-proton scattering, suitable for fast numerical evaluation.

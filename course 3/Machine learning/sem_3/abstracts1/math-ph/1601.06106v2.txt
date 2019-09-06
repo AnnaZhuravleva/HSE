@@ -1,0 +1,1 @@
+We state a theorem relating the ergodicity of the action of a given subgroup of the mapping class group of a surface on the character variety, to the asymptotic of its invariant subspaces through the Reshetikhin-Turaev representations. As application we give an asymptotic result on the spin decomposition arising in [BHMV95].

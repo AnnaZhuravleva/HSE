@@ -1,0 +1,1 @@
+We point out that, when the Unruh-DeWitt detector couples to a scalar primary operator of $d$-dimensional conformal field theory, the detector's power spectrum generally obeys the thermal distribution for $(1+1)$-dimensional anyons.

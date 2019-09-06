@@ -1,0 +1,1 @@
+We present recent progress in theory of local conformal nets which is an operator algebraic approach to study chiral conformal field theory. We emphasize representation theoretic aspects and relations to theory of vertex operator algebras which gives a different and algebraic formulation of chiral conformal field theory.

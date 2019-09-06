@@ -1,0 +1,1 @@
+We study operators obtained by coupling an $n \times n$ random matrix from one of the Gaussian ensembles to the discrete Laplacian. We find the joint distribution of the eigenvalues and resonances of such operators. This is one of the possible mathematical models for quantum scattering in a complex physical system with one semi-infinite lead attached.

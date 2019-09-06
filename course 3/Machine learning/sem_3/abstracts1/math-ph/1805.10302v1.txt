@@ -1,0 +1,1 @@
+We study the relation between the Laplacian associated to an odd metric on a supermanifold and harmonic superfunctions, through the application of the calculus of variations to a supersymmetric sigma model.

@@ -1,0 +1,1 @@
+We observe that an interesting method to produce non-complete intersection subvarieties, the generalized complete intersections from L. Anderson and coworkers, can be understood and made explicit by using standard Cech cohomology machinery. We include a worked example of a generalized complete intersection Calabi-Yau threefold.

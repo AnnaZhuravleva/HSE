@@ -1,0 +1,1 @@
+The q-Painleve equation, satisfied by the Fourier transform of the q-Virasoro conformal blocks at c=1, is interpreted as a reformulation of the string equation and two other Virasoro constraints in the $5d$ Dotsenko-Fateev matrix model.

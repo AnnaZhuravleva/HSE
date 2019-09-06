@@ -1,0 +1,1 @@
+We show at one-loop approximation that the QED photon acquires a negative gauge-invariant mass-squared in the near-horizon region of an evaporating Schwarzschild black hole. This result may imply that information about the inner structure of evaporating black holes is accessible, even without invoking the modification of the basic QFT and GR principles.

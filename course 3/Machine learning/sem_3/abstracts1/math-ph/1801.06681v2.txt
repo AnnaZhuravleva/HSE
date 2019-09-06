@@ -1,0 +1,1 @@
+We define gauge transformations of Jacobi structures on a manifold. This is related to gauge transformations of Poisson structures via the Poissonization. Finally, we discuss how the contact structure of a contact groupoid is effected by a gauge transformation of the Jacobi structure on its base.

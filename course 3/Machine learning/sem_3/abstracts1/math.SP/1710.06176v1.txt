@@ -1,0 +1,1 @@
+By developing the method of multipliers, we establish sufficient conditions on the electric potential and magnetic field which guarantee that the corresponding two-dimensional Schroedinger operator possesses no point spectrum. The settings of complex-valued electric potentials and singular magnetic potentials of Aharonov-Bohm field are also covered.

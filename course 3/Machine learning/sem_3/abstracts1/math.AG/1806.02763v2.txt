@@ -1,0 +1,1 @@
+In this article we present a study of embeddings of complex supermanifolds. We are broadly guided by the question: when will a submanifold of a split supermanifold itself be split? As an application of our study, we will address this question for certain superspace embeddings over rational normal curves.

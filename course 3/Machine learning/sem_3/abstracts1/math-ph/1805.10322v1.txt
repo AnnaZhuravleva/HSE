@@ -1,0 +1,1 @@
+An intrinsic description of the Hamilton-Cartan formalism for first-order Berezinian variational problems determined by a submersion of supermanifolds is given. This is achieved by studying the associated higher-order graded variational problem through the Poincar\'e-Cartan form. Noether theorem and examples from superfield theory and supermechanics are also discussed.

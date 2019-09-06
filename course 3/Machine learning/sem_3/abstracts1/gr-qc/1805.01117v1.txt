@@ -1,0 +1,1 @@
+We model the velocity dispersion of the ultra-diffuse galaxy NGC 1052-DF2 using Newtonian gravity and modified gravity (MOG). The velocity dispersion predicted by MOG is higher than the Newtonian gravity prediction, but it is fully consistent with the observed velocity dispersion that is obtained from the motion of 10 globular clusters.

@@ -1,0 +1,1 @@
+Single photon emitters are indispensable to photonic quantum technologies. Here we demonstrate waveform-controlled high-purity single photons from room-temperature colloidal quantum dots. The purity of the single photons does not vary with the excitation power, thereby allowing the generation rate to be increased without compromising the single-photon quality.

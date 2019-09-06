@@ -1,0 +1,1 @@
+This chapter provides a brief introduction to the Kerr spacetime and rotating black holes, touching on the most common coordinate representations of the spacetime metric and the key features of the geometry -- the presence of horizons and ergospheres. The coverage is by no means complete, and serves chiefly to orient oneself when reading subsequent chapters.

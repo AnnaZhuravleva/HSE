@@ -1,0 +1,1 @@
+We derive conservation laws for Dirac-harmonic maps and their extensions to manifolds that have isometries, where we mostly focus on the spherical case. In addition, we discuss several geometric and analytic applications of the latter.

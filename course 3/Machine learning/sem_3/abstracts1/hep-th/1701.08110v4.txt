@@ -1,0 +1,1 @@
+We describe the conformal symmetries of asymptotically flat spacetime. These represent an extension of the BMS group that we call the conformal BMS group. Its general features are discussed.

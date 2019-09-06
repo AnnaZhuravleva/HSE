@@ -1,0 +1,1 @@
+Orthogonal or symplectic Yangians are defined by the Yang-Baxter $RLL$ relation involving the fundamental $R$ matrix with $so(n)$ or $sp(2m)$ symmetry. Simple $L$ operators with linear or quadratic dependence on the spectral parameter exist under restrictive conditions. These conditions are investigated in general form.

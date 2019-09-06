@@ -1,0 +1,1 @@
+Using the holographic model for spontaneous symmetry breaking, we study some properties of the dual superfluid such as the thermodynamic exponents, Joule-Thomson coefficient, compressibility etc. Our focus is on how these properties vary with the scaling dimension and the charge of the operator that undergoes condensation.

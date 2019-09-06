@@ -1,0 +1,1 @@
+We discuss a calculation of large-Nc masses of light scalar mesons from the QCD sum rules. Two methods based on the use of linear radial Regge trajectories are presented. We put a special emphasis on the appearance of pole near 0.5 GeV in the scalar isoscalar channel which emerges in both methods and presumably corresponds to the scalar sigma-meson.

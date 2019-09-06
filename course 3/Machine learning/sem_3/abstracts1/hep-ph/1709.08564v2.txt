@@ -1,0 +1,1 @@
+The field of precision calculations for Standard Model processes at the LHC has experienced enormous progress in recent years. This talk highlights some examples from the physics of parton distribution functions, jets, electroweak gauge bosons and Higgs bosons.

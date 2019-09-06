@@ -1,0 +1,1 @@
+In this talk we discuss the relevance of dispersive methods and their different applications to obtain simple but rigorous parameterizations of pion-pion and kaon-pion scattering. We show as an example our latest dispersive analysis of $\pi K$ scattering, where we provide simple parameterizations of data satisfying Forward Dispersion Relations up to 1.6 GeV.

@@ -1,0 +1,1 @@
+In this paper, we give Separability criterion for the multi-mode Gaussian states using the Marchenko-Pastur theorem. We show that the Marchenko-Pastur theorem from random matrix theory as necessary and sufficient condition for separability of multimode Gaussian states.

@@ -1,0 +1,1 @@
+The Taiwanese-American Occultation Survey (TAOS) operates four fully automatic telescopes to search for occultations of stars by Kuiper Belt Objects. It is a versatile facility that is also useful for the study of initial optical GRB afterglows. This paper provides a detailed description of the TAOS multi-telescope system, control software, and high-speed imaging.

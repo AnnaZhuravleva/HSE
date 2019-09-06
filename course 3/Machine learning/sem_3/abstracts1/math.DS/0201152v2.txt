@@ -1,0 +1,1 @@
+We investigate the dynamics of substitution subshifts and their associated tiling spaces. For a given subshift, the associated tiling spaces are all homeomorphic, but their dynamical properties may differ. We give criteria for such a tiling space to be weakly mixing, and for the dynamics of two such spaces to be topologically conjugate.

@@ -1,0 +1,1 @@
+R-matrix theory was originally developed to describe nuclear reactions. The framework was further extended to describe {\beta} decay to unbound states. However, at the time writing, no clear description of {\gamma} decays to unbound states exist. Such a description will be presented in this note.

@@ -1,0 +1,1 @@
+We present an overview for the reionization search at GMRT. The forecast sensitivities are promising for an early detection. RFI mitigation has been successful. Several hundred hours of telescope time have already been invested in this ongoing effort, and analysis of the data is in progress.

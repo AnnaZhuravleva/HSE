@@ -1,0 +1,1 @@
+We present the activities of the `New Physics' working group for the `Physics at TeV Colliders' workshop (Les Houches, France, 5--23 June, 2017). Our report includes new physics studies connected with the Higgs boson and its properties, direct search strategies, reinterpretation of the LHC results in the building of viable models and new computational tool developments.

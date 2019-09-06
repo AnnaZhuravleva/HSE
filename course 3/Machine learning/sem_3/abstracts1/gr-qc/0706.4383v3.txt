@@ -1,0 +1,1 @@
+This article investigates the collisionless Boltzmann equation up to second order in the cosmological perturbations. It describes the gauge dependence of the distribution function and the construction of a gauge invariant distribution function and brightness, and then derives the gauge invariant fluid limit.

@@ -1,0 +1,1 @@
+One of the most remarkable features of the geodynamo is the irregular occurrence of magnetic field reversals. Starting with the operator theoretical treatment of a non-selfadjoint dynamo operator, we elaborate a dynamical picture of those reversals that rely on the existence of exceptional spectral points.

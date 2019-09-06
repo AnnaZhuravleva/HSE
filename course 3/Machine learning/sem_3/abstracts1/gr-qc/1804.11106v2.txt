@@ -1,0 +1,1 @@
+We derive a generalized deviation equation in Riemann-Cartan spacetime. The equation describes the dynamics of the connecting vector which links events on two general adjacent world lines. Our result is valid for any theory in a Riemann-Cartan background, in particular, it is applicable to a large class of gravitational theories which go beyond the general relativistic framework.

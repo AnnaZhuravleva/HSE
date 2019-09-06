@@ -1,0 +1,1 @@
+Let $f$ be a continuous stationary Gaussian process on ${\mathbb R}$ whose spectral measure vanishes in a $\delta$-neighborhood of the origin. Then the probability that $f$ stays non-negative on an interval of length $L$ is at most $e^{-c\delta^2 L^2}$ with some absolute $c>0$ and the result is sharp without additional assumptions.

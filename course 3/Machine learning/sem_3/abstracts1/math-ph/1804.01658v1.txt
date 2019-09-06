@@ -1,0 +1,1 @@
+We show that there exists a dense set of frequencies with positive Hausdorff dimension for which the Hausdorff dimension of the spectrum of the critical almost Mathieu operator is positive.

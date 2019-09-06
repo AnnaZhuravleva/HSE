@@ -1,0 +1,1 @@
+We present results from new low frequency observations of two extrasolar planetary systems (Epsilon Eridani and HD128311) taken at 150 MHz with the Giant Metrewave Radio Telescope (GMRT). We do not detect either system, but are able to place tight upper limits on their low frequency radio emission.

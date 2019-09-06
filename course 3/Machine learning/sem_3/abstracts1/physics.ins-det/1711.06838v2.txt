@@ -1,0 +1,1 @@
+Two widely used methods of determining the etch-rate ratio in poly-ethylene terephthalate (PET) nuclear track detector are compared. Their application in different regimes of ion$\textquoteright$s energy loss is investigated. A new calibration curve for PET is also presented.

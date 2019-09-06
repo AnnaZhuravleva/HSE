@@ -1,0 +1,1 @@
+We consider a novel model of gravity with a scalar field described by the Lagrangian with higher order derivative terms in a cosmological context. The model has the same solution for the homogeneous and isotropic universe as in the model with the Einstein gravity, notwithstanding the additional higher order terms. A possible modification scenario is briefly discussed lastly.

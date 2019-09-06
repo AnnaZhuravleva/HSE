@@ -1,0 +1,1 @@
+In this paper we prove that an aether term can be generated from radiative corrections of the (non-minimal) coupling between the gauge and the matter fields, in a Lorentz-breaking extended Yang-Mills theory. Furthermore, we {show} that the path integral quantization in the Landau gauge is still consistent {according to} the Gribov-Zwanziger framework.

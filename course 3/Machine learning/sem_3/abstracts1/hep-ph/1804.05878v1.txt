@@ -1,0 +1,1 @@
+Radiation spectra from ultra-relativistic electrons in thin [$T\ll l_f(\omega)$] and thick [$T\gg l_f(\omega)$] targets are discussed. The method of simplified averaging is described by examples of Landau-Pomeranchuk-Migdal effect and radiation at doughnut scattering. General infrared and ultraviolet asymptotic properties of radiation spectra are discussed.

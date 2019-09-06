@@ -1,0 +1,1 @@
+In the inverse problem of the calculus of variations one is asked to find a Lagrangian and a multiplier so that a given differential equation, after multiplying with the multiplier, becomes the Euler--Lagrange equation for the Lagrangian. An answer to this problem for the case of a scalar ordinary differential equation of order $2n, n\geq 2,$ is proposed.

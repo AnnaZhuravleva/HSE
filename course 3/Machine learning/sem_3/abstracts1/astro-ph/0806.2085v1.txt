@@ -1,0 +1,1 @@
+We show that the dragging of axis directions of local inertial frames by a weighted average of the energy currents in the universe (Mach's principle) is exact for all linear perturbations of all Friedmann-Robertson-Walker universes and for all types of matter.

@@ -1,0 +1,1 @@
+F-theory requires a new Virasoro algebra, including $\kappa$-symmetry, with a worldvolume coordinate for each generator. (Similar is implied for the superstring.) Doubles of the spacetime coordinates are eliminated by selfduality, which now applies to all currents.

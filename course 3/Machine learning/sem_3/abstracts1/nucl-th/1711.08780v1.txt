@@ -1,0 +1,1 @@
+We review the theoretical framework for the calculation of particle polarization in relativistic heavy ion collisions within the hydrodynamical model. The covariant decomposition of the mean spin vector is presented and open theoretical issues addressed.

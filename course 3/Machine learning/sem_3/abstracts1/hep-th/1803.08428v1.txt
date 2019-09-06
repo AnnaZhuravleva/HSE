@@ -1,0 +1,1 @@
+We show that there are no smooth warped AdS$_3$ solutions in 10- and 11-dimensional supergravities which preserve strictly more than 16 supersymmetries and have internal space a compact without boundary manifold.

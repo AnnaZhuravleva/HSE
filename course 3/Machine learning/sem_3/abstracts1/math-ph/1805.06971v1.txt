@@ -1,0 +1,1 @@
+We prove that multiparameter Schur Q-functions, which include as specializations factorial Schur Q-functions and classical Schur Q-functions, provide solutions of BKP hierarchy

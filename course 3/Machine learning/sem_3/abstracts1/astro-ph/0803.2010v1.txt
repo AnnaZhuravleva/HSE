@@ -1,0 +1,1 @@
+We have started a survey of M 33 in order to find variable stars and Cepheids in particular. We have obtained more than 30 epochs of g'r'i' data with the CFHT and the one-square-degree camera MegaCam. We present first results from this survey, including the search for variable objects and a basic characterization of the various groups of variable stars.

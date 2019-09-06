@@ -1,0 +1,1 @@
+The talk contains an overview of recent experimental results obtained by the LHC experiments. The measured inclusive event properties, as well as various correlation phenomena, are compared with predictions of phenomenological models.

@@ -1,0 +1,1 @@
+The glueball spectrum has attracted much attention since the formulation of Quantum Chromodynamics. Different approaches give very different results for their masses. We revisit the problem from the perspective of the AdS/CFT correspondence.

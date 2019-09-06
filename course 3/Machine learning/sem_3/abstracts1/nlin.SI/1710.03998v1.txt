@@ -1,0 +1,1 @@
+We study several variants of q-Garnier system corresponding to various directions of discrete time evolutions. We also investigate a relation between the $q$-Garnier system and Suzuki's higher order $q$-Painlev/'e system by using a duality of the $q$-KP system.

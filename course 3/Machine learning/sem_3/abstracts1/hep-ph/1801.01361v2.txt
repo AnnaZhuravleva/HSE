@@ -1,0 +1,1 @@
+We solve the Goldstone modes in the renormalizable SUSY SO(10) model with general couplings. The Goldstones are expressed by the Vacuum Expectation Values and the Clebsch-Gordan coefficients of relevant symmetries without explicit dependence on the parameters of the model.

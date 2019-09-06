@@ -1,0 +1,1 @@
+We prove a conjecture on uniqueness and existence of the irregular vertex operators of rank $r$ introduced in our previous paper. We also introduce ramified irregular vertex operators of the Virasoro algebra. As applications, we give conjectural formulas for series expansions of Painlev\'e III and II tau functions in terms of our ramified irregular conformal blocks.

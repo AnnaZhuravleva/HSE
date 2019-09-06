@@ -1,0 +1,1 @@
+We consider Bogoliubov de Gennes equation on metric graphs. The vertex boundary conditions providing self-adjoint realization of the Bogoliubov de Gennes operator on a metric star graph are derived. Secular equation providing quantization of the energy and the vertex transmission matrix are also obtained. Application of the model for Majorana wire networks is discussed.

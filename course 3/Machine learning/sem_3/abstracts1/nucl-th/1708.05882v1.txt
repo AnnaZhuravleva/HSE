@@ -1,0 +1,1 @@
+We perform quantum calculations of fluctuations of the electromagnetic fields in $AA$ collisions at RHIC and LHC energies. We find that in the quantum picture the field fluctuations are much smaller than predictions of the classical Monte-Carlo simulation with the Woods-Saxon nuclear density.

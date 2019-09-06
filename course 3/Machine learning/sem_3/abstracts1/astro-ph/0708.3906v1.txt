@@ -1,0 +1,1 @@
+We have determined Mg isotope ratios in halo field dwarfs and giants in the globular cluster M71 based on high S/N high spectral resolution (R = 10$^5$) Keck HIRES spectra. Unlike previous claims of an important contribution from intermediate-mass AGB stars to the Galactic halo, we find that our $^{26}$Mg/$^{24}$Mg ratios can be explained by massive stars.

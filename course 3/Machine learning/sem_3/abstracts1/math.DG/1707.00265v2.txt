@@ -1,0 +1,1 @@
+These letters, written in 1998-2000, contain various basic results about Courant algebroids (CAs), such as classification of exact and transitive CAs, reduction of CAs, description in terms of symplectic dg manifolds, a canonical generating Dirac operator, and a relation with Poisson-Lie T-duality.

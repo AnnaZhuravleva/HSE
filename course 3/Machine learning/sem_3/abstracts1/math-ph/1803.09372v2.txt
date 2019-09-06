@@ -1,0 +1,1 @@
+A novel approach to critical contrast homogenisation is proposed. This allows to see homogenisation limits restricted to the "stiff" component of the composite as a class of time-dispersive media. By an inversion of this argument, we also offer a recipe for the construction of such media with prescribed dispersive properties from periodic composites.

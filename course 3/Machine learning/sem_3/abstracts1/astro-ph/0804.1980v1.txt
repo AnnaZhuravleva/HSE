@@ -1,0 +1,1 @@
+We compiled a large sample of Swift-era photometric data on long (Type II) and short (Type I) GRB afterglows. We compare the luminosity and energetics of the different samples to each other and to the afterglows of the pre-Swift era. Here, we present the first results of these studies.

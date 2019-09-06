@@ -1,0 +1,1 @@
+We study the interaction of two scattering channels for a simple geometric model consisting in a double covering of the plane with two branch points, equipped with the Euclidean metric. We show that the scattering channels are open in the sense of arXiv:1202.0333 and that this property is stable under suitable perturbations of the metric.

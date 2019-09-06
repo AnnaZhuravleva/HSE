@@ -1,0 +1,1 @@
+Discrete models of the Dirac-K\"{a}hler equation and the Dirac equation in the Hestenes form are discussed. A discrete version of the plane wave solutions to a discrete analogue of the Hestenes equation is established.

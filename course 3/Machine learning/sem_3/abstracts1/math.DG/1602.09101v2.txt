@@ -1,0 +1,1 @@
+We find a class of minimal hypersurfaces H(k) as the zero level set of Pfaffians, resp. determinants of real 2k+2 dimensional antisymmetric matrices. While H(1) and H(2) are congruent to a 6-dimensional quadratic cone resp. Hsiang's cubic su(4) invariant in R15, H(k>2) (special harmonic so(2k+2)-invariant cones of degree>3) seem to be new.

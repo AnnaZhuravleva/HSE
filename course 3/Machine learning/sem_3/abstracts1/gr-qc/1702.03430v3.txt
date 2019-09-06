@@ -1,0 +1,1 @@
+We demonstrate that the existence of a Noether symmetry in $f(R)$ theories of gravity gives rise to a further gravitational radius, besides the standard Schwarzschild one, determining the dynamics at galactic scales. By this feature, it is possible to explain the baryonic Tully-Fisher relation and the rotation curve of gas-rich galaxies without the dark matter hypothesis.

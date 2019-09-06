@@ -1,0 +1,1 @@
+In this paper, we construct and analyse the symmetries and conservation laws (conserved densities) of a model of a nonlinear Scrodinger equation with PT-symmetric potentials and inhomogeneity.

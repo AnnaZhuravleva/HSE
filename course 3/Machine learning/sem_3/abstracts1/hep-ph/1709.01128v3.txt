@@ -1,0 +1,1 @@
+We give the first phenomenological predictions of cross sections and azimuthal correlations for the inclusive di-hadron production in the full NLA BFKL approach. This process shares the same theoretical framework with the well konwn Mueller-Navelet jet production and can be considered a novel and complementary channel to access the BFKL dynamics at proton colliders.

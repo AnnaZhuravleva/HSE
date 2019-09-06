@@ -1,0 +1,1 @@
+All symmetric space AdS(n) solutions of ten-dimensional type IIA and type IIB supergravity are constructed for n>2. There are a total of 26 geometries. Out of these only 7 allow for supersymmetries and these are the well known backgrounds coming from near-horizon limits of (intersecting) branes in ten or eleven dimensions and preserving 32, 16 or 8 supersymmetries.

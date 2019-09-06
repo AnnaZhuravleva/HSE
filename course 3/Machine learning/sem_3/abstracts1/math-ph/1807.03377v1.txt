@@ -1,0 +1,1 @@
+We prove that the logarithm of an arbitrary tau-function of the KdV hierarchy can be approximated, in the topology of graded formal series by the logarithmic expansions of hyperelliptic theta-functions of finite genus, up to at most quadratic terms. As an example we consider theta-functional approximations of the Witten--Kontsevich tau-function.

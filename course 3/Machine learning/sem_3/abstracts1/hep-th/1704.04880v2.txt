@@ -1,0 +1,1 @@
+Higher-derivative analogues of multidimensional conformal particle and many-body conformal mechanics are constructed. Their Newton-Hooke counterparts are derived by applying appropriate coordinate transformations.

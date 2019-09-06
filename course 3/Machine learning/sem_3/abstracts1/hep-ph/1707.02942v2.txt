@@ -1,0 +1,1 @@
+We construct asymptotically safe extensions of the Standard Model by adding gauged vector-like fermions. Using large number-of-flavour techniques we argue that all gauge couplings, including the hypercharge and, under certain conditions, the Higgs coupling can achieve an interacting ultraviolet fixed point.

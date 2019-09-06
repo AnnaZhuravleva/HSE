@@ -1,0 +1,1 @@
+A model with three scalar doublets can be conveniently accommodated within an A4 symmetric framework. The A4 symmetry permits only a restricted form for the scalar potential. We show that for the global minima of this potential alignment follows as a natural consequence. We also verify that in every case positivity and unitarity constraints are satisfactorily met.

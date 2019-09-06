@@ -1,0 +1,1 @@
+We consider the Abelian sandpile model on triangular and hexagonal lattices. We compute several height probabilities on the full plane and on half-planes, and discuss some properties of the universality of the model.

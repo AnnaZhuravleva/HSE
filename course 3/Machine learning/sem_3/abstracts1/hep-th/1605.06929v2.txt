@@ -1,0 +1,1 @@
+A new Dimensional Regularization of $\gamma_5$ is proposed. Cyclicity and Lorentz covariance are enforced. The extension to generic dimension is based on the integral representation of the trace of gamma's, presented in a previous paper.

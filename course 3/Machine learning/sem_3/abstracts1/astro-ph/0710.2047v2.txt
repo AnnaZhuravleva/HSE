@@ -1,0 +1,1 @@
+We review current state of neutron star cooling theory and discuss the prospects to constrain the equation of state, neutrino emission and superfluid properties of neutron star cores by comparing the cooling theory with observations of thermal radiation from isolated neutron stars.

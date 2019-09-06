@@ -1,0 +1,1 @@
+We consider the virtual corrections to the process $gg\to HH$ at NLO in the high energy limit and compute the corresponding planar master integrals in an expansion for small top quark mass. We provide details on the evaluation of the boundary conditions and present analytic results expressed in terms of harmonic polylogarithms.

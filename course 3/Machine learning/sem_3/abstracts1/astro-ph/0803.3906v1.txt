@@ -1,0 +1,1 @@
+CCD UBVRI photometry is presented for type IIn SN 2005kd. The maximum luminosity exceeded Mv=-19.8, and SN remained brighter than -18 mag for about 400 days. While overall photometric evolution is quite similar to SN 1997cy, SN 2005kd shows a plateau at phases between 119 and 311 days past explosion, which is a unique feature for SN IIn.

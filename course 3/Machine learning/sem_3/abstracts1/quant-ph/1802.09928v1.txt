@@ -1,0 +1,1 @@
+An example of a one-way distributed computation is given in which the use of entangled states of two photons to synchronize processes gives a benefit. The process of assembling polymer chains at two remote points is considered; the quality of the assembly is determined when they are superimposed on each other. The effect of using entangled states is almost 14 percents.

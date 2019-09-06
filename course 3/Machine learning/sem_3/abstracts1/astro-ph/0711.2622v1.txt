@@ -1,0 +1,1 @@
+We show that the cosmic microwave background (CMB) data of WMAP can give subelectronvolt limit on the neutrino mass: m_nu < 0.63 eV (95% CL). We also investigate its degeneracy with other cosmological parameters. In particular, we show the Hubble constant derived from the WMAP data decreases considerably when the neutrino mass is a few times 0.1 eV.

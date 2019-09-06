@@ -1,0 +1,1 @@
+The integrability of the\ $\Lambda-$Einstein-nonlinear $SU(2)$ $\sigma$-model with nonvanishing cosmological charge is studied. We apply the method of singularity analysis of differential equations and we show that the equations for the gravitational field are integrable. The first few terms of the solution are presented.

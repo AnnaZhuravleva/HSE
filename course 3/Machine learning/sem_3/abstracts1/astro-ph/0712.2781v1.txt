@@ -1,0 +1,1 @@
+We correct the fitting formula used in refs. [1,2] to obtain a robust limit on a violation of Lorentz invariance that depends linearly on the photon energy. The correction leads to a slight increase of the limit on the scale of the violation, to M > 1.4 x 10^{16} GeV.

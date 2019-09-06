@@ -1,0 +1,1 @@
+I report on recent advancements regarding calculations that require initial-state partons with non-vanishing transverse momentum, causing it to be space-like and thus off-shell.

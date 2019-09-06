@@ -1,0 +1,1 @@
+We construct Darboux-Moutard type transforms for the two-dimensional conductivity equation. This result continues our recent studies of Darboux-Moutard type transforms for generalized analytic functions. In addition, at least, some of the Darboux-Moutard type transforms of the present work admit direct extension to the conductivity equation in multidimensions.

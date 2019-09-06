@@ -1,0 +1,1 @@
+We study the effect of correlated Markovian noise channels on the quantum speed limit of an open system. This is done for correlated dephasing and amplitude damping channels for a two qubit atomic model. Our model serves as a platform for a detailed study of speed of quantum evolution in correlated open systems.

@@ -1,0 +1,1 @@
+By proceeding from a simple non-polarized formalism, we consider in detail the polarization procedure as applied to the generating equations of the quantum antibracket algebra, in terms of the parametrized generating operator.

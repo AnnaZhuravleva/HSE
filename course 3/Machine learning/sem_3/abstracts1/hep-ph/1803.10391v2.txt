@@ -1,0 +1,1 @@
+We study the lepton flavor models, whose flavor symmetries are finite subgroups of the modular group such as $S_3$ and $A_4$. In our models, couplings are also nontrivial representations of these groups and modular functions of the modulus. We study the possibilities that these models realize realistic values of neutrino masses and lepton mixing angles.

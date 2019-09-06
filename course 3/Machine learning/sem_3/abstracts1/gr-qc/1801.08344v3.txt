@@ -1,0 +1,1 @@
+Junction conditions are discussed within the framework of $f(R)$-gravity with torsion. After deriving general junction conditions, the cases of coupling to a Dirac field and a spin fluid are explicitly dealt with. The main differences with respect to Einstein--Cartan--Sciama--Kibble theory $\left(f(R)=R\right)$ are outlined.

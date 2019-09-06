@@ -1,0 +1,1 @@
+We show that the double quantization of Seiberg-Witten spectral curve for $\Gamma$-quiver gauge theory defines the generating current of W$(\Gamma)$-algebra in the free field realization. We also show that the partition function is given as a correlator of the corresponding W$(\Gamma)$-algebra, which is equivalent to the AGT relation under the gauge/quiver (spectral) duality.

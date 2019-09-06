@@ -1,0 +1,1 @@
+This paper proposes a simple voting protocol based on quantum blockchain. Besides being simple, our voting protocol is anonymous, binding, non-reusable, verifiable, eligible, fair and self-tallying. Our protocol is also realizable by the current technology.

@@ -1,0 +1,1 @@
+We show that a natural discretisation of Virasoro algebra yields a quantum integrable model which is the Toda chain in the second Hamiltonian structure.

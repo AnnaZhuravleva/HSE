@@ -1,0 +1,1 @@
+We propose an action for the extended sigma - models in the most general setting of the kinetic term allowed in the nontrivially deformed field - antifield formalism. We show that the classical motion equations do naturally take their desired canonical form.

@@ -1,0 +1,1 @@
+Rules of quantum probability are governed by quantum logic which is non-Boolean. A formalism that incorporates the non-boolean nature explicitly is desirable. We accomplish this by introducing what we call pseudo-projection operators, and show that they allow us to characterise non-classicality of states comprehensively.

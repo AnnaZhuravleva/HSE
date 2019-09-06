@@ -1,0 +1,1 @@
+We observe that certain equivariant intersection numbers of Chern characters of tautological sheaves on Hilbert schemes for suitable circle actions can be computed using the Bloch-Okounkov formula, hence they are related to Gromov-Witten invariants of elliptic curves and its operator formalism in terms of operators on the Fock space.

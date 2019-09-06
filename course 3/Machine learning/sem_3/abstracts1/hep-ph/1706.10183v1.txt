@@ -1,0 +1,1 @@
+We present a recent calculation of Wigner distributions of quarks and gluons for a quark target state dressed with a gluon, using overlaps of light-front wave functions.

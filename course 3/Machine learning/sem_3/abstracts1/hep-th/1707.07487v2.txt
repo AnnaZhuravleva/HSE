@@ -1,0 +1,1 @@
+In this paper, we consider an infinite derivative scalar field action with infinite derivative kinetic and interaction terms. We establish that the theory is unitary if the correlation functions are formulated in Euclidean space and then analytically continued in their external momenta to Minkowski space.

@@ -1,0 +1,1 @@
+The use of actinide collisions have been suggested as a way to produce neutron rich isotopes of high Z nuclei. The collision dynamics of these reactions can be studied using unrestricted time-dependent Hartree-Fock (TDHF) calculations. Here, we report on the recent studies of quasifission for the $^{238}$U+$^{238}$U system.

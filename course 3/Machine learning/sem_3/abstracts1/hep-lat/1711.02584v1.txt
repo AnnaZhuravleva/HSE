@@ -1,0 +1,1 @@
+We report on the lattice computation of the Landau gauge gluon propagator at finite temperature, including the non-zero Matsubara frequencies. Moreover, the corresponding K\"all\'en-Lehmann spectral density is computed, using a Tikhonov regularisation together with the Morozov discrepancy principle. Implications for gluon confinement are also discussed.

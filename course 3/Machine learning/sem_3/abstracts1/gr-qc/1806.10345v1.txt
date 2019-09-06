@@ -1,0 +1,1 @@
+Locality plays a key role in the derivation of Hawking radiation. Could relaxing the locality criterion modify Hawking radiation? We consider Hawking radiation in a general class of non local quantum field theories. We prove that Hawking radiation is unmodified for these theories. Our result establishes the universality of Hawking radiation in a larger class of theories.

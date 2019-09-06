@@ -1,0 +1,1 @@
+We study the quantum walk of two interacting particles on a line with an interface separating two topologically distinct regions. The interaction induces a localization-delocalization transition of the edge state at the interface. We characterize the transition through the entanglement between the two particles.

@@ -1,0 +1,1 @@
+We show that the minimal gravity of Lee-Yang series on disk is a solution to the open KdV hierarchy proposed for the intersection theory on the moduli space of Riemann surfaces with boundary.

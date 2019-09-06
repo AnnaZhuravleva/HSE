@@ -1,0 +1,1 @@
+We describe the implementation of the two-loop Higgs-mass corrections of $\mathcal{O}{\left(\alpha_t^2\right)}$ in the complex MSSM in $\tt{FeynHiggs}$. The program for the calculation is included in $\tt{FeynHiggs}$ and documented here in some detail such that it can be re-used as a template for similar calculations.

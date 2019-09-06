@@ -1,0 +1,1 @@
+We simulate lattice QCD with two flavors of Wilson fermions at imaginary baryon chemical potential. Results for the baryon number density computed in the confining and deconfining phases at imaginary baryon chemical potential are used to determine the baryon number density and higher cumulants at the real chemical potential via analytical continuation.

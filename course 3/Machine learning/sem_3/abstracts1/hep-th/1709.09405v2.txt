@@ -1,0 +1,1 @@
+We perform canonical analysis of non-relativistic particle in Newton-Cartan Background. Then we extend this analysis to the case of non-relativistic superparticle in the same background. We determine constraints structure of this theory and find generator of \kappa-symmetry.

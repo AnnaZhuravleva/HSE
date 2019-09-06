@@ -1,0 +1,1 @@
+In this review paper we discuss the different interpretations of the concept of connection in a fiber bundle and in a jet bundle, and relate it with first and second-order systems of partial differential equations (PDE's) and multivector fields. As particular cases we analyze the concepts of linear connections and connections in a manifold.

@@ -1,0 +1,1 @@
+We prove positivity of energy for a class of asymptotically locally hyperbolic manifolds in dimensions $4\le n \le 7$. The result is established by first proving deformation-of-mass-aspect theorems in dimensions $n\ge 4$. Our positivity results extend to the case $n = 3$ when more stringent conditions are imposed.

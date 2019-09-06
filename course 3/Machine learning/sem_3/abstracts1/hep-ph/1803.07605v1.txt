@@ -1,0 +1,1 @@
+We report on recent experimental and theoretical developments in our understanding of the QCD running coupling \alpha_s in QCD's nonperturbative regime. They allow us to analytically compute the hadron mass spectrum, with \Lambda_s the only input necessary to this determination. The computed spectra agrees well with experimental data.

@@ -1,0 +1,1 @@
+We analyze non-relativistic string in Newton-Cartan background that was found recently in [arXiv:1705.03535 [hep-th]]. We find its Hamiltonian formulation and study structure of constraints. We also discuss a relation between string in Newton-Cartan Background and T-duality along null reduction.

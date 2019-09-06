@@ -1,0 +1,1 @@
+In the theory of causal fermion systems, the physical equations are obtained as the Euler-Lagrange equations of a causal variational principle. Studying families of critical measures of causal variational principles, a class of conserved surface layer integrals is found and analyzed.

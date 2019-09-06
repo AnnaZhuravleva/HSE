@@ -1,0 +1,1 @@
+The construction of Superintegrable models with rotational symmetry and two integrals of any integer degree greater than 3 was completed in [9] only for the so called simple case. It is extended here to a more general situation and several globally defined examples are worked out, all of them living either in R2 or in H2.

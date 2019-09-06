@@ -1,0 +1,1 @@
+Some recent research of quantum corrections in ${\cal N}=1$ supersymmetric theories is briefly reviewed. The most attention is paid to the theories regularized by higher covariant derivatives. In particular, we discuss, how the NSVZ and NSVZ-like relations appear with this regularization and how one can construct the NSVZ scheme in all orders.

@@ -1,0 +1,1 @@
+We present a simple model of defects embedded in flat spacetime, where the model is designed to maintain Lorentz invariance over large length scales. Even without remnant Lorentz violation, there are still effects from these spacetime defects on the propagation of physical fields, notably mass generation for scalars and Dirac fermions.

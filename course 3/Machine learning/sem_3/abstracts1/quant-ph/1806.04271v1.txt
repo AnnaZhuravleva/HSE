@@ -1,0 +1,1 @@
+We investigate the orthoalgebras of certain non-Boolean models which have a classical realization. Our particular concern will be the partition logics arising from the investigation of the empirical propositional structure of Moore and Mealy type automata.

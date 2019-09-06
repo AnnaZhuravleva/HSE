@@ -1,0 +1,1 @@
+We explore the phenomenological consequences of a model with axion-like particles and hidden photons mixing with photons. In this model, the hidden photon is directly coupled to the photon, while the axion coupling is induced by an external electromagnetic field. We consider vacuum effects on a polarised photon beam, like changes in the ellipticity and rotation angles.

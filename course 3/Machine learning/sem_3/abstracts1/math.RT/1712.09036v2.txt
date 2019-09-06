@@ -1,0 +1,1 @@
+We classify all momentum polytopes of rank one for multiplicity free quasi-Hamiltonian $K$-manifolds for simple and simply connected Lie groups $K$ by using the methods developed in a recent paper by F. Knop. This leads to lots of new concrete examples of multiplicity free quasi-Hamiltonian manifolds or equivalently, Hamiltonian loop group actions.

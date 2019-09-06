@@ -1,0 +1,1 @@
+A Roche model for describing uniformly rotating rings is presented and the results are compared with numerical solutions to the full problem for polytropic rings. In the thin ring limit, the surfaces of constant pressure including the surface of the ring itself are given in analytic terms, even in the mass-shedding case.

@@ -1,0 +1,1 @@
+We present here an updated description of the "Scenario Machine" code. This tool is used to carry out a population synthesis of binary stars. Previous version of the description can be found at http://xray.sai.msu.ru/~mystery//articles/review/contents.html

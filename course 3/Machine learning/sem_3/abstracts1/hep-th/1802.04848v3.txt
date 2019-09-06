@@ -1,0 +1,1 @@
+We present a class of supergravity $\alpha$-attractors with an approximate global U(1) symmetry corresponding to the axion direction. We also develop a multi-field generalization of these models and show that the $\alpha$-attractor models with U(1) symmetries have a dual description in terms of a two-form superfield coupled to a three-form superfield.

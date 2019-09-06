@@ -1,0 +1,1 @@
+In this note we show that the entropy of BPS, rotating, electrically charged AdS$_7 \times S^4$ black holes can be obtained by an extremization principle involving a particular combination of anomaly coefficients of the six-dimensional $\mathcal{N} = (2, 0)$ theory. This result extends our previous finding for BPS, rotating AdS$_5 \times S^5$ black holes.

@@ -1,0 +1,1 @@
+We outline the steps needed in to calibrate the Monte Carlo code in order to perform large scale simulations of real globular clusters. We calibrate the results against $N$-body simulations for $N = 2500$, 10000 and for the old open cluster M67. The calibration is done by choosing appropriate free code parameters.

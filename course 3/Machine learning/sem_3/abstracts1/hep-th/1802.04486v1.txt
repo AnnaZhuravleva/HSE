@@ -1,0 +1,1 @@
+We construct the integrated vertex operator for the first massive states of open superstrings with $(mass)^2=1/\alpha'$ in the pure spinor formalism of the superstring theory. This vertex operator is expressed in terms of the ten dimensional $\mathcal{N}=1$ superfields describing the massive supermultiplet which appear in the unintegrated vertex operator of the same states.

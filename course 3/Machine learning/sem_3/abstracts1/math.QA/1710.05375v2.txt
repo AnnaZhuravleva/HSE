@@ -1,0 +1,1 @@
+Simple finite dimensional Kantor triple systems are classified in terms of Satake diagrams. We prove that every simple and linearly compact Kantor triple system has finite dimension and give an explicit presentation of all the classical and exceptional systems.

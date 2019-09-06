@@ -1,0 +1,1 @@
+Recent theoretical developments of relativistic hydrodynamics applied to ultrarelativistic heavy-ion collisions are briefly reviewed. In particular, the concept of a formal gradient expansion is discussed, which is a tool to compare different hydrodynamic models with underlying microscopic theories.

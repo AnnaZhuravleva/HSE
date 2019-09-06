@@ -1,0 +1,1 @@
+In this article, we study the decay of the solutions of Schr\"odinger equations in the exterior of an obstacle. The main situations we are interested in are the general case (no non-trapping assumptions) or some weakly trapping situations

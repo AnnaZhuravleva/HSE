@@ -1,0 +1,1 @@
+The relationship between $l$-dependence and undularity of the optical model potential (OMP) is studied for the case of the elastic scattering of 33 MeV \nuc{3}{He} on $^{58}$Ni. The relationship that emerges follows the general features of the same relationship found for the proton OMP presented in arXiv:1705.07003. The general background is also presented in that reference.

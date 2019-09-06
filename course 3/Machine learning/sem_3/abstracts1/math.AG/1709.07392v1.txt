@@ -1,0 +1,1 @@
+We derive a closed formula for the generating function of genus two Gromov-Witten invariants of quintic 3-folds and verify the corresponding mirror symmetry conjecture of Bershadsky, Cecotti, Ooguri and Vafa.

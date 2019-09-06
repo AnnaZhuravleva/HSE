@@ -1,0 +1,1 @@
+A nonstatic Schwarzschild black hole interior solution in Painleve-Gullstrand coordinates is proposed in this paper, by means of a coordinate transformation that changes the spatial coordinate but the timelike one is preserved. The timelike and null geodesic equations are obtained exactly, taking advantage that the spatial z-coordinate is cyclic.

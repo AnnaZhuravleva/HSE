@@ -1,0 +1,1 @@
+I have searched for pulsed radio emission from the Geminga pulsar and for the nearby isolated neutron star 1RX J1308.6+2127 (RBS 1223) at the frequency of 111 MHz. No pulsed signals were detected from these sources. Upper limits for mean flux density are 0.4 - 4 mJy for the Geminga pulsar and 1.5 - 15 mJy for RBS 1223 depending on assumed duty cycle (.05 - .5) of the pulsars.

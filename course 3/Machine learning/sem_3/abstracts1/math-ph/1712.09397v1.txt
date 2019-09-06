@@ -1,0 +1,1 @@
+We discuss bi-Hamiltonian structures for integrable and superintegrable Hamiltonian system on the list of symplectic four-dimensional real Lie groups are classified by G. Ovando. In addition, we creat corresponding control matrix for obtained bi-Hamiltonian structures.

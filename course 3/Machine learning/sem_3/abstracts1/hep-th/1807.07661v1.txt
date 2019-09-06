@@ -1,0 +1,1 @@
+We analyze the free ambitwistor string field theory action for the bosonic string, heterotic string and both GSO sectors of the Type II string. The spectrum contains non-unitary states and provides an interesting consistency test for one-loop ambitwistor string computations.

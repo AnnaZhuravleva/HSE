@@ -1,0 +1,1 @@
+We review the domain wall charm physics program of the RBC and UKQCD collaborations based on simulations including ensembles with physical pion mass. We summarise our current set-up and present a status update on the decay constants $f_D$, $f_{D_s}$, the charm quark mass, heavy-light and heavy-strange bag parameters and the ratio $\xi$.

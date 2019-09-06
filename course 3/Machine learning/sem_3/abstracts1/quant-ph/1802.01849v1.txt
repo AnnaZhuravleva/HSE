@@ -1,0 +1,1 @@
+There is a belief that the Ehrenfest theorem holds true universally. We demonstrate that for a classically nonrelativistic particle constrained on an $N-1$ ($N\geq 2$) curved hypersurface embedded in $N$ flat space, the theorem breaks down.

@@ -1,0 +1,1 @@
+Does a semiclassical particle remember the phase space topology? We discuss this question in the context of the Berezin-Toeplitz quantization and quantum measurement theory by using tools of topological data analysis. One of its facets involves a calculus of Toeplitz operators with piecewise constant symbol developed in an appendix by Laurent Charles.

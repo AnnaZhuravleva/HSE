@@ -1,0 +1,1 @@
+We study vacua and walls of mass-deformed K\"ahler nonlinear sigma models on $Sp(N)/U(N)$. We identify elementary walls with the simple roots of $USp(2N)$ and discuss compressed walls, penetrable walls and multiwalls by using the moduli matrix formalism.

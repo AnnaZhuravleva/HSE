@@ -1,0 +1,1 @@
+In this paper, we propose a survey of the basic geometric properties of Carters Kerr-de Sitter solution to Einsteins equation with positive cosmological constant. In particular, we give simple characterisations of the Kerr-de Sitter analogs of fast, slow and extreme Kerr spacetime and conclude with a discussion on maximal analytical extensions in each of these cases.

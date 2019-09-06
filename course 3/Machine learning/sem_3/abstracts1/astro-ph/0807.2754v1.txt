@@ -1,0 +1,1 @@
+Cosmic ray acceleration in SNRs in the presence of the Alfv\'enic drift is considered. It is shown that spectra of accelerated particles may be considerably softer in the presence of amplified magnetic fields.

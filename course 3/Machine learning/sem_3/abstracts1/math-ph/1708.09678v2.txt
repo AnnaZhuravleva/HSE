@@ -1,0 +1,1 @@
+In this paper we study quantum stochastic differential equations (QSDEs) that are driven by strongly squeezed vacuum noise. We show that for strong squeezing such a QSDE can be approximated (via a limit in the strong sense) by a QSDE that is driven by a single commuting noise process. We find that the approximation has an additional Hamiltonian term.

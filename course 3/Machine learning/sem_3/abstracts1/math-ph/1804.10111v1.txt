@@ -1,0 +1,1 @@
+This paper deals with the construction of a suitable topological $K$-theory capable of classifying topological phases of dynamically stable systems described by gapped $\eta$-self-adjoint operators on a Krein space with indefinite metric $\eta$.

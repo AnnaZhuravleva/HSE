@@ -1,0 +1,1 @@
+We consider the torsional completion of gravity with spinor and scalar fields: we show how in this environment conditions of extreme symmetry or specific approximations imply the scalar field to be constant, so that slow-roll takes place and inflation occurs.

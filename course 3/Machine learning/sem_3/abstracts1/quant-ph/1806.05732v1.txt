@@ -1,0 +1,1 @@
+The models we use, habitually, to describe quantum nonlinear optical processes have been remarkably successful yet, with few exceptions, they each contain a mathematical flaw. We present this flaw, show how it can be fixed and, in the process, suggest why we can continue to use our favoured Hamiltonians.

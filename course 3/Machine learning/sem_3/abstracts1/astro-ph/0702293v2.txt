@@ -1,0 +1,1 @@
+We calculate the large scale polarization of the cosmic microwave background induced by the anisotropy of the spatial geometry of our universe. Assuming an eccentricity at decoupling of about $0.64 10^{-2}$, we find $\Delta T_{pol}/ T_0 \simeq 0.53 10^{-6}$ quite close to the average level of polarization detected by the Wilkinson Microwave Anisotropy Probe.

@@ -1,0 +1,1 @@
+A recent paper [arXiv:1805.05217] compares performance of a D-Wave 2000Q system to two versions of the coherent Ising machine (CIM). This comment points out some flaws in the analysis, which undermine several of the conclusions drawn in the paper.

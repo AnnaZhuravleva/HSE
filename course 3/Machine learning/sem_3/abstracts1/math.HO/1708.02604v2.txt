@@ -1,0 +1,1 @@
+We give an overview of our philosophy of pictures in mathematics. We emphasize a bi-directional process between picture language and mathematical concepts: abstraction and simulation. This motivates a program to understand different subjects, using virtual and real mathematical concepts simulated by pictures.

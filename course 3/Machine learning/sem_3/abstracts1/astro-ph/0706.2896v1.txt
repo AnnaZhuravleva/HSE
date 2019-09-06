@@ -1,0 +1,1 @@
+We solve the magnetohydrodynamic (MHD) equations governing axisymmetric flows around neutron stars and black holes and found all possible solution topologies for adiabatic accretion. We divide the parameter space spanned by the conserved energy and angular momentum of the flow in terms of the flow topologies. We also study the possibility of the formation of the MHD shock waves.

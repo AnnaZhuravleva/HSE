@@ -1,0 +1,1 @@
+We use superspace methods to study an SYK-like model with $\mathcal N=2$ supersymmetry in one dimension, and an analog of this model in two dimensions. We find the four-point function as an expansion in the basis of eigenfunctions of the Casimir of $su(1,1|1)$. We also find retarded kernels and Lyapunov exponents for both cases.

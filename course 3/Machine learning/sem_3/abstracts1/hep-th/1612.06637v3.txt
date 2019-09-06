@@ -1,0 +1,1 @@
+A number of irreducible master integrals for L-loop sunrise-type and bubble Feynman diagrams with generic values of masses and external momenta are explicitly evaluated via Mellin-Barnes representation.

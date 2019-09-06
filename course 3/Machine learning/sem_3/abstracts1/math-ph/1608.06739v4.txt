@@ -1,0 +1,1 @@
+We revisit the construction by Sanders [S1] of the Hartle-Hawking-Israel state for a free quantum Klein-Gordon field on a spacetime with a static, bifurcate Killing horizon and a wedge reflection. Using the notion of the Calder{\'o}n projector for elliptic boundary value problems and pseudodifferential calculus on manifolds, we give a short proof of its Hadamard property.

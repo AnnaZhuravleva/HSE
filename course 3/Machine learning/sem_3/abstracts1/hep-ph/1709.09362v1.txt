@@ -1,0 +1,1 @@
+The density of the Bose-Einstein condensate for non-interacting pions in a cubic box, at given temperature and (average) total pion density, is calculaated for three sets of boundary conditions. The densities are much larger than predicted from thermodynamics and depend significantly on the choice of the boundary conditions, even for volumes as large as $6.4\cdot 10$fm$^3$.

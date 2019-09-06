@@ -1,0 +1,1 @@
+A bare description of the seminal quantum algorithm devised by Deutsch could mean more than an introduction to quantum computing. It could contribute to opening the field to interdisciplinary research.

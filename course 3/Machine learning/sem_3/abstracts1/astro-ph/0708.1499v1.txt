@@ -1,0 +1,1 @@
+In this paper, I explore various transport processes that have a large impact of the distribution of elements inside stars and thus, on stellar evolution. A heuristic description of the physics behind equations is provided, and key references are given. Finally, for each process, I will briefly review (some) important results as well as discuss directions for future work.

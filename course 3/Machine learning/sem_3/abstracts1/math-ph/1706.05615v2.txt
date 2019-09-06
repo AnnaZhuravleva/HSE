@@ -1,0 +1,1 @@
+In the framework of the Lagrangian field theory, we derive a type of new non-classical natural boundary condition to be correlated with the mean curvature of boundary surface. Under the condition of homogeneity and isotropy, this type of boundary condition can be simplified into the Tolman's formula in which the size effect of surface tension is prescribed.

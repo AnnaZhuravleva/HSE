@@ -1,0 +1,1 @@
+In this article we study an integrable deformation of the Kapustin-Witten equations. Using the Weyl-Wigner-Moyal-Groenewold description an integrable $\star$-deformation of a Kapustin-Witten system is obtained. Starting from known solutions of the original equations, some solutions to these deformed equations are obtained.

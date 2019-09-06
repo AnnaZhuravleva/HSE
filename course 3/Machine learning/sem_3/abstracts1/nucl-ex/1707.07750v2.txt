@@ -1,0 +1,1 @@
+This technical note provides supplemental material for the archival publication of the measurements of polarization transfer observables in elastic $\vec{e}p \rightarrow e\vec{p}$ scattering from the GEp-III and GEp-2$\gamma$ experiments in Jefferson Lab's Hall C.

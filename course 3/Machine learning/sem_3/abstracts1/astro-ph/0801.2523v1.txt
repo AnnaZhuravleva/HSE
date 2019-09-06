@@ -1,0 +1,1 @@
+The parity doublet model, containing the SU(2) multiplets including the baryons identified as the chiral partners of the nucleons is applied to neutron stars. The maximum mass for the star is calculated for different stages of the cooling taking into account finite temperature/entropy effect, trapped neutrinos and fixed baryon number. Rotation effects are also included.

@@ -1,0 +1,1 @@
+In this note, we show that the zero field Ising partition function has no complex zeros in the interaction parameter (known as Fisher zeros) in a complex neighborhood of the correlation decay regime.

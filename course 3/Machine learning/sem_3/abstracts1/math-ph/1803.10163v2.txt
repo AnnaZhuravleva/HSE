@@ -1,0 +1,1 @@
+A definition of detailed balance tailored to a system of indistinguishable fermions is suggested and studied using an entangled fermionic state. This is done in analogy to a known characterization of standard quantum detailed balance with respect to a reversing operation.

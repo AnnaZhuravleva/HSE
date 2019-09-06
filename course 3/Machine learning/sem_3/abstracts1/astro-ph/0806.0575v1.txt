@@ -1,0 +1,1 @@
+Warm inflationary universe models in the context of a Chaplygin gas equation are studied. General conditions required for these models to be realizable are derived and discussed. By using a chaotic potential we develop models for a dissipation coefficient of the form $\Gamma\propto \phi^n$, with $n=0$ or $n\neq 0$.

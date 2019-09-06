@@ -1,0 +1,1 @@
+We consider a scenario where a scalar field has dynamics ruled by an exponential potential, such as those arising from some quintessence type models, and aim at obtaining phenomenological manifestations of this entity within our Solar System. To do so, we assume a perturbative regime, derive the perturbed Schwarzschild metric, and extract the relevant post-Newtonian parameters.

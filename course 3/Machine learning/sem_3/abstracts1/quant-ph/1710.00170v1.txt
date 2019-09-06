@@ -1,0 +1,1 @@
+The Jaynes-Cummings model is solved with the raising and lowering (shift) operators by using the matrix-diagonalizing technique. Bell nonlocality is also found present ubiquitously in the excitations states of the model.

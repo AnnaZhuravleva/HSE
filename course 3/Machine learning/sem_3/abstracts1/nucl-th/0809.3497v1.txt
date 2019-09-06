@@ -1,0 +1,1 @@
+In this paper, we calculate some of the polarized neutron matter properties, using the lowest order constrained variational method with the $AV_{18}$ potential and employing a microscopic point of view. A comparison is also made between our results and those of other many-body techniques.

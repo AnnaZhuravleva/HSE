@@ -1,0 +1,1 @@
+We establish quantitative bounds on the rate of approach to equilibrium for a system with infinitely many degrees of freedom evolving according to a one-dimensional focusing nonlinear Schr\"odinger equation with diffusive forcing. Equilibrium is described by a generalized grand canonical ensemble. Our analysis also applies to the easier case of defocusing nonlinearities

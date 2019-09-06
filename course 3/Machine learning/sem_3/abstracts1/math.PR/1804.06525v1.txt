@@ -1,0 +1,1 @@
+For the 1D Schr\"odinger equation with a mollified spacetime white noise, we show that the average wave function converges to the equation with an effective potential after an appropriate renormalization.

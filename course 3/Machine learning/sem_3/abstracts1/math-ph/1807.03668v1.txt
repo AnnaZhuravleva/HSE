@@ -1,0 +1,1 @@
+We present a reduction theory for first order Lagrangian field theories which takes into account the conservation of momenta. The relation between the solutions of the original problem with a prescribed value of the momentum and the solutions of the reduced problem is established. An illustrative example is discussed in detail.

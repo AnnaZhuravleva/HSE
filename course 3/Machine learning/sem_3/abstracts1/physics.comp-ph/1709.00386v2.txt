@@ -1,0 +1,1 @@
+We propose a general framework of quantum kinetic Monte Carlo algorithm, based on a stochastic representation of a series expansion of the quantum evolution. Two approaches have been developed in the context of quantum many-body spin dynamics, using different decomposition of the Hamiltonian. The effectiveness of the methods is tested for many-body spin systems up to 40 spins.

@@ -1,0 +1,1 @@
+In this paper we consider Anderson model with a large number of sites with zero interaction. For such models we study the spectral statistics in the region of complete localization. We show that Poisson statistics holds for such energies, by proving the Minami estimate.

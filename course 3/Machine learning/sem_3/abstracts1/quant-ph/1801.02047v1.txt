@@ -1,0 +1,1 @@
+We demonstrate vacuum squeezing at the D1 line of atomic rubidium (795 nm) with a tunable, doubly-resonant, monolithic sub-threshold optical parametric oscillator in periodically-poled Rb-doped potassium titanyl phosphate. The squeezing appears to be undiminished by a strong dispersive optical nonlinearity recently observed in this material.

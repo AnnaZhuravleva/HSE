@@ -1,0 +1,1 @@
+We present a method for improving the phenomenological description of Mueller-Navelet jets at LHC, which is based on matching the BFKL resummation with fixed order calculations. We point out the need of a consistent identification of jets between experimental measurements and theoretical descriptions. We hope as well to motivate an extensive analysis of MN jets at LHC in run 2.

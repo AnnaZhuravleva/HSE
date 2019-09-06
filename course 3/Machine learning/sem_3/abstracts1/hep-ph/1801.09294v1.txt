@@ -1,0 +1,1 @@
+In this work we obtain all the allowed values of the angular momentum and parity for two massless non-Abelian fields. In particular, we show that, unlike the two photons system, two gluons can be in a state with $J^P=1^\pm$, $(2k)^-$, and $(2k+1)^-$, $k\geq1$. This is a general result since it was obtained using only the laws of addition of the angular momentum.

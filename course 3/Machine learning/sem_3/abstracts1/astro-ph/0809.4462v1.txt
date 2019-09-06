@@ -1,0 +1,1 @@
+We reconsider the nonlinear second order Abel equation of Stewart and Lyth, which follows from a nonlinear second order slow-roll approximation. We find a new eigenvalue spectrum in the blue regime. Some of the discrete values of the spectral index n_s have consistent fits to the cumulative COBE data as well as to recent ground-base CMB experiments.

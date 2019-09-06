@@ -1,0 +1,1 @@
+In this paper, we outline geometrical proof of the generalized mirror transformation of genus 0 Gromov-Witten invariants of degree k hypersurface in CP^{N-1}.

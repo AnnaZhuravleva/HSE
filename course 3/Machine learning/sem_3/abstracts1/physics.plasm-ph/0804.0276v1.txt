@@ -1,0 +1,1 @@
+A general derivation of the charging equation of a dust grain is presented, and indicated where and when it can be used. A problem of linear fluctuations of charges on the surface of the dust grain is discussed.

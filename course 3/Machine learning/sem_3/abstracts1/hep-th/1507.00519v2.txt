@@ -1,0 +1,1 @@
+We derive quantum spectral curve equation for (q,t)-matrix model, which turns out to be a certain difference equation. We show that in Nekrasov-Shatashvili limit this equation reproduces the Baxter TQ equation for the quantum XXZ spin chain. This chain is spectral dual to the Seiberg-Witten integrable system associated with the AGT dual gauge theory.

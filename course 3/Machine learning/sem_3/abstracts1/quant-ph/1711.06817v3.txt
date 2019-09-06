@@ -1,0 +1,1 @@
+In this paper, we discuss the relation of broken $\cal PT$-symmetric hamiltonians and the weak values. It was showed that a broken $\cal PT$-symmetric quantum system can be simulated by weak measurement in a large conventional quantum system. Moreover, such a paradigm reduces to the embedding paradigm when the system is unbroken $\cal PT$-symmetric.

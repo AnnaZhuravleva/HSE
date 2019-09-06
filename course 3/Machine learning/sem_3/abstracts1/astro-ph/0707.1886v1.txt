@@ -1,0 +1,1 @@
+We summarize the scientific potential of high contrast optical space imaging for studies of extrasolar planets, debris disks, and planet formation. The unique scientific capabilities offered by a 2-m class optical telescope, the technical requirements to achieve 10^-9 contrast, and the programmatic means needed to advance such a mission are discussed.

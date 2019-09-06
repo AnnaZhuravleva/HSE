@@ -1,0 +1,1 @@
+A description of the class of spectral curves, and explicit formulas for algebraic-geometric action-angle coordinates are obtained for the Hitchin systems on hyperelliptic curves, for any complex simple Lie algebra of the types $A_l$, $B_l$, $C_l$.

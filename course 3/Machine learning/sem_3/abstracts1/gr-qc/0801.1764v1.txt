@@ -1,0 +1,1 @@
+We analyze the bending of light by galaxies or clusters of galaxies in the presence of the cosmological term. Going over to the Friedmann-Robertson-Walker coordinates, used in fact for the description of actual observations, we demonstrate that the cosmological constant does not influence practically the lensing effect.

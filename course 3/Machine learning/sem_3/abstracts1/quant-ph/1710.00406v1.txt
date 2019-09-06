@@ -1,0 +1,1 @@
+We obtain the eigenvalues of the harmonic oscillator in a space with a screw dislocation. By means of a suitable nonorthogonal basis set with variational parameters we obtain sufficiently accurate eigenvalues for an arbitrary range of values of the space-deformation parameter. The energies exhibit a rich structure of avoided crossings in terms of such model parameter.

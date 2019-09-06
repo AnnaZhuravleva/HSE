@@ -1,0 +1,1 @@
+In the semiclassical limit, it is well-known that the first eigenvector of a Toeplitz operator concentrates on the minimal set of the symbol. In this paper, we give a more precise criterion for concentration in the case where the minimal set of the symbol is a submanifold, in the spirit of the "miniwell condition" of Helffer-Sj{\"o}strand.

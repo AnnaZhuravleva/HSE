@@ -1,0 +1,1 @@
+We derive the Ashtekar-Barbero variables in Loop Quantum Gravity(LQG) starting from the Palatini action. We find that we need either the torsion-free condition or the compatibility condition for the Palatini action to describe General Relativity.

@@ -1,0 +1,1 @@
+We present a critical reanalysis of the black-hole binary coalescences detected during LIGO's first observing run under different Bayesian prior assumptions. We summarize the main findings of Vitale et al. (2017) and show additional marginalized posterior distributions for some of the binaries' intrinsic parameters.

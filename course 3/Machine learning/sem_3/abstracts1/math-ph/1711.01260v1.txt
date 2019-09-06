@@ -1,0 +1,1 @@
+It is shown that the incompressible Navier-Stokes equation can be derived from an infinite dimensional mean-field stochastic differential equation.

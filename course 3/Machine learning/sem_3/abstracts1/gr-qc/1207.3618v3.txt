@@ -1,0 +1,1 @@
+A parameter-invariant variational problem with a manifestly covariant Lagrangian function of second order is considered, which covers the case of the free relativistic top at constraint manifold of constant acceleration

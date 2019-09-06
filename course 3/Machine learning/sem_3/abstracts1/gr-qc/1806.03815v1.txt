@@ -1,0 +1,1 @@
+It is shown that the near horizon geometry of a generic extreme regular black hole solution of Einstein gravity coupled to nonlinear electrodynamics is described by the $AdS_2 \times S^2$ spacetime.

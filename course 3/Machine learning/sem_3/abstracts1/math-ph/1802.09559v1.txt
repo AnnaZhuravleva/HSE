@@ -1,0 +1,1 @@
+Continuing the analysis undertaken in previous articles, we discuss some features of non-self-adjoint operators and sesquilinear forms which are defined starting from two biorthogonal families of vectors, like the so-called generalized Riesz systems, enjoying certain properties. In particular we discuss what happens when they forms two $\D$-quasi bases.

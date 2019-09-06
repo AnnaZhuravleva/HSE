@@ -1,0 +1,1 @@
+The goal of this document is to describe the construction and use of sensitivity curves for the Laser Interferometer Space Antenna. Design parameters from the current 2018 Phase-0 reference design are used.

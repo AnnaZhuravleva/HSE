@@ -1,0 +1,1 @@
+Being the "mother distributions" of all types of two-parton correlation functions, generalized transverse momentum dependent parton distributions (GTMDs) have attracted a lot of attention over the last years. We argue that exclusive double production of pseudoscalar quarkonia ($\eta_c$ or $\eta_b$) in nucleon-nucleon collisions gives access to GTMDs of gluons.

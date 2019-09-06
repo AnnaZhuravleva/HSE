@@ -1,0 +1,1 @@
+In this work we present a calculation of the Wilson Coefficients $C_1$ and $C_2$ of the Effective Weak Hamiltonian to all-orders in $\alpha_s$, using lattice simulations. Given the current availability of lattice spacings we restrict our calculation to unphysically light $W$ bosons around 2 GeV and we study the systematic uncertainties of the two Wilson Coefficients.

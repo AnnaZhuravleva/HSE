@@ -1,0 +1,1 @@
+The Born postulate can be reduced to its deterministic content that only applies to eigenvectors of observables: the standard probabilistic interpretation of generic states then follows from algebraic properties of repeated measurements and states. Extending this reasoning suggests an interpretation of quantum mechanics generalized with indefinite quantum norm.

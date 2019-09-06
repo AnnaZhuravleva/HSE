@@ -1,0 +1,1 @@
+We present a general model allowing "quantum simulation" of one-dimensional Dirac models with 2- and 4-component spinors using ultracold atoms in driven 1D tilted optical latices. The resulting Dirac physics is illustrated by one of its well-known manifestations, Zitterbewegung. This general model can be extended and applied with great flexibility to more complex situations.

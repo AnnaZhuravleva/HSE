@@ -1,0 +1,1 @@
+We present a new statistical tool based on random sampling to assess the confidence interval of Pearson's and Spearman's correlation coefficients. These estimators are then used to quantify the statistical correlations among the neutron skin thickness of atomic nuclei and the slope of the symmetry energy in the infinite nuclear medium.

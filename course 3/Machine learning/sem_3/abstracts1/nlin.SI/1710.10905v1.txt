@@ -1,0 +1,1 @@
+In this paper, we construct a series of additional flows of the CKP hierarchy and the multi-component CKP hierarchy and these flows constitute a N-folds direct product of the positive half of the quantum Torus symmetry. Comparing to the $W_{\infty}$ infinite dimensional Lie symmetry, this quantum Torus symmetry has a nice algebraic structure with double indices.

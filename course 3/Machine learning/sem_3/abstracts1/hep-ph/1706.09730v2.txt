@@ -1,0 +1,1 @@
+It is illustrated how LHC precision measurements of rates and distributions in single-Higgs production can be used to constrain the charm Yukawa as well as the Higgs trilinear coupling.

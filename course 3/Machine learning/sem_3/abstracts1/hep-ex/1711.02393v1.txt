@@ -1,0 +1,1 @@
+We present here recent open heavy-flavour results from the ALICE experiment, including measurements of D-meson, $\mathrm{\Lambda_{c}^{+}}$ baryon and $\mathrm{\Xi_c^0}$ baryon production in pp collisions at $\sqrt{s} = 7~\mathrm{TeV}$ and p-Pb collisions at $\sqrt{s_{\mathrm{NN}}} = 5.02~\mathrm{TeV}$.

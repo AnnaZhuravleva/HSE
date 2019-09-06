@@ -1,0 +1,1 @@
+It is shown that in the passage of a short burst of non-linear plane gravitational wave, the kinetic energy of free particles may either decrease or increase. The decreasing or increasing of the kinetic energy depends crucially on the initial conditions (position and velocity) of the free particle. Therefore a plane gravitational wave may extract energy from a physical system.

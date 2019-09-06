@@ -1,0 +1,1 @@
+We calculate the corrections for constant radial magnetic field in muon g--2 and electric-dipole-moment experiments in storage rings. While the correction is negligible for the current generation of g--2 experiments, it affects the upcoming muon electric-dipole-moment experiment at Fermilab.

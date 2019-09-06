@@ -1,0 +1,1 @@
+We have derived some new results for the Mellin transform formulas, as well as for the Gauss hypergeometric function. Also, we have found the connection between the Legendre functions of the second kind. Some of the results obtained we used in quantum mechanics of two charged particles of a continuous spectrum.

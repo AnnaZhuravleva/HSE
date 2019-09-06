@@ -1,0 +1,1 @@
+We solve the spacelike, spherically symmetric, constant mean curvature hypersurfaces in the maximally extended Reissner-Nordstrom spacetime with the charge smaller than the mass. Based on these results, we construct constant mean curvature foliations with fixed or varied mean curvature in each slice in this spacetime.

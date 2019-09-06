@@ -1,0 +1,1 @@
+With Run-II of the LHC starting its final year of data-taking, high precision theoretical predictions through Monte-Carlo event generators whose uncertainties match that of the recorded data are of highest importance. This talk summarises the progress of the field and highlight a number of recent developments.

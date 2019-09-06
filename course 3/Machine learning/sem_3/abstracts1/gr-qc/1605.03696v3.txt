@@ -1,0 +1,1 @@
+We study the dynamics of the vacuum Bianchi IX model with timelike singularity and compare it with the dynamics of the Bianchi IX model with cosmological singularity. We show that differences in the signs of some terms in the set of equations specifying the dynamics of both spacetimes lead to significant differences in their properties.

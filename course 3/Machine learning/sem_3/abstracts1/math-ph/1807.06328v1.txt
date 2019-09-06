@@ -1,0 +1,1 @@
+In this paper we study reducibility of time quasiperiodic perturbations of the quantum harmonic or anharmonic oscillator in one space dimension. We modify known algorithms obtaining a reducibility result which allows to deal with perturbations of order strictly larger than the ones considered in all the previous papers.

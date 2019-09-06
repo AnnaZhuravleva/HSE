@@ -1,0 +1,1 @@
+We provide a simple construction of bipartite entangled states that are positive under partial transposition, and hence undistillable. The construction makes use of the properties of the projectors onto the symmetric and antisymmetric subspaces of the Hilbert space of two identical systems. The resulting states can be considered as generalizations of the celebrated Werner states.

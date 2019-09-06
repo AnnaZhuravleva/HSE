@@ -1,0 +1,1 @@
+We revisit conformal quantum mechanics (CQM) from the perspective of sine-square deformation (SSD) and the entanglement Hamiltonian. The operators that correspond to SSD and the entanglement Hamiltonian are identified. Thus, the nature of SSD and entanglement can be discussed in a much simpler CQM setting than higher-dimensional field theories.

@@ -1,0 +1,1 @@
+We propose a scheme for high quantum state transfer efficiency between two distant mechanical oscillators. Through coupling separately to two optical cavities connected by an optical fiber, two distant mechanical oscillators achieve a transfer efficiency closing to unity. In the process of analysis, we employed time-varying optomechanical coupling strength as a Gaussian pulse.

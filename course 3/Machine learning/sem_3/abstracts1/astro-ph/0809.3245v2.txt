@@ -1,0 +1,1 @@
+This article investigates the full Boltzmann equation up to second order in the cosmological perturbations. Describing the distribution of polarized radiation by using a tensor valued distribution function, the second order Boltzmann equation, including polarization, is derived without relying on the Stokes parameters.

@@ -1,0 +1,1 @@
+We develop a method to compute the vacuum polarization energy for coupled scalar fields with different masses scattering off a background potential in one space dimension. As an example we consider the vacuum polarization energy of a kink-like soliton built from two real scalar fields with different mass parameters.

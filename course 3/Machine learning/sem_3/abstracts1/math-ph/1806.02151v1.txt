@@ -1,0 +1,1 @@
+We prove that the spectrum of the discrete Schr\"odinger operator on $\ell^2(Z^2)$, $(\psi_{n,m})\mapsto -(\psi_{n+1,m} +\psi_{n-1,m} +\psi_{n,m+1} +\psi_{n,m-1})+V_n\psi_{n,m}$ is absolutely continuous.

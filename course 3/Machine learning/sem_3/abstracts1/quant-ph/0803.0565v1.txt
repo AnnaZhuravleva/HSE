@@ -1,0 +1,1 @@
+Broadband femtosecond-laser frequency combs are filtered to spectrographically resolvable frequency-mode spacing, and the limitations of using cavities for spectral filtering are considered. Data and theory are used to show implications to spectrographic calibration of high-resolution, astronomical spectrometers.

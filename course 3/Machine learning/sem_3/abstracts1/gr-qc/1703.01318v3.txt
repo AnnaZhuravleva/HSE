@@ -1,0 +1,1 @@
+By taking the massless limit of linearized massive conformal gravity coupled to a source, we show that the theory is free from the vDVZ discontinuity.

@@ -1,0 +1,1 @@
+We prove the equivalence of two tensor products over a category of W*-algebras with normal (not necessarily unital) *-homomorphisms, defined by Guichardet and Dauns, respectively. This structure differs from the standard tensor product construction by Misonou--Takeda--Turumaru, which is based on weak topological completion, and does not have a categorical universality property.

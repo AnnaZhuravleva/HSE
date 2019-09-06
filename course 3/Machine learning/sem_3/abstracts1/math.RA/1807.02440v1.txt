@@ -1,0 +1,1 @@
+In this paper, we study representations of Hom-Lie algebroids, give some properties of Hom-Lie algebroids and discuss equivalent statements of Hom-Lie algebroids. Then, we prove that two known definitions of Hom-Lie algebroids can be transformed into each other under some conditions.

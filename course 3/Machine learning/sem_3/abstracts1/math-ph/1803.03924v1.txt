@@ -1,0 +1,1 @@
+In this paper we use key elements of the Olver's approach to Hamiltonian evolution equations in partial derivatives and propose an algebraic construction appropriate for Hamiltonian evolution systems with constraints.

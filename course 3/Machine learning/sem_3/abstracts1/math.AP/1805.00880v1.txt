@@ -1,0 +1,1 @@
+In this paper we extend the duality theory of the multi-marginal optimal transport problem for cost functions depending on a decreasing function of the distance (not necessarily bounded). This class of cost functions appears in the context of SCE Density Functional Theory introduced in "Strong-interaction limit of density-functional theory" by M. Seidl.

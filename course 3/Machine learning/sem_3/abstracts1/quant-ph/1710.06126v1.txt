@@ -1,0 +1,1 @@
+I give a simple example of a local realistic problem with free will of observers and no detection loophole, but where the Bell inequality cannot be proved. The trick is based on random variables modeled by functions whose sum does not exist due to incompatibility of their domains.

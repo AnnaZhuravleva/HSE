@@ -1,0 +1,1 @@
+A method to define and calculate one-loop amplitudes with an off-shell space-like, or $k_T$-dependent, gluon is presented. It introduces a practical regularization to deal with the divergencies that appear due to linear denominators, and can be applied to arbitarary partonic scattering processes.

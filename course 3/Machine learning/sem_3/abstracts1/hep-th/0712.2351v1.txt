@@ -1,0 +1,1 @@
+A simple model for chaotic inflation in supergravity is proposed. The model is N=1 supersymmetric massive U(1) gauge theory via the Stuckelberg superfield and gives rise to D-term inflation with a quadratic term of inflaton in the potential. The Fayet-Iliopoulos field plays a role of the inflaton.

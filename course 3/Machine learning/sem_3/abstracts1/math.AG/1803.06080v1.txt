@@ -1,0 +1,1 @@
+We define a notion of formal quantum field theory and associate a formal quantum field theory to K-theoretical intersection theories on Hilbert schemes of points on algebraic surfaces. This enables us to find an effective way to compute K-theoretical intersection theories on Hilbert schemes via a connection to Macdonald polynomials and vertex operators.

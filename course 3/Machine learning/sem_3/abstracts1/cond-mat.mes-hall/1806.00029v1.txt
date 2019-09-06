@@ -1,0 +1,1 @@
+We propose the effective hierarchical partition function which is able to describe both the Jain states and the Jain-type hierarchical states. Using this partition function (effective Lagrangian) we calculate the charge of the quasiparticle excitations. We show that the Jain-type hierarchical states are equivalent to the system of anyons in the external magnetic field.

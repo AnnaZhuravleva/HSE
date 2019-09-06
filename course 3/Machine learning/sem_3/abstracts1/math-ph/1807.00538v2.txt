@@ -1,0 +1,1 @@
+We prove that the Levy-Lieb density functional Gamma-converges to the Thomas-Fermi functional in the semiclassical mean-field limit. In particular, this aides an easy alternative proof of the validity of the atomic Thomas-Fermi theory which was first established by Lieb and Simon.

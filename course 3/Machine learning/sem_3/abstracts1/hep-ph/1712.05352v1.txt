@@ -1,0 +1,1 @@
+We assume that the mass of the heavy standard particles ($Z,W,t,...$) arises from a special coupling with dark matter and that this implies a corresponding peculiar connection of these particles to the dark sector. We give examples of possible tests of this assumption in $e^+e^-\to Z+X,~ W^+W^-+X, ~t\bar t+X$ and we mention other possible studies.

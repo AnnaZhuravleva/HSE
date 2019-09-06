@@ -1,0 +1,1 @@
+A simple, yet powerful, algorithm for computed tomography of the solar corona is presented and demonstrated using synthetic EUV data. A minimum of three perspectives are required. These may be obtained from STEREO/EUVI plus an instrument near Earth, e.g. TRACE or SOHO/EIT.

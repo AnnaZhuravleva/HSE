@@ -1,0 +1,1 @@
+In this short review we describe some aspects of $\kappa$-deformation. After discussing the algebraic and geometric approaches to $\kappa$-Poincar\'e algebra we construct the free scalar field theory, both on non-commutative $\kappa$-Minkowski space and on curved momentum space. Finally, we make a few remarks concerning interacting scalar field.

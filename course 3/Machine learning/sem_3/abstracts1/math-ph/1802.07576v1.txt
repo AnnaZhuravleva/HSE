@@ -1,0 +1,1 @@
+We consider $\mathfrak{gl}_2$-invariant quantum integrable models solvable by the algebraic Bethe ansatz. We show that the form of on-shell Bethe vectors is preserved under certain twist transformations of the monodromy matrix. We also derive the actions of the twisted monodromy matrix entries onto twisted off-shell Bethe vectors.

@@ -1,0 +1,1 @@
+Lorentz and diffeomorphism violations are studied in linearized gravity using effective field theory. A classification of all gauge-invariant and gauge-violating terms is given. The exact covariant dispersion relation for gravitational modes involving operators of arbitrary mass dimension is constructed, and various special limits are discussed.

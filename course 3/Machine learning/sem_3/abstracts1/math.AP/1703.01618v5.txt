@@ -1,0 +1,1 @@
+We study the one-dimensional nonlinear Klein-Gordon (NLKG) equation with a convolution potential, and we prove that solutions with small $H^s$ norm remain small for long times. The result is uniform with respect to $c \geq 1$, which however has to belong to a set of large measure.

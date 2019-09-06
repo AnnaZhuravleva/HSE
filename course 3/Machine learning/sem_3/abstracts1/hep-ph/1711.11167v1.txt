@@ -1,0 +1,1 @@
+The current paper summarizes the content of a talk given on vacuum Cherenkov radiation emitted by Lorentz-violating fermions that are described in the context of the Standard-Model Extension. The decay rate will be obtained for various sets of controlling coefficients that will subsequently be constrained using cosmic-ray data.

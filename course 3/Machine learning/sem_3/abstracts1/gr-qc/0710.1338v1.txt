@@ -1,0 +1,1 @@
+The two-body problem in general relativity is reviewed, focusing on the final stages of the coalescence of the black holes as uncovered by recent successes in numerical solution of the field equations.

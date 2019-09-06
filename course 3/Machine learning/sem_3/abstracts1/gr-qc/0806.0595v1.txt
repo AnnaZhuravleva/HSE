@@ -1,0 +1,1 @@
+We show that the factor ordering ambiguities associated with the loop quantisation of the gravitational part of the cosmological Hamiltonian constraint, disappear at the level of Wheeler-DeWitt equation only for a particular choice of lattice refinement model, which coincides with constraints imposed from phenomenological and consistency arguments.

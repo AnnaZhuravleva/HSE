@@ -1,0 +1,1 @@
+We discuss the importance of basis invariants in the general 2HDM and how these relates to masses and couplings. We also present a simple, yet powerful technique to translate parameters of the potential into combinations of masses and couplings of the theory and apply this to CP odd invariants.

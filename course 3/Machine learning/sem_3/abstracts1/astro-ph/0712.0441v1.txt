@@ -1,0 +1,1 @@
+We present a self-consistent model under a star-bursting scenario for H{\sc ii} galaxies, combining different codes of chemical evolution, evolutionary population synthesis and photoionization. The results obtained reproduce simultaneoulsy the observed abundances, diagnostic diagrams and equivalent width-colour relations for local H{\sc ii} galaxies.

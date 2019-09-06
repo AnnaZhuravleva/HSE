@@ -1,0 +1,1 @@
+In this paper we derive various identities involving the {\it action} functional which enters the path-integral formulation of quantum mechanics. They provide some kind of generalisations of the Ehrenfest theorem giving correlations between powers of the action and its functional derivatives.

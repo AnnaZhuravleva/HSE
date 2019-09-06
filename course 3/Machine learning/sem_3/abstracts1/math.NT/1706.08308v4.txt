@@ -1,0 +1,1 @@
+Using contour deformations and integrations over modular forms, we compute certain Bessel moments arising from diagrammatic expansions in two-dimensional quantum field theory. We evaluate these Feynman integrals as either explicit constants or critical values of modular $L$-series, and verify several recent conjectures of Broadhurst.

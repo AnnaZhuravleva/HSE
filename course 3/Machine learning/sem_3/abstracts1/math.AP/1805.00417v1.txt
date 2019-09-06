@@ -1,0 +1,1 @@
+We give an example of an absolutely continuous measure $\mu$ on $\mathbb R^d$, for any $d \ge 1$, such that no minimizer of the $3$-marginal harmonic repulsive cost with all marginals equal to $\mu$ is supported on a graph over the first variable.

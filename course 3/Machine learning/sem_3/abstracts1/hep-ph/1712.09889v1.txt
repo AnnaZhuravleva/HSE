@@ -1,0 +1,1 @@
+We compute the two-loop QCD corrections to the heavy quark form factors in case of the vector, axial-vector, scalar and pseudo-scalar currents up to second order in the dimensional parameter $\epsilon = (4-D)/2$. These terms are required in the renormalization of the higher order corrections to these form factors.

@@ -1,0 +1,1 @@
+The proton spin crisis remains an unsolved problem in physics. In this paper we find that due to the confinement of partons inside the hadron the angular momentum sum rule in QCD is violated. Hence we find that the non-vanishing angular momentum flux contribution of the partons in QCD should be added to the spin and angular momentum of the partons to solve the proton spin crisis.

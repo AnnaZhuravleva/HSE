@@ -1,0 +1,1 @@
+We find confluent Heun solutions to the radial equations of two Halilsoy-Badawi metrics. For the first metric, we studied the radial part of the massless Dirac equation and for the second case, we studied the radial part of the massless Klein-Gordon equation.

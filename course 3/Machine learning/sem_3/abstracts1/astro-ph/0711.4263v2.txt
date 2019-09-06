@@ -1,0 +1,1 @@
+Inflationary observables, like the power spectrum, computed at one- and higher-order loop level seem to be plagued by large infra-red corrections. In this short note, we point out that these large infra-red corrections appear only in quantities which are not directly observable. This is in agreement with general expectations concerning infra-red effects.

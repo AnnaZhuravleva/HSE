@@ -1,0 +1,1 @@
+We show that discrete-time quantum walks on the line, $\mathbb{Z}$, behave as "the quantum tunneling". In particular, quantum walkers can tunnel through a double-well with the transmission probability $1$ under a mild condition. This is a property of quantum walks which cannot be seen on classical random walks, and is different from both linear spreadings and localizations.

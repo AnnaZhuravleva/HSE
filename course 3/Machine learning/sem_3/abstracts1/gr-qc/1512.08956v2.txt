@@ -1,0 +1,1 @@
+We briefly review some recent advances in the study of the shadows of rotating black holes in alternative theories. The size and the shape of the shadow depend on the mass and the angular momentum, and they can also depend on other parameters specific of the particular model adopted. As an example, we show the results corresponding to a rotating braneworld black hole.

@@ -1,0 +1,1 @@
+We propose a Global-Local optimization algorithm for quantum control that combines standard local search methodologies with evolutionary algorithms. This allows us to find faster solutions to a set of problems relating to ultracold control of Bose-Einstein condensates.

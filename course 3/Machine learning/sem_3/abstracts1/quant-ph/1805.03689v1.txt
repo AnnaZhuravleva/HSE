@@ -1,0 +1,1 @@
+Under broad conditions, we prove that the probability amplitudes in the quantum mechanics are either always constant in time or changing continuously in any interval of time.

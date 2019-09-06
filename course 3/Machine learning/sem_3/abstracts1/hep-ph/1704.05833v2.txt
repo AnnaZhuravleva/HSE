@@ -1,0 +1,1 @@
+We compute the weak magnetic field correction to the four-point quark-gluon vertex at finite temperature and chemical potential within the hard thermal loop approximation. The resulting four-point quark-gluon vertex satisfies the Ward identity with the three-point quark-gluon vertex.

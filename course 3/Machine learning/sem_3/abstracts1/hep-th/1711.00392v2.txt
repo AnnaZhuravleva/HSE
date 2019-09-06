@@ -1,0 +1,1 @@
+We present part of our investigations on two dimensional N=1 and N=2 superconformal field theories. As a direct generalization we consider the SU(2) coset models, in particular their renormalization group properties. A search and possible implementation of additional symmetries in related integrable models are also presented.

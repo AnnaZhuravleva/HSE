@@ -1,0 +1,1 @@
+We consider the incompressible 2D Euler equations on bounded spatial domain $S$, and study the solution map on the Sobolev spaces $H^k(S)$ ($k > 2$). Through an elaborate geometric construction, we show that for any $T >0$, the time $T$ solution map $u_0 \mapsto u(T)$ is nowhere locally uniformly continuous and nowhere Fr\'echet differentiable.

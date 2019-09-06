@@ -1,0 +1,1 @@
+We introduce FORM 4.2, a new minor release of the symbolic manipulation toolkit. We demonstrate several new features, such as a new pattern matching option, new output optimization, and automatic expansion of rational functions.

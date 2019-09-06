@@ -1,0 +1,1 @@
+The analysis of uniformly longitudinally extended detector is performed and it is shown that the response of such a detector does not differ from the response of the Unruh detector, but the its excitation is caused not by the thermal bath, but by interaction with the fluctuations of the quantum field by virtual quanta.

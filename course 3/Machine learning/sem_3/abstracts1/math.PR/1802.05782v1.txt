@@ -1,0 +1,1 @@
+We reinterpret the Thouless-Anderson-Palmer approach to mean field spin glass models as a variational principle in the spirit of the Gibbs variational principle and the Bragg-Williams approximation. We prove this TAP-Plefka variational principle rigorously in the case of the spherical Sherrington-Kirkpatrick model.

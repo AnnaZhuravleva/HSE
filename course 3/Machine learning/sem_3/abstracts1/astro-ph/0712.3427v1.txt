@@ -1,0 +1,1 @@
+The detection of red/blue-shifted iron lines in the spectra of astronomical X-ray sources is of great importance, as it allows to trace the environment around compact objects, like black holes in AGNs. We report on extensive simulations to test the Simbol-X capability of detecting such spectral features, focusing on the low energy detector (0.5-30 keV).

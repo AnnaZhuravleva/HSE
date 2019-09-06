@@ -1,0 +1,1 @@
+We study the Light-Ray transform of integrating vector fields on the Minkowski time-space R^{1+n}, n bigger than equal 2, with the Minkowski metric. We prove a support theorem for vector fields vanishing on an open set of light-like geodesics.

@@ -1,0 +1,1 @@
+We show, in a number of simple examples, that Macdonald-type $qt$-deformations of topological string partition functions are equivalent to topological string partition functions that are without $qt$-deformations but with brane condensates, and that these brane condensates lead to geometric transitions.

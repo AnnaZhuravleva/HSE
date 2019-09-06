@@ -1,0 +1,1 @@
+A combined variable theory of gravity and scalar field is developed under ADM formulation by redefining new canonical conjugate variables ({\Phi}, {\Pi}). It is a dynamical theory of the space-matter with implicit time dependence. Quantizing this new field theory results in quantization of geometry and scalar field combined.

@@ -1,0 +1,1 @@
+As part of a study BSM corrections to leptonic decays of the $B_c$ meson, Tran et al. (arXiv:1801.06927) use the covariant confining quark model (CCQM) to estimate the matrix element of the pseudo-scalar curent between the vacuum and the $B_c$ meson. We note that this matrix element can be determined using existing lattice QCD results.

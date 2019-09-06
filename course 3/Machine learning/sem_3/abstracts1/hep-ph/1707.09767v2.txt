@@ -1,0 +1,1 @@
+In this article, we study the scalar-diquark-scalar-diquark-scalar-diquark type hexaquark state with the QCD sum rules by carrying out the operator product expansion up to the vacuum condensates of dimension 16. We obtain the lowest hexaquark mass $6.60^{+0.12}_{-0.09}\,\rm{GeV}$, which can be confronted to the experimental data in the future.

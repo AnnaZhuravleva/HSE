@@ -1,0 +1,1 @@
+The blazar, S5 2007+77 shows intraday variability in cm wavelengths. Seven epochs of VSOP observations were carried out in 1998 and 1999 at 5 GHz to look for the origin of the variability with the highest achievable angular resolution at cm wavelengths. Here the results of four epochs are analysed, which revealed ~10% variations in polarized flux density.

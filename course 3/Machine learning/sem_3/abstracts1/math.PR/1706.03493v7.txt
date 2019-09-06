@@ -1,0 +1,1 @@
+We study the shape fluctuation in the first passage percolation on $\mathbb{Z}^d$. It is known that it diverges when the distribution obeys Bernoulli in [Yu Zhang. The divergence of fluctuations for shape in first passage percolation. Probab. Theory. Related. Fields. 136(2) 298-320, 2006]. In this paper, we extend the result to general distributions.

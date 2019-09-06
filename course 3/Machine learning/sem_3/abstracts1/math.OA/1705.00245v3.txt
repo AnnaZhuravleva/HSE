@@ -1,0 +1,1 @@
+Jordan operator algebras are norm-closed spaces of operators on a Hilbert space which are closed under the Jordan product. The discovery of the present paper is that there exists a huge and tractable theory of possibly nonselfadjoint Jordan operator algebras; they are far more similar to associative operator algebras than was suspected. We initiate the theory of such algebras.

@@ -1,0 +1,1 @@
+In this note we show a comparison principle for nonlinear heat Rockland operators on graded groups. We give a simple proof for it using purely algebraic relations. As an application of the established comparison principle we prove the global in $t$-boundedness of solutions for a class of nonlinear equations for the heat $p$-sub-Laplacian on stratified groups.

@@ -1,0 +1,1 @@
+We obtain the action of Moffat's Modified Gravity, (MOG), a scalar-tensor-vector theory of gravitation, by generalizing the Horava-Witten mechanism to fourteen dimensions. We show that the resulting theory is anomaly-free. We propose an extended version of MOG that includes fermionic fields.

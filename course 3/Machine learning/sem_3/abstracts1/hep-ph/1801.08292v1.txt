@@ -1,0 +1,1 @@
+We compute the on-shell wave function renormalization constant to four-loop order in QCD and present numerical results for all coefficients of the SU$(N_c)$ colour factors. We extract the four-loop HQET anomalous dimension of the heavy quark field and also discuss the application of our result to QED.

@@ -1,0 +1,1 @@
+We discuss asymptotic safety in four-dimensional $\mathcal{N} = 1$ supersymmetric gauge theories. Our main conclusion is that in a reasonable definition of this phenomenon there are currently no controlled examples of it; there are reasons to believe that it does not occur.

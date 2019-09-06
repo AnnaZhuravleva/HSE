@@ -1,0 +1,1 @@
+A modifed Faddeev-Popov path integral density for the quantization of Yang-Mills theory in the Feynman gauge is discussed, where contributions of the Faddeev-Popov ghost fields are replaced by multi-point gauge field interactions. An explicit calculation to $O(g^2)$ shows the equivalence of the usual Faddeev-Popov scheme and its modified version.

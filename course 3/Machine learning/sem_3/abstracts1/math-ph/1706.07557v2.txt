@@ -1,0 +1,1 @@
+We study the pointwise (in the space and time variables) behavior of the Fokker-Planck Equation with flat confinement. The solution has very clear description in the $xt-$plane, including large time behavior, initial layer and asymptotic behavior. Moreover, the structure of the solution highly depends on the potential function.

@@ -1,0 +1,1 @@
+We show that the BRST identities can be used to control the renormalization of the background gauge in QCD, in spite of the fact that one-particle reducible graphs have to be omitted. We obtain the all orders renormalized affective action for the background field theory.

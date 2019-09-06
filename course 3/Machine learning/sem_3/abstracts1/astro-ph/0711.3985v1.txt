@@ -1,0 +1,1 @@
+After our tentative detection of an optical counterpart to CXOU J010043.1-721134 from archival Hubble Space Telescope (HST) imaging, we have followed up with further images in four bands. Unfortunately, the source originally identified is not confirmed. We provide deep photometric limits in four bands and accurate photometry of field stars around the location of the magnetar.

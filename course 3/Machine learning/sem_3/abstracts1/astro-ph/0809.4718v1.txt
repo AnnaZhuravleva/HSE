@@ -1,0 +1,1 @@
+Using numerical simulations of magnetized stellar winds, we carry out a parameter study to find the dependence of the stellar wind torque on observable parameters. We find that the power-law dependencies of the torque on parameters is significantly different than what has been used in all spin evolution models to date.

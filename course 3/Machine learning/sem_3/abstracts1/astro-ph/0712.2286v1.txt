@@ -1,0 +1,1 @@
+We present results of our projected rotational velocities (Vsin(i)) measurements of F, G and K giants obtained from the cross-correlation function (CCF) constructed from high signal to noise spectra. We also present the calibration of the HET/HRS cross-correlation function to determine accurate projected rotational velocities Vsin(i) for slowly-rotating F-K giants.

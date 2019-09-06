@@ -1,0 +1,1 @@
+A new version of the $k_T$ factorization approach is formulated for the high energy heavy quark production. The results are in reasonable agreement with the experimental data at LHC energies.

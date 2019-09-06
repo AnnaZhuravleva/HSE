@@ -1,0 +1,1 @@
+Based on the rigid positive energy theorem we proved the uniqueness of static spherically symmetric traversable wormholes with two asymptotically flat ends, being the higher-dimensional solutions of Einstein scalar phantom field. The proof is valid under the auxiliary condition imposed on wormhole mass and scalar charge.

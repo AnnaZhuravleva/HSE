@@ -1,0 +1,1 @@
+An exact solution for the spatially flat scale-invariant Cosmology, recently proposed by Maeder (2017) is deduced. No deviation from the numerical solution was detected. The exact solution yields transparency for the dynamical equations and faster cosmological constraints may be performed.

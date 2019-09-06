@@ -1,0 +1,1 @@
+We present new results for the nuclear modification factor \RAA of \jpsi mesons as a function of centrality and transverse momentum at mid-rapidity. The measurement is carried out with the ALICE central barrel detectors in the acceptance range $|y|$ < 0.9 and \pt > 0 in the dielectron decay channel.

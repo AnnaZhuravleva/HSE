@@ -1,0 +1,1 @@
+The main purpose of this short article is to give a brief overview of the development of the very interesting weak measurement protocol. I add some comments relating to the reality of weak values, and also comment on the allowed values of observables between measurements.

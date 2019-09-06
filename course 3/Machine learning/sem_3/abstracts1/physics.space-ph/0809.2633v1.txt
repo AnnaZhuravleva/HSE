@@ -1,0 +1,1 @@
+A methodology based on point-like sources is discussed, enabling a reliable estimate of the acceleration of the Pioneer 10 and 11 probes caused by thermal effects. A sensitivity analysis of the several parameters of the model allows for a clear indication of the possible thermal origin of the so-called Pioneer anomaly.

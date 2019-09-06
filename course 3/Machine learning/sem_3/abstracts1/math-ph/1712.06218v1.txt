@@ -1,0 +1,1 @@
+We prove upper and lower bounds on the ground-state energy of the ideal two-dimensional anyon gas. Our bounds are extensive in the particle number, as for fermions, and linear in the statistics parameter $\alpha$. The lower bounds extend to Lieb-Thirring inequalities for all anyons except bosons.

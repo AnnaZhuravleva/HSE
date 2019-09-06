@@ -1,0 +1,1 @@
+The ALICE detector is well suited to measure heavy-flavour (charm and beauty) production via hadronic and semi-leptonic decay channels of heavy-flavour particles. Here an overview of heavy-flavour measurements made with the ALICE detector during Run 1 in pp and p--Pb collisions is presented and discussed.

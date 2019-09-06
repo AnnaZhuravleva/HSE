@@ -1,0 +1,1 @@
+We study a bilinear multiplication rule on 2x2 matrices which is intermediate between the ordinary matrix product and the Hadamard matrix product, and we relate this to the hyperbolic motion group of the plane.

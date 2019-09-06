@@ -1,0 +1,1 @@
+We present exact solutions to Cho-Maison magnetic monopole in a family of effective electroweak models, which have a BPS limit. We find that the lower bound to the mass of the magnetic monopole is $M \geq 2\pi v/ g \approx 2.37\,\,\mathrm{TeV}$. We argue that this bound holds universally, not just in theories with a BPS limit.

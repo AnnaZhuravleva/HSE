@@ -1,0 +1,1 @@
+The self-dual solution to lattice Euclidean gravity is constructed. In contrast to the well known Eguchi-Hanson solution to continuous Euclidean Gravity, the lattice solution is asymptotically {\it{globally}} Euclidean, i.e., the boundary of the space as $r\longrightarrow\infty$ is $S^3=SU(2)$.

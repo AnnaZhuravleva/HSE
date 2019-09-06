@@ -1,0 +1,1 @@
+We derive consistency conditions for the CFT data, which systems with exact but spontaneously broken conformal invariance must satisfy.

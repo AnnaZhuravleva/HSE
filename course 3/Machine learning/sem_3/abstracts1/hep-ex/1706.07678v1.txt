@@ -1,0 +1,1 @@
+Two new hadronic cross sections measured by the BaBar experiment are presented: $e^+e^- \to \pi^+\pi^-\pi^0\pi^0$ and $e^+e^- \to \pi^+\pi^-\eta$. For both channels, the contribution the anomalous magnetic moment of the muon is calculated.

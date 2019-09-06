@@ -1,0 +1,1 @@
+This work provides a smooth and everywhere well-defined extension of Bondi-Metzner-Sachs (BMS) supertranslations into the bulk of Minkowski space. The supertranslations lead to physically distinct spacetimes, all isometric to Minkowski space. This construction is in contrast to the often used, non-smooth BMS transformations that appear in a gauge-fixed description of the theory.

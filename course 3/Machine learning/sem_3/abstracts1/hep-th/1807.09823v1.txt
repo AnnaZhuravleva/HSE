@@ -1,0 +1,1 @@
+We study the BRST renormalization of an alternative formulation of the Yang-Mills theory, where the matrix-propagator of the gluon and the complementary fields is diagonal. This procedure involves scalings as well as non-linear mixings of the fields and sources. We show, in the Landau gauge, that the BRST identities implement a recursive proof of renormalizability to all orders.

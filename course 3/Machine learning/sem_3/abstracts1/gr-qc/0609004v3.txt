@@ -1,0 +1,1 @@
+This paper has been withdrawn by the authors due to the too limited range of the current version of the model (the dark energy fraction is constant, but it has to be a function of the scale factor). We will resubmit the paper after extension.

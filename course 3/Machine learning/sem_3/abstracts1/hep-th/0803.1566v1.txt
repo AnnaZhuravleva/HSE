@@ -1,0 +1,1 @@
+We discuss Q-balls in the complex signum-Gordon model in d-dimensional space for d=1,2,3. The Q-balls have strictly finite radius. Their total energy is a power-like function of the conserved U(1) charge with the exponent equal to (d+2)/(d+3). In the cases d=1 and d=3 explicit analytic solutions are presented.

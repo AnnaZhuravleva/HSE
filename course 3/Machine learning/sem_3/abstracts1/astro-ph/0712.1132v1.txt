@@ -1,0 +1,1 @@
+We report the status of the HAXTEL project, devoted to perform a design study and the development of a Laue lens prototype. After a summary of the major results of the design study, the approach adopted to develop a Demonstration Model of a Laue lens is discussed, the set up described, and some results presented.

@@ -1,0 +1,1 @@
+A parametric deformation of the Cornu spiral is introduced. The parameter is an integration constant which appears in the general solution of the Riccati equation related to the Fresnel integrals. Argand plots of the deformed spirals are presented and a supersymmetric (Darboux) structure of the deformation is revealed through the factorization approach.

@@ -1,0 +1,1 @@
+We show that the quantum state diffusion equation of Gisin and Percival, driven by complex Wiener noise, is equivalent up to a global stochastic phase to quantum trajectory models. With an appropriate feedback scheme, we set up an analogue continuous measurement model with exactly simulates the Gisin-Percival quantum state diffusion.

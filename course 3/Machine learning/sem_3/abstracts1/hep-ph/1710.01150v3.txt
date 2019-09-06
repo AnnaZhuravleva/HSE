@@ -1,0 +1,1 @@
+I present a scenario wherein heavy neutral vector bosons Z', predicted by GUT-inspired U(1)' models, decay into supersymmetric final states, besides the Standard Model channels investigated at the LHC. It is found that accounting for such decays lowers the exclusion limits on the Z' mass at 13 TeV by about 200-300 GeV.

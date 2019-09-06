@@ -1,0 +1,1 @@
+We perform a rescaling analysis to analyze the future behavior of a class of $T^2$-symmetric vacuum spacetimes. We show that on the universal cover, there is $C^0$-convergence to a spatially homogeneous spacetime that does not satisfy the vacuum Einstein equations.

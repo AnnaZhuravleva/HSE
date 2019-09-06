@@ -1,0 +1,1 @@
+It is shown that the generating function for tree graphs in the "in-in" formalism may be calculated by solving the classical equations of motion subject to certain constraints. This theorem is illustrated by application to the evolution of a single inflaton field in a Robertson--Walker background.

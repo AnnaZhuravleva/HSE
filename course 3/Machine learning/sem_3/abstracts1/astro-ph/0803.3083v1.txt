@@ -1,0 +1,1 @@
+FLAMINGOS-2 (PI: S. Eikenberry) is a $5M facility-class near-infrared (1-2.5 micron) multi-object spectrometer and wide-field imager being built at the University of Florida for Gemini South. Here we highlight the capabilities of FLAMINGOS-2, as it will be an ideal instrument for surveying the accreting binary population in the Galactic Center.

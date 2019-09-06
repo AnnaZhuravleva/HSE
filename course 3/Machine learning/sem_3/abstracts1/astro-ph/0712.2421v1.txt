@@ -1,0 +1,1 @@
+BASS 2000 is the French solar database for ground-based instruments. We describe hereafter our organization, our tasks and the products we can deliver to the international community. Our prospects cover data mining into the THeMIS archive, a participation to the EST endeavour and the creation and curation of the ESPaDOnS/NARVAL stellar spectra database.

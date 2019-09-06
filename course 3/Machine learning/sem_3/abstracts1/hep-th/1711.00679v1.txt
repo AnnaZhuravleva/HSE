@@ -1,0 +1,1 @@
+We study mini-superspace semiclassical limit of the boundary three-point function in the Liouville field theory. We compute also matrix elements for the Morse potential quantum mechanics. An exact agreement between the former and the latter is found. We show that both of them are given by the generalized hypergeometric functions.

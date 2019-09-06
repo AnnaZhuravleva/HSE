@@ -1,0 +1,1 @@
+We search for the rare decay $D^+\to D^0 e^+\nu_{e}$, using a data set with an integrated luminosity of 2.93 $\rm fb^{-1}$ collected at $\sqrt{s}=3.773$ GeV with the BESIII detector operating at the BEPCII storage rings. No signals are observed. We set the upper limit on the branching fraction for $D^+\to D^0 e^+\nu_e$ to be $1.0\times 10^{-4}$ at the 90\% confidence level.

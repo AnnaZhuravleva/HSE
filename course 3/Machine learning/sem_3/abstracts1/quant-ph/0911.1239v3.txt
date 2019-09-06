@@ -1,0 +1,1 @@
+Using the general sequential product proposed by Shen and Wu in [J. Phys. A: Math. Theor. 42, 345203, 2009], we derive three criteria for describing non-disturbance between quantum measurements that may be unsharp with such new sequential products, which generalizes Gudder's results.

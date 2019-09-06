@@ -1,0 +1,1 @@
+I evaluate a quantum upper bound on the Fisher information for estimating the moments of a subdiffraction object in incoherent optical imaging. The result matches the performance of a spatial-mode-demultiplexing measurement scheme in terms of order of magnitude.

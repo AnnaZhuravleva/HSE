@@ -1,0 +1,1 @@
+We take a peek at a general program that associates vertex (or, chiral) algebras to smooth 4-manifolds in such a way that operations on algebras mirror gluing operations on 4-manifolds and, furthermore, equivalent constructions of 4-manifolds give rise to equivalences (dualities) of the corresponding algebras.

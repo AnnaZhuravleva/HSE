@@ -1,0 +1,1 @@
+Rotating and twisting locally rotationally symmetric imperfect fluids in general relativity admit a much larger set of solutions than the self-similar ones recently suggested in the literature. Explicit forms of the metrics are given and the self-similar sub-cases are discussed.

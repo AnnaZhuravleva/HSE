@@ -1,0 +1,1 @@
+We prove that in the family of static, asymptotically flat, spherically symmetric scalar hairy black holes with the central electric charge, the set of the charge-to-mass ratios has the exact upper bound $3\sqrt{2}/4\approx1.06$.

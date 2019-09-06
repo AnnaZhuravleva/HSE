@@ -1,0 +1,1 @@
+We write down a Robin boundary term for general relativity. The construction relies on the Neumann result of arXiv:1605.01603 in an essential way. This is unlike in mechanics and (polynomial) field theory, where two formulations of the Robin problem exist: one with Dirichlet as the natural limiting case, and another with Neumann.

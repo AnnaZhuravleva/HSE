@@ -1,0 +1,1 @@
+We calculate the three-loop Adler $D$-function of ${\cal N}=1$ SQCD regularized by higher covariant derivatives and find the subtraction scheme in which the exact NSVZ-like relation for this function that was recently proposed is valid.

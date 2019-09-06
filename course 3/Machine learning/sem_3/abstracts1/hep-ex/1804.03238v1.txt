@@ -1,0 +1,1 @@
+We summarize the current status of accelerator based neutrino crosssection measurements. We focus on the experimental challenges while also presenting the motivation for these measurements. Selected results are highlighted after a quick description of the current major collaborations working on the field.

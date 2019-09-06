@@ -1,0 +1,1 @@
+We use a model with two sterile neutrinos obtained by fits to the MiniBoone and LSND experiments. Using formulations with neutrinos created by URCA Processes in a strong magnetic field, so the lowest Landau level has a sizable probability, we find that with known paramenters the assymetric sterile neutrino emissivity might account for large pulsar kicks.

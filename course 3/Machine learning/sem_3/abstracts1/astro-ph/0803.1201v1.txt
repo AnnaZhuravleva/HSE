@@ -1,0 +1,1 @@
+We use electromagnetic Particle-in-Cell codes to investigate the two-stream instability and Weibel instability when two beams of plasma collide head-on relativistically. We compare the dissipation of kinetic energies in the two cases. We also study the evolution of the resultant electron energy distribution function produced by such dissipation.

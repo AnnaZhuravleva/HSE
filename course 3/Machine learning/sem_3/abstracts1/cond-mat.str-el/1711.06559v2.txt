@@ -1,0 +1,1 @@
+We prove that ground states of gapped local Hamiltonians on an infinite spin chain can be efficiently approximated by matrix product states with a bond dimension which scales as D~(L-1)/epsilon, where any local quantity on L consecutive spins is approximated to accuracy epsilon.

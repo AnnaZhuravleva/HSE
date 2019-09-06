@@ -1,0 +1,1 @@
+We prove the limiting absorption principle and discuss the continuity properties of the boundary values of the resolvent for a class of form bounded perturbations of the Euclidean Laplacian $\Delta$ that covers both short and long range potentials with an essentially optimal behaviour at infinity.

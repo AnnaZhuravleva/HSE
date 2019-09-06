@@ -1,0 +1,1 @@
+In this lecture I will talk about three mathematical puzzles involving mathematics and computation that have preoccupied me over the years. The first puzzle is to understand the amazing success of the simplex algorithm for linear programming. The second puzzle is about errors made when votes are counted during elections. The third puzzle is: are quantum computers possible?

@@ -1,0 +1,1 @@
+We provide a new construction of the modes of the Poincare dodecahedral space S^3/I*. The construction uses the Hopf map, Maxwell's multipole vectors and orbifolds. In particular, the *235-orbifold serves as a parameter space for the modes of S^3/I* shedding new light on the geometrical significance of the dimension of each space of $k$-modes, as well as on the modes themselves.

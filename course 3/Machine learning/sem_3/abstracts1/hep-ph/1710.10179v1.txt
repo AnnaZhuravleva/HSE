@@ -1,0 +1,1 @@
+We demonstrate advantages of the truncated Mellin moments (TMM) approach in the analysis of DIS data. We present a novel method for determination of the Bjorken sum rule (BSR) from restricted in $x$ variable experimental data. We show how to incorporate different uncertainties for each kinematic bin. We apply our analysis to recent COMPASS data.

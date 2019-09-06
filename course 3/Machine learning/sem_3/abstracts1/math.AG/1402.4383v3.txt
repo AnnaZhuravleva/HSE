@@ -1,0 +1,1 @@
+Let $B$ be a smooth projective surface, and $\mathcal{L}$ an ample line bundle on $B$. The aim of this parer is to study the families of elliptic Calabi--Yau threefolds sitting in the bundle $\mathbb{P}(\mathcal{L}^a \oplus \mathcal{L}^b \oplus \mathcal{O}_B)$ as anticanonical divisors. We will show that the number of such families is finite.

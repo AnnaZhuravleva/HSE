@@ -1,0 +1,1 @@
+We impose constraints on the odd coordinates of super Teichm\"uller space in the uniformization picture for the monodromies around Ramond punctures, thus reducing the overall odd dimension to be compatible with that of the moduli spaces of super Riemann surfaces. Namely, the monodromy of a puncture must be a true parabolic element of the canonical subgroup $PSL(2,\mathbb{R})$.

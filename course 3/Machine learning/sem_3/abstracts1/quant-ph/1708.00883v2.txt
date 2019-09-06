@@ -1,0 +1,1 @@
+A new layers method is presented for multipartite separability of density matrices from simple graphs. Full separability of tripartite states is studied for graphs on degree symmetric premise. The models are generalized to multipartite systems by presenting a class of fully separable states arising from partially symmetric graphs.

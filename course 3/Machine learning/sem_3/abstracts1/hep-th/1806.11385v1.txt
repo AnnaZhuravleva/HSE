@@ -1,0 +1,1 @@
+We introduce the notion of crystallographic T-duality, inspired by the appearance of $K$-theory with graded equivariant twists in the study of topological crystalline materials. This gives a powerful tool for computing topological phase classification groups, and for understanding crystallographic bulk-boundary correspondences in physics through index theory.

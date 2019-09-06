@@ -1,0 +1,1 @@
+We describe progress in using the field theory of tensionless strings to arrive at a Lagrangian for the six-dimensional $\mathcal N=(2,0)$ conformal theory. We construct the free part of the theory and propose an ansatz for the cubic vertex in light-cone superspace. By requiring closure of the $(2,0)$ supersymmetry algebra, we fix the cubic vertex up to two parameters.

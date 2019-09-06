@@ -1,0 +1,1 @@
+We propose alternative methods to measure the global polarization of $\Lambda$ hyperons. These methods invlove event averages of proton's and $\Lambda$'s momenta in the lab frame. We carry out simulations using these methods and show that all of them work equivalently well in obtaining the global polarization of $\Lambda$ hyperons.

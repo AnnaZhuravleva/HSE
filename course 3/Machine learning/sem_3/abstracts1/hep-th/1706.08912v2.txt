@@ -1,0 +1,1 @@
+It turns out that many integrable $\sigma$-models on group manifolds belong to the class of the so-called ${ \mathcal E}$-models which are relevant in the context of the Poisson-Lie T-duality. We show that this is the case also for the Yang-Baxter $\sigma$-model with WZNW term introduced by Delduc, Magro and Vicedo in \cite{DMV15}.

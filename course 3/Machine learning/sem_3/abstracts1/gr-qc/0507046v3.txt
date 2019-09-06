@@ -1,0 +1,1 @@
+The Titius-Bode law for planetary distances is reviewed. A model describing the basic features of this rule in the "quantum-like" language of a wave equation is proposed. Some considerations about the 't Hooft idea on the quantum behaviour of deterministic systems with dissipation are discussed.

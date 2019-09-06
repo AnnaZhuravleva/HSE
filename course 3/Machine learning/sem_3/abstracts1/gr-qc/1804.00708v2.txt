@@ -1,0 +1,1 @@
+We prove that the EZ gauge of black-hole perturbation theory, introduced by the late Steve Detweiler in his exploration of the physical consequences of the gravitational self-force, is necessarily singular at the event horizon.

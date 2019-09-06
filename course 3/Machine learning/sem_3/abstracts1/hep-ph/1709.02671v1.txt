@@ -1,0 +1,1 @@
+We propose and study the inclusive production of a forward $J/\psi$ and a very backward jet at the LHC as an observable to reveal high-energy resummation effects \`a la BFKL. Our different predictions are based on the various existing mechanisms to describe the production of the $J/\psi$, namely, NRQCD singlet and octet contributions, and the color evaporation model.

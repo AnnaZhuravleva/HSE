@@ -1,0 +1,1 @@
+We study the quasinormal modes of the massless scalar field of charged black holes embedded in the Randal-Sundrum brane world using the third order WKB approximation. We consider the effects of the electromagnetic and tidal charges on quasinormal frequencies spectrum for charged black hole black holes as well as the effect of the thickness of the bulk.

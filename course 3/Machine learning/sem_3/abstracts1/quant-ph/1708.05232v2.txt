@@ -1,0 +1,1 @@
+We point out that when a quadratic type Li\'enard equation is suitably interpreted shows branching due to the double valuedness of the governing Hamiltonian. Under certain approximation of the guiding coupling constant we derive its quantum counterpart that is guided by a momentum-dependent mass function.

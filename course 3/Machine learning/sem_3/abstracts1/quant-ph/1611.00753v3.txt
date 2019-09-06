@@ -1,0 +1,1 @@
+We show that the probability distribution corresponding to a fully random tracial state of a system of spin-S particles satisfies a diffusion-like equation. The diffusion coefficient turns out to be equal to $S(S+1)/6$, where $S$ is the magnitude of the spin of each particle. We also present a bosonization scheme for the lowering and raising total spin operators.

@@ -1,0 +1,1 @@
+We consider a question in what condition a mixed state which can be decomposed in different ways cannot be described by a single set of hidden variables. The condition is closely related with Bell theorem.

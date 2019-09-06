@@ -1,0 +1,1 @@
+Based in the framework of article (arXiv:1609.02110), where we have presented the general problems one encounters in the construction of balanced equations of motions for particles in relativistic theories of gravity, we present in this work the explicit balanced equations of motion for a compact object in general relativity in the harmonic gauge.

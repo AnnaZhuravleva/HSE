@@ -1,0 +1,1 @@
+Hierarchical clustering models of cold dark matter (CDM) predict that about 5% - 10% of a galaxy-sized halo with mass ~ 10^12 solar masses (M_sun) resides in substructures (CDM subhalos) with masses <= 10^8 M_sun. To directly identify such substructures, we propose to observe radio continuum emission from multiply imaged QSOs using VSOP-2 with a high angular resolution.

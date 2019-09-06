@@ -1,0 +1,1 @@
+We consider point spectrum traces in the Hofstadter model. We show how to recover the full quantum Hofstadter trace by integrating these point spectrum traces with the appropriate free density of states on the lattice. This construction is then generalized to the almost Mathieu operator and its n-th moments which can be expressed in terms of generalized Kreft coefficients.

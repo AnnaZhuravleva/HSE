@@ -1,0 +1,1 @@
+We show that under certain conditions an axisymmetric rotating spacetime contains a ring of points in the equatorial plane, where a particle at rest with respect to an asymptotic static observer remains at rest in a static orbit. We illustrate the emergence of such orbits for boson stars. Further examples are wormholes, hairy black holes and Kerr-Newman solutions.

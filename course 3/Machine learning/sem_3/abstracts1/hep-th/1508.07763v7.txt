@@ -1,0 +1,1 @@
+These lecture notes introduce exact Wilsonian renormalisation, and describe its technical approach, from an intuitive implementation to more advanced realisations. The methods and concepts are explained with a scalar theory, and their extension to quantum gravity is discussed as an application.

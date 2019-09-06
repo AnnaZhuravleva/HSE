@@ -1,0 +1,1 @@
+Employing background-field method and super-heat-kernel expansion, we compute the complete one-loop renormalization of the electroweak chiral Lagrangian with a light Higgs boson. Earlier results from purely scalar fluctuations are confirmed as a special case. We also recover the one-loop renormalization of the conventional Standard Model in the appropriate limit.

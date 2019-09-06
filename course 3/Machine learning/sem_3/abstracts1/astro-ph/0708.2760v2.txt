@@ -1,0 +1,1 @@
+The value of scalar field coupled to gravity should be less than the Planck scale in the consistent theory of quantum gravity. It provides a theoretic constraint on the equation of state parameter for the quintessence. In some cases our theoretic constraints are more stringent than the constraints from the present experiments.

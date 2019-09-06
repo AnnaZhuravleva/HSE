@@ -1,0 +1,1 @@
+We introduce a periodic form of the iterated algebraic K-theory of ku, the (connective) complex K-theory spectrum, as well as a natural twisting of this cohomology theory by higher gerbes. Furthermore, we prove a form of topological T-duality for sphere bundles oriented with respect to this theory.

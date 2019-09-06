@@ -1,0 +1,1 @@
+We point out a misleading treatment in a recent paper published in this Journal [Eur. Phys. J. C (2018)78:106] regarding solutions for the Schr\"{o}dinger equation with a anharmonic oscillator potential embedded in the background of a cosmic string mapped into biconfluent Heun equation. This fact jeopardizes the thermodynamical properties calculated in this system.

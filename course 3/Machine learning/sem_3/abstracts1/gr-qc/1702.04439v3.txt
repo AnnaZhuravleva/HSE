@@ -1,0 +1,1 @@
+Near the horizon, the obvious symmetries of a black hole spacetime---the horizon-preserving diffeomorphisms---are enhanced to a larger symmetry group with a BMS${}_3$ algebra. Using dimensional reduction and covariant phase space techniques, I investigate this augmented symmetry, and show that it is strong enough to determine the black hole entropy.

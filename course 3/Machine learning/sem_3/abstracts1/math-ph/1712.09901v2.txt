@@ -1,0 +1,1 @@
+The problem of reduction of multisymplectic manifolds by the action of Lie groups is stated and discussed, as a previous step to give a fully covariant scheme of reduction for classical field theories with symmetries.

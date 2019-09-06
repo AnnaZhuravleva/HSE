@@ -1,0 +1,1 @@
+We study perfect state transfer in a discrete quantum walk. In particular, we show that there are infinitely many $4$-regular circulant graphs that admit perfect state transfer between antipodal vertices. To the best of our knowledge, previously there was no infinite family of $k$-regular graphs with perfect state transfer, for any $k\ge 3$.

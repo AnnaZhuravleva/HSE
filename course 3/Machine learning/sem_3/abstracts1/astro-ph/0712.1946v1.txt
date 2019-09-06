@@ -1,0 +1,1 @@
+Using the Eikonal approximation we study the effect of the smoothness parameter in the Dyer-Roeder equation. We calculate the optical depth for dark halos with NFW profile, for the abundance the Press-Schechter formalism is used. We focus our analysis on the cross section for multiple images (three). Different cosmologies are compared.

@@ -1,0 +1,1 @@
+We examine the energy losses of a small black hole passing through the Earth, and in particular, the excitations created in the frequency range accessible to modern acoustic detectors. The dominating contributions to the effect are due to the coherent sound radiation of the Cherenkov type and to the conversion of black hole radiation into sound waves.

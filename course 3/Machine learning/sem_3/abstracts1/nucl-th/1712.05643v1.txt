@@ -1,0 +1,1 @@
+Recent studies of $\eta$ nuclear quasibound states by the Jerusalem-Prague Collaboration are reviewed, focusing on stochastic variational method self consistent calculations of $\eta$ few-nucleon systems. These calculations suggest that a minimum value Re$\,a_{\eta N} \approx 1$ fm (0.7 fm) is needed to bind $\eta\,^3$He ($\eta\,^4$He).

@@ -1,0 +1,1 @@
+These pedagogical notes are dedicated to a derivation of the Unruh effect. There is special emphasis on the transparency of the arguments and the exhibition of detailed calculations. We assume the reader has a basic knowledge of quantum mechanics and relativity. The notes can hopefully be used in a self-contained way by advanced undergraduate or beginning graduate students.

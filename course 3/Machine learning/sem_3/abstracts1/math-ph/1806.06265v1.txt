@@ -1,0 +1,1 @@
+A complete geometric classification of symmetries of autonomous Hamiltonian mechanical systems is established; explaining how to obtain their associated conserved quantities in all cases.

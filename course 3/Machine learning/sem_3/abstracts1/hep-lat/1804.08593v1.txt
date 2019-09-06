@@ -1,0 +1,1 @@
+We show that using the multisplitting algorithm as a preconditioner for conjugate gradient inversion of the domain wall Dirac operator could effectively reduce the inter- node communication cost, at the expense of performing more on-node floating point operations. This method could be useful for supercomputers with far more on-node flops than inter-node communication bandwidth.

@@ -1,0 +1,1 @@
+A review is given on the current status and selected results from large VLBI surveys of compact extragalactic radio sources made between 13 cm and 3 mm wavelengths and covering the entire sky. More than 4200 objects are observed and imaged with dynamic ranges from a hundred to several thousand at (sub)parsec scales. Implications to the VSOP-2 project are discussed.

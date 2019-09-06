@@ -1,0 +1,1 @@
+We consider the bilinear Schroedinger equation on a bounded one-dimensional domain and we provide explicit times such that the global exact controllability is verified. In addition, we show how to construct controls for the global approximate controllability.

@@ -1,0 +1,1 @@
+We present a much simpler analytic expression for the UV un-renormalized one-loop soft-gluon current which controls the infra-red behavior of one-loop QCD amplitudes with massive fermions when an external gluon becomes soft. The result is given entirely in terms of standard polylogarithms, is of uniform transcendentality and is well-suited for computer implementation.

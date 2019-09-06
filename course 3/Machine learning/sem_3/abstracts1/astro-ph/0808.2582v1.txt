@@ -1,0 +1,1 @@
+The muon charge ratio of ultrahigh energy cosmic rays may provide information to detect the composition of the primary cosmic rays. We propose to extract the charge information of high energy muons in very inclined extensive air showers by analyzing their relative lateral positions in the shower transverse plane.

@@ -1,0 +1,1 @@
+We discuss a model for soft gluon re-summation based on a statistical description of independent emissions during inelastic collisions. The model is applied to estimate Survival Probabilities at the LHC. A comparison with other models and experimental data is presented.

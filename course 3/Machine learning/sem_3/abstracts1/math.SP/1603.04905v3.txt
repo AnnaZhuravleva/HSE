@@ -1,0 +1,1 @@
+We study an initial value problem for the Toda lattice with almost periodic initial data. We consider initial data for which the associated Jacobi operator is absolutely continuous and has a spectrum satisfying a Craig-type condition, and show the boundedness and almost periodicity in time and space of solutions.

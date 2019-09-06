@@ -1,0 +1,1 @@
+We construct the differential operators for which bivariate Chebyshev polynomials of the first kind, associated with simple Lie algebras $C_2$ and $G_2$, are eigenfunctions.

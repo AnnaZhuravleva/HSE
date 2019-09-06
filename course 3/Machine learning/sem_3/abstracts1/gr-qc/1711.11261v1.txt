@@ -1,0 +1,1 @@
+We construct periodic solutions of nonlinear wave equations using analytic continuation. The construction applies in particular to Einstein equations, leading to infinite-dimensional families of time-periodic solutions of the vacuum, or of the Einstein-Maxwell-dilaton-scalar fields-Yang-Mills-Higgs-Chern-Simons-$f(R)$ equations, with a negative cosmological constant.

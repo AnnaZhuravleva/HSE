@@ -1,0 +1,1 @@
+In this work we study the persistence on time of superoscillations for Schr\"{o}dinger equations with variable coefficients. We generalize results obtained for particular Hamiltonians to more general quadratic Hamiltonians. Including Caldirola-Kanai and degenerate parametric harmonic oscillator Hamiltonians.

@@ -1,0 +1,1 @@
+We study supersymmetric Janus solutions of dyonic $ISO(7)$-gauged $\mathcal{N}$ = 8 supergravity. We mostly find Janus solutions flowing to 3d $\mathcal{N}$ = 8 SYM phase which is the worldvolume theory on D2-branes and non-conformal. There are also solutions flowing from the critical points which are dual to 3d SCFTs from deformations of the D2-brane theory.

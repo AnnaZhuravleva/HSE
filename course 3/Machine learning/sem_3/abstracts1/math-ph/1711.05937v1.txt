@@ -1,0 +1,1 @@
+In this paper, we provide a set of definitions upon which one can prove in a rigorous way most of the main results achieved in the pattern of zeros classification of fractional quantum Hall states.

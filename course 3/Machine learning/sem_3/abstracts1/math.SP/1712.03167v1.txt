@@ -1,0 +1,1 @@
+A fundamental result of Solomyak says that the number of negative eigenvalues of a Schr\"odinger operator on a two-dimensional domain is bounded from above by a constant times a certain Orlicz norm of the potential. Here we show that in the case of Dirichlet boundary conditions the constant in this bound can be chosen independently of the domain.

@@ -1,0 +1,1 @@
+We investigate the so-called non-resonant cosmic-ray streaming instability, first discussed by Bell (2004). The extent to which thermal damping and ion-neutral collisions reduce the growth of this instability is calculated. Limits on the growth of the non-resonant mode in SN1006 and RX J1713.7-3946 are presented.

@@ -1,0 +1,1 @@
+In this paper we investigate the finite-size properties of the spectrum of quantum spin chains with local spins taken to be the fundamental vector representation of the $OSp(n|2m)$ superalgebra.

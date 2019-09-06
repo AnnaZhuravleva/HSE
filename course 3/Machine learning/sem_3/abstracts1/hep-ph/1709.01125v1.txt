@@ -1,0 +1,1 @@
+We report that the pion radius, decay constant, EM and transition form factors can simultaneously and accurately be predicted in light-front holographic QCD with a universal AdS/QCD mass scale, provided dynamical spin effects are taken into account.

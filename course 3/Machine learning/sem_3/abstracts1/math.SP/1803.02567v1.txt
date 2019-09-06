@@ -1,0 +1,1 @@
+We consider a two-spectra inverse problem for the one-dimensional Schr\"{o}dinger equation with boundary conditions containing rational Herglotz--Nevanlinna functions of the eigenvalue parameter and provide a complete solution of this problem.

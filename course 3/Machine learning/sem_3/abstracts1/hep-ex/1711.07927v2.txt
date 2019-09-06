@@ -1,0 +1,1 @@
+Using the entire Belle data sample of 980 ${\rm fb}^{-1}$ of $e^+e^-$ collisions, we present the results of a study of excited $\Omega_c$ charmed baryons in the decay mode $\Xi_c^+K^-$. We show confirmation of four of the five narrow states reported by the LHCb Collaboration: the $\Omega_c(3000)$ , $\Omega_c(3050)$, $\Omega_c(3066)$, and $\Omega_c(3090)$.

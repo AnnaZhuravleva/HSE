@@ -1,0 +1,1 @@
+We present alternative forms of the standard Hamiltonian called Newton-equivalent Hamiltonian Zoo, giving the same equation of motion, for a system with one degree of freedom. These Hamiltonians are solved directly from the Hamilton's equations and come with extra-parameters which are interpreted as time scaling factors.

@@ -1,0 +1,1 @@
+I briefly overview the methods employed at the LHC to extract the top-quark mass, taking particular care about the theory uncertainty and the dependence on the Monte Carlo hadronization parameters.

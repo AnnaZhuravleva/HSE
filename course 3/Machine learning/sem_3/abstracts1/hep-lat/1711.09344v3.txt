@@ -1,0 +1,1 @@
+We invalidate the arguments given in [T.Yamazaki and Y.Kuramashi, Phys. Rev. D96, 114511 (2017)] over the HAL QCD method for hadron-hadron interactions on the lattice. We also pose questions on the practical usefulness of the method proposed in this reference.

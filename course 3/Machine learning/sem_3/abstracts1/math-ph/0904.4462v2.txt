@@ -1,0 +1,1 @@
+A purely algebraic algorithm for computation of invariants (generalized Casimir operators) of Lie algebras by means of moving frames is discussed. Results on the application of the method to computation of invariants of low-dimensional Lie algebras and series of solvable Lie algebras restricted only by a required structure of the nilradical are reviewed.

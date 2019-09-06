@@ -1,0 +1,1 @@
+We show that during inflation, a quantum fluctuation becomes classical at all orders if it becomes classical at first order. Implications are discussed.

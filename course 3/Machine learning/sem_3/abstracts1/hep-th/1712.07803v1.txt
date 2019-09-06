@@ -1,0 +1,1 @@
+One kind of spontaneous (2+1)-dimensional Lorentz symmetry breaking is discussed. The symmetry breaking pattern is $SO(2,1)\rightarrow SO(1,1)$. Using the coset construction formalism, we derive the Goldstone covariant derivative and the associated covariant gauge field. Finally, the two-derivative low-energy effective action of the Nambu-Goldstone bosons is obtained.

@@ -1,0 +1,1 @@
+This is a very brief introduction to quantum computing and quantum information theory, primarily aimed at geometers. Beyond basic definitions and examples, I emphasize aspects of interest to geometers, especially connections with asymptotic representation theory. Proofs of most statements can be found in standard references.

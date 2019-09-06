@@ -1,0 +1,1 @@
+We present a simple criterion for when an N=2 SCFT must be a product SCFT. Applied to the class-S theories of type $E_7$, we find 29 (out of 11,000) 3-punctured spheres which are product SCFTs.

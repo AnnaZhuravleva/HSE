@@ -1,0 +1,1 @@
+Extensions of the Kochen-Specker theorem use quantum logics whose classical interpretation suggests a true-implies-value indefiniteness property. This can be interpreted as an indication that any view of a quantum state beyond a single context is epistemic.

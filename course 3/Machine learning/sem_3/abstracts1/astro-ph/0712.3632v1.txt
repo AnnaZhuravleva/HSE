@@ -1,0 +1,1 @@
+This paper reviews recent progress in the research on the initiation and propagation of CMEs. In the initiation part, several trigger mechanisms are discussed; In the propagation part, the observations and modelings of EIT waves/dimmings, as the EUV counterparts of CMEs, are described.

@@ -1,0 +1,1 @@
+Application of intersection theory to construction of n-point finite-difference equations associated with classical integrable systems is discussed. As an example, we present a few exact discretizations of one-dimensional cubic and quintic Duffing oscillators sharing form of Hamiltonian and canonical Poisson bracket up to the integer scaling factor.

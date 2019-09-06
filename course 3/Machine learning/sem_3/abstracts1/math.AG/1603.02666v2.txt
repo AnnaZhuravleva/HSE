@@ -1,0 +1,1 @@
+This is a survey article for the mathematical theory of Witten's Gauged Linear Sigma Model, as developed recently by the authors. Instead of developing the theory in the most general setting, in this paper we focus on the description of the moduli.

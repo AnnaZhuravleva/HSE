@@ -1,0 +1,1 @@
+We give an introduction to several regularization schemes that deal with ultraviolet and infrared singularities appearing in higher-order computations in quantum field theories. Comparing the computation of simple quantities in the various schemes, we point out similarities and differences between them.

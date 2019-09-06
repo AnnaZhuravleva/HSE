@@ -1,0 +1,1 @@
+We apply the general construction developed in references [4,5] to the first non-trivial case of Gr^{TP}(2,4). In particular, we construct finite-gap KP-II real quasiperiodic solutions in the form of soliton lattice corresponding to a smooth genus 4 M-curve, which is a desingularization of a reducible rational M-curve for soliton data in Gr^{TP}(2,4).

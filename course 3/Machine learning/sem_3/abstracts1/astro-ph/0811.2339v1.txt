@@ -1,0 +1,1 @@
+Starting from a few topical astrophysical questions which require the knowledge of the age of Pop I stars, we discuss the needed precision on the age in order to make progresses in these areas of research. Then we review the effects of various inputs of the stellar models on the age determination and try to identify those affecting the most the lifetimes of stars.

@@ -1,0 +1,1 @@
+In this paper, a model is proposed to solve the gauge hierarchy problem. Beyond the standard model, we introduce an extra scalar field that non-minimally couples to gravity. The fundamental scale is set at weak scale and Planck scale emerges dynamically by a spontaneous symmetry breaking mechanism.

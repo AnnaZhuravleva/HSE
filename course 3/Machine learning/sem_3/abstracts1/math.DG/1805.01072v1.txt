@@ -1,0 +1,1 @@
+We prove sharp criteria on the behavior of radial curvature for the existence of asymptotically flat or hyperbolic Riemannian manifolds with prescribed sets of eigenvalues embedded in the spectrum of the Laplacian. In particular, we construct such manifolds with dense embedded point spectrum and sharp curvature bounds.

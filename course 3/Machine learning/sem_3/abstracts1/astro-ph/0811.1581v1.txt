@@ -1,0 +1,1 @@
+We present Spitzer infrared observations of the starless core L429. The IR images of this core show an absorption feature, caused by the dense core material, at wavelengths <= 70 micron. The core has a steep density profile, and reaches A_V > 35 mag near the center. We show that L429 is either collapsing or in a near-collapse state.

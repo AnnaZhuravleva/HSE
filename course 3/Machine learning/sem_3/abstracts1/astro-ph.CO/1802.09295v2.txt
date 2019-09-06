@@ -1,0 +1,1 @@
+We compute the birefringence of light in curved Robertson-Walker spacetimes and propose an exotic formula for redshift based on the internal structure of the spinning photon. We then use the Hubble diagram of supernovae to test this formula.

@@ -1,0 +1,1 @@
+A generalization of coherent states has been developed in the context of supersymmetric quan- tum mechanics. For many cases, no link has been made with the corresponding classical system. In this work, we consider a very simple superpotential and compare the classical and quantum trajectories. Keywords: Coherent States, SUSYQM.

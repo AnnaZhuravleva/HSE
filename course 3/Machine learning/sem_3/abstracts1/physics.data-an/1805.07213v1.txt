@@ -1,0 +1,1 @@
+A code package, BlurRing, is developed as a method to allow for multi-dimensional likelihood visualisation. From the BlurRing visualisation additional information about the likelihood can be extracted. The spread in any direction of the overlaid likelihood curves gives information about the uncertainty on the confidence intervals presented in the two-dimensional likelihood plots.

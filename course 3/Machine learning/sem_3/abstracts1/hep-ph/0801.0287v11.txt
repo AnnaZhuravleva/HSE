@@ -1,0 +1,1 @@
+This work tabulates measured and derived values of coefficients for Lorentz and CPT violation in the Standard-Model Extension. Summary tables are extracted listing maximal attained sensitivities in the matter, photon, neutrino, and gravity sectors. Tables presenting definitions and properties are also compiled.

@@ -1,0 +1,1 @@
+We present a set of notes, meant for quick reference, on radiative spin polarization, computer algorithms and spin matching in electron storage rings.

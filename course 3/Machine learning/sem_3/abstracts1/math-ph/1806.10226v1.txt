@@ -1,0 +1,1 @@
+For a very ample line bundle L on a compact connected complex manifold X, with a real structure, we discuss entanglement properties of certain sequences of vectors in tensor products of spaces of holomorphic sections of powers of L.

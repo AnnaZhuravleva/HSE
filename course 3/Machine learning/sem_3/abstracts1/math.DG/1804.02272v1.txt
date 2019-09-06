@@ -1,0 +1,1 @@
+In this note we show that Lorentzian Concircular Structure manifolds (LCS)_n coincide with Generalized Robertson-Walker space-times.

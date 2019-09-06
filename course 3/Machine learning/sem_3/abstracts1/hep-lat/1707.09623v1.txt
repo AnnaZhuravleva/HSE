@@ -1,0 +1,1 @@
+When continuous fields are expanded in a wavelet basis, a D-dimensional continuum action becomes a (D+1)-dimensional lattice action on the naively discretized Poincare-patch coordinates of an Euclidean AdS(D+1). New possible criteria for acceptable actions open up.

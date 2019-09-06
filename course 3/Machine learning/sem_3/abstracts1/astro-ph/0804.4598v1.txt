@@ -1,0 +1,1 @@
+We study SN1987A neutrino events through a likelihood analysis with one-component (cooling) and two-component (accretion and cooling) emission model. We show that there is a 3.2 sigma hint for the initial accretion phase.

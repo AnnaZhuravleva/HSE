@@ -1,0 +1,1 @@
+We discuss the detection of an anisotropic particle trapped by an elliptically polarized focused Gaussian laser beam. We obtain the full rotational and translational dynamics, as well as, the measured photo-current in a general-dyne detection. As an example, we discuss a toy model of homodyne detection, which captures the main features typically found in experimental setups.

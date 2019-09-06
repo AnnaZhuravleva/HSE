@@ -1,0 +1,1 @@
+We review a duality procedure that relates standard matter-coupled N=1 supergravity to dual formulations in which auxiliary fields are replaced by field-strengths of gauge three-forms. As examples, we consider the dualization of the rigid Polonyi model and of effective field theories associated with Type IIA string compactifications with fluxes in supergravity.

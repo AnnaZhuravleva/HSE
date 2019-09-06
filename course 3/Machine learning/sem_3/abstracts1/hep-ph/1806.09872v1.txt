@@ -1,0 +1,1 @@
+We examine the behavior of sound attenuation and bulk viscosity near the 2'nd order QCD phase transition at finite density. A dynamical model is presented describing the coupled evolution of sound mode and a slow mode of fluctuations.

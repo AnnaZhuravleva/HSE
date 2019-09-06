@@ -1,0 +1,1 @@
+We present analytical results at four-loop level for the $\beta$-function of the coupling of a generic gauge group and any number of different quark representations. From this we can directly derive the gluino contribution to the strong coupling $\beta$-function of supersymmetric extensions of the Standard Model.

@@ -1,0 +1,1 @@
+We examine a renormalizable SUSY SO(10) model without fine-tuning. We show how to construct MSSM doublets and to predict proton decay. We find that in the minimal set of Yukawa couplings the model is consistent with the experiments, while including $120_H$ to fit the data there are inconsistencies.

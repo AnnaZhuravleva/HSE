@@ -1,0 +1,1 @@
+The aim of the paper is to derive spectral estimates on the eigenvalue moments of the magnetic Schroedinger operators defined on the two-dimensional disk with a radially symmetric magnetic field and radially symmetric electric potential.

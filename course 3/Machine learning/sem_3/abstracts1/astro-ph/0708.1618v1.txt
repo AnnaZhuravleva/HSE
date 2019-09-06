@@ -1,0 +1,1 @@
+The natural candidates for the realization of color superconductivity are the extremely dense cores of compact stars, many of which have very large magnetic fields, especially the so-called magnetars. In this paper we discuss how a color superconducting core can serve to generate and enhance the stellar magnetic field without appealing to a magnetohydrodynamic dynamo mechanism.

@@ -1,0 +1,1 @@
+It has been shown that the entropy function formalism is an efficient way to calculate the entropy of black holes in string theory. We check this formalism for the extremal charged dilaton black hole. We find the general four-derivative correction on the black hole entropy from the value of the entropy function at its extremum point.

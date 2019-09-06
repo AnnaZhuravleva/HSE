@@ -1,0 +1,1 @@
+We show that any unital qubit channel can be implemented by letting the input system interact unitarily with a $4$-dimensional environment in the maximally mixed state and then tracing out the environment. We also provide an example where the dimension of such an environment has to be at least $3$.

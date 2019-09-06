@@ -1,0 +1,1 @@
+A simple method to compute numerically the lowest eigenmodes of the Laplacian in compact orientable hyperbolic spaces of dimension 3 is presented. It is applied to the Thurston manifold, the Weber-Seifert manifold, and to the spaces whose fundamental domain is a regular icosahedron.

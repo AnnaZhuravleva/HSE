@@ -1,0 +1,1 @@
+We show that a suitably defined marked correlation function can be used to break degeneracies in halo-occupation distribution modeling. The statistic can be computed on both 3D and 2D data sets, and should be applicable to all upcoming galaxy surveys. A proof of principle, using mock catalogs created from N-body simulations, is given.

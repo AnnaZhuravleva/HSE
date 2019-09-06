@@ -1,0 +1,1 @@
+A non-Hermitian extension of the Chern insulator and its bulk-boundary correspondence are investigated. It is shown that in addition to the robust chiral edge states that reflect the nontrivial topology of the bulk (nonzero Chern number), the anomalous helical edge states localized only at one edge can appear, which are unique to the non-Hermitian Chern insulator.

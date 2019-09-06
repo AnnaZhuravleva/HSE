@@ -1,0 +1,1 @@
+In this contribution we provide further details to the recent calculation of QCD corrections to massive three-loop form factors presented in Ref. [1].

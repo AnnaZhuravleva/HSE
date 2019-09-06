@@ -1,0 +1,1 @@
+We relate one-loop scattering amplitudes of massless open- and closed-string states at the level of their low-energy expansion. The modular graph functions resulting from integration over closed-string punctures are observed to follow from symmetrized open-string integrals through a tentative generalization of the single-valued projection known from genus zero.

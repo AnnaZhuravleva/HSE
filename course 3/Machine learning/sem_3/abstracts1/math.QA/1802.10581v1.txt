@@ -1,0 +1,1 @@
+Motivated by the notion of extremal vertex operator algebras, we investigate cyclic orbifolds of vertex operator algebras coming from extremal even self-dual lattices in $d=48$ and $d=72$. In this way we construct about one hundred new examples of holomorphic VOAs with a small number of low weight states.

@@ -1,0 +1,1 @@
+We present an effective Eavesdropping scheme to attack the twin-field protocol of quantum key distribution [TF-QKD] proposed recently.

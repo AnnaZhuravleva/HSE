@@ -1,0 +1,1 @@
+We show that a simple modification of the Lagrangian proposed by Padmanabhan in the paper [Mod. Phys. Lett. A 33, 1830005(2018), arXiv:1712.07328] leads to the most general dynamical invariant in the paper of Ray and Reid, Phys. Lett. A 71, 317 (1979)

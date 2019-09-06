@@ -1,0 +1,1 @@
+We consider calorons on the lattice under different types of gradient flow. We identify the amount of gradient flow required to "collapse" calorons as a function of their initial size and the type of gradient flow, and we estimate the severity of $a^2$ corrections as a function of gradient flow depth when computing the topological susceptibility at high temperatures.

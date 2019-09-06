@@ -1,0 +1,1 @@
+We construct a large class of ${\cal N} = 3$ Janus ABJM models with mass deformation, where the mass depends on a spatial (or lightcone) coordinate. We also show that the resulting Janus model can be identified with an effective action of M2-branes in the presence of a background self-dual 4-form field strength varying along one spatial (or lightcone) coordinate.

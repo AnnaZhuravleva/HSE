@@ -1,0 +1,1 @@
+String-theoretic T-duality can be exploited to simplify some features of the bulk-boundary correspondence in condensed matter theory. This paper surveys how T-duality links position and momentum space pictures of that correspondence.

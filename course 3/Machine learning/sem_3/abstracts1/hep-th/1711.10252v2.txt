@@ -1,0 +1,1 @@
+We consider the sigma-model description of an open string interacting with massive fields of the fourth (third massive) level. Equations of motion for the background fields are obtained by demanding that the renormalized operator of the energy-momentum tensor trace vanishes.

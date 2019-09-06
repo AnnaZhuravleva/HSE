@@ -1,0 +1,1 @@
+We propose the usage of persistent homologies to characterize multipartite entanglement. On a multi-qubit data set we introduce metric-like measures defined only in terms of bipartite entanglement and then we derive barcodes. We show that they are able to provide a good classification of entangled states, at least for a small number of qubit.

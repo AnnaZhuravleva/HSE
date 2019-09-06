@@ -1,0 +1,1 @@
+We apply Monte Carlo Markov Chain methods to the stellar parameter estimation problem. This technique is useful when dealing with non-linear models and allows to derive realistic error bars on the inferred parameters. We give the first results obtained for alpha Cen A.

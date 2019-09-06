@@ -1,0 +1,1 @@
+We formulate the generalized Tolman-Oppenheimer-Volkoff equations for the $f(\hat{R})$ Palatini gravity in the case of static and spherical symmetric geometry. We also show that a neutron star is a stable system independently of the form of the functional $f(\hat{R})$

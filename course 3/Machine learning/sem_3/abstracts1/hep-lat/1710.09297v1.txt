@@ -1,0 +1,1 @@
+We present a phase diagram for SU(3) lattice gauge theory with 695 MeV dynamical staggered fermions, in the plane of temperature and chemical potential, obtained from effective Polyakov line actions. The derivation is via the method of relative weights, and the effective theories are solved at finite chemical potential by mean field theory.

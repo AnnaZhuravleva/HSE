@@ -1,0 +1,1 @@
+Quantum Gaussian states on Bosonic Fock spaces are quantum versions of Gaussian distributions. Here infinite mode quantum Gaussian states have been explored. They are type I quasi-free states. We extend many of the results of Parthasarathy \cite{Par10} and \cite{Par13} to the infinite mode case. This include various characterizations, convexity and symmetry properties.

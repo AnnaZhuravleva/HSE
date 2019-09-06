@@ -1,0 +1,1 @@
+We suggest implementation of quantum teleportation protocol of unknown qubit beyond Bell states formalism. The problem of the teleportation is reduced to finding a way to demodulate two distinguishable qubits. Various strategies to increase the success probability of the protocol are considered.

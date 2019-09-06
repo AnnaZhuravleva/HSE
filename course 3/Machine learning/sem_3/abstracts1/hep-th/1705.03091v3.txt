@@ -1,0 +1,1 @@
+We numerically study the interactions of twisted monopole-antimonopole pairs in the 't Hooft-Polyakov model for a range of values of the scalar to vector mass ratio. We also recover the sphaleron solution at maximum twist discovered by Taubes, and map out its energy and size as functions of parameters.

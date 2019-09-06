@@ -1,0 +1,1 @@
+We analyse the recent LHC data at 7 and 8 TeV for pp elastic scattering with special attention for the structure of the real part, which is shown to be crucial to describe the differential cross section in the forward region. We determine accurately the position of the zero of the real amplitude, which corresponds to the zero of a theorem by A. Martin.

@@ -1,0 +1,1 @@
+We prove different variants of known singularity theorems and a result that ensures the existence of a region of finite lifetime for any solution of Maxwell-Einstein theory for asymptotically flat initial values if it contains an OTS and the solution admits a conformal extension, a property satisfied e.g. by initial values close to the standard ones.

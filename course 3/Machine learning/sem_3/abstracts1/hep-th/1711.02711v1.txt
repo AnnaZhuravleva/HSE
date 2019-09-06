@@ -1,0 +1,1 @@
+We review methods used in recent works for constructing handlebody solutions of Einstein's equations in 2+1 dimensions. Additionally, we provide a Mathematica package for computing the action and the boundary moduli of these solutions in a canonical conformal frame.

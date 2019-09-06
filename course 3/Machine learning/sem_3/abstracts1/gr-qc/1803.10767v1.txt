@@ -1,0 +1,1 @@
+The motion of a point charged particle moving in the background of the critical power Maxwell charged AdS black holes, in a probe approximation is studied. The extended phase space, where the cosmological constant appears as a pressure, is regarded and the effective potential is investigated. At last, the mass-to-charge ratio and the large q limit are studied.

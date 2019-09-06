@@ -1,0 +1,1 @@
+We discuss issues related to pairing dynamics in nuclear large amplitude collective motion. The examples of effects which are not properly described within BCS theory are presented. In the second part we review properties of TDDFT and in particular we discuss the time-dependent local density approximation (TDSLDA) starting from the stationary action principle.

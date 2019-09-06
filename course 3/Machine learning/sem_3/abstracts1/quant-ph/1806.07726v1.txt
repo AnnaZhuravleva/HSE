@@ -1,0 +1,1 @@
+We map the geometric quantum potential on the nonlinear sigma model and use homotopy to estimate the lower bound of the geometric quantum potential. We investigate a catenoid (wormhole section), a two dimensional bilayer geometry smoothly connected by a neck and a torus to show that in all these cases the geometric quantum potential creates topologically stable quantum states.

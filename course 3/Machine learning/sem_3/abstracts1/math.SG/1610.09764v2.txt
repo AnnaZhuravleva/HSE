@@ -1,0 +1,1 @@
+We provide an analytical construction of the gluing map for stable affine vortices over the upper half plane with the Lagrangian boundary condition. This result is a necessary ingredient in studies of the relation between gauged sigma model and nonlinear sigma model, such as the closed or open quantum Kirwan map.

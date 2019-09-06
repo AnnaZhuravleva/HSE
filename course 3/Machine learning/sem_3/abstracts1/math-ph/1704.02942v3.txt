@@ -1,0 +1,1 @@
+We present a formulation of the Boolean Satisfiability Problem in spinor language that allows to give a necessary and sufficient condition for unsatisfiability. With this result we outline an algorithm to test for unsatisfiability with possibly interesting theoretical properties.

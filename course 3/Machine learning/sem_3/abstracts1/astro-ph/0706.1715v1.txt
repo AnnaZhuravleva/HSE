@@ -1,0 +1,1 @@
+Several analyses of the data collected by other experiments have found an excess of cosmic rays in correlation with subclasses of BL Lacs. Data from the Pierre Auger Observatory do not support previously reported excesses. The number of events correlated with BL Lac positions is compatible with that expected for an isotropic flux.

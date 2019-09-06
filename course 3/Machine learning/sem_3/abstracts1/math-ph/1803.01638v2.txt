@@ -1,0 +1,1 @@
+For analytic quasi-periodic Schr\"odinger cocycles, You and Zhang [9] proved that the Lyapunov exponent is H\"older continuous for weak Liouville frequency. In this paper, we prove that the H\"older continuity also holds if the analytic potential is weakened to Gevrey potential.

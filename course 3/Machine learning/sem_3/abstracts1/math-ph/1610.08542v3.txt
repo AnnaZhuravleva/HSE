@@ -1,0 +1,1 @@
+We consider a nonlinear Schroedinger equation in two spatial dimensions subject to a periodic honeycomb lattice potential. Using a multi-scale expansion together with rigorous error estimates, we derive an effective model of nonlinear Dirac type. The latter describes the propagation of slowly modulated, weakly nonlinear waves spectrally localized near a Dirac point.

@@ -1,0 +1,1 @@
+This paper presents hydrodynamical and radiation-hydrodynamical simulations of the nickel bubble effect in Type Ia supernovae, comparison of results to self-similar solutions, and application to observations of Type Ia supernova remnants, with a particular emphasis on Tycho's SNR.

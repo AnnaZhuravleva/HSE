@@ -1,0 +1,1 @@
+We propose a reference-frame-independent measurement-device-independent quantum key distribution with uncharacterized quantum bits. We show security of the protocol. The protocol can also be useful for implementation with channel that has very low bit error rate but suffers large uncontrolled unitary rotation.

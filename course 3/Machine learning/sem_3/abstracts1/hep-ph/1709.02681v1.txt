@@ -1,0 +1,1 @@
+We calculate spin-independent and spin-dependent direct detection cross sections of neutralino dark matter at next-to-leading order of QCD. The numerical effects are comparable in size to the uncertainties in the nuclear matrix elements. Our results are applicable to bino, wino or higgsino dark matter and allow for consistent correlations with the relic density in DM@NLO.

@@ -1,0 +1,1 @@
+We point out that previous studies of possible Lorentz-violating effects in astronomical time-of-flight data did not take into account the entire implications of the universe's cosmological expansion. We present the derivation of the accurate formulation of the problem and show that the resulting correction of the limits on Lorentz violation is significant.

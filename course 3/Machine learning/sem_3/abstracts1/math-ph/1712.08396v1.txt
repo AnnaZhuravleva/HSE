@@ -1,0 +1,1 @@
+We prove the existence of a limit shape for the dimer model on planar periodic bipartite graphs with an arbitrary fundamental domain and arbitrary periodic weights. This proof is based on a variational principle that uses the locality of the model and the compactness of the space of states.

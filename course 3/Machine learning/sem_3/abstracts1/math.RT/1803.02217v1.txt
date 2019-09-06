@@ -1,0 +1,1 @@
+The subject of the present paper is an application of quantum probability to $p$-adic objects. We give a quantum-probabilistic interpretation of the spherical Hecke algebra for ${\rm PGL}_2(F)$, where $F$ is a $p$-adic field. As a byproduct, we obtain a new proof of the Fourier inversion formula for ${\rm PGL}_2(F)$.

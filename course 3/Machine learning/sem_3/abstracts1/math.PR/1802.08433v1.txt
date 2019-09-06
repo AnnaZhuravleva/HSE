@@ -1,0 +1,1 @@
+We study how the Gaussian multiplicative chaos (GMC) measures $\mu^\gamma$ corresponding to the 2D Gaussian free field change when $\gamma$ approaches the critical parameter $2$. In particular, we show that as $\gamma\to 2^{-}$, $(2-\gamma)^{-1}\mu^\gamma$ converges in probability to $2\mu'$, where $\mu'$ is the critical GMC measure.

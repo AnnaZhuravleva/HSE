@@ -1,0 +1,1 @@
+We have been undertaking a monitoring project of 13 low-mass X-ray binaries (LMXBs) using FT North since early 2006. The introduction of FT South has allowed us to extend this monitoring to include 15 southern hemisphere LMXBs. With new instrumentation, we also intend to expand this monitoring to include both infrared wavelengths and spectroscopy.

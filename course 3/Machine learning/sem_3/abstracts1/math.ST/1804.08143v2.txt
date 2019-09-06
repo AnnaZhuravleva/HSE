@@ -1,0 +1,1 @@
+We propose a method for transforming probability distributions so that parameters of interest are forced into a specified distribution. We prove that this approach is the maximum entropy choice, and provide a motivating example applicable to neutrino hierarchy inference.

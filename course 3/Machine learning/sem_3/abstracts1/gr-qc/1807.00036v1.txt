@@ -1,0 +1,1 @@
+We construct a general stratified scalar theory of gravitation from a field equation that accounts for the self-interaction of the field and a particle Lagrangian, and calculate its post-Newtonian parameters. Using this general framework, we analyze several specific scalar theories of gravitation and check their predictions for the solar system post-Newtonian effects.

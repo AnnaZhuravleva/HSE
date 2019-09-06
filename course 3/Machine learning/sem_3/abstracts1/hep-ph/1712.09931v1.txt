@@ -1,0 +1,1 @@
+I review recent theory developments in the computation of Higgs production in association with top quarks, as well as the modelling of the corresponding backgrounds. In addition to progress within the Standard model I discuss higher-order corrections for the $t\bar{t}H$ process in the presence of new interactions.

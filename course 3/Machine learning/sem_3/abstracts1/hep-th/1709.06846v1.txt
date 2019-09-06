@@ -1,0 +1,1 @@
+In this letter, we study Langevin diffusion coefficients for the five dimensional $\mathcal{N}=2$ STU model in presence of higher derivative corrections. We obtained effect of black hole charge, corresponding to the chemical potential, on the Langevin diffusion coefficients ratio. We confirm universal behavior of transverse to longitudinal ratio of coefficients.

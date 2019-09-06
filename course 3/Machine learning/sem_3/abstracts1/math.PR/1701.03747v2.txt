@@ -1,0 +1,1 @@
+In this paper, we explore the connection between convergence in distribution and Mallows distance in the context of positively associated random variables. Our results extend some known invariance principles for sequences with FKG property. Applications for processes with Gibbssian dependence structures are included.

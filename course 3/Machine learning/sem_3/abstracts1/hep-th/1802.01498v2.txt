@@ -1,0 +1,1 @@
+Chiral boson fields in (1+1) dimensions obey a first order equation of motion. A second order equation which classically describes two chiral boson fields of the same chirality leads, however, to an unacceptable quantum theory

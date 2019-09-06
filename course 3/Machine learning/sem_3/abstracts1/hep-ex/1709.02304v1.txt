@@ -1,0 +1,1 @@
+We present a summary of the current status of searches for dark matter at the LHC from the ATLAS and CMS experiments. For various assumptions in the simplified parameter space, the LHC exclusions is complementary to direct detection results. Mono-object analyses in search of dark matter and various analyses searching for dark matter mediators are presented.

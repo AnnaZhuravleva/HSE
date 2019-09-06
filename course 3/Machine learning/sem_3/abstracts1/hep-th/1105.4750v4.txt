@@ -1,0 +1,1 @@
+Here show that, pure affine actions based solely on the Riemann curvature tensor lead to Einstein field equations for gravitation. The matter and radiation involved are general enough to impose no restrictions on material dynamics or vacuum structure. This dynamical equivalence to General Relativity can be realized via also diffeomorphism breaking.

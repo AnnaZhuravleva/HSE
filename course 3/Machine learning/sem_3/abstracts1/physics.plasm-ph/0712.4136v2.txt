@@ -1,0 +1,1 @@
+The Bethe-Larkin formula for the fast projectile stopping power is extended to multi-component plasmas. The results are to contribute to the correct interpretation of the experimental data, which could permit to test the existing and future models of thermodynamic, static, and dynamic characteristics of strongly coupled Coulomb systems.

@@ -1,0 +1,1 @@
+Fermion localization in a braneworld model in presence of dilaton coupled higher curvature Gauss-Bonnet bulk gravity is discussed. It is shown that the lowest mode of left handed fermions can be naturally localized on the visible brane due to the dilaton coupled higher curvature term without the necessity of any external localizing bulk field.

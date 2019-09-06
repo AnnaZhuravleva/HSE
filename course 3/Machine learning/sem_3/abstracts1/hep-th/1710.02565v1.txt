@@ -1,0 +1,1 @@
+We test the background geometry of the BFSS model using a D4-brane probe. This proves a sensitive test of the geometry and we find excellent agreement with the D4-brane predictions based on the solution of a membrane corresponding to the D4-brane propagating on this background.

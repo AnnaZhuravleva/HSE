@@ -1,0 +1,1 @@
+We consider tiling dynamical systems and topological conjugacies between them. We prove that the criterion of being finite type is invariant under topological conjugacy. For substitution tiling systems under rather general conditions, including the Penrose and pinwheel systems, we show that substitutions are invertible and that conjugacies are generalized sliding block codes.

@@ -1,0 +1,1 @@
+Following Golterman and Shamir, we develop scale-chiral perturbation theory in the large $N_c$ and large $N_f$ Veneziano limit that incorporates both light-quark baryons and hidden local symmetric bosons and derive a leading-order scale symmetry Lagrangian applicable in nuclear physics. Some applications in the medium-free space and baryonic matter are discussed.

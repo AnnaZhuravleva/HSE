@@ -1,0 +1,1 @@
+One of the not-yet determined properties of neutrinos is the ordering of their mass eigenstates. We combine the available data from neutrino oscillations, neutrinoless double beta decay and Cosmic Microwave Background observations to derive robust constraints on the mass ordering in a Bayesian context. Based on arxiv:1801.04946.

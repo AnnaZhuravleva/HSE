@@ -1,0 +1,1 @@
+We describe the computational techniques employed in the recently updated Fourier local correlation tracking (FLCT) method. The FLCT code is then evaluated using a series of simple, 2D, known flow patterns that test its accuracy and characterize its errors.

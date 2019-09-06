@@ -1,0 +1,1 @@
+We apply the Marchenko method of quantum inverse scattering to study nucleon scattering problems. Assuming a $\beta/r^2$ type repulsive core and comparing our results to the Reid93 phenomenological potential we estimate the constant $\beta$, determining the singularity strength, in various spin/isospin channels.

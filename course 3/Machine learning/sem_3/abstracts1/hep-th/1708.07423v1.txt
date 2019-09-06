@@ -1,0 +1,1 @@
+While no regularization is consistent with the anomalous chiral symmetry which occurs for massless fermions, the artificial axion-induced symmetry for massive fermions is shown here to be consistent with a standard regularization, even in curved spacetime, so that it can be said to have no anomaly in gauge or gravitational fields. Implications for theta terms are pointed out.

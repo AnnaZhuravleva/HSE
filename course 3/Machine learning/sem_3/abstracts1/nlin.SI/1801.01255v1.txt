@@ -1,0 +1,1 @@
+A new approach to discretization of the Duffing equation is presented. Integrable discrete maps are obtained by using well-studied encrypting operations in elliptic curve cryptography and, therefore, they do not depend upon standard small parameter assumption.

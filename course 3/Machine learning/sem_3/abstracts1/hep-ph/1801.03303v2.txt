@@ -1,0 +1,1 @@
+We present recent developments in the theory and application of IR-improved QED$\otimes$QCD resummation methods, realized by MC event generator methods, for LHC and FCC physics scenarios.

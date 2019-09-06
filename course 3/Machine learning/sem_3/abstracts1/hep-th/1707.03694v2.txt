@@ -1,0 +1,1 @@
+We take into account the existence of Gribov copies in a four dimensional Yang-Mills theories in the Landau gauge with an induced Lorentz symmetry breaking term. We showed that due to Lorentz symmetry breaking the gluon propagator can display different poles in different directions changing then the possible regimes in each direction.

@@ -1,0 +1,1 @@
+We study the Borel-Pad\'e resummation of the asymptotic series for the string equation of the Lee-Yang edge singularity. Numerical methods are provided to compute a high accuracy exact solution. We find the resummation matches the numerical integration without need for further non-perturbative corrections.

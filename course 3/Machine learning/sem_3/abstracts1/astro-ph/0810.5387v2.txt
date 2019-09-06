@@ -1,0 +1,1 @@
+As an extension of our previous study, we derive slow-roll conditions for multiple scalar fields which are non-minimally coupled with gravity and for generalized gravity theories of the form $f(\phi,R)$. We provide simple formulae of the spectral indices of scalar/tensor perturbations in terms of the slow-roll parameters.

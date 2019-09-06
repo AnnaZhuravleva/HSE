@@ -1,0 +1,1 @@
+The solution of the equation for the phion propagator in the leading order of the $1/N$ -- expansion for a vector-matrix model with interaction $g(\phi_a)^*\phi_b\chi_{ab}$ in four dimensions shows a change of the asymptotic behavior in the deep Euclidean region in a vicinity of a certain critical value of the coupling constant.

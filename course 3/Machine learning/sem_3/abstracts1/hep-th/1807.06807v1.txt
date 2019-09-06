@@ -1,0 +1,1 @@
+The source theory provides a straightforward way to obtain the Newton's potential upon establishing the vacuum-to-vacuum transition amplitude in quantized Einstein theory of gravity. Here, we use the same method to derive the gravitational potential of two static point masses in $f(R)=R+aR^2$ gravity.

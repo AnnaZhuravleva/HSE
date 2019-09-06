@@ -1,0 +1,1 @@
+Physical origin of Milne boost invariance of the Newton Cartan spacetime is traced to the effect of local Galilean boosts in its metric structure, using galilean gauge theory. Specifically, we do not require any gauge field to understand Milne boost invariance.

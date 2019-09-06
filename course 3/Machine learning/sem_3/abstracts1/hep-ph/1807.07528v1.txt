@@ -1,0 +1,1 @@
+We construct the quasi-parton distributions of mesons for two-dimensional QCD with either scalar or spinor quarks using the $1/N_c$ expansion. We show that in the infinite momentum limit, the parton distribution function is recovered in both leading and sub-leading order in $1/N_c$.

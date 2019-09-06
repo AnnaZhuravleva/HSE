@@ -1,0 +1,1 @@
+Brans-Dicke cosmology with an (inverse) power-law potential is revisited in the light of modern quintessence and inflation models. A simple ansatz relating scale factor and scalar field recovers most of the known solutions and generates new ones. A phase space interpretation of the ansatz is provided and these universes are mapped into solutions of f(R) cosmology.

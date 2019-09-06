@@ -1,0 +1,1 @@
+In the log Age vs. integrated absolute magnitude (M_V) plane, the open clusters of the Milky Way form a well-defined band parallel to theoretical sequences decribing the passive evolution of Simple Stellar Populations and display a pretty sharp upper threshold in mass (M ~ 2X 10^4 M_{sun}) over a 4 dex range of ages.

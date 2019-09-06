@@ -1,0 +1,1 @@
+We discuss the temporal evolution of the pair plasma created in Gamma-Ray Burst sources. A particular attention is paid to the relaxation of the plasma into thermal equilibrium. We also discuss the connection between the dynamics of expansion and the spatial geometry of the plasma. The role of the baryonic loading parameter is emphasized.

@@ -1,0 +1,1 @@
+We study the spectrum of permutation orbifolds of 2d CFTs. We find examples where the light spectrum grows faster than Hagedorn, which is different from known cases such as symmetric orbifolds. We also describe how to compute their partition functions using a generalization of Hecke operators.

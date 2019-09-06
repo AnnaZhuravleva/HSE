@@ -1,0 +1,1 @@
+Models for what may lie behind the Standard Model often require non-perturbative calculations in strongly coupled field theory. This creates opportunities for lattice methods, to obtain quantities of phenomenological interest as well as to address fundamental dynamical questions. I survey recent work in this area.

@@ -1,0 +1,1 @@
+We study various direct and inverse spectral problems for the one-dimensional Schr\"{o}dinger equation with distributional potential and boundary conditions containing the eigenvalue parameter.

@@ -1,0 +1,1 @@
+In this note we present a result establishing the existence of a compact CMC Cauchy surface from a curvature condition related to the strong energy condition.

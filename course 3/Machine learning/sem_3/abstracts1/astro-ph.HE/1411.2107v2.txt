@@ -1,0 +1,1 @@
+We analyze the torque applied to a rotating magnetized sphere in a vacuum. It is shown that for the correct determination of one of the torque's component the angular momentum of the electromagnetic field within the body should be taken into account.

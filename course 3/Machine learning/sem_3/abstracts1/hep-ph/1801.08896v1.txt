@@ -1,0 +1,1 @@
+The phenomena of neutrino oscillations emerges due to coherent superposition of different neutrino states. The entanglement of neutrinos with its environment can lead to a suppression of neutrino oscillations. The master equation for neutrino evolution in a magnetic field is derived taking into account the entanglement with a magnetic field.

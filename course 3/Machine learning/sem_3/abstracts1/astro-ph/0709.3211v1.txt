@@ -1,0 +1,1 @@
+Improved general slow-roll formulae giving the primordial gravitational wave spectrum are derived in the present work. Also the first and second order general slow-roll inverse formulae giving the Hubble parameter $H$ in terms of the gravitational wave spectrum are derived. Moreover, the general slow-roll consistency condition relating the scalar and tensor spectra is obtained.

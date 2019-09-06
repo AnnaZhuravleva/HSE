@@ -1,0 +1,1 @@
+We calculate the hadron tensor related to the photon-induced Drell-Yan process, with incoming nucleon being transversally polarised. We predict the new single spin asymmetry which probes gluon poles and which is expressed in terms of photon (both chiral-odd and chiral-even) distribution amplitudes and chiral-odd nucleon function stemming from the nucleon transverse polarization.

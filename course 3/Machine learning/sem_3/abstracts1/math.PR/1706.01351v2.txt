@@ -1,0 +1,1 @@
+We prove a representation for the average wave function of the Schr\"odinger equation with a white noise potential in $d=1,2$, in terms of the renormalized self-intersection local time of a Brownian motion.

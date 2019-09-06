@@ -1,0 +1,1 @@
+A review of the main issues in the field of particle acceleration in Supernova Remnants is provided in the context of future X-ray observations with Simbol-X. After a summary of the nonthermal acceleration mechanisms at work, I briefly review the observations of supernova remnants in hard X-rays and in gamma rays. Open issues are discussed in this framework.

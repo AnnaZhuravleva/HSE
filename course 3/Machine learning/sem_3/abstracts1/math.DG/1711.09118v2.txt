@@ -1,0 +1,1 @@
+We construct local models of isolated singularities for special K\"ahler structures in real dimension two assuming that the associated holomorphic cubic form does not have essential singularities. As an application we compute the holonomy of the flat symplectic connection, which is a part of the special K\"ahler structure.

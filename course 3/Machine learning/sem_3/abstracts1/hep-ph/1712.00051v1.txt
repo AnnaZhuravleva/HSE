@@ -1,0 +1,1 @@
+We report that the inclusion of dynamical spin effects in the pion holographic light-front wavefunction leads to a remarkable improvement in describing pion observables (pion mean charge radius, decay constant, spacelike electromagnetic form factor) without the need to invoke higher Fock state contributions and/or a special AdS/QCD mass scale for the pion.

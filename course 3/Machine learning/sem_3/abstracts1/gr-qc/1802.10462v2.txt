@@ -1,0 +1,1 @@
+In this paper we consider the cosmological inflation within scalar-tensor gravity and compare it with standard inflation based on general relativity. The difference is determined by the value of the parameter $\Delta$. This approach is associated with using the special ansatz which links a function that defines a type of gravity with a scale factor of the universe.

@@ -1,0 +1,1 @@
+We study a version of the generalized (h, {\phi})-entropies, introduced by Salicr\'u et al, for a wide family of probabilistic models that includes quantum and classical statistical theories as particular cases. We extend previous works by exploring how to define (h, {\phi})-entropies in infinite dimensional models.

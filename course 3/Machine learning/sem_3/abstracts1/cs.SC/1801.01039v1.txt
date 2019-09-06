@@ -1,0 +1,1 @@
+We describe how the extension of a solver for linear differential equations by Kovacic's algorithm helps to improve a method to compute the inverse Mellin transform of holonomic sequences. The method is implemented in the computer algebra package HarmonicSums.

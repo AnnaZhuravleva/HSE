@@ -1,0 +1,1 @@
+We found an analytical solution for the neutrino mass matrix in the most general case of the Zee model. Using the recent data on the neutrino parameters besides generating neutrino masses at 1-loop level we fit also the masses of the charged leptons and the leptonic mixing matrix. We also show in what conditions the model is not compatible with neutrino data.

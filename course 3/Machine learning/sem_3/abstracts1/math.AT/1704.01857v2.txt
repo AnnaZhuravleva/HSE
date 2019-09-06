@@ -1,0 +1,1 @@
+The present article is devoted to the study of transfers for $A_\infty$ structures, their maps and homotopies, as developed in \cite{Markl06}. In particular, we supply the proofs of claims formulated therein and provide their extension by comparing them with the former approach based on the homological perturbation lemma.

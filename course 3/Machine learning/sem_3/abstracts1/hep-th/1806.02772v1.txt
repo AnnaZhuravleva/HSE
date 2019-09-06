@@ -1,0 +1,1 @@
+We continue to develop our method for effectively computating the special K\"ahler geometry on the moduli space of Calabi-Yau manifolds. We generalize it to all polynomial deformations of Fermat hypersurfaces.

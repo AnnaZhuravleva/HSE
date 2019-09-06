@@ -1,0 +1,1 @@
+In this note we show that all small solutions of the BBM equation must decay to zero as $t\to +\infty$ in large portions of the physical space, extending previous known results, and only assuming data in the energy space. Our results also include decay on the left portion of the physical line, unlike the standard KdV dynamics.

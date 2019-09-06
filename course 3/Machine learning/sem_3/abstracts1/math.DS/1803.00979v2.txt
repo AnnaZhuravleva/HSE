@@ -1,0 +1,1 @@
+We prove by example that the number of elastic collisions of $n$ balls of equal mass and equal size in $d$-dimensional space can be greater than $n^3/27$ for $n\geq 3$ and $d\geq 2$. The previously known lower bound was of order $n^2$.

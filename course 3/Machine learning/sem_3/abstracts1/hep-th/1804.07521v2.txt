@@ -1,0 +1,1 @@
+We study the Complexity=Volume conjecture for Warped AdS$_3$ black holes. We compute the spatial volume of the Einstein-Rosen bridge and we find that its growth rate is proportional to the Hawking temperature times the Bekenstein-Hawking entropy. This is consistent with expectations about computational complexity in the boundary theory.

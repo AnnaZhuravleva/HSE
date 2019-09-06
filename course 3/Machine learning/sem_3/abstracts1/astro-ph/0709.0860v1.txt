@@ -1,0 +1,1 @@
+In this contribution, I discuss some basic techniques that can be used to simulate radiative transfer through porous media. As specific examples, I consider scattering transfer through a clumped slab, and X-ray emission line formation in a clumped wind.

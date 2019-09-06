@@ -1,0 +1,1 @@
+Making use of the SO(3,1) Lorentz algebra, we derive in this paper two series of Gauss-Bonnet type identities involving torsion, one being of the Pontryagin type and the other of the Euler type. Two of the six identities involve only torsional tensorial entities and are purely torsional topological invariants.

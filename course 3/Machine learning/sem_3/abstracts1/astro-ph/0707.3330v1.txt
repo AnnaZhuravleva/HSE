@@ -1,0 +1,1 @@
+We discuss air shower simulations based on the EPOS hadronic interaction model.   A remarkable feature is the fact that the number of produced muons is considerably larger compared to other interaction models. We show that this is due to an improved treatment of baryon-antibaryon production.

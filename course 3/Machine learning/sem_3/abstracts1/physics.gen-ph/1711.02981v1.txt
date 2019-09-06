@@ -1,0 +1,1 @@
+In this paper, we describe the one-loop contributions in QED with Rashba coupling. We show that all purely nonminimal contributions are explicitly finite, so, the whole theory is one-loop renormalizable.

@@ -1,0 +1,1 @@
+We write down a vertical representation for the elliptic Ding-Iohara-Miki algebra, and construct an elliptic version of the refined topological vertex of Awata, Feigin and Shiraishi. We show explicitly that this vertex reproduces the elliptic genus of M-strings, and that it is an intertwiner of the algebra.

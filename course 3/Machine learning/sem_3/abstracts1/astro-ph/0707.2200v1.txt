@@ -1,0 +1,1 @@
+From uvby photometry of 75 stars in the direction of NGC 7063 we were able to determine membership of some stars and fix the distance (722 +- 105 pc), log age (of 8.146) and reddening (E(b-y) = 0.091 +- 0.039 mag) for the cluster.

@@ -1,0 +1,1 @@
+We present an integrable deformation of the $AdS_{5}\times S^{5}$ pure spinor action based on homological perturbation theory. Its equations of motion, Lax connection and BRST symmetry are discussed. The resulting model describes a pure spinor superstring in a generalized supergravity background.

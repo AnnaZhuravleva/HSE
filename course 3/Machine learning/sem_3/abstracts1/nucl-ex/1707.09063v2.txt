@@ -1,0 +1,1 @@
+We determine the nucleon electromagnetic form factors and their uncertainties from world electron scattering data. The analysis incorporates two-photon exchange corrections, constraints on the low-Q2 and high-Q2 behavior, and additional uncertainties to account for tensions between different data sets and uncertainties in radiative corrections.

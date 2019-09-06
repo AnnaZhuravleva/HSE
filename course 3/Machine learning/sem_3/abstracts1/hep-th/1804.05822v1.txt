@@ -1,0 +1,1 @@
+We discuss vacua, walls and three-pronged wall junctions in the Grassmann manifold $G_{N_F,N_C}=\frac{SU(N_F)}{SU(N_C)\times SU(N_F-N_C)\times U(1)}$.

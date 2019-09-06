@@ -1,0 +1,1 @@
+We argue that the so-called maximal Odderon contribution breaks the `black disk' behaviour of the asymptotic amplitude, since the cross section of the events with Large Rapidity Gaps grows faster than the total cross section. That is the `maximal Odderon' is not consistent with the unitarity.

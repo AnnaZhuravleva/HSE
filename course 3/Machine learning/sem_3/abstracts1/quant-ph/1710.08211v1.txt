@@ -1,0 +1,1 @@
+We show how to calculate the secure final key rate in the four-intensity decoy-state MDI-QKD protocol with both source errors and statistical fluctuations with a certain failure probability. Our results rely only on the range of only a few parameters in the source state. All imperfections in this protocol have been taken into consideration without any unverifiable error patterns.

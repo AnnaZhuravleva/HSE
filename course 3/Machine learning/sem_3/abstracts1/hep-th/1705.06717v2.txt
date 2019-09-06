@@ -1,0 +1,1 @@
+We construct effective supergravity theories from customized constrained superfields which provide a setup consistent both for the description of inflation and the subsequent reheating processes. These theories contain the minimum degrees of freedom in the bosonic sector required for single-field inflation.

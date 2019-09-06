@@ -1,0 +1,1 @@
+In this paper we demonstrate that our model which is based on the CGC/saturation approach, is able to describe the soft interaction collisions including the new TOTEM prelimenary data at 13 TeV. We believe that this strengthens the argument that the CGC/saturation approach is the only viable candidate for an effective theory for high energy QCD.

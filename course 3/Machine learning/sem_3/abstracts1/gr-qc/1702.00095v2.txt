@@ -1,0 +1,1 @@
+We explicitly calculate the gravitational wave memory effect for classical point particle sources in linearized gravity off of an even dimensional Minkowski background. We show that there is no memory effect in $d>4$ dimensions, in agreement with the general analysis of Hollands, Ishibashi, and Wald (2016).

@@ -1,0 +1,1 @@
+The possibility of time travel through the geodesics of vacuum solutions in first order gravity is explored. We present explicit examples of such geometries, which contain degenerate as well as nondegenerate tetrad fields that are sewn together continuously over different regions of the spacetime. These classical solutions to the field equations satisfy the energy conditions.

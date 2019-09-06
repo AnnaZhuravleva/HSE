@@ -1,0 +1,1 @@
+We use a diffusive model for the propagation of Galactic cosmic rays to estimate the charged pion production in interactions with protons of the interstellar medium. Cosmic ray nuclei from proton to iron are considered and the corresponding contribution to the neutrino secondary flux produced as a result of spallation is also estimated.

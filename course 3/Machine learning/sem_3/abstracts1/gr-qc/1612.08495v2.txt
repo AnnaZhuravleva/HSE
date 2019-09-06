@@ -1,0 +1,1 @@
+Superconducting-gravimeter measurements are used to test the local Lorentz invariance of the gravitational interaction and of matter-gravity couplings. The best laboratory sensitivities to date are achieved via a maximum-reach analysis for 13 Lorentz-violating operators, with some improvements exceeding an order of magnitude.

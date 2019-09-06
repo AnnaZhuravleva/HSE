@@ -1,0 +1,1 @@
+Conserved currents of any spin $t>0$ built from bosonic symmetric massless gauge fields of arbitrary integer spins in $AdS_4$ are found. Analogously to the case of $4d$ Minkowski space, currents considered in this paper are not gauge invariant but generate gauge invariant conserved charges.

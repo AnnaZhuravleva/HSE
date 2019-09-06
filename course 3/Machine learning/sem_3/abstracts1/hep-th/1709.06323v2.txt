@@ -1,0 +1,1 @@
+We study relativistic anyon field theory in 1+1 dimensions. While (2+1)-dimensional anyon fields are equivalent to boson or fermion fields coupled with the Chern-Simons gauge fields, (1+1)-dimensional anyon fields are equivalent to boson or fermion fields with many-body interaction. We derive the path integral representation and perform the lattice Monte Carlo simulation.

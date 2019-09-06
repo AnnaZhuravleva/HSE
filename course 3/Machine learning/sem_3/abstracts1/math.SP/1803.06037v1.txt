@@ -1,0 +1,1 @@
+We prove Anderson localization for the discrete Laplace operator on radial tree graphs with random branching numbers. Our method relies on the representation of the Laplace operator as the direct sum of half-line Jacobi matrices whose entries are non-degenerate, independent, identically distributed random variables with singular distributions.

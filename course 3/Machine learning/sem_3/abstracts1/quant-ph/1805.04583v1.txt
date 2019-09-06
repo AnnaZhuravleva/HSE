@@ -1,0 +1,1 @@
+We introduce and study the entanglement breaking rank of an entanglement breaking channel. We show that the problem of computing the entanglement breaking rank of the channel \begin{align*} \mathfrak Z(X) = \frac{1}{d+1}(X+\text{Tr}(X)\mathbb I_d) \end{align*} is equivalent to the existence problem of symmetric informationally-complete POVMs.

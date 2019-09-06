@@ -1,0 +1,1 @@
+We present the updated results of the infrared behavior of the SU(2) 6 and 8 fundamental representation fermions. We use the gradient flow method with the Schr\"odinger functional boundary conditions to measure the running of the coupling in these theories and find fixed points on both. We also measure the mass anomalous dimension from these configurations.

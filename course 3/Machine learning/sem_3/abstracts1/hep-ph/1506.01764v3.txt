@@ -1,0 +1,1 @@
+We compare the low-energy partial wave analyses $\pi N$ scattering with a high-energy data via finite energy sum rules. We construct a new set of amplitudes by matching the imaginary part from the low-energy analysis with the high-energy, Regge parametrization and reconstruct the real parts using dispersion relations.

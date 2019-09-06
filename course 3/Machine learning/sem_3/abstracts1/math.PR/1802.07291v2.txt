@@ -1,0 +1,1 @@
+We provide an alternative formula for spin distributions of generic p-spin glass models. As a main application of this expression, we write spin statistics as solutions of partial differential equations and we show that the generic p-spin models satisfy multiscale Thouless-Anderson-Palmer equations as originally predicted in the work of Mezard-Virasoro.

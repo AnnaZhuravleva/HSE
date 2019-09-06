@@ -1,0 +1,1 @@
+We show how to generate the AdS spacetime metric in general Lorentz covariant gauges. In particular we propose an iterative method for solving the Lorentz gauge.

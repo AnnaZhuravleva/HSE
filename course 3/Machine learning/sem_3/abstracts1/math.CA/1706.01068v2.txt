@@ -1,0 +1,1 @@
+Using Hilbert transforms, we establish two families of sum rules involving Bessel moments, which are integrals associated with Feynman diagrams in two-dimensional quantum field theory. With these linear relations among Bessel moments, we verify and generalize two conjectures by Bailey-Borwein-Broadhurst-Glasser and Broadhurst-Mellit.

@@ -1,0 +1,1 @@
+We show that the Wess-Zumino-Novikov-Witten (WZW) model on the Heisenberg Lie group $H_{4}$ has Jacobi-Lie symmetry with four dual Lie groups. We construct Jacobi-Lie T-dual sigma models with one of their Jacobi-Lie bialgebra and show that the original model is equivalent to the $H_{4}$ WZW model. The conformality of the dual sigma model up to one-loop order is also investigated.

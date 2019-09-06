@@ -1,0 +1,1 @@
+We present a proof that differential equations for Feynman loop integrals can always be derived in Baikov representation without involving dimension-shift identities. We moreover show that in a large class of two- and three-loop diagrams it is possible to avoid squared propagators in the intermediate steps of setting up the differential equations.

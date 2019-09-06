@@ -1,0 +1,1 @@
+We consider quadratic tomography in star product formalism. The contraction and the behavior of the associative algebra of quadratic tomographic symbols in $\hbar\rightarrow 0$ limit are discussed. A simple $k$-deformation example is illustrated.

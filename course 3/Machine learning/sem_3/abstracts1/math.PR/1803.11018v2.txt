@@ -1,0 +1,1 @@
+We consider the Coulomb gas of $N$ particles on the sphere and show that the logarithmic energy of the configurations approaches the minimal energy up to an error of order $\log N$, with exponentially high probability and on average, provided the temperature is $\mathcal O(1/N)$.

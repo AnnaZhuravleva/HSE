@@ -1,0 +1,1 @@
+We study the time evolution of an incompressible Euler fluid with planar symmetry when the vorticity is initially concentrated in small disks. We discuss how long this concentration persists, showing that in some cases this happens for quite long times. Moreover, we analyze a toy model that shows a similar behavior and gives some hints on the original problem.

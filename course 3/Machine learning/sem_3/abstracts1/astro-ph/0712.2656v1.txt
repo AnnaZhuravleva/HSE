@@ -1,0 +1,1 @@
+In this paper research projects based on the wide-field CCD photometry performed in Piwnice Observatory are discussed. The used telescopes, as well as dedicated software pipeline for data reduction are presented. The prospects for collaboration between Polish and Bulgarian institutes in the field of wide-field photometry are also discussed.

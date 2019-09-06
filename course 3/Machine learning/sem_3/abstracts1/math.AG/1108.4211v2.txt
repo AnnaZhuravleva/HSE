@@ -1,0 +1,1 @@
+In our recent works we have used meromorphic differentials on Riemann surfaces all of whose periods are real to study the geometry of the moduli spaces of Riemann surfaces. In this paper we survey the relevant constructions and show how they are related to and motivated by the spectral theory of the elliptic Calogero-Moser integrable system.

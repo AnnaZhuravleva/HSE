@@ -1,0 +1,1 @@
+In this note we derive a bound using data from cosmic rays physics on a model recently proposed to solve the hierarchy problem by lowering the Planck scale to the TeV region without the introduction of extra-dimensions. We show that the non observation of small black holes by AGASA implies a model independent limit for the four-dimensional reduced Planck mass of roughly 488 GeV.

@@ -1,0 +1,1 @@
+Modelling global disc galaxies is a difficult task which has previously resulted in the small scale physics of the interstellar medium being greatly simplified. In this talk, I compare simulations of galaxies with different ISM properties to determine the importance of the ISM structure in the star formation properties of the disc.

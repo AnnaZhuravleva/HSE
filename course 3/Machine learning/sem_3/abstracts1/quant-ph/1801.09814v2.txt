@@ -1,0 +1,1 @@
+In the paper, using the language of spin-half particles, Hardy's paradox is examined within different semantics: a partial one, a many-valued one, and one defined as a set of weak values of projection operators. As it is shown in this paper, any of such non-classical semantics can resolve Hardy's paradox.

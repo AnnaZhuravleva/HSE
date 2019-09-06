@@ -1,0 +1,1 @@
+We review the four-loop QED corrections to the anomalous magnetic moment of the muon. The fermionic contributions with closed electron and tau contributions are discussed. Furthermore, we report on a new independent calculation of the universal four-loop contribution and compare with existing results.

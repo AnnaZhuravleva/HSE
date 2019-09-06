@@ -1,0 +1,1 @@
+We compute the contribution of three-loop mixed QCD-electroweak corrections ($\alpha_S^2\alpha^2$) to the $gg \to H$ scattering amplitude. We employ the method of differential equations to compute the relevant integrals and express them in terms of Goncharov polylogarithms.

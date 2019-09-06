@@ -1,0 +1,1 @@
+We discuss a free scalar field subject to generalized Wentzell boundary conditions. On the classical level, we prove well-posedness of the Cauchy problem and in particular causality. Upon quantization, we obtain a field that may naturally be restricted to the boundary. We discuss the holographic relation between this boundary field and the bulk field.

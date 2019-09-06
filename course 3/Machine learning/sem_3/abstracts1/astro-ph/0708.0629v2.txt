@@ -1,0 +1,1 @@
+We present a new treatment of the Earth matter effects on the neutrino oscillations that is valid for an arbitrary density profile. When applied to the the study of the day-night effect on the solar neutrino flux it renders us a simple analytical expression, which is more accurate than those derived by using the perturbation theory and can be extended to higher energies.

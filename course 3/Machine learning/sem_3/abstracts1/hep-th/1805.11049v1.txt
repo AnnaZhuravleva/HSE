@@ -1,0 +1,1 @@
+We calculate the linearized four-dimensional gravitational Chern-Simons term at the finite temperature, show its finiteness and explicitly demonstrate that its transversal part matches the known result for the chiral vortical conductivity.

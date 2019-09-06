@@ -1,0 +1,1 @@
+In this paper we propose definitions and examples of categorical enhancements of the data involved in the $2d$-$4d$ wall-crossing formulas which generalize both Cecotti-Vafa and Kontsevich-Soibelman motivic wall-crossing formulas.

@@ -1,0 +1,1 @@
+We quantify the coupling asymptotics for the Lyapunov-exponent of a one-frequency quasi-periodic Schr\"odinger operator with analytic potential sampling function. The result refines the well-known lower bound of the Lyapunov-exponent by Sorets and Spencer.

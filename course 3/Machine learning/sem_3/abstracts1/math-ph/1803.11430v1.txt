@@ -1,0 +1,1 @@
+We compute the critical temperature of a family of quantum spin systems on regular trees of large degree. The systems include the spin-1/2 XXZ model and the spin-1 nematic model. Our formula is conjectured to be valid for large-dimensional cubic lattices. Our method of proof uses a probabilistic representation in terms of random loops.

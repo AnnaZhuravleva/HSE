@@ -1,0 +1,1 @@
+The imaging capabilities of the INTEGRAL and HESS observatories allow the study of hard X-ray and TeV sources with unprecedented positional accuracy. Here I review the multiwavelength followup studies which are currently being performed on the unidentified sources detected by these facilities in order to unveil their actual nature.

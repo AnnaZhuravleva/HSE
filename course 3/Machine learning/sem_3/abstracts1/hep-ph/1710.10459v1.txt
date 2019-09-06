@@ -1,0 +1,1 @@
+Lam suggested that the PMNS matrix (or at least some of its elements) can be predicted by embedding the residual symmetry of the leptonic mass terms into a bigger symmetry. We analyze the possibility that the residual symmetries consist of involution generators only and explore how Lam's idea can be implemented.

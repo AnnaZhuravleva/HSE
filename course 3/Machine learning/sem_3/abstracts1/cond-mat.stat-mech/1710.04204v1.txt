@@ -1,0 +1,1 @@
+The Cahn-Hilliard and Ginzburg-Landau (Allen-Cahn) equations are derived from the second law. The intuitive approach by separation of full divergences is supported by a more rigorous method, based on Liu procedure and a constitutive entropy flux. Thermodynamic considerations eliminate the necessity of variational techniques and explain the role of functional derivatives.

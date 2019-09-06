@@ -1,0 +1,1 @@
+In this work we calculate the energies odd J$^{+}$ states in selectedeven-even nuclei-$^{44}$ Ti $^{52}$ Fe and $^{96}$Cd. Of particularinterest is the fact that in many cases the first T=0 and the first T=1 state are close in energy. Whether the lowest odd J state hasT=0 or T=1 is here considered.

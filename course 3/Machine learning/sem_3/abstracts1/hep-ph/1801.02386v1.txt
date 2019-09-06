@@ -1,0 +1,1 @@
+The calculation of the R-ratio of electron-positron annihilation into hadrons is discussed. The method, which enables one to properly account for all the effects due to continuation of the spacelike perturbative results into the timelike domain at an arbitrary loop level, is delineated.

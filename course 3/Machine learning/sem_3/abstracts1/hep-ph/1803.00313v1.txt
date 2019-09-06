@@ -1,0 +1,1 @@
+The contribution of dimension-seven operators to anomalous FCNC-interactions of the t-quarks with a photon and a gluon is considered. The phenomenological Lagrangian and Feynman rules are derived. There are evaluated the expressions for the widths FCNC-decays of the t-quark into light quark and two photons, two gluons, a photon and a gluon, and three quarks.

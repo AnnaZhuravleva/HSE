@@ -1,0 +1,1 @@
+In this paper, radiating fluids scaling laws are studied. We focus on optically thin and optically thick regimes which are relevant for both astrophysics and laboratory experiments. By using homothetic Lie groups, we obtain the scaling laws, the similarity properties and the number of free parameters which allow to rescale experiments in the two astrophyscial situations.

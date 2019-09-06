@@ -1,0 +1,1 @@
+We show that couplings of the goldstino field, appearing when global supersymmetry is broken, can always be described in superspace by means of a nilpotent chiral superfield $X$, satisfying $X^2=0$. This applies to both F-term and D-term supersymmetry breaking, even when the supersymmetry breaking model admits a linear description.

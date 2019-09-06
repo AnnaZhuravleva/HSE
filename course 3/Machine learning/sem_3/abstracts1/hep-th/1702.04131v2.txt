@@ -1,0 +1,1 @@
+We present explicit expressions for Fock-space projection operators that correspond to realistic final states in scattering experiments. Our operators automatically sum over unobserved quanta and account for non-emission into sub-regions of momentum space.

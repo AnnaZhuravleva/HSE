@@ -1,0 +1,1 @@
+Galaxy cluster gas mass fraction versus redshift data and Hubble parameter versus redshift data are used to jointly constrain dark energy models. These constraints favor the Einstein cosmological constant limit of dark energy but do not strongly rule out slowly-evolving dark energy.

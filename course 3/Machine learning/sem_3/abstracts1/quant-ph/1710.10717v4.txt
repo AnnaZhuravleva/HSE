@@ -1,0 +1,1 @@
+In quantum information theory, entropic inequalities act as the necessary and sufficient conditions to noncontextuality. Here, we first experimentally demonstrate the violation of the entropic noncontextual inequality in a four-level quantum system, by using the five-qubit IBM quantum computer. The experimental result disproves the existence of a local realist model.

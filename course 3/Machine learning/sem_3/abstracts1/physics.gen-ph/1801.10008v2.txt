@@ -1,0 +1,1 @@
+A model invariant under a supersymmetric extension of the rotation group O(3) is mapped, using a stereographic projection, from the spherical surface S2 to two dimensional Euclidean space. The resulting model does not have a manifest local structure.

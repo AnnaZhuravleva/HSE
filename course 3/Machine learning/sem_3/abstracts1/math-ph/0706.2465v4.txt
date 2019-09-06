@@ -1,0 +1,1 @@
+The invariants of solvable Lie algebras with nilradicals isomorphic to the algebra of strongly upper triangular matrices and diagonal nilindependent elements are studied exhaustively. Bases of the invariant sets of all such algebras are constructed by an original purely algebraic algorithm based on Cartan's method of moving frames.

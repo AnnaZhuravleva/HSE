@@ -1,0 +1,1 @@
+The equations of motion for matter in non-Riemannian spacetimes are derived via a multipole method. It is found that only test bodies with microstructure couple to the non-Riemannian spacetime geometry. Consequently it is impossible to detect spacetime torsion with the satellite experiment Gravity Probe B, contrary to some recent claims in the literature.

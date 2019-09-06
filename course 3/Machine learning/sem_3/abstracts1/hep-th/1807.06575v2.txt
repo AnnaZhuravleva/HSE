@@ -1,0 +1,1 @@
+I show that the black hole entropy associated to an $AdS_2$ wormhole is an entanglement edge term related to a natural measure on the gauge group in the $SL(2)$ gauge theory formulation of $1+1d$ Jackiw-Teitelboim gravity. I comment on what the entropy appears to be counting.

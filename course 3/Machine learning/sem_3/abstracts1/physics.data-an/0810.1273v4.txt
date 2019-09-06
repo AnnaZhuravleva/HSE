@@ -1,0 +1,1 @@
+We describe an extension to the Geant4 software package that allows it to be used as a general purpose X-ray tracing package. We demonstrate its use by building a model of the X-ray optics of the XMM-Newton, calculating its effective area, and comparing the results with the published calibration curves.

@@ -1,0 +1,1 @@
+We prove that static fluid stars can stably support magnetic fields (within the ideal MHD approximation).

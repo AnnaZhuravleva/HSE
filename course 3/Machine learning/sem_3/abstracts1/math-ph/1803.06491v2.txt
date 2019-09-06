@@ -1,0 +1,1 @@
+We find the complete set of invertible solutions of the untwisted and twisted reflection equations for the Bazhanov-Jimbo R-matrix of type ${\mathrm A}^{(1)}_{N-1}$. We also show that all invertible solutions can be obtained by an appropriate affinization procedure from solutions of the constant untwisted and twisted reflection equations.

@@ -1,0 +1,1 @@
+This report outlines the development of a B-spline--spectral numerical code for the simulation of convection flows. It allows changing the spatial resolution in all three coordinates as a function of depth, which is especially advantageous for simulations of solar convection.

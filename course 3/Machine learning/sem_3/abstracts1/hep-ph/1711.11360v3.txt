@@ -1,0 +1,1 @@
+We present the results of new fits to the recently extracted data on $F_2$ at low $x$ with the GBW saturation model and its modification to cover high values of $Q^2$. We find that the model stands the test of time and gives a good description of the data with slightly modified parameters. All the essential elements of the model, especially the saturation scale, are retained.

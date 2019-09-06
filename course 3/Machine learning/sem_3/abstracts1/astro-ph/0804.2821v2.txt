@@ -1,0 +1,1 @@
+We show how an emission endowed with an instantaneous thermal spectrum in the co-moving frame of the expanding fireshell can reproduce the time-integrated GRB observed non-thermal spectrum. An explicit example in the case of GRB 031203 is presented.

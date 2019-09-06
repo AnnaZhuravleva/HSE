@@ -1,0 +1,1 @@
+Equivalent photon approximation is used to calculate fiducial cross sections for dimuon production in ultraperipheral proton-proton and lead-lead collisions. Analytical formulae taking into account experimental cuts are derived. The results are compared with the measurements reported by the ATLAS collaboration.

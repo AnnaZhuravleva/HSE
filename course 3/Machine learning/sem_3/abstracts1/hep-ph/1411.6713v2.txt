@@ -1,0 +1,1 @@
+We study the quark-antiquark scattering phase shift and meson spectral function in the pion superfluid described by the Nambu--Jona-Lasinio model. The meson mixing in the pion superfluid changes dramatically the full scattering phase shift and spreads strongly the spectral function of some of the collective modes.

@@ -1,0 +1,1 @@
+We discuss the reported detection by the MILAGRO experiment of localised hot spots in the cosmic ray arrival distribution and the difficulty of interpreting these observations. A model based on secondary neutron production in the heliotail is shown to fail. An alternative model based on loss-cone leakage through a magnetic trap from a local source region is proposed.

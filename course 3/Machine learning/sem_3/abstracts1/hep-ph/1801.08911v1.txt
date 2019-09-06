@@ -1,0 +1,1 @@
+A brief review of a neutrino oscillations effect in an external magnetic field and matter currents is given. An ultra-relativistic neutrino propagation in moving external media is investigated. We have found a new spin operator which commutes with the corresponding Hamiltonian, exact wave functions and energy spectrum are obtained.

@@ -1,0 +1,1 @@
+Contrary to recent claims in the literature, a simple test for reflection positivite, which we call perturbative reflection positivity in the coincidence limit, is shown to be satisfied for nonlocal field theories. Particular attention is given to weakly nonlocal gravity and gauge theories.

@@ -1,0 +1,1 @@
+We show that the space of solutions of a wide family of Ricci-based metric-affine theories of gravity can be put into correspondence with the space of solutions of general relativity (GR). This allows us to use well-established methods and results from GR to explore new gravitational physics beyond it.

@@ -1,0 +1,1 @@
+We study non-random fluctuation in the first passage percolation on $\mathbb{Z}^d$ and show that it diverges for any dimension. We also prove the divergence of the non-random shape fluctuation, which was conjectured in [Yu Zhang. The divergence of fluctuations for shape in first passage percolation. {\em Probab. Theory. Related. Fields.} 136(2) 298--320, 2006].

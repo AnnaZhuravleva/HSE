@@ -1,0 +1,1 @@
+The mixed initial-boundary value problem for infinite one-dimensional chain of harmonic oscillators on the half-line is considered. We study the large time behavior of solutions and derive the dispersive bounds.

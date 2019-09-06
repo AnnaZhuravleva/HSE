@@ -1,0 +1,1 @@
+In this technical note, we study the possibility of using networks of ground-based detectors to directly measure gravitational-wave polarizations using signals from compact binary coalescences. We present a simple data analysis method to partially achieve this, assuming presence of a strong signal well-captured by a GR template.

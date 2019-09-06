@@ -1,0 +1,1 @@
+We prove a large deviations principle for the total spin and the number of edges under the annealed Ising measure on generalized random graphs. We also give detailed results on how the annealing over the Ising model changes the degrees of the vertices in the graph and show how it gives rise to interesting correlated random graphs.

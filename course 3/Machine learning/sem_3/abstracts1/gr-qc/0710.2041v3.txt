@@ -1,0 +1,1 @@
+The generalized Darmois--Israel formalism for Einstein--Gauss--Bonnet theory is applied to construct thin-shell Lorentzian wormholes with spherical symmetry. We calculate the energy localized on the shell, and we find that for certain values of the parameters wormholes could be supported by matter not violating the energy conditions.

@@ -1,0 +1,1 @@
+Given the algebra, Hilbert space H, grading and real structure of the finite spectral triple of the Standard Model, we classify all possible Dirac operators such that H is a self-Morita equivalence bimodule for the associated Clifford algebra.

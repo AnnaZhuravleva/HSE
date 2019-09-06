@@ -1,0 +1,1 @@
+We study the production of a tensor glueball in the reaction $\gamma\gamma\rightarrow G_2\pi^0$. We compute the cross section at higher momentum transfer using the collinear factorisation approach. We find that for a value of the tensor gluon coupling of $f^T_g\sim 100$~MeV, the cross section can be measured in the near future by the Belle~II experiment.

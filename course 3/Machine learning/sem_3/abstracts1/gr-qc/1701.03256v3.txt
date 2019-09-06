@@ -1,0 +1,1 @@
+We study the global structure of dyonic fields on a Taub-Bolt background, and compare our results with similar fields over Taub-NUT and Schwarzschild spaces. It is shown that the electric and magnetic charges are quantized and lead to a classification of dyonic Taub-Bolt configurations. The quantization condition for the magnetic charge is similar to that of Dirac's monopole.

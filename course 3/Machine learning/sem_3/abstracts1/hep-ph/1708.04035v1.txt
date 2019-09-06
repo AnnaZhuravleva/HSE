@@ -1,0 +1,1 @@
+A new hydrodynamic framework for particles with spin 1/2, based solely on the conservation laws for charge, energy, momentum and angular momentum, is discussed.

@@ -1,0 +1,1 @@
+We study asymptotical expansion as $\nu\to0$ for integrals over ${ \mathbb{R} }^{2d}=\{(x,y)\}$ of quotients of the form $F(x,y) \cos(\lambda x\cdot y) \big/ \big( (x\cdot y)^2+\nu^2\big)$, where $\lambda\ge 0$ and $F$ decays at infinity sufficiently fast. Integrals of this kind appear in the theory of wave turbulence.

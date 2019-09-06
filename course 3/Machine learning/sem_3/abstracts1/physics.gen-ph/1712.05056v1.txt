@@ -1,0 +1,1 @@
+We provide definitions of renormdynamic motion equations and some properties of renormdynamic functions with examples. Formal, longwave and shortwave solutions of the canonical equation for generalized (pseudo) analytic functions (GPF) are considered.

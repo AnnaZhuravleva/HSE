@@ -1,0 +1,1 @@
+We extend our previous definition of quasi-local mass to 2-spheres whose Gauss curvature is negative and prove its positivity.

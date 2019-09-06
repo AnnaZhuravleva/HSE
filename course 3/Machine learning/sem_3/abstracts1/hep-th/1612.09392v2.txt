@@ -1,0 +1,1 @@
+We construct general Wigner rotations for both massive and massless particles in $D$-dimensional spacetime. We work out the explicit expressions of these Wigner rotations for arbitrary Lorentz transformations. We study the relation between the electromagnetic gauge invariance and the non-uniqueness of Wigner rotation.

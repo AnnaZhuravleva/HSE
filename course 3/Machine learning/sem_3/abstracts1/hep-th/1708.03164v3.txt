@@ -1,0 +1,1 @@
+We show that for a system of two entangled particles, there is a dual description to the particle equations in terms of classical theory of conformally stretched spacetime. We also connect these entangled particle equations with Finsler geometry. We show that this duality translates strongly coupled quantum equations in the pilot-wave limit to weakly coupled geometric equations.

@@ -1,0 +1,1 @@
+We introduce quiver gauge theory associated with the non-simply-laced type fractional quiver, and define fractional quiver W-algebras by using construction of arXiv:1512.08533 and arXiv:1608.04651 with representation of fractional quivers.

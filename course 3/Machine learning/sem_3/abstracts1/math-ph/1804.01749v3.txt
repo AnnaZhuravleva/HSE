@@ -1,0 +1,1 @@
+We construct a basis of solutions of the scalar $\boldsymbol{ \texttt{t} }- \boldsymbol{ \texttt{Q} }$ equation describing the spectrum of the $q$-Toda and Toda$_2$ chains by using auxiliary non-linear integral equations. Our construction allows us to provide quantisation conditions for the spectra of these models in the form of thermodynamic Bethe Ansatz-like equations.

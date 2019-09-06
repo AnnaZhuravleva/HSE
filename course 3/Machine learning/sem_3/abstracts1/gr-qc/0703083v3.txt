@@ -1,0 +1,1 @@
+It is shown that small elements of perfect fluid in adiabatic processes move along geodesic lines of a Riemannian space-time.

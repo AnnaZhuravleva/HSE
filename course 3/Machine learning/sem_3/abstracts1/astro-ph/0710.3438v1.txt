@@ -1,0 +1,1 @@
+The energy losses of a small black hole passing through the Earth are examined. In particular, we investigate the excitations in the frequency range accessible to modern acoustic detectors. The main contribution to the effect is given by the coherent sound radiation of the Cherenkov type.

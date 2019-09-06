@@ -1,0 +1,1 @@
+We extend a known solution generating technique for isotropic fluids in order to construct more general models of anisotropic stars with poloidal magnetic fields. In particular, we discuss the magnetized versions of some well-known exact solutions describing anisotropic stars and dark energy stars and we describe some of their properties.

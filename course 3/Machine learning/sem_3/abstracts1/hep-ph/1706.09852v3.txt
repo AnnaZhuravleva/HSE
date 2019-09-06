@@ -1,0 +1,1 @@
+In this paper, we present a new approach to the construction of Mellin-Barnes representations for Feynman integrals inspired by the Method of Brackets. The novel technique is helpful to lower the dimensionality of Mellin-Barnes representations in complicated cases, some examples are given.

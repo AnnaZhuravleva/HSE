@@ -1,0 +1,1 @@
+We present a simple approach to the fixed phase method in Quantum Monte Carlo. This applies to electrons in molecules and electron gas and is straightforwardly extended to the Schr\"odinger equation with magnetic field.

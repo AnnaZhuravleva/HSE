@@ -1,0 +1,1 @@
+These are notes on some entanglement properties of quantum field theory, aiming to make accessible a variety of ideas that are known in the literature. The main goal is to explain how to deal with entanglement when -- as in quantum field theory -- it is a property of the algebra of observables and not just of the states.

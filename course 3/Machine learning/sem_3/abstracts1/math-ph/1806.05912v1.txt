@@ -1,0 +1,1 @@
+We study the (2n-1)-Kepler problem and other Hamiltonian systems which are related to the nilpotent coadjoint orbits of U(n,n). The Kustaanheimo-Stiefel and Cayley regularization procedures are discussed and their equivalence is shown. Some integrable generalization (perturbation) of (2n-1)-Kepler problem is proposed.

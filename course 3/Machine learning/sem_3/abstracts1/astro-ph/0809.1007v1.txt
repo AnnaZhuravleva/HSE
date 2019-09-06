@@ -1,0 +1,1 @@
+Gravitational lensing by gravitational wave is considered. We notice that although final and initial direction of photons coincide, displacement between final and initial trajectories occurs. This displacement is calculated analytically for the plane gravitational wave pulse. Estimations for observations are discussed.

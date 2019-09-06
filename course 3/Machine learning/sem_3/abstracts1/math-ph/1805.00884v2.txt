@@ -1,0 +1,1 @@
+A novel approach to critical-contrast homogenisation is proposed. Norm-resolvent asymptotics are explicitly constructed. An essential feature of our approach is that it relates homogenisation limits to a class of time-dispersive media.

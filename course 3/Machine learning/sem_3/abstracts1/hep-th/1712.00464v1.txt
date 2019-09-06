@@ -1,0 +1,1 @@
+We classify three fold isolated quotient Gorenstein singularity $C^3/G$. These singularities are rigid, i.e. there is no non-trivial deformation, and we conjecture that they define 4d $\mathcal{N}=2$ SCFTs which do not have a Coulomb branch.

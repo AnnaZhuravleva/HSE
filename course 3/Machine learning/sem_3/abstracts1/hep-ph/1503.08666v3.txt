@@ -1,0 +1,1 @@
+In this erratum we present the correct result for the magnetization of the three flavor Nambu--Jona-Lasinio model which was originally obtained by us in Phys Rev C91, 065205 (2015).

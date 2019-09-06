@@ -1,0 +1,1 @@
+We develop the superspace geometry of N-extended conformal supergravity in three space-time dimensions. General off-shell supergravity-matter couplings are constructed in the cases N=1,2,3,4.

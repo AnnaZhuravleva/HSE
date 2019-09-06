@@ -1,0 +1,1 @@
+Using the general properties that have emerged from E theory we sketch the generic features of the dynamics of branes in seven and eight dimensions. The dynamical equations are a set of duality equations involving the coordinates of the vector representation of E11.

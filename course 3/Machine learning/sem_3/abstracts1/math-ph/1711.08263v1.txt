@@ -1,0 +1,1 @@
+We study the equilibrium problem of a system consisting by several Kirchhoff rods linked in an arbitrary way and tied by a soap film, using techniques of the Calculus of Variations. We prove the existence of a solution with minimum energy, which may be quite irregular, and perform experiments confirming the kind of surface predicted by the model.

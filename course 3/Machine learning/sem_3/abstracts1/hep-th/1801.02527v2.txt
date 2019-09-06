@@ -1,0 +1,1 @@
+We describe non-relativistic limits of the 3D Proca and square-root Proca theories that yield spin-1 Schroedinger equations. Analogous results are found by generalized null reduction of the 4D Maxwell or complex self-dual Maxwell equations. We briefly discuss the extension to spin-2.

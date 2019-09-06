@@ -1,0 +1,1 @@
+We suppose that a vector field perturbation causes part of the primordial curvature perturbation. The non-Gaussianity parameter fNL is then, in general, statistically anisotropic. We calculate its form and magnitude in the curvaton scenario and in the end-of-inflation scenario. We show that this anisotropy could easily be observable.

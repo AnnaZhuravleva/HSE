@@ -1,0 +1,1 @@
+A geometric interpretation is given of matrix elements of a short-range interaction between states that are written in terms of aligned neutron-proton pairs.

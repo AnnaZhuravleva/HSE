@@ -1,0 +1,1 @@
+In this note I study preheating after multi-field inflation to assess the feasibility of parametric resonance. An intuitive argument for the suppression of resonances due to dephasing of fields in generic multi-field models is presented. This effect is absent in effective single field models, rendering them inappropriate for the study of preheating.

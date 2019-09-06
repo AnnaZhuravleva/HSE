@@ -1,0 +1,1 @@
+In the present paper, a construction of spin weighted spherical wavelets is presented. It is based on approximate identities, the wavelets are defined for a continuous set of parameters, and the wavelet transform is invertible directly by an integral.

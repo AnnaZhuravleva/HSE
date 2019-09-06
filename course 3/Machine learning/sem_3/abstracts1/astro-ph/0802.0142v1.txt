@@ -1,0 +1,1 @@
+The goal of this presentation is in paying attention to the 1D cylindrical version of the Grad-Shafranov (GS) equation. In our opinion, this approach is more rich than classical self-similar ones, and more suitable for astrophysical jets we observe. In particular, it allows us describing the central (and, hence, the most energetic) part of the flow.

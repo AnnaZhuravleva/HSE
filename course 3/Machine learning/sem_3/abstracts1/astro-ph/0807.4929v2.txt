@@ -1,0 +1,1 @@
+By observing the transits of exoplanets, one may determine many fundamental system parameters. I review current techniques and results for the parameters that can be measured with the greatest precision, specifically, the transit times, the planetary mass and radius, and the projected spin-orbit angle.

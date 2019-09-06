@@ -1,0 +1,1 @@
+In this chapter we review the present status of the Gaussianity studies of the CMB anisotropies, including physical effects producing non-Gaussianity, methods to test it and observational constraints.

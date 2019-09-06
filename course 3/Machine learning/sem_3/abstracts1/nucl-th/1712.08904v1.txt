@@ -1,0 +1,1 @@
+We calculate the form factors of the electromagnetic nucleon-to-$\Delta$-resonance transition to third chiral order in manifestly Lorentz-invariant chiral effective field theory. For the purpose of generating a systematic power counting, the complex-mass scheme is applied in combination with the small-scale expansion. We fit the results to available empirical data.

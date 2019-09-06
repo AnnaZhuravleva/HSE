@@ -1,0 +1,1 @@
+We present the results of detailed N-body simulations of clusters moving in a realistic Milky Way (MW) potential. The strong interaction with the bulge and the disk of the Galaxy leads to the formation of tidal tails, emanating from opposite sides of the cluster. Their orientation and morphology may be interpreted easily in terms of a comoving frame of coordinates.

@@ -1,0 +1,1 @@
+The complete calculation of the CMB polarization observables (i.e. E- and B-modes) is reported within the conventional $\Lambda$CDM paradigm supplemented by a stochastic magnetic field. Intriguing perspectives for present and forthcoming CMB polarization experiments are outlined.

@@ -1,0 +1,1 @@
+Classical capacity of unital qubit channels is well known, whereas that of nonunital qubit channels is not. We find lower and upper bounds on classical capacity of nonunital qubit channels by using a recently developed decomposition technique relating nonunital and unital positive qubit maps.

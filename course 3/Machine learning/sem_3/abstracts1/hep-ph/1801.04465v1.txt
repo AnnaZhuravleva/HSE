@@ -1,0 +1,1 @@
+In this talk, we review the most recent developments of the four-dimensional unsubstraction (FDU) and loop-tree duality (LTD) methods. In particular, we make emphasis on the advantages of the LTD formalism regarding asymptotic expansions of loop integrands.

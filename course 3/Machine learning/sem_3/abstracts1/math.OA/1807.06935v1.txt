@@ -1,0 +1,1 @@
+We present a dual formula for Connes' spectral distance generalizing Beckmann's formula for the Monge-Kantorovich-Wasserstein distance of order $1$. We then discuss some examples with matrix algebras.

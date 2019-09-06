@@ -1,0 +1,1 @@
+In the paper, asymptotic behavior of the uncertainty product for a family of zonal spherical wavelets is computed. The family contains the most popular wavelets, such as Gauss-Weierstrass, Abel-Poisson and Poisson wavelets and Mexican needlets. Boundedness of the uncertainty constant is in general not given, but it is a property of some of the wavelets from this class.

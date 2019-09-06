@@ -1,0 +1,1 @@
+We consider a quantum graph as a model of graphene in constant magnetic field and describe the density of states in terms of relativistic Landau levels satisfying a Bohr--Sommerfeld quantization condition. That provides semiclassical corrections (with the magnetic flux as the semiclassical parameter) in the study of magnetic oscillations.

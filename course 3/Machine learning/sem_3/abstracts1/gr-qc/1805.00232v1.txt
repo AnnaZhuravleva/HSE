@@ -1,0 +1,1 @@
+Employing a pseudo-orthonormal coordinate-free approach, the solutions to the Klein--Gordon and Dirac equations for particles in Melvin spacetime are derived in terms of Heun's biconfluent functions.

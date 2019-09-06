@@ -1,0 +1,1 @@
+We review the general heat kernel method for the Dirac spinor field as an elementary example in any arbitrary background. We, then compute the first three Seeley-DeWitt coefficients for the massless free spin-3/2 Rarita-Schwinger field without imposing any limitations on the background geometry.

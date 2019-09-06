@@ -1,0 +1,1 @@
+We study a Light Shinning Through the wall type setup with microwave cavities, where the regeneration cavity has a moving boundary condition oscillating harmonically. We find a parametric resonance that could enhance the probability conversion between Weakly Interacting Slim Particles and photons by several orders of magnitude.

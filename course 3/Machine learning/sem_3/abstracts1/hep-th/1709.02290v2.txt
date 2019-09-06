@@ -1,0 +1,1 @@
+Explicit expressions are found for the $6j$ symbols in symmetric representations of quantum $\mathfrak{su}_N$ through appropriate hypergeometric Askey-Wilson (q-Racah) polynomials. This generalizes the well-known classical formulas for $U_q(\mathfrak{su}_2)$ and provides a link to conformal theories and matrix models.

@@ -1,0 +1,1 @@
+We calculate the decay rate and spectrum for the decay of parapositronium into three photons. This process violates charge conjugation symmetry. It is forbidden within quantum electrodynamics but proceeds through the weak interaction. The branching ratio we find is fifty orders of magnitude smaller than the previous estimate.

@@ -1,0 +1,1 @@
+Dissipative axisymmetric pulsar magnetosphere is calculated by a direct numerical simulation of the Strong-Field Electrodynamics equations. The magnetic separatrix disappears, it is replaced by a region of enhanced dissipation. With a better numerical scheme, one should be able to calculate the bolometric lightcurves for a given conductivity.

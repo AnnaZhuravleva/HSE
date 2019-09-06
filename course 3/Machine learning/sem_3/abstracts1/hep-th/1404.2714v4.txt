@@ -1,0 +1,1 @@
+In this note, we evaluate the Weyl-invariant quadratic curvature tensors for the particular Weyl's gauge field constructed in the $3+1$-dimensional noncompact Weyl-Einstein-Yang-Mills model. We subsequently extend the model to its higher curvature version. Here, we also compute Weyl-invariant extension of topological Gauss-Bonnet term for this specific choice of vector field.

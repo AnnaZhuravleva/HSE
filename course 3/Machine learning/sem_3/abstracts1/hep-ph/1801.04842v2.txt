@@ -1,0 +1,1 @@
+We discuss spin physics, Guido Altarelli's contribution to it, and what we still have to learn. We set out in particular a programme for incorporating constraints from semi-inclusive data into global fits of polarized PDFs, and discuss the need for the EIC to increase the precision and kinematic coverage of current measurements.

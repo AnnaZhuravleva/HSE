@@ -1,0 +1,1 @@
+Searching for the simplest non-abelian 2d gauge theory with $\mathcal{N}=(0,2)$ supersymmetry and non-trivial IR physics, we propose a new duality for $SU(2)$ SQCD with $N_f = 4$ chiral flavors. The chiral algebra of this theory is found to be $\mathfrak{so}(8)_{-2}$, the same as in 4d $\mathcal{N}=2$ $SU(2)$ gauge theory with four hypermultiplets.

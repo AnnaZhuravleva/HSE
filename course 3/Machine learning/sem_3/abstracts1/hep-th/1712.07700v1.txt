@@ -1,0 +1,1 @@
+We study 1+1 dimensional dilaton gravity models which take into account backreaction of the sinh-Gordon matter field. We found a wide class of exact solutions which generalizes black hole solutions of the Jackiw-Teitelboim gravity model and its hyperbolic deformation.

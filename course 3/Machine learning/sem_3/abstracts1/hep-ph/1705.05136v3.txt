@@ -1,0 +1,1 @@
+We evaluate the three-loop massive vacuum bubble diagrams in terms of polylogarithms up to weight six. We also construct the basis of irrational constants being harmonic polylgarithms of arguments $e^{k i \pi/3}$.

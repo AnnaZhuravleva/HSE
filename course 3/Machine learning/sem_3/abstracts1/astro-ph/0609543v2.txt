@@ -1,0 +1,1 @@
+We define a new observable that depends on finite redshift differences of the spin-weighted angular moments of the two point function of the three dimensional cosmic shear and on luminosity distance. It is shown that precise measurements of our observable will be able to tightly constrain the expansion history of the universe.

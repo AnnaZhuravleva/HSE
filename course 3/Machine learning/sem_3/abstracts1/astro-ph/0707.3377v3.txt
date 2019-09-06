@@ -1,0 +1,1 @@
+The leading quantum correction to the power spectrum of a gravitationally-coupled light scalar field is calculated, assuming that it is generated during a phase of single-field, slow-roll inflation.

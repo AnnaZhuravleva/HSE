@@ -1,0 +1,1 @@
+We propose the Roe C*-algebra from coarse geometry as a model for topological phases of disordered materials. We explain the robustness of this C*-algebra and formulate the bulk-edge correspondence in this framework. We describe the map from the K-theory of the group C*-algebra of Z^d to the K-theory of the Roe C*-algebra, both for real and complex K-theory.

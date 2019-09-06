@@ -1,0 +1,1 @@
+We use the asymptotic expansion of the heat trace to express all residues of spectral zeta functions as regularized sums over the spectrum. The method extends to those spectral zeta functions that are localized by a bounded operator.
