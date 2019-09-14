@@ -22,9 +22,15 @@ pmm = pymorphy2.MorphAnalyzer()
 class InfoSearch:
 
     def __init__(self):
-        self.data = self.loads('json.txt')
-        self.invert_idx = self.loads('invert_json.txt')
-        self._filenames = self.filenames()
+        try:
+            self.data = self.loads('json.txt')
+            self.invert_idx = self.loads('invert_json.txt')
+        except FileNotFoundError:
+            print('loading..')
+            self._filenames = self.filenames()
+            self.indexing()
+            self.data = self.loads('json.txt')
+            self.invert_idx = self.loads('invert_json.txt')
 
     def filenames(self):
         curr_dir = os.path.join(os.getcwd(), 'friends')
@@ -60,8 +66,7 @@ class InfoSearch:
             json.dump(js, outfile, ensure_ascii=False)
         with open('invert_json.txt', 'w', encoding='utf-8') as outfile:
             json.dump(invert_index, outfile, ensure_ascii=False)
-
-        return
+        return None
 
     def loads(self, path):
         with open(path, 'r', encoding='utf-8') as json_file:
@@ -88,7 +93,7 @@ class InfoSearch:
             result = self.relevant(query, self.data)
             for item in result:
                 print(f'{item[0]} - {item[1]} соответствий в коллекции')
-        return
+        return None
 
     def stats(self):
         tmp = sorted(self.invert_idx.items(), key=lambda k_v: len(k_v[1]),
@@ -129,6 +134,5 @@ class InfoSearch:
 
 if __name__ == '__main__':
     friends = InfoSearch()
-    # friends.indexing()
     friends.stats()
     friends.search()
