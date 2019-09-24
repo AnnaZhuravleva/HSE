@@ -47,7 +47,7 @@ def search(query):
     res = []
     for i, d in enumerate(docs):
         tmp = bm25(d, query, n, len(d))
-        if tmp > 0.0:
+        if tmp > 0.0 and data['question'][i] not in res:
             res.append([tmp, i, d, data['question'][i]])
     res = sorted(res, key=lambda x: x[0], reverse=True)
     print("Вот 25 наиболее подходящих документов")
@@ -56,9 +56,10 @@ def search(query):
 
 
 def tf_idf_matrix():
-    return vectorizer.fit_transform(data['question2'])
+    return vectorizer.fit_transform(list(data['question2']))
 
 
 if __name__ == '__main__':
     search('рождественские каникулы')
+    print(tf_idf_matrix().shape)
     pass
