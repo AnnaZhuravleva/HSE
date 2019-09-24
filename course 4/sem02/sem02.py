@@ -45,10 +45,12 @@ def search(query):
     query = [pmm.normal_forms(word)[0] for word in query]
     n = [sum([1 for doc in docs if word in doc]) for word in query]
     res = []
+    texts = []
     for i, d in enumerate(docs):
         tmp = bm25(d, query, n, len(d))
-        if tmp > 0.0 and data['question'][i] not in res:
+        if tmp > 0.0 and data['question'][i] not in texts:
             res.append([tmp, i, d, data['question'][i]])
+            texts.append(data['question'][i])
     res = sorted(res, key=lambda x: x[0], reverse=True)
     print("Вот 25 наиболее подходящих документов")
     print("\n".join(
