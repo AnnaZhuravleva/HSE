@@ -6,6 +6,7 @@ import csv
 import os
 import pymorphy2
 import re
+import time
 
 pmm = pymorphy2.MorphAnalyzer()
 
@@ -29,7 +30,6 @@ class Data:
         if os.path.isfile(name):
             self.bm25_matrix = np.load(name)
         else:
-            print('wait...')
             self.bm25_matrix = self.bm25_build_matrix(name)
 
     def bm25(self, doc, query, n, ld):
@@ -42,15 +42,16 @@ class Data:
         return score
 
     def bm25_build_matrix(self, name):
+        print('wait...')
         bm25_matrix = np.zeros(self.matrix.shape)
         n = [sum([1 for doc in self.docs if word in doc]) for word in
              self.dictionary]
-        for idxw, word in enumerate(self.dictionary):
-            for idxd, doc in enumerate(self.docs):
-                bm25_matrix[idxd, idxw] = self.bm25(
-                    doc, [word], [n[idxw]], len(doc))
-            if int(((idxw / len(self.dictionary)) * 100) % 10) == 0:
-                print(f'{int(idxw / len(self.dictionary) * 100)}%')
+        for idw, word in enumerate(self.dictionary):
+            for idd, doc in enumerate(self.docs):
+                bm25_matrix[idd, idw] = self.bm25(
+                    doc, [word], [n[idw]], len(doc))
+            # if int(((idw / len(self.dictionary)) * 100) % 10) == 0:
+            #   print(f'{int(idw / len(self.dictionary) * 100)}%')
         np.save(name, bm25_matrix)
         print('matrix saved')
         return bm25_matrix
@@ -69,18 +70,23 @@ class Data:
 
 class BM25(Data):
 
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        self.test_data = pd.read_csv('quora_question_pairs_rus.csv')[:self.top]
+        self.queries = \
+            [[i, j] for i, j in enumerate(self.test_data['question1'])
+             if self.test_data['is_duplicate'][i] == 1]
+
     def search_iter(self, query, top=5):
         query = [w.strip(r',\.\"!–?-\'\"\(\)\"-::—;)(\«\»\W')
                  for w in query.split()]
         query = [pmm.normal_forms(word)[0] for word in query]
         n = [sum([1 for doc in self.docs if word in doc]) for word in query]
         res = []
-        texts = []
         for i, d in enumerate(self.docs):
             score = self.bm25(d, query, n, len(d))
-            if score > 0.0 and self.data['question'][i] not in texts:
-                res.append([i, score, self.data['question'][i]])
-                texts.append(self.data['question'][i])
+            if score > 0.0:
+                res.append([i, score])
         res = sorted(res, key=lambda x: x[1], reverse=True)
         return res[:top]
 
@@ -96,25 +102,39 @@ class BM25(Data):
         res = sorted(res, key=lambda x: x[1], reverse=True)
         return res[:top]
 
-    def test_time(self):
-        test_data = pd.read_csv('quora_question_pairs_rus.csv')[:self.top]
-        answers = list(test_data['is_duplicate'])
-        queries = [[i, j] for i, j in
-                   enumerate(test_data['question1']) if answers[i] == 1]
-        for idx, q1 in enumerate(queries):
-            res_iter = [x[0] for x in bm25.search_iter(q1[1], top=15)]
-            res_matrix = [x[0] for x in bm25.search_matrix(q1[1], top=15)]
-            print(idx, q1[0], q1[1], test_data['question2'][q1[0]])
-            # print('results', res_iter, res_matrix)
-            accuracy_iter = 1 if q1[0] in res_iter else 0
-            accuracy_matrix = 1 if q1[0] in res_matrix else 0
-            print(accuracy_iter, accuracy_matrix)
-            print('=================')
+    def test_time(self, number=10000):
+        print(f'Сравним время работы двух поисковиков на {number} запросах')
+        start_iter = time.time()
+        for item in self.queries[:number]:
+            self.search_iter(item[1])
+        end_iter = time.time()
+        print(f'Время работы первого поисковика - {end_iter - start_iter}')
+        start_matrix = time.time()
+        for item in self.queries[:number]:
+            self.search_matrix(item[1])
+        end_matrix = time.time()
+        print(f'Время работы второго поисковика - {end_matrix - start_matrix}')
+        return [end_iter - start_iter, end_matrix - start_matrix]
+
+    def test_query(self, query='рождественские каникулы', top=10):
+        print(f'Выводим результаты по запросу {query}')
+        print('Первый поисковик')
+        for i, j in enumerate(self.search_iter(query, top)):
+            text = self.test_data['question2'][j[0]]
+            print(f'{i}.\tText_id: {j[0]},\tscore: {j[1]},\ttext: {text}')
+        print('Второй поисковик')
+        for i, j in enumerate(self.search_matrix(query, top)):
+            text = self.test_data['question2'][j[0]]
+            print(f'{i}.\tText_id: {j[0]},\tscore: {j[1][0]},\ttext: {text}')
         return
+
+    def test_accuracy(self):
+        return 
 
 
 if __name__ == '__main__':
-    bm25 = BM25(top=10000)
-    bm25.test_time()
-    # print(bm25.search_iter('как я могу быть хорошим геологом?', 6))
+    bm25 = BM25(top=10000)  # В скобках указываем количество документов
+    bm25.test_time(10)  # В скобках указываем количество запросов
+    bm25.test_query('зарплата врача в Индии', top=10)  # В скобках указываем
+    # количество результатов
     # bm25.search_matrix('каникулы', 10)
