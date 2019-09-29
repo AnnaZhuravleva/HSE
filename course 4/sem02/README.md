@@ -9,4 +9,4 @@
 > python sem01.py
 ```
 
-> Examples of output: out.txt
+> Examples of output: *out.txt*
