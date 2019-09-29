@@ -128,21 +128,22 @@ class BM25(Data):
             print(f'{i}.\tText_id: {j[0]},\tscore: {j[1][0]},\ttext: {text}')
         return
 
-    def test_accuracy(self, number=1000):
-        print(f'Сравним точность поиска двух поисковиков на {number} запросах')
+    def test_accuracy(self, number=1000, top=5):
+        print(f'Сравним точность двух поисковиков на {number} запросах'
+              f'при b = {self.b}')
         queries = self.queries[:number]
         accuracy_iter = 0
         accuracy_matrix = 0
         for q1 in queries:
-            res_iter = [x[0] for x in self.search_iter(query=q1[1], top=5)]
+            res_iter = [x[0] for x in self.search_iter(query=q1[1], top=top)]
             accuracy_iter += int(q1[0] in res_iter)
-        print(f'Точность первого поисковика - '
-              f'{int((accuracy_iter / number) * 100)} %')
+        print(f'Точность первого поисковика - ' +
+              "{:.0%}".format(accuracy_iter / number))
         for q1 in queries:
-            res_matrix = [x[0] for x in self.search_iter(query=q1[1], top=5)]
+            res_matrix = [x[0] for x in self.search_iter(query=q1[1], top=top)]
             accuracy_matrix += int(q1[0] in res_matrix)
-        print(f'Точность второго поисковика - '
-              f'{int((accuracy_matrix / number) * 100)} %')
+        print('Точность второго поисковика - ' +
+              "{:.0%}".format(accuracy_matrix / number))
 
         return [accuracy_iter / number, accuracy_matrix / number]
 
@@ -152,6 +153,6 @@ if __name__ == '__main__':
     bm25.test_time(10)  # В скобках указываем количество запросов
     bm25.test_query('зарплата врача в Индии', top=10)  # В скобках указываем
     # количество результатов
-    bm25.test_accuracy(number=10)
+    bm25.test_accuracy(number=10, top=5)
     # bm15 = BM25(b=0, top=10000)
     # bm11 = BM25(b=1, top=10000)
