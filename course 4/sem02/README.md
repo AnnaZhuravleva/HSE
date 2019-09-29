@@ -6,7 +6,7 @@
 ### Run
 
 ```
-> python sem01.py
+> python sem02.py
 ```
 
 > Examples of output: *out.txt*
