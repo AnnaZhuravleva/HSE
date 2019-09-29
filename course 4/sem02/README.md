@@ -1,7 +1,7 @@
 # BM25
 
 ### Prerequisites:
-* Download and extract files from [bm25.zip](https://drive.google.com/open?id=1GWfU9_pjOniPD6WEnkL0id2wcZTTCIY-) to the folder with program file
+* Download and extract files from [bm25.zip](https://drive.google.com/open?id=1vaKCRQtZ8Ic_sAyrFUlw0L-iy3ikDLs_) to the folder with program file
 
 ### Run
 
