@@ -4,6 +4,9 @@
 * Download [files](https://drive.google.com/drive/folders/1VJG_vHSLAqupPKlo-Pw68b_LUl7YqjXG?usp=sharing) to the folder with program file
 
 ### Run
-'''
-> python sem02.py
-'''
+
+```
+> python sem01.py
+```
+
+> Examples of output: out.txt
