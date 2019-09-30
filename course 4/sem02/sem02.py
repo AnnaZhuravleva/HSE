@@ -168,8 +168,8 @@ if __name__ == '__main__':
     bm25.test_time(120)  # В скобках указываем количество запросов
     bm25.test_query('рождественские каникулы', top=10)  # В скобках указываем
     # количество результатов
-    # bm15.test_query('рождественские каникулы', top=5)
-    # bm11.test_query('рождественские каникулы', top=5)
+    # bm15.test_query('рождественские каникулы', top=10)
+    # bm11.test_query('рождественские каникулы', top=10)
     bm25.test_accuracy(number=120, top=5)
     # bm15.test_accuracy(number=120, top=5)
     # bm11.test_accuracy(number=120, top=5)
