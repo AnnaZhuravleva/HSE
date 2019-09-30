@@ -58,7 +58,7 @@ class Data:
             for idd, doc in enumerate(self.docs):
                 bm25_matrix[idd, idw] = self.bm25(
                     doc, [word], [n[idw]], len(doc))
-            # logging.info(f{idw} from {len(self.dictionary)}')
+            # logging.info(f'{idw} from {len(self.dictionary)}')
         np.save(name, bm25_matrix)
         logging.info('matrix saved')
         return bm25_matrix
@@ -166,7 +166,7 @@ if __name__ == '__main__':
     # bm15 = BM25(b=0, top=12000)
     # bm11 = BM25(b=1, top=12000)
     bm25.test_time(120)  # В скобках указываем количество запросов
-    bm25.test_query('рождественские каникулы', top=5)  # В скобках указываем
+    bm25.test_query('рождественские каникулы', top=10)  # В скобках указываем
     # количество результатов
     # bm15.test_query('рождественские каникулы', top=5)
     # bm11.test_query('рождественские каникулы', top=5)
