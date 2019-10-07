@@ -3,4 +3,4 @@
 > python3 sem03.py
 ```
 
-> В тетрадке Sem03_semantics.ipnb можно посмотреть на выдачи
+> В тетрадке Copy_of_Sem03_semantics.ipynb можно посмотреть на выдачи
