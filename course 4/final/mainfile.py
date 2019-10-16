@@ -24,7 +24,7 @@ def result():
     try:
         model_id = request.args['model'] 
     except:
-        model_id = 1
+        model_id = 1'
         LOGGER.info('Пользователь не выбрал модель, устанавливаем Tf-Idf')
     LOGGER.info(f'Запрос: {query}; модель: {mdls[model_id]}')
     if model_id == '1':
