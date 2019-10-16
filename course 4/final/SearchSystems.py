@@ -1,101 +1,132 @@
 # -*- coding: utf-8 -*-
 # %load_ext autoreload
 
-import time
-import gensim
-# from elmo_helpers import tokenize, get_elmo_vectors, load_elmo_embeddings
-from gensim.models import Word2Vec, KeyedVectors
-from BM25 import Data, BM25
-from scipy import spatial
-# import tensorflow as tf
-from time import time
-import urllib.request
-import pandas as pd
-import numpy as np
-import collections
-import pymorphy2
-import logging
-import sklearn
-# import zipfile
-import nltk
-import sys
-import csv
-import re
-import os
+import tensorflow as tf
+from configs import *
+from elmo_helpers import tokenize
+from elmo_helpers import get_elmo_vectors
+from elmo_helpers import load_elmo_embeddings
 
 
-pmm = pymorphy2.MorphAnalyzer()
-root = logging.getLogger()
-root.setLevel(logging.DEBUG)
-handler = logging.StreamHandler(sys.stdout)
-handler.setLevel(logging.INFO)
-root.addHandler(handler)
-nltk.download('punkt')
+class BM25:
 
+    def __init__(self, k=2.0, b=0.75, top=12000):
+        LOGGER.info('BM25 initializing')
+        self.k = k
+        self.b = b
+        self.top = top
+        self.data = pd.read_csv('data/collection.csv')
+        self.collection = self.data['question2_n'][:top]
+        self._length = len(self.collection)
+        self.docs = [str(doc).split(' ') for doc in self.collection]
+        self.avg = np.mean([len(doc) for doc in self.docs]).round(5)
+        self.vectorizer = TfidfVectorizer()
+        self.matrix = self.vectorizer.fit_transform(self.collection)
+        self.dictionary = self.vectorizer.get_feature_names()
+        name = 'models/bm25.npy'
+        if os.path.isfile(name):
+            self.bm25_matrix = np.load(name)
+        else:
+            self.bm25_matrix = self.fit(name)
+        LOGGER.info('BM25 initialized')
+    
+    def simple_preproc(self, query):
+        return [pmm.normal_forms(word)[0] for word in nltk.word_tokenize(query)]
 
-def build_test_data(corpus, collection):
-    data = pd.read_csv(corpus)
-    collection = pd.read_csv(collection)['question2']
-    top = len(data['question1'])
-    test_data = []
-    for idx in range(top):
-        if data['is_duplicate'][idx] == 1:
-            test_data.append((idx, data['question1'][idx], collection[idx]))
-    return test_data
+    def fit(self, name):
+        LOGGER.info('BM25 indexing')
+        start = time()
+        bm25_matrix = np.zeros(self.matrix.shape)
+        n = [sum([1 for doc in self.docs if word in doc]) for word in
+             self.dictionary]
+        for idw, word in enumerate(self.dictionary):
+            for idd, doc in enumerate(self.docs):
+                bm25_matrix[idd, idw] = self.bm25(
+                    doc, [word], [n[idw]], len(doc))
+        np.save(name, bm25_matrix)
+        LOGGER.info(f'BM25 indexing takes {time() - start} sec')
+        return bm25_matrix
+
+    def bm25(self, doc, query, n, ld):
+        score = 0.0
+        for number, word in enumerate(query):
+            idf = log10((self._length - n[number] + 0.5) / (n[number] + 0.5))
+            tf = doc.count(word) / ld
+            score += idf * (tf * (self.k + 1.0)) / (
+                    tf + self.k * (1 - self.b + (self.b * ld / self.avg)))
+        return score
+
+    def search(self, query, top=10):
+        query = self.simple_preproc(query)
+        vector = np.zeros((len(self.dictionary), 1))
+        for i, j in enumerate(self.dictionary):
+            vector[i, 0] = 1 if j in query else 0
+        result = self.bm25_matrix.dot(vector)
+        res = [[i, j] for i, j in enumerate(result)]
+        res = sorted(res, key=lambda x: x[1], reverse=True)
+        res = [(x[0], x[1], self.data['question1'][x[0]]) for x in res[:top]]
+        return res
+
 
 class DataSet:
 
-  def __init__(self, collection, corpus):
-    self.collection = pd.read_csv(collection)['question2']
-    self.corpus = pd.read_csv(corpus)
-    # self.test_corpus = self.build_test_corpus()
+    def __init__(self, corpus):
+        self.corpus = pd.read_csv(corpus)
+        self.collection = self.corpus['question2']
 
-  def simple_preproc(self, query):
-      return [pmm.normal_forms(word)[0] for word in nltk.word_tokenize(query)]
+    def simple_preproc(self, query):
+        return [pmm.normal_forms(word)[0] for word in nltk.word_tokenize(query)]
 
-  def build_test_corpus(self):
-      data = collections.defaultdict()
+    def normalized_collection(self, corpuspath):
+        rowcorpus = pd.read_csv(corpuspath)
+        if not os.path.isdir(os.path.join(os.path.abspath, 'data')):
+            os.mkdir('data')
+        with open('data/collection.csv', 'w', newline='', encoding='utf8') as w:
+            writer = csv.writer(w, delimiter=',')
+            writer.writerow(['question1', 'question2', 'is_duplicate',
+                            'question1_n', 'question2_n',])
+            for j, x, z in zip(rowcorpus['question1'], \
+                rowcorpus['question2'], rowcorpus['is_duplicate']):
+                try:
+                    line1 = self.simple_preproc(j)
+                    line1 = ' '.join(line1)
+                except TypeError:
+                    line1 = ' '
+                try:
+                    line2 = self.simple_preproc(x)
+                    line2 = ' '.join(line2)
+                except TypeError:
+                    line2 = ' '
+                writer.writerow([j, x, z, line1, line2])
+      
 
-      for i, j in list(enumerate(self.corpus['question1'])):
-          if self.corpus['is_duplicate'][i] == 1:
-              query = self.simple_preproc(j)
-              data[i] = query
-      return data
+class FastTextSearch(DataSet):
 
-  def normalized_collection(self):
-      a = 0
-      with open('normcollection.csv', 'w', newline='', encoding='utf8') as w:
-          writer = csv.writer(w, delimiter=',')
-          writer.writerow(['question1', 'question2', 'is_duplicate',
-                           'question1_n', 'question2_n',])
-          for i, j, x, z in zip(self.collection,
-                                self.corpus['question1'],
-                                self.corpus['question2'],
-                                self.corpus['is_duplicate']):
-              try:
-                  line = self.simple_preproc(j)
-                  line = ' '.join(line)
-              except TypeError:
-                  line = ' '
-              writer.writerow([j, x, z, line,  i])
-              print(a)
-              a += 1
-
-
-class FastTextSearch:
-
-    def __init__(self, model, collection, corpus):
-        logging.info('====\nStart FastText initializing!')
-        DataSet.__init__(collection=collection, corpus=corpus)
+    def __init__(self, model, corpus):
+        LOGGER.info('FastText initializing!')
+        DataSet.__init__(self, corpus=corpus)
         self.model = gensim.models.KeyedVectors.load(model)
-        self.test_data = self.build_test_data()
-        if os.path.isfile('fasttext.npy'):
-            self.matrix = np.load('modesl/fasttext.npy')
-        else:
-            self.matrix = self.index_fasttext()
-        logging.info('FastText initialized!')
+        self.test_data = []
+        self.matrix = self.fit()
+        LOGGER.info('FastText initialized!')
+
+    def fit(self):
+        LOGGER.info('Wait: indexing of fasttext')
+        if os.path.isfile('models/fasttext.npy'):
+            return np.load('models/fasttext.npy')
+        matrix_fasttext = np.zeros((len(self.collection), self.model.vector_size))
+        start_time = time()
+        for row, query in enumerate(self.collection):
+            vector = self.build_vec(query.split()) # наш корпус уже нормализован
+            for idx, cell in enumerate(vector):
+                matrix_fasttext[row][idx] = cell
+        if not os.path.isdir(os.path.join(os.path.abspath, 'models')):
+            os.mkdir('models')
+        np.save('models/fasttext.npy', matrix_fasttext)
+        LOGGER.info(f'Indexing FastTextSearch takes {time() - start_time} sec')
+        return matrix_fasttext
         
-    def fasttext_search(self, query):
+    def build_vec(self, query):
         if isinstance(query, str):
             query = self.simple_preproc(query)
         lemmas_vectors = np.zeros((len(query), self.model.vector_size))
@@ -105,143 +136,136 @@ class FastTextSearch:
                 lemmas_vectors[idx] = self.model.wv[lemma]
             else:
                 pass
-        if lemmas_vectors.shape[0] is not 0:
+        if lemmas_vectors.shape[0] != 0:
             vec = np.mean(lemmas_vectors, axis=0)
         return vec
 
-    def index_fasttext(self):
-        logging.info('Wait: indexing of fasttext')
-        matrix_fasttext = np.zeros((len(self.collection), self.model.vector_size))
-        start_time = time()
-        for row, query in enumerate(self.collection):
-            vector = self.fasttext_search(query.split()) # наш корпус уже нормализован
-            for idx, cell in enumerate(vector):
-                matrix_fasttext[row][idx] = cell
-        logging.info(f'Indexing FastTextSearch takes {time() - start_time} sec')
-        if not os.path.isdir(os.path.join(os.path.abspath, 'models')):
-            os.mkdir('models')
-        np.save('models/fasttext.npy', matrix_fasttext)
-        return matrix_fasttext
+    def search(self, query):
+        vec = self.build_vec(query)
+        res = cosine_similarity([vec], self.matrix)
+        docs = [(idx, doc) for idx, doc in enumerate(res[0])]
+        docs = sorted(docs, key=lambda x: x[1], reverse=True)
+        docs = [(x[0], x[1], self.corpus['question2'][x[0]]) for x in docs[:10]]
+        return docs
 
-    def build_test_data(self):
-        test_data = collections.defaultdict()
-        for idx, question in self.test_corpus.items():
-            test_data[idx] = self.fasttext_search(question)
-        return test_data
 
-    def measure_accuracy(self, corpus_size=200):
-        accuracy = 0
-        queries = list(self.test_data.items())[:100]
-        for vec in enumerate(queries):
-            res = collections.defaultdict()
-            for idx, row in self.matrix:
-                res[idx] = spatial.distance.cosine(row, vec[0])
-        res = sorted(res.items(), key=lambda x: x[1], reverse=True)
-        accuracy += int(queries[vec] in list(res.keys())[:5])
-        return accuracy / 100
+class ElmoSearch(DataSet):
+    
+    def __init__(self, corpus, elmo_path):
+        LOGGER.info('Start Elmo initializing!')
+        DataSet.__init__(self, corpus)
+        self.elmo_path = elmo_path
+        tf.reset_default_graph()
+        self.batcher, self.sentence_character_ids, self.elmo_sentence_input = \
+            load_elmo_embeddings(elmo_path)
+        self.vectors = self.fit()
+        LOGGER.info('Elmo initialized!')
+    
+    def fit(self, n=0):
+        LOGGER.info('Wait: indexing of elmo')
+        if os.path.isfile('models/elmo.npy'):
+            return np.load('models/elmo.npy')
+        vectors = []
+        with tf.Session() as sess:
+            sess.run(tf.global_variables_initializer())
+            start = time()
+            sentences = [tokenize(sent) for sent in self.collection[n:n+1000]]
+            for idx, sent in enumerate(sentences):
+                sent_vec = self.build_vec([sent])
+                vectors.append(sent_vec)
+                print(idx)
+
+            LOGGER.info(f'ElmoSearch Indexing takes {time() - start} '
+                        f'sec for {len(sentences)} docs')
+            np.save('models/elmo.npy', vectors)
+            return vectors
+    
+    def build_vec(self, sentences):
+        '''
+        :param: array of sentences of len >= 1
+        :return: elmo vector
+        '''
+        with tf.Session() as sess:
+            sess.run(tf.global_variables_initializer())
+            elmo_vectors = get_elmo_vectors(sess, sentences, self.batcher, self.sentence_character_ids, self.elmo_sentence_input)
+            results = []
+            for vect, sent in zip(elmo_vectors, sentences):
+                results.append(np.mean(vect[:len(sent), :], axis=0))
+            return results[0]
+    
+    def search_base(self, query):
+        query = self.simple_preproc(query)
+        vec = self.build_vec([query])
+        res = cosine_similarity([vec], self.vectors)
+        docs = [(idx, doc) for idx, doc in enumerate(res[0])]
+        docs = sorted(docs, key=lambda x: x[1], reverse=True)
+        docs = [(x[0], x[1], self.corpus['question2'][x[0]]) for x in docs[:10]]
+        return docs
+      
+    def search(self, query):
+        tf.reset_default_graph()
+        batcher, sentence_character_ids, elmo_sentence_input = \
+          load_elmo_embeddings(self.elmo_path)
+        with tf.Session() as sess:
+            sess.run(tf.global_variables_initializer())
+            elmo_vectors = get_elmo_vectors(sess, [query], batcher, sentence_character_ids, 
+            elmo_sentence_input)
+            results = []
+            for vect, sent in zip(elmo_vectors, [query]):
+                results.append(np.mean(vect[:len(sent), :], axis=0))
+        vec = results
+        res = cosine_similarity(vec, self.vectors)
+        docs = [(idx, doc) for idx, doc in enumerate(res[0])]
+        docs = sorted(docs, key=lambda x: x[1], reverse=True)
+        docs = [(x[0], x[1], self.corpus['question2'][x[0]]) for x in docs[:10]]
+        return docs
+
+
+class TfIdfSearch(DataSet):
+
+    def __init__(self, corpus):
+        LOGGER.info('TfIdfSearch initializing!')
+        DataSet.__init__(self, corpus)
+        self.vectorizer = TfidfVectorizer()
+        self.model = self.vectorizer.fit(self.collection)
+        self.matrix = self.vectorizer.transform(self.collection)
+        LOGGER.info('TfIdfSearch initialized')
 
     def search(self, query):
-        if isinstance(query, str):
-            query = self.simlpe_preproc(query)
-
-        docs = []
-        vec = self.fasttextsearch(query)
-        for idx in rnage(len(self.collection)):
-            res = spatial.distance.cosine(self.matrix[idx], vec)
-            docs.append((idx, res, self.corpus['question2'][idx]))
+        query = self.simple_preproc(query)
+        query = [' '.join(query)] if len(query) > 1 else query
+        vec = self.vectorizer.transform(query)
+        res = cosine_similarity(vec, self.matrix)
+        docs = [(idx, doc) for idx, doc in enumerate(res[0])]
         docs = sorted(docs, key=lambda x: x[1], reverse=True)
-        return docs[:5]
+        docs = [(x[0], x[1], self.corpus['question2'][x[0]]) for x in docs[:10]]
+        return docs
 
-
-class ElmoSearch:
-  
-  def __init__(self):
-      tf.reset_default_graph()
-      self.batcher, self.sentence_character_ids, self.elmo_sentence_input = \
-          load_elmo_embeddings(elmo_path)
-      self.vectors = []
-      self.collection = []
-    
-  def build_vec(self, sentences):
-     with tf.Session() as sess:
-         sess.run(tf.global_variables_initializer())
-         elmo_vectors = get_elmo_vectors(
-             ess, sentences, self.batcher, self.sentence_character_ids,
-             self.elmo_sentence_input)
-         results = []
-         for vect, sent in zip(elmo_vectors, sentences):
-             results.append(np.mean(vect[:len(sent), :], axis=0))
-        return results
-    
-  def indexing(self, sentences):
-      self.collection = sentences
-      with tf.Session() as sess:
-          sess.run(tf.global_variables_initializer())
-          start = time()
-          sentences = [tokenize(sent) for sent in sentences]
-          for sent in sentences:
-              sent_vec = self.build_vec([sent])
-              self.vectors.append(sent_vec[0])
-
-          logging.info(f'=====\nElmoSearch Indexing takes {time() - start} '
-                       f'sec for {len(sentences)} docs')
-      return self.vectors
-    
-  def elmo_search(self, query):
-      query = self.simple_preproc(query)
-      query_vec = self.build_vec([query])
-      results = []
-      for idx, doc in enumerate(self.collection):
-          results.append((idx, spatial.distance.cosine(self.vectors[idx],
-                                                       query_vec), doc))
-      results = sorted(results, key=lambda x: x[1], reverse=True)
-      return results
-  
-  def measure_accuracy(self, test_data, number=100, top=5):
-      queries = test_data[:number]
-      accuracy = 0
-      for q1 in queries:
-          res = [x[0] for x in self.elmo_search(q1[1])[:top]]
-      accuracy += int(q1[0] in res)
-      accuracy = "{:.0%}".format(accuracy / number)
-      return accuracy
 
 
 class Models(BM25, FastTextSearch, ElmoSearch):
 
-  def __init__(self, elmo_path, collection, fasttext_model, corpus):
-      self.collection = pd.read_csv(collection)
-      self.corpus_path = corpus
-      # self.elmosearch = ElmoSearch()
-      self.fasttext = FastTextSearch(fasttext_model,
-                                     corpus=corpus, collection=collection)
-      # self.bm25 = BM25()
+    def __init__(self, elmo_path, fasttext_model, corpus):
+        self.elmosearch = 0
+        self.fasttext = 0
+        self.bm25 = 0
+        self.tfidf = 0
+        self.elmopath = elmo_path
+        self.fasttextpath = fasttext_model
+        self.corpuspath = corpus
 
-  def fit_elmo(self):
-      data = pd.read_csv(self.collection['question2'])
-      vectors = self.elmosearch.indexing(data)
-      np.save('elmo_vectors.npy', np.array(vectors))
-      return
+    def init_elmo(self):
+        self.elmosearch = ElmoSearch(self.corpuspath, self.elmopath)
+        return
 
-  def fit_all(self):
-      self.fit_fasttext()
-      self.fit_elmo()
-      return
+    def init_fasttext(self):  
+        self.fasttext = FastTextSearch(self.fasttextpath, self.corpuspath)
+        return
+    
+    def init_bm25(self):
+        self.bm25 = BM25()
+        return
 
-
-if __name__ == '__main__':
-  elmo_path = 'elmo'
-  collection = 'data/collection.csv'
-  model = 'fasttext/model.model'
-  corpus = 'data/quora_question_pairs_rus.csv'
-  model = gensim.models.KeyedVectors.load(model)
-  # test_data = build_test_data(corpus, collection)
-  # fts = FastTextSearch(model=model, corpus=corpus, collection=collection, test_corpus=test_data)
-  # fts.measure_accuracy()
-  # els = ElmoSearch()
-  # els.indexing(pd.read_csv(collection)['question2'][:200])
-  # elmo_accuracy = els.measure_accuracy(test_data=test_data,number=100)
- # models = Models(elmo_path, collection, model, corpus)
-  # ds.normalized_collection()
- # print(models.fasttext.search('зарплата Индии'))
-
+    def init_tfidf(self):
+        self.tfidf = TfIdfSearch(self.corpuspath)
+        return

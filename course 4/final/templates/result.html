@@ -11,19 +11,25 @@
     <title>Спасибо</title>
   </head>
   <body>
+      <nav class="navbar navbar-light bg-light">
+          <form class="form-inline">
+              <a href="http://localhost:5000/" class="btn btn-outline-info btn-sm" role="button" aria-pressed="true">Назад</a>
+          </form>
+        </nav>
     <div class="container">
         <div class="row justify-content-md-center"><br><br><br><br></div>
         <div class="row justify-content-md-center">
-                <h3 align="center" class="lead">Вот результаты запроса:</h3><br><br>
+                <h3 align="center" class="lead">Вот результаты по запросу {{ query }}:</h3><br><br>
         </div>
         <div class="row justify-content-md-center">
             <div class="col-sm">
+                <li>Doc_id - Score - Text</li>
                 {% for idx, score, sent in results %}
                   <li>{{ idx }} - {{ score }} - {{ sent }}</li>
                 {% endfor %}
             </div>
         </div>
-    </div>
+      </div>
   <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
