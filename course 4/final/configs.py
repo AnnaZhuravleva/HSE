@@ -3,6 +3,7 @@ import gensim
 import sklearn
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.feature_extraction.text import CountVectorizer
 from gensim.models import KeyedVectors
 from gensim.models import Word2Vec
 from math import log10
@@ -29,3 +30,7 @@ fh.setFormatter(formatter)
 LOGGER.addHandler(fh)
 
 # fh = logging.StreamHandler(sys.stdout)
+
+BM25_model = 'models/bm25.npy'
+FastText_model = 'models/fasttext.npy'
+Elmo_model = 'models/elmo.npy'

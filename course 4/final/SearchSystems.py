@@ -17,17 +17,15 @@ class BM25:
         self.top = top
         self.data = pd.read_csv('data/collection.csv')
         self.collection = self.data['question2_n'][:top]
-        self._length = len(self.collection)
         self.docs = [str(doc).split(' ') for doc in self.collection]
         self.avg = np.mean([len(doc) for doc in self.docs]).round(5)
-        self.vectorizer = TfidfVectorizer()
-        self.matrix = self.vectorizer.fit_transform(self.collection)
+        self.vectorizer = CountVectorizer()
+        self.cmatrix = self.vectorizer.fit_transform(self.collection)
         self.dictionary = self.vectorizer.get_feature_names()
-        name = 'models/bm25.npy'
-        if os.path.isfile(name):
-            self.bm25_matrix = np.load(name)
+        if os.path.isfile(BM25_model):
+            self.matrix = np.load(BM25_model)
         else:
-            self.bm25_matrix = self.fit(name)
+            self.matrix = self.fit(BM25_model)
         LOGGER.info('BM25 initialized')
     
     def simple_preproc(self, query):
@@ -36,7 +34,7 @@ class BM25:
     def fit(self, name):
         LOGGER.info('BM25 indexing')
         start = time()
-        bm25_matrix = np.zeros(self.matrix.shape)
+        bm25_matrix = np.zeros(self.cmatrix.shape)
         n = [sum([1 for doc in self.docs if word in doc]) for word in
              self.dictionary]
         for idw, word in enumerate(self.dictionary):
@@ -50,7 +48,7 @@ class BM25:
     def bm25(self, doc, query, n, ld):
         score = 0.0
         for number, word in enumerate(query):
-            idf = log10((self._length - n[number] + 0.5) / (n[number] + 0.5))
+            idf = log10((self.top - n[number] + 0.5) / (n[number] + 0.5))
             tf = doc.count(word) / ld
             score += idf * (tf * (self.k + 1.0)) / (
                     tf + self.k * (1 - self.b + (self.b * ld / self.avg)))
@@ -61,7 +59,7 @@ class BM25:
         vector = np.zeros((len(self.dictionary), 1))
         for i, j in enumerate(self.dictionary):
             vector[i, 0] = 1 if j in query else 0
-        result = self.bm25_matrix.dot(vector)
+        result = self.matrix.dot(vector)
         res = [[i, j] for i, j in enumerate(result)]
         res = sorted(res, key=lambda x: x[1], reverse=True)
         res = [(x[0], x[1], self.data['question1'][x[0]]) for x in res[:top]]
@@ -88,13 +86,11 @@ class DataSet:
             for j, x, z in zip(rowcorpus['question1'], \
                 rowcorpus['question2'], rowcorpus['is_duplicate']):
                 try:
-                    line1 = self.simple_preproc(j)
-                    line1 = ' '.join(line1)
+                    line1 = ' '.join(self.simple_preproc(j))
                 except TypeError:
                     line1 = ' '
                 try:
-                    line2 = self.simple_preproc(x)
-                    line2 = ' '.join(line2)
+                    line2 = ' '.join(self.simple_preproc(x))
                 except TypeError:
                     line2 = ' '
                 writer.writerow([j, x, z, line1, line2])
@@ -112,8 +108,8 @@ class FastTextSearch(DataSet):
 
     def fit(self):
         LOGGER.info('Wait: indexing of fasttext')
-        if os.path.isfile('models/fasttext.npy'):
-            return np.load('models/fasttext.npy')
+        if os.path.isfile(FastText_model):
+            return np.load(FastText_model)
         matrix_fasttext = np.zeros((len(self.collection), self.model.vector_size))
         start_time = time()
         for row, query in enumerate(self.collection):
@@ -122,7 +118,7 @@ class FastTextSearch(DataSet):
                 matrix_fasttext[row][idx] = cell
         if not os.path.isdir(os.path.join(os.path.abspath, 'models')):
             os.mkdir('models')
-        np.save('models/fasttext.npy', matrix_fasttext)
+        np.save(FastText_model, matrix_fasttext)
         LOGGER.info(f'Indexing FastTextSearch takes {time() - start_time} sec')
         return matrix_fasttext
         
@@ -163,8 +159,8 @@ class ElmoSearch(DataSet):
     
     def fit(self, n=0):
         LOGGER.info('Wait: indexing of elmo')
-        if os.path.isfile('models/elmo.npy'):
-            return np.load('models/elmo.npy')
+        if os.path.isfile(Elmo_model):
+            return np.load(Elmo_model)
         vectors = []
         with tf.Session() as sess:
             sess.run(tf.global_variables_initializer())
@@ -177,7 +173,7 @@ class ElmoSearch(DataSet):
 
             LOGGER.info(f'ElmoSearch Indexing takes {time() - start} '
                         f'sec for {len(sentences)} docs')
-            np.save('models/elmo.npy', vectors)
+            np.save(Elmo_model, vectors)
             return vectors
     
     def build_vec(self, sentences):
