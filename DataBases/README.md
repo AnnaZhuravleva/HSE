@@ -32,7 +32,7 @@
  
  Для каждого участника есть два списка стимулов:
  
- 1) Список псевдослов ([AL.csv](https://github.com/AnnaZhuravleva/HSE/blob/master/DataBases/AL.csv))
+ 1) Список псевдослов ([AL.csv](https://github.com/AnnaZhuravleva/HSE/blob/master/DataBases/AL.csv)
  2) Список их переводов ([L1.csv](https://github.com/AnnaZhuravleva/HSE/blob/master/DataBases/L1.csv)
  
  - Для чистоты эксперимента набор исходных слов идентичен для каждого участника, но пары псевдослово-перевод отличаются (например, abene для одного участника будет обозначать '*кошка*', а для другого - '*собака*')
