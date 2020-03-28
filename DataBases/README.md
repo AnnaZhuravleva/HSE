@@ -15,15 +15,14 @@
     - Semantic decision test: Answer 1, Answer 2, Answer 3, Correct answer, Participent's answer, Reaction time
        
 - Participant 2
-   -- Stimul 1 
-       --- Alternative-force-choice test: Answer 1, Answer 2, Answer 3, Correct answer, Participent's answer, Reaction time
-       --- Recognition test: Answer 1, Correct answer, Participent's answer, Reaction time
-       --- Semantic decision test: Answer 1, Answer 2, Answer 3, Correct answer, Participent's answer, Reaction time
-   -- Stimul 2 
-       --- Alternative-force-choice test: Answer 1, Answer 2, Answer 3, Correct answer, Participent's answer, Reaction time
-       --- Recognition test: Answer 1, Correct answer, Participent's answer, Reaction time
-       --- Semantic decision test: Answer 1, Answer 2, Answer 3, Correct answer, Participent's answer, Reaction time
-       
+  - Stimul 1 
+    - Alternative-force-choice test: Answer 1, Answer 2, Answer 3, Correct answer, Participent's answer, Reaction time
+    - Recognition test: Answer 1, Correct answer, Participent's answer, Reaction time
+    - Semantic decision test: Answer 1, Answer 2, Answer 3, Correct answer, Participent's answer, Reaction time
+  - Stimul 2 
+    - Alternative-force-choice test: Answer 1, Answer 2, Answer 3, Correct answer, Participent's answer, Reaction time
+    - Recognition test: Answer 1, Correct answer, Participent's answer, Reaction time
+    - Semantic decision test: Answer 1, Answer 2, Answer 3, Correct answer, Participent's answer, Reaction time
        
  Для каждого участника есть два списка стимулов:
  
