@@ -38,7 +38,4 @@
  
  Так как списки для тестов тоже различаются, то мы и храним для каждого участника набор из разных списков
  
- 
- 
-      
-       
+![image](https://github.com/AnnaZhuravleva/HSE/blob/master/DataBases/images/image.png)
