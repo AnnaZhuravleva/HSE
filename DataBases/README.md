@@ -30,9 +30,9 @@
     
  ![image](https://github.com/AnnaZhuravleva/HSE/blob/master/DataBases/images/image.png)
  
- --
  
- Для каждого участника есть два списка стимулов:
+ 
+ Для каждого участника есть **два списка стимулов**:
  
  1) Список псевдослов [(AL.csv)](https://github.com/AnnaZhuravleva/HSE/blob/master/DataBases/AL.csv)
  2) Список их переводов [(L1.csv)](https://github.com/AnnaZhuravleva/HSE/blob/master/DataBases/L1.csv)
